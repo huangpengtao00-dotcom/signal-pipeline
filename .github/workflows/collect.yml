@@ -1,0 +1,36 @@
+name: daily-collect
+
+on:
+  schedule:
+    - cron: "20 0 * * *"   # 每天 UTC 00:20，按你的时区自行调整
+  workflow_dispatch: {}     # 允许手动触发（测试用）
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai      # 改成你的时区
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 采集今日公开数据（幂等）
+        run: python3 pipeline.py collect
+
+      - name: 提交数据与台账
+        run: |
+          git config user.name "signal-pipeline-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data ledger.jsonl
+          if git diff --cached --quiet; then
+            echo "无新数据，跳过提交"
+          else
+            git commit -m "signals: $(date +%F) 数据采集（Actions）"
+            git push
+          fi
