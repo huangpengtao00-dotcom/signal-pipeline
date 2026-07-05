@@ -1,0 +1,338 @@
+{
+  "date": "2026-07-05",
+  "trending_daily": [
+    {
+      "repo": "openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "lang": "JavaScript",
+      "stars_period": "718",
+      "stars_total": "24667",
+      "url": "https://github.com/openai/codex-plugin-cc"
+    },
+    {
+      "repo": "sponsors/JuliusBrussee",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "JavaScript",
+      "stars_period": "1089",
+      "stars_total": "84100",
+      "url": "https://github.com/sponsors/JuliusBrussee"
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "lang": "TypeScript",
+      "stars_period": "742",
+      "stars_total": "23222",
+      "url": "https://github.com/alibaba/page-agent"
+    },
+    {
+      "repo": "usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_period": "1904",
+      "stars_total": "36219",
+      "url": "https://github.com/usestrix/strix"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_period": "304",
+      "stars_total": "45816",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "repo": "sponsors/Zackriya-Solutions",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "lang": "Rust",
+      "stars_period": "718",
+      "stars_total": "15431",
+      "url": "https://github.com/sponsors/Zackriya-Solutions"
+    },
+    {
+      "repo": "sponsors/asgeirtj",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_period": "471",
+      "stars_total": "49044",
+      "url": "https://github.com/sponsors/asgeirtj"
+    },
+    {
+      "repo": "harvard-edge/cs249r_book",
+      "desc": "Machine Learning Systems",
+      "lang": "Python",
+      "stars_period": "443",
+      "stars_total": "26614",
+      "url": "https://github.com/harvard-edge/cs249r_book"
+    },
+    {
+      "repo": "rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "lang": "Python",
+      "stars_period": "398",
+      "stars_total": "10256",
+      "url": "https://github.com/rommapp/romm"
+    },
+    {
+      "repo": "sponsors/ogulcancelik",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "lang": "Rust",
+      "stars_period": "707",
+      "stars_total": "11530",
+      "url": "https://github.com/sponsors/ogulcancelik"
+    },
+    {
+      "repo": "dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_period": "59",
+      "stars_total": "3840",
+      "url": "https://github.com/dotnet/skills"
+    },
+    {
+      "repo": "agentskills/agentskills",
+      "desc": "Specification and documentation for Agent Skills",
+      "lang": "Python",
+      "stars_period": "351",
+      "stars_total": "22384",
+      "url": "https://github.com/agentskills/agentskills"
+    },
+    {
+      "repo": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars_period": "201",
+      "stars_total": "105697",
+      "url": "https://github.com/immich-app/immich"
+    },
+    {
+      "repo": "chthollyphile/folia-major",
+      "desc": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "lang": "TypeScript",
+      "stars_period": "175",
+      "stars_total": "1010",
+      "url": "https://github.com/chthollyphile/folia-major"
+    },
+    {
+      "repo": "sponsors/mattpocock",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_period": "973",
+      "stars_total": "156704",
+      "url": "https://github.com/sponsors/mattpocock"
+    },
+    {
+      "repo": "sponsors/CoplayDev",
+      "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "lang": "C#",
+      "stars_period": "69",
+      "stars_total": "11655",
+      "url": "https://github.com/sponsors/CoplayDev"
+    },
+    {
+      "repo": "alirezarezvani/claude-skills",
+      "desc": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "lang": "Python",
+      "stars_period": "136",
+      "stars_total": "20203",
+      "url": "https://github.com/alirezarezvani/claude-skills"
+    },
+    {
+      "repo": "crynta/terax-ai",
+      "desc": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "lang": "TypeScript",
+      "stars_period": "62",
+      "stars_total": "8096",
+      "url": "https://github.com/crynta/terax-ai"
+    }
+  ],
+  "new_agent_repos": [
+    {
+      "repo": "7-e1even/learn-agent",
+      "desc": "从零写一个能活下来的 AI Agent：机制从真实产品 Reina 移植 | Build a coding agent from scratch — how Claude Code / Codex / Cursor actually work under the hood. 15 runnable lessons, zero deps.",
+      "lang": "JavaScript",
+      "stars_total": 69,
+      "created": "2026-07-03",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "agent-loop",
+        "ai-agent",
+        "aider",
+        "claude-code",
+        "cline",
+        "codex"
+      ],
+      "url": "https://github.com/7-e1even/learn-agent"
+    }
+  ],
+  "new_llm_repos": [
+    {
+      "repo": "jmerelnyc/Talos",
+      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "lang": "Python",
+      "stars_total": 598,
+      "created": "2026-07-02",
+      "topics": [
+        "ai",
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
+      ],
+      "url": "https://github.com/jmerelnyc/Talos"
+    },
+    {
+      "repo": "uzairansaruzi/hermex",
+      "desc": "Native iPhone app for your Hermes agent",
+      "lang": "Swift",
+      "stars_total": 558,
+      "created": "2026-07-02",
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "repo": "SuperJJ007/CSSwitch",
+      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "lang": "Rust",
+      "stars_total": 224,
+      "created": "2026-07-02",
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek",
+        "llm",
+        "macos",
+        "mcp"
+      ],
+      "url": "https://github.com/SuperJJ007/CSSwitch"
+    },
+    {
+      "repo": "redevops-io/context-runtime",
+      "desc": "Context Runtime — a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs it through reused substrate, and learns from the outcome.",
+      "lang": "Python",
+      "stars_total": 87,
+      "created": "2026-06-29",
+      "topics": [
+        "agentic-ai",
+        "ai-infrastructure",
+        "context-engineering",
+        "context-management",
+        "context-runtime",
+        "contextual-bandit",
+        "cost-optimization",
+        "explainable-ai"
+      ],
+      "url": "https://github.com/redevops-io/context-runtime"
+    },
+    {
+      "repo": "ai4s-research/open-science",
+      "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "lang": "TypeScript",
+      "stars_total": 85,
+      "created": "2026-07-03",
+      "topics": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science",
+        "claude-science-alternative",
+        "desktop-app",
+        "llm"
+      ],
+      "url": "https://github.com/ai4s-research/open-science"
+    },
+    {
+      "repo": "7-e1even/learn-agent",
+      "desc": "从零写一个能活下来的 AI Agent：机制从真实产品 Reina 移植 | Build a coding agent from scratch — how Claude Code / Codex / Cursor actually work under the hood. 15 runnable lessons, zero deps.",
+      "lang": "JavaScript",
+      "stars_total": 69,
+      "created": "2026-07-03",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "agent-loop",
+        "ai-agent",
+        "aider",
+        "claude-code",
+        "cline",
+        "codex"
+      ],
+      "url": "https://github.com/7-e1even/learn-agent"
+    },
+    {
+      "repo": "SMJAI/open-memory-protocol",
+      "desc": "An open standard for portable, interoperable AI memory across tools, sessions, and devices.",
+      "lang": "TypeScript",
+      "stars_total": 66,
+      "created": "2026-06-29",
+      "topics": [
+        "ai-memory",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "llm",
+        "mcp",
+        "memory",
+        "open-standard"
+      ],
+      "url": "https://github.com/SMJAI/open-memory-protocol"
+    }
+  ],
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+        "points": 281,
+        "comments": 129,
+        "url": "https://github.com/anthropics/claude-code/issues/74066",
+        "date": "2026-07-04"
+      },
+      {
+        "title": "Save Claude Code Tokens with Smart Routing",
+        "points": 11,
+        "comments": 3,
+        "url": "https://github.com/regolo-ai/brick-SR1",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+        "points": 331,
+        "comments": 279,
+        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+        "points": 187,
+        "comments": 190,
+        "url": "https://news.ycombinator.com/item?id=48771515",
+        "date": "2026-07-03"
+      },
+      {
+        "title": "Claude's AskUserQuestion: \"No response after 60s – continued without an answer\"",
+        "points": 64,
+        "comments": 64,
+        "url": "https://github.com/anthropics/claude-code/issues/73125",
+        "date": "2026-07-02"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
