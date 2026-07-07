@@ -1,2 +1,3 @@
 {"ts": "2026-07-05T12:20:35+08:00", "step": "collect", "ok": true, "detail": "[ok] 2026-07-05.json: trending=18 new-agent=1 new-llm=7 hn-mentions=5", "output": "/home/runner/work/signal-pipeline/signal-pipeline/data/2026-07-05.json"}
 {"ts": "2026-07-06T12:39:10+08:00", "step": "collect", "ok": true, "detail": "[ok] 2026-07-06.json: trending=22 new-agent=2 new-llm=9 hn-mentions=5", "output": "/home/runner/work/signal-pipeline/signal-pipeline/data/2026-07-06.json"}
+{"ts": "2026-07-07T12:16:45+08:00", "step": "collect", "ok": true, "detail": "[ok] 2026-07-07.json: trending=16 new-agent=2 new-llm=9 hn-mentions=5", "output": "/home/runner/work/signal-pipeline/signal-pipeline/data/2026-07-07.json"}
