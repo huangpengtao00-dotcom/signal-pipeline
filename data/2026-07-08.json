@@ -1,0 +1,489 @@
+{
+  "date": "2026-07-08",
+  "trending_daily": [
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "lang": "TypeScript",
+      "stars_period": "2514",
+      "stars_total": "11519",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "repo": "sponsors/Zackriya-Solutions",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
+      "lang": "Rust",
+      "stars_period": "1777",
+      "stars_total": "20914",
+      "url": "https://github.com/sponsors/Zackriya-Solutions"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "1317",
+      "stars_total": "72320",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "1129",
+      "stars_total": "78589",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "sponsors/asgeirtj",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_period": "1691",
+      "stars_total": "53174",
+      "url": "https://github.com/sponsors/asgeirtj"
+    },
+    {
+      "repo": "TencentCloud/CubeSandbox",
+      "desc": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "lang": "Rust",
+      "stars_period": "664",
+      "stars_total": "8536",
+      "url": "https://github.com/TencentCloud/CubeSandbox"
+    },
+    {
+      "repo": "sponsors/AhmadIbrahiim",
+      "desc": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "lang": "HTML",
+      "stars_period": "140",
+      "stars_total": "4137",
+      "url": "https://github.com/sponsors/AhmadIbrahiim"
+    },
+    {
+      "repo": "sponsors/steipete",
+      "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "lang": "Swift",
+      "stars_period": "376",
+      "stars_total": "17074",
+      "url": "https://github.com/sponsors/steipete"
+    },
+    {
+      "repo": "dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_period": "64",
+      "stars_total": "4341",
+      "url": "https://github.com/dotnet/skills"
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "lang": "C#",
+      "stars_period": "893",
+      "stars_total": "10266",
+      "url": "https://github.com/iOfficeAI/OfficeCLI"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_period": "965",
+      "stars_total": "5303",
+      "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+      "repo": "kyutai-labs/pocket-tts",
+      "desc": "A TTS that fits in your CPU (and pocket)",
+      "lang": "Python",
+      "stars_period": "531",
+      "stars_total": "6276",
+      "url": "https://github.com/kyutai-labs/pocket-tts"
+    },
+    {
+      "repo": "sponsors/hesreallyhim",
+      "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "lang": "Python",
+      "stars_period": "144",
+      "stars_total": "49219",
+      "url": "https://github.com/sponsors/hesreallyhim"
+    }
+  ],
+  "new_agent_repos": [
+    {
+      "repo": "synthetic-sciences/openscience",
+      "desc": "The open-source AI workbench for scientific research",
+      "lang": "TypeScript",
+      "stars_total": 1426,
+      "created": "2026-07-03",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli",
+        "co-scientist",
+        "llm",
+        "ml"
+      ],
+      "url": "https://github.com/synthetic-sciences/openscience"
+    },
+    {
+      "repo": "7-e1even/learn-agent",
+      "desc": "学习Agent开发的笔记，尝试让Agent从可用到可靠",
+      "lang": "JavaScript",
+      "stars_total": 96,
+      "created": "2026-07-03",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "agent-loop",
+        "ai-agent",
+        "aider",
+        "claude-code",
+        "cline",
+        "codex"
+      ],
+      "url": "https://github.com/7-e1even/learn-agent"
+    },
+    {
+      "repo": "PKU-YuanGroup/OpenAI4S",
+      "desc": "9.9 元豆包API复刻 Claude Science",
+      "lang": "Python",
+      "stars_total": 65,
+      "created": "2026-07-06",
+      "topics": [
+        "agent",
+        "ai4science",
+        "claude-science",
+        "mit-license",
+        "open-source",
+        "science-research"
+      ],
+      "url": "https://github.com/PKU-YuanGroup/OpenAI4S"
+    },
+    {
+      "repo": "op7418/guizang-material-illustration",
+      "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+      "lang": "",
+      "stars_total": 58,
+      "created": "2026-07-07",
+      "topics": [
+        "agent",
+        "chart-visualization",
+        "chinese",
+        "claude-code",
+        "codex",
+        "data-visualization",
+        "explainer",
+        "illustration"
+      ],
+      "url": "https://github.com/op7418/guizang-material-illustration"
+    }
+  ],
+  "new_llm_repos": [
+    {
+      "repo": "synthetic-sciences/openscience",
+      "desc": "The open-source AI workbench for scientific research",
+      "lang": "TypeScript",
+      "stars_total": 1426,
+      "created": "2026-07-03",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli",
+        "co-scientist",
+        "llm",
+        "ml"
+      ],
+      "url": "https://github.com/synthetic-sciences/openscience"
+    },
+    {
+      "repo": "jmerelnyc/Talos",
+      "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "lang": "Python",
+      "stars_total": 724,
+      "created": "2026-07-02",
+      "topics": [
+        "ai",
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
+      ],
+      "url": "https://github.com/jmerelnyc/Talos"
+    },
+    {
+      "repo": "uzairansaruzi/hermex",
+      "desc": "Native iPhone app for your Hermes agent",
+      "lang": "Swift",
+      "stars_total": 680,
+      "created": "2026-07-02",
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "url": "https://github.com/uzairansaruzi/hermex"
+    },
+    {
+      "repo": "simonlin1212/Vibe-Research",
+      "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+      "lang": "TypeScript",
+      "stars_total": 468,
+      "created": "2026-07-05",
+      "topics": [
+        "a-stock",
+        "ai-agent",
+        "dashboard",
+        "fastapi",
+        "fintech",
+        "hk-stocks",
+        "investment-research",
+        "llm"
+      ],
+      "url": "https://github.com/simonlin1212/Vibe-Research"
+    },
+    {
+      "repo": "ai4s-research/open-science",
+      "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "lang": "TypeScript",
+      "stars_total": 323,
+      "created": "2026-07-03",
+      "topics": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science",
+        "claude-science-alternative",
+        "desktop-app",
+        "llm"
+      ],
+      "url": "https://github.com/ai4s-research/open-science"
+    },
+    {
+      "repo": "SuperJJ007/CSSwitch",
+      "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "lang": "Rust",
+      "stars_total": 305,
+      "created": "2026-07-02",
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek",
+        "llm",
+        "macos",
+        "mcp"
+      ],
+      "url": "https://github.com/SuperJJ007/CSSwitch"
+    },
+    {
+      "repo": "eli-labz/Cognitive-Core-Skills",
+      "desc": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
+      "lang": "Python",
+      "stars_total": 274,
+      "created": "2026-07-05",
+      "topics": [
+        "agent-skills",
+        "agentic-ai",
+        "ai-agents",
+        "ai-safety",
+        "artificial-intelligence",
+        "benchmarks",
+        "cognitive-architecture",
+        "json-schema"
+      ],
+      "url": "https://github.com/eli-labz/Cognitive-Core-Skills"
+    },
+    {
+      "repo": "SmileLikeYe/agent-chief",
+      "desc": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "lang": "Python",
+      "stars_total": 241,
+      "created": "2026-07-04",
+      "topics": [
+        "harness",
+        "harness-engineering",
+        "llm",
+        "local-first"
+      ],
+      "url": "https://github.com/SmileLikeYe/agent-chief"
+    },
+    {
+      "repo": "olemeyer/rocketplaneIO",
+      "desc": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+      "lang": "TypeScript",
+      "stars_total": 122,
+      "created": "2026-07-06",
+      "topics": [
+        "ai-agent",
+        "aiops",
+        "clickhouse",
+        "devops",
+        "ebpf",
+        "golang",
+        "incident-response",
+        "kubernetes"
+      ],
+      "url": "https://github.com/olemeyer/rocketplaneIO"
+    },
+    {
+      "repo": "ninjahawk/Subtext",
+      "desc": "To know what models don't say out loud.",
+      "lang": "HTML",
+      "stars_total": 96,
+      "created": "2026-07-06",
+      "topics": [
+        "interpretability",
+        "llm",
+        "mechanistic-interpretability",
+        "pytorch",
+        "qwen",
+        "transformers",
+        "visualization"
+      ],
+      "url": "https://github.com/ninjahawk/Subtext"
+    },
+    {
+      "repo": "7-e1even/learn-agent",
+      "desc": "学习Agent开发的笔记，尝试让Agent从可用到可靠",
+      "lang": "JavaScript",
+      "stars_total": 96,
+      "created": "2026-07-03",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "agent-loop",
+        "ai-agent",
+        "aider",
+        "claude-code",
+        "cline",
+        "codex"
+      ],
+      "url": "https://github.com/7-e1even/learn-agent"
+    },
+    {
+      "repo": "DasterProkio/awesome-ai-companion",
+      "desc": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
+      "lang": "",
+      "stars_total": 83,
+      "created": "2026-07-03",
+      "topics": [
+        "ai-agents",
+        "ai-companion",
+        "awesome-list",
+        "chatbot",
+        "llm",
+        "memory",
+        "open-source",
+        "self-hosted"
+      ],
+      "url": "https://github.com/DasterProkio/awesome-ai-companion"
+    },
+    {
+      "repo": "walkpod1007/claude-project-ops",
+      "desc": "Battle-tested model-dispatch doctrine for Claude Code — portable ops rules that let Sonnet/Haiku reliably run projects. Iterated in real deployments, not one-shot generated.",
+      "lang": "",
+      "stars_total": 66,
+      "created": "2026-07-04",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "llm",
+        "multi-agent",
+        "prompt-engineering"
+      ],
+      "url": "https://github.com/walkpod1007/claude-project-ops"
+    },
+    {
+      "repo": "apoorvjain25/frontier",
+      "desc": "Make Claude Opus, Sonnet, GPT, or Gemini produce work close to what Claude Fable 5 would ship. 21 craft standards written and audited by the frontier model itself; single-response lift, or a full convergence loop with a taste gate.",
+      "lang": "JavaScript",
+      "stars_total": 60,
+      "created": "2026-07-03",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "code-quality",
+        "gemini",
+        "gpt",
+        "llm"
+      ],
+      "url": "https://github.com/apoorvjain25/frontier"
+    },
+    {
+      "repo": "ahwanulm/9router-v2",
+      "desc": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+      "lang": "JavaScript",
+      "stars_total": 58,
+      "created": "2026-07-03",
+      "topics": [
+        "ai",
+        "automation",
+        "claude",
+        "cloudflare-workers",
+        "gemini",
+        "kiro",
+        "llm",
+        "proxy"
+      ],
+      "url": "https://github.com/ahwanulm/9router-v2"
+    }
+  ],
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "points": 112,
+        "comments": 27,
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Show HN: Shellular – run Claude Code, Codex, Pi from your phone",
+        "points": 30,
+        "comments": 28,
+        "url": "https://shellular.dev/",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+        "points": 81,
+        "comments": 54,
+        "url": "https://whimfiles.com",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "The Making of Claude Code",
+        "points": 53,
+        "comments": 28,
+        "url": "https://www.anthropic.com/features/making-of-claude-code",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Show HN: Peek-CLI: Let Claude Code See the Browser",
+        "points": 12,
+        "comments": 0,
+        "url": "https://github.com/puffinsoft/peek-cli",
+        "date": "2026-07-05"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
