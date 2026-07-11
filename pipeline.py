@@ -79,7 +79,7 @@ def _claude(prompt_file: str, data_files: list, out_path: Path, step: str):
     log(step, True, "", str(out_path))
 
 
-def week_data(days: int = 7) -> list:
+def week_data(days: int = 7) -> list[Path]:
     now = datetime.now(timezone.utc).astimezone()
     return [ROOT / "data" / f"{(now - timedelta(days=i)).strftime('%Y-%m-%d')}.json"
             for i in range(days)]
@@ -122,7 +122,7 @@ def main():
                 ROOT / "out" / "daily" / f"{TODAY}-douyin.md", "daily")
         _claude("samples.md", today_json,
                 ROOT / "out" / "samples" / f"{TODAY}-samples.md", "samples")
-        if datetime.now().weekday() == 0:  # 周一
+        if datetime.now(timezone.utc).astimezone().weekday() == 0:  # 周一（按本地时区）
             _claude("weekly-signals.md", week_data(),
                     ROOT / "out" / "weekly" / f"{ISOWEEK}-signals.md", "weekly")
             _claude("patterns.md", sorted((ROOT / "data").glob("*.json")),

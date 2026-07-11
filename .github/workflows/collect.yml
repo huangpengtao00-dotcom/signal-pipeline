@@ -21,6 +21,10 @@ jobs:
           python-version: "3.12"
 
       - name: 采集今日公开数据（幂等）
+        env:
+          # Actions 自带的只读 token，抬高 GitHub API 限流；collect.py 只在
+          # 存在时使用，本地不设也能跑（未认证走公共限流）。
+          GITHUB_TOKEN: ${{ github.token }}
         run: python3 pipeline.py collect
 
       - name: 提交数据与台账

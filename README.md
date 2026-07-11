@@ -35,12 +35,17 @@ pipeline.py（编排） ──> claude -p + prompts/*.md（模板化预筛）
 ## 快速开始
 
 ```bash
-# 1. 改配置：collect.py 顶部的 PUBLIC_SAMPLES 换成你要监控的对象
+# 1. 改采集配置：collect.py 顶部「配置」一段——
+#    PUBLIC_SAMPLES（要监控的公开对象）、SEARCH_TOPICS（你领域的 GitHub topic）、
+#    星数/天数/热度阈值。改成自己的管道通常只动这一段，不必碰采集逻辑。
 # 2. 改人设：prompts/*.md 里的【占位符】换成你的频道定位
 python3 pipeline.py collect    # 采集今日数据（幂等，--force 重采）
 python3 pipeline.py run        # 采集 + 日报 + 样本监控（周一自动加跑周报+漏斗）
 python3 pipeline.py status     # 台账最近记录与数据覆盖
 ```
+
+采集只用公开接口，无需任何密钥即可运行。在 GitHub Actions 里会自动带上仓库自带的
+只读 `GITHUB_TOKEN` 抬高 API 限流（本地不设也能跑）——token 只从环境变量读，绝不写进代码。
 
 生成步骤默认调用本机 [Claude Code](https://claude.com/claude-code) CLI（`claude -p`）；想换别的模型，改 `pipeline.py` 里 `_claude` 函数的一行命令即可。
 
