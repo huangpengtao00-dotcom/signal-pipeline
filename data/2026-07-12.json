@@ -1,0 +1,523 @@
+{
+  "date": "2026-07-12",
+  "trending_daily": [
+    {
+      "repo": "catchorg/Catch2",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "lang": "C++",
+      "stars_period": "113",
+      "stars_total": "21101",
+      "url": "https://github.com/catchorg/Catch2"
+    },
+    {
+      "repo": "abseil/abseil-cpp",
+      "desc": "Abseil Common Libraries (C++)",
+      "lang": "C++",
+      "stars_period": "118",
+      "stars_total": "17831",
+      "url": "https://github.com/abseil/abseil-cpp"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "lang": "Python",
+      "stars_period": "232",
+      "stars_total": "29053",
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_period": "340",
+      "stars_total": "7108",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "repo": "hashicorp/terraform",
+      "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "lang": "Go",
+      "stars_period": "229",
+      "stars_total": "49387",
+      "url": "https://github.com/hashicorp/terraform"
+    },
+    {
+      "repo": "zeux/meshoptimizer",
+      "desc": "Mesh optimization library that makes meshes smaller and faster to render",
+      "lang": "C++",
+      "stars_period": "110",
+      "stars_total": "8150",
+      "url": "https://github.com/zeux/meshoptimizer"
+    },
+    {
+      "repo": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_period": "29",
+      "stars_total": "4442",
+      "url": "https://github.com/openai/plugins"
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "lang": "TypeScript",
+      "stars_period": "909",
+      "stars_total": "7801",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "repo": "chriskohlhoff/asio",
+      "desc": "Asio C++ Library",
+      "lang": "C++",
+      "stars_period": "76",
+      "stars_total": "6144",
+      "url": "https://github.com/chriskohlhoff/asio"
+    },
+    {
+      "repo": "oven-sh/bun",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "lang": "Rust",
+      "stars_period": "658",
+      "stars_total": "94580",
+      "url": "https://github.com/oven-sh/bun"
+    },
+    {
+      "repo": "actions/checkout",
+      "desc": "Action for checking out a repo",
+      "lang": "TypeScript",
+      "stars_period": "8",
+      "stars_total": "8473",
+      "url": "https://github.com/actions/checkout"
+    },
+    {
+      "repo": "home-assistant/core",
+      "desc": "🏡 Open source home automation that puts local control and privacy first.",
+      "lang": "Python",
+      "stars_period": "80",
+      "stars_total": "88734",
+      "url": "https://github.com/home-assistant/core"
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "lang": "C",
+      "stars_period": "39",
+      "stars_total": "136453",
+      "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+      "repo": "cypress-io/cypress",
+      "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "lang": "TypeScript",
+      "stars_period": "19",
+      "stars_total": "50636",
+      "url": "https://github.com/cypress-io/cypress"
+    },
+    {
+      "repo": "vercel/next.js",
+      "desc": "The React Framework",
+      "lang": "JavaScript",
+      "stars_period": "334",
+      "stars_total": "140971",
+      "url": "https://github.com/vercel/next.js"
+    },
+    {
+      "repo": "DayuanJiang/next-ai-draw-io",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "lang": "TypeScript",
+      "stars_period": "81",
+      "stars_total": "33326",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io"
+    },
+    {
+      "repo": "malisper/pgrust",
+      "desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "lang": "Rust",
+      "stars_period": "774",
+      "stars_total": "2128",
+      "url": "https://github.com/malisper/pgrust"
+    },
+    {
+      "repo": "dotnet/aspnetcore",
+      "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "lang": "C#",
+      "stars_period": "4",
+      "stars_total": "38311",
+      "url": "https://github.com/dotnet/aspnetcore"
+    },
+    {
+      "repo": "prisma/prisma",
+      "desc": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "lang": "TypeScript",
+      "stars_period": "37",
+      "stars_total": "47273",
+      "url": "https://github.com/prisma/prisma"
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars_period": "219",
+      "stars_total": "47989",
+      "url": "https://github.com/anthropics/claude-cookbooks"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "740",
+      "stars_total": "252527",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "nasa/fprime",
+      "desc": "F´ - A flight software and embedded systems framework",
+      "lang": "C++",
+      "stars_period": "22",
+      "stars_total": "11509",
+      "url": "https://github.com/nasa/fprime"
+    },
+    {
+      "repo": "ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "lang": "Python",
+      "stars_period": "24",
+      "stars_total": "69607",
+      "url": "https://github.com/ansible/ansible"
+    },
+    {
+      "repo": "nuxt/nuxt",
+      "desc": "the full-stack Vue framework",
+      "lang": "TypeScript",
+      "stars_period": "16",
+      "stars_total": "60739",
+      "url": "https://github.com/nuxt/nuxt"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "op7418/guizang-material-illustration",
+        "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+        "lang": "",
+        "stars_total": 564,
+        "created": "2026-07-07",
+        "topics": [
+          "agent",
+          "chart-visualization",
+          "chinese",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "explainer",
+          "illustration"
+        ],
+        "url": "https://github.com/op7418/guizang-material-illustration"
+      },
+      {
+        "repo": "Matchameleon/moneyclaw",
+        "desc": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+        "lang": "JavaScript",
+        "stars_total": 152,
+        "created": "2026-07-09",
+        "topics": [
+          "agent",
+          "card-agent",
+          "moneyclaw",
+          "otp-agent",
+          "wallet-agent"
+        ],
+        "url": "https://github.com/Matchameleon/moneyclaw"
+      },
+      {
+        "repo": "Playa-0v0/Cyrene-Agent",
+        "desc": "Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.",
+        "lang": "TypeScript",
+        "stars_total": 108,
+        "created": "2026-07-06",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "cyrene",
+          "electron",
+          "honkai-star-rail",
+          "typescript"
+        ],
+        "url": "https://github.com/Playa-0v0/Cyrene-Agent"
+      },
+      {
+        "repo": "PKU-YuanGroup/OpenAI4S",
+        "desc": "9.9 元豆包API复刻 Claude Science",
+        "lang": "Python",
+        "stars_total": 90,
+        "created": "2026-07-06",
+        "topics": [
+          "agent",
+          "ai4science",
+          "claude-science",
+          "mit-license",
+          "open-source",
+          "science-research"
+        ],
+        "url": "https://github.com/PKU-YuanGroup/OpenAI4S"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "ronak-create/FableCut",
+        "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+        "lang": "JavaScript",
+        "stars_total": 339,
+        "created": "2026-07-06",
+        "topics": [
+          "ai-agent",
+          "canvas",
+          "claude",
+          "ffmpeg",
+          "javascript",
+          "llm",
+          "mcp",
+          "nle"
+        ],
+        "url": "https://github.com/ronak-create/FableCut"
+      },
+      {
+        "repo": "Sahir619/fable-method",
+        "desc": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove.",
+        "lang": "JavaScript",
+        "stars_total": 237,
+        "created": "2026-07-06",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-md",
+          "coding-agent",
+          "evaluation",
+          "fable"
+        ],
+        "url": "https://github.com/Sahir619/fable-method"
+      },
+      {
+        "repo": "ninjahawk/Subtext",
+        "desc": "To know what models don't say out loud.",
+        "lang": "HTML",
+        "stars_total": 183,
+        "created": "2026-07-06",
+        "topics": [
+          "interpretability",
+          "llm",
+          "mechanistic-interpretability",
+          "pytorch",
+          "qwen",
+          "transformers",
+          "visualization"
+        ],
+        "url": "https://github.com/ninjahawk/Subtext"
+      },
+      {
+        "repo": "SilentFleetKK/ai-market-pulse",
+        "desc": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+        "lang": "Python",
+        "stars_total": 148,
+        "created": "2026-07-09",
+        "topics": [
+          "ai",
+          "akshare",
+          "github-pages",
+          "investment-research",
+          "llm",
+          "portfolio",
+          "quant",
+          "stock-analysis"
+        ],
+        "url": "https://github.com/SilentFleetKK/ai-market-pulse"
+      },
+      {
+        "repo": "olemeyer/rocketplaneIO",
+        "desc": "Self-hosted AI SRE for Kubernetes — zero-instrumentation eBPF observability plus a copilot that fixes issues through guardrailed, self-verifying actions. BYO-LLM, air-gapped capable.",
+        "lang": "Go",
+        "stars_total": 131,
+        "created": "2026-07-06",
+        "topics": [
+          "ai-agent",
+          "aiops",
+          "clickhouse",
+          "devops",
+          "ebpf",
+          "golang",
+          "incident-response",
+          "kubernetes"
+        ],
+        "url": "https://github.com/olemeyer/rocketplaneIO"
+      },
+      {
+        "repo": "amitshekhariitbhu/transformers-explained",
+        "desc": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
+        "lang": "",
+        "stars_total": 118,
+        "created": "2026-07-08",
+        "topics": [
+          "architecture",
+          "attention-is-all-you-need",
+          "attention-mechanism",
+          "large-language-models",
+          "llm",
+          "llms",
+          "transformers"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/transformers-explained"
+      },
+      {
+        "repo": "ohad6k/ditto",
+        "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+        "lang": "Python",
+        "stars_total": 107,
+        "created": "2026-07-08",
+        "topics": [
+          "agent-memory",
+          "agent-skills",
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "url": "https://github.com/ohad6k/ditto"
+      },
+      {
+        "repo": "cozytab/fable5-mode",
+        "desc": "Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5.",
+        "lang": "Python",
+        "stars_total": 105,
+        "created": "2026-07-06",
+        "topics": [
+          "agent-hooks",
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "fable-5",
+          "fable5"
+        ],
+        "url": "https://github.com/cozytab/fable5-mode"
+      },
+      {
+        "repo": "Alisa0808/vox-director",
+        "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+        "lang": "Python",
+        "stars_total": 74,
+        "created": "2026-07-10",
+        "topics": [
+          "ai",
+          "ai-video",
+          "claude-code",
+          "claude-skill",
+          "collage-video",
+          "explainer-video",
+          "ffmpeg",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Alisa0808/vox-director"
+      },
+      {
+        "repo": "swellweb/reame",
+        "desc": "Reame — CPU-first LLM inference server on llama.cpp: disk KV cache, self-regulating speculation, generation archive, interleaved multi-user, the Conclave. Your hardware, your realm.",
+        "lang": "C++",
+        "stars_total": 56,
+        "created": "2026-07-06",
+        "topics": [
+          "cpu",
+          "gguf",
+          "inference",
+          "kv-cache",
+          "llama-cpp",
+          "llm",
+          "openai-api",
+          "speculative-decoding"
+        ],
+        "url": "https://github.com/swellweb/reame"
+      },
+      {
+        "repo": "frenzymath/Danus",
+        "desc": "Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+        "lang": "Python",
+        "stars_total": 55,
+        "created": "2026-07-07",
+        "topics": [
+          "agents",
+          "ai4math",
+          "automated-reasoning",
+          "claude-code",
+          "codex",
+          "llm",
+          "mathematics",
+          "multi-agent"
+        ],
+        "url": "https://github.com/frenzymath/Danus"
+      },
+      {
+        "repo": "loop-js/loop.js",
+        "desc": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+        "lang": "TypeScript",
+        "stars_total": 55,
+        "created": "2026-07-10",
+        "topics": [
+          "agent-framework",
+          "agent-loop",
+          "agent-verification",
+          "ai-agents",
+          "anthropic",
+          "autonomous-agents",
+          "claude",
+          "claude-agent-sdk"
+        ],
+        "url": "https://github.com/loop-js/loop.js"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "One Wikipedia page costs your AI agent 68,000 tokens",
+        "points": 14,
+        "comments": 8,
+        "url": "https://news.ycombinator.com/item?id=48867021",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+        "points": 13,
+        "comments": 5,
+        "url": "https://kastra.ai/",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+        "points": 37,
+        "comments": 29,
+        "url": "https://abralo.com/",
+        "date": "2026-07-08"
+      },
+      {
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "points": 217,
+        "comments": 94,
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "Show HN: Shellular – run Claude Code, Codex, Pi from your phone",
+        "points": 33,
+        "comments": 41,
+        "url": "https://shellular.dev/",
+        "date": "2026-07-07"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
