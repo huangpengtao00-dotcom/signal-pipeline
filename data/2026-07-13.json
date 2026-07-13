@@ -1,0 +1,355 @@
+{
+  "date": "2026-07-13",
+  "trending_daily": [
+    {
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "lang": "Rust",
+      "stars_period": "444",
+      "stars_total": "3095",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "lang": "TypeScript",
+      "stars_period": "210",
+      "stars_total": "8034",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_period": "768",
+      "stars_total": "20744",
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "repo": "PrefectHQ/prefect",
+      "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "lang": "Python",
+      "stars_period": "66",
+      "stars_total": "23206",
+      "url": "https://github.com/PrefectHQ/prefect"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "lang": "Python",
+      "stars_period": "408",
+      "stars_total": "118747",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars_period": "459",
+      "stars_total": "48522",
+      "url": "https://github.com/anthropics/claude-cookbooks"
+    },
+    {
+      "repo": "home-assistant/core",
+      "desc": "🏡 Open source home automation that puts local control and privacy first.",
+      "lang": "Python",
+      "stars_period": "400",
+      "stars_total": "89144",
+      "url": "https://github.com/home-assistant/core"
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "lang": "TypeScript",
+      "stars_period": "125",
+      "stars_total": "33869",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "repo": "ColeMurray/background-agents",
+      "desc": "An open-source background agents coding system",
+      "lang": "TypeScript",
+      "stars_period": "16",
+      "stars_total": "2301",
+      "url": "https://github.com/ColeMurray/background-agents"
+    },
+    {
+      "repo": "k1tbyte/Wand-Enhancer",
+      "desc": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "lang": "C#",
+      "stars_period": "609",
+      "stars_total": "7017",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "75",
+      "stars_total": "13784",
+      "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "lang": "Python",
+      "stars_period": "115",
+      "stars_total": "61463",
+      "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "repo": "chen08209/FlClash",
+      "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "lang": "Dart",
+      "stars_period": "154",
+      "stars_total": "45296",
+      "url": "https://github.com/chen08209/FlClash"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "lang": "Python",
+      "stars_period": "274",
+      "stars_total": "29279",
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "repo": "par274/sharpemu",
+      "desc": "An experimental PlayStation 5 emulator project.",
+      "lang": "C#",
+      "stars_period": "314",
+      "stars_total": "1335",
+      "url": "https://github.com/par274/sharpemu"
+    },
+    {
+      "repo": "malisper/pgrust",
+      "desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "lang": "Rust",
+      "stars_period": "518",
+      "stars_total": "2555",
+      "url": "https://github.com/malisper/pgrust"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_period": "155",
+      "stars_total": "4407",
+      "url": "https://github.com/Nutlope/hallmark"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "op7418/guizang-material-illustration",
+        "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+        "lang": "",
+        "stars_total": 597,
+        "created": "2026-07-07",
+        "topics": [
+          "agent",
+          "chart-visualization",
+          "chinese",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "explainer",
+          "illustration"
+        ],
+        "url": "https://github.com/op7418/guizang-material-illustration"
+      },
+      {
+        "repo": "Matchameleon/moneyclaw",
+        "desc": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+        "lang": "JavaScript",
+        "stars_total": 153,
+        "created": "2026-07-09",
+        "topics": [
+          "agent",
+          "card-agent",
+          "moneyclaw",
+          "otp-agent",
+          "wallet-agent"
+        ],
+        "url": "https://github.com/Matchameleon/moneyclaw"
+      },
+      {
+        "repo": "TencentCloud/Octop",
+        "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "lang": "Python",
+        "stars_total": 61,
+        "created": "2026-07-08",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai"
+        ],
+        "url": "https://github.com/TencentCloud/Octop"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "AlephAITech/WorkBuddyGuide",
+        "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+        "lang": "Python",
+        "stars_total": 175,
+        "created": "2026-07-10",
+        "topics": [
+          "codex",
+          "guide",
+          "llm",
+          "workbuddy"
+        ],
+        "url": "https://github.com/AlephAITech/WorkBuddyGuide"
+      },
+      {
+        "repo": "SilentFleetKK/ai-market-pulse",
+        "desc": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+        "lang": "Python",
+        "stars_total": 154,
+        "created": "2026-07-09",
+        "topics": [
+          "ai",
+          "akshare",
+          "github-pages",
+          "investment-research",
+          "llm",
+          "portfolio",
+          "quant",
+          "stock-analysis"
+        ],
+        "url": "https://github.com/SilentFleetKK/ai-market-pulse"
+      },
+      {
+        "repo": "ohad6k/ditto",
+        "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+        "lang": "Python",
+        "stars_total": 139,
+        "created": "2026-07-08",
+        "topics": [
+          "agent-memory",
+          "agent-skills",
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "url": "https://github.com/ohad6k/ditto"
+      },
+      {
+        "repo": "amitshekhariitbhu/transformers-explained",
+        "desc": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
+        "lang": "",
+        "stars_total": 130,
+        "created": "2026-07-08",
+        "topics": [
+          "architecture",
+          "attention-is-all-you-need",
+          "attention-mechanism",
+          "large-language-models",
+          "llm",
+          "llms",
+          "transformers"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/transformers-explained"
+      },
+      {
+        "repo": "Alisa0808/vox-director",
+        "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+        "lang": "Python",
+        "stars_total": 80,
+        "created": "2026-07-10",
+        "topics": [
+          "ai",
+          "ai-video",
+          "claude-code",
+          "claude-skill",
+          "collage-video",
+          "explainer-video",
+          "ffmpeg",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Alisa0808/vox-director"
+      },
+      {
+        "repo": "loop-js/loop.js",
+        "desc": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+        "lang": "TypeScript",
+        "stars_total": 73,
+        "created": "2026-07-10",
+        "topics": [
+          "agent-framework",
+          "agent-loop",
+          "agent-verification",
+          "ai-agents",
+          "anthropic",
+          "autonomous-agents",
+          "claude",
+          "claude-agent-sdk"
+        ],
+        "url": "https://github.com/loop-js/loop.js"
+      },
+      {
+        "repo": "frenzymath/Danus",
+        "desc": "Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+        "lang": "Python",
+        "stars_total": 57,
+        "created": "2026-07-07",
+        "topics": [
+          "agents",
+          "ai4math",
+          "automated-reasoning",
+          "claude-code",
+          "codex",
+          "llm",
+          "mathematics",
+          "multi-agent"
+        ],
+        "url": "https://github.com/frenzymath/Danus"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "points": 495,
+        "comments": 279,
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Claude Code May–July 2026 weekly limits promotion",
+        "points": 42,
+        "comments": 62,
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "One Wikipedia page costs your AI agent 68,000 tokens",
+        "points": 14,
+        "comments": 8,
+        "url": "https://news.ycombinator.com/item?id=48867021",
+        "date": "2026-07-11"
+      },
+      {
+        "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+        "points": 13,
+        "comments": 5,
+        "url": "https://kastra.ai/",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+        "points": 37,
+        "comments": 29,
+        "url": "https://abralo.com/",
+        "date": "2026-07-08"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
