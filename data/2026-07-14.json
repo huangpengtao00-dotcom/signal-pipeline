@@ -1,0 +1,316 @@
+{
+  "date": "2026-07-14",
+  "trending_daily": [
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_period": "1229",
+      "stars_total": "66997",
+      "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_period": "1153",
+      "stars_total": "21961",
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_period": "78",
+      "stars_total": "42000",
+      "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "lang": "Python",
+      "stars_period": "996",
+      "stars_total": "119823",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_period": "794",
+      "stars_total": "5315",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "repo": "Raphire/Win11Debloat",
+      "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "lang": "PowerShell",
+      "stars_period": "118",
+      "stars_total": "50984",
+      "url": "https://github.com/Raphire/Win11Debloat"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "lang": "Python",
+      "stars_period": "1095",
+      "stars_total": "84966",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "lang": "HTML",
+      "stars_period": "451",
+      "stars_total": "12753",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset"
+    },
+    {
+      "repo": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "lang": "Python",
+      "stars_period": "543",
+      "stars_total": "120729",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_period": "299",
+      "stars_total": "38721",
+      "url": "https://github.com/coreyhaines31/marketingskills"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Matchameleon/moneyclaw",
+        "desc": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+        "lang": "JavaScript",
+        "stars_total": 152,
+        "created": "2026-07-09",
+        "topics": [
+          "agent",
+          "card-agent",
+          "moneyclaw",
+          "otp-agent",
+          "wallet-agent"
+        ],
+        "url": "https://github.com/Matchameleon/moneyclaw"
+      },
+      {
+        "repo": "TencentCloud/Octop",
+        "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+        "lang": "Python",
+        "stars_total": 90,
+        "created": "2026-07-08",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai"
+        ],
+        "url": "https://github.com/TencentCloud/Octop"
+      },
+      {
+        "repo": "calesthio/generative-media-skills",
+        "desc": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+        "lang": "Python",
+        "stars_total": 58,
+        "created": "2026-07-11",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-audio",
+          "ai-video",
+          "claude",
+          "codex",
+          "copilot"
+        ],
+        "url": "https://github.com/calesthio/generative-media-skills"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "AlephAITech/WorkBuddyGuide",
+        "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+        "lang": "Python",
+        "stars_total": 530,
+        "created": "2026-07-10",
+        "topics": [
+          "codex",
+          "guide",
+          "llm",
+          "workbuddy"
+        ],
+        "url": "https://github.com/AlephAITech/WorkBuddyGuide"
+      },
+      {
+        "repo": "ohad6k/ditto",
+        "desc": "Mine your Claude Code and Codex logs into a local you.md agent profile.",
+        "lang": "Python",
+        "stars_total": 166,
+        "created": "2026-07-08",
+        "topics": [
+          "agent-memory",
+          "agent-skills",
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "url": "https://github.com/ohad6k/ditto"
+      },
+      {
+        "repo": "SilentFleetKK/ai-market-pulse",
+        "desc": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+        "lang": "Python",
+        "stars_total": 156,
+        "created": "2026-07-09",
+        "topics": [
+          "ai",
+          "akshare",
+          "github-pages",
+          "investment-research",
+          "llm",
+          "portfolio",
+          "quant",
+          "stock-analysis"
+        ],
+        "url": "https://github.com/SilentFleetKK/ai-market-pulse"
+      },
+      {
+        "repo": "amitshekhariitbhu/transformers-explained",
+        "desc": "Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
+        "lang": "",
+        "stars_total": 146,
+        "created": "2026-07-08",
+        "topics": [
+          "architecture",
+          "attention-is-all-you-need",
+          "attention-mechanism",
+          "large-language-models",
+          "llm",
+          "llms",
+          "transformers"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/transformers-explained"
+      },
+      {
+        "repo": "Alisa0808/vox-director",
+        "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+        "lang": "Python",
+        "stars_total": 111,
+        "created": "2026-07-10",
+        "topics": [
+          "ai",
+          "ai-video",
+          "claude-code",
+          "claude-skill",
+          "collage-video",
+          "explainer-video",
+          "ffmpeg",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Alisa0808/vox-director"
+      },
+      {
+        "repo": "loop-js/loop.js",
+        "desc": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+        "lang": "TypeScript",
+        "stars_total": 94,
+        "created": "2026-07-10",
+        "topics": [
+          "agent-framework",
+          "agent-loop",
+          "agent-verification",
+          "ai-agents",
+          "anthropic",
+          "autonomous-agents",
+          "claude",
+          "claude-agent-sdk"
+        ],
+        "url": "https://github.com/loop-js/loop.js"
+      },
+      {
+        "repo": "aws-samples/sample-specship",
+        "desc": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+        "lang": "Shell",
+        "stars_total": 76,
+        "created": "2026-07-10",
+        "topics": [
+          "ai-agents",
+          "autonomous-agents",
+          "code-generation",
+          "developer-tools",
+          "kiro",
+          "llm",
+          "spec-driven-development",
+          "tdd"
+        ],
+        "url": "https://github.com/aws-samples/sample-specship"
+      },
+      {
+        "repo": "amitshekhariitbhu/100-days-of-ai",
+        "desc": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+        "lang": "",
+        "stars_total": 51,
+        "created": "2026-07-10",
+        "topics": [
+          "100daysofai",
+          "ai",
+          "ai-agents",
+          "large-language-models",
+          "llm",
+          "llms",
+          "machine-learning"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/100-days-of-ai"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+        "points": 124,
+        "comments": 54,
+        "url": "https://github.com/thephw/claude-meseeks",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+        "points": 38,
+        "comments": 18,
+        "url": "https://arxiv.org/abs/2607.01418",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "Show HN: I implemented a neural network in SQL",
+        "points": 65,
+        "comments": 13,
+        "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "points": 686,
+        "comments": 378,
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Claude Code May–July 2026 weekly limits promotion",
+        "points": 45,
+        "comments": 66,
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+        "date": "2026-07-12"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
