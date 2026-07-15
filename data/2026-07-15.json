@@ -1,0 +1,380 @@
+{
+  "date": "2026-07-15",
+  "trending_daily": [
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "lang": "Python",
+      "stars_period": "1106",
+      "stars_total": "121010",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_period": "1679",
+      "stars_total": "170607",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "lang": "Rust",
+      "stars_period": "473",
+      "stars_total": "4464",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard"
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_period": "4276",
+      "stars_total": "69383",
+      "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "lang": "Python",
+      "stars_period": "109",
+      "stars_total": "61928",
+      "url": "https://github.com/virattt/ai-hedge-fund"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_period": "1015",
+      "stars_total": "6274",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_period": "1256",
+      "stars_total": "22984",
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "repo": "Raphire/Win11Debloat",
+      "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "lang": "PowerShell",
+      "stars_period": "783",
+      "stars_total": "51809",
+      "url": "https://github.com/Raphire/Win11Debloat"
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "lang": "HTML",
+      "stars_period": "851",
+      "stars_total": "13668",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset"
+    },
+    {
+      "repo": "penpot/penpot",
+      "desc": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "lang": "Clojure",
+      "stars_period": "395",
+      "stars_total": "56215",
+      "url": "https://github.com/penpot/penpot"
+    },
+    {
+      "repo": "AIEraDev/Clypra",
+      "desc": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "lang": "TypeScript",
+      "stars_period": "85",
+      "stars_total": "2684",
+      "url": "https://github.com/AIEraDev/Clypra"
+    },
+    {
+      "repo": "par274/sharpemu",
+      "desc": "An experimental PlayStation 5 emulator project.",
+      "lang": "C#",
+      "stars_period": "332",
+      "stars_total": "2189",
+      "url": "https://github.com/par274/sharpemu"
+    },
+    {
+      "repo": "chenyme/grok2api",
+      "desc": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "lang": "Go",
+      "stars_period": "186",
+      "stars_total": "5897",
+      "url": "https://github.com/chenyme/grok2api"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "lang": "Python",
+      "stars_period": "1851",
+      "stars_total": "86565",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "lang": "TypeScript",
+      "stars_period": "112",
+      "stars_total": "5345",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Matchameleon/moneyclaw",
+        "desc": "openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+        "lang": "JavaScript",
+        "stars_total": 134,
+        "created": "2026-07-09",
+        "topics": [
+          "agent",
+          "card-agent",
+          "moneyclaw",
+          "otp-agent",
+          "wallet-agent"
+        ],
+        "url": "https://github.com/Matchameleon/moneyclaw"
+      },
+      {
+        "repo": "calesthio/generative-media-skills",
+        "desc": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+        "lang": "Python",
+        "stars_total": 62,
+        "created": "2026-07-11",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-audio",
+          "ai-video",
+          "claude",
+          "codex",
+          "copilot"
+        ],
+        "url": "https://github.com/calesthio/generative-media-skills"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "AlephAITech/WorkBuddyGuide",
+        "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
+        "lang": "Python",
+        "stars_total": 717,
+        "created": "2026-07-10",
+        "topics": [
+          "codex",
+          "guide",
+          "llm",
+          "workbuddy"
+        ],
+        "url": "https://github.com/AlephAITech/WorkBuddyGuide"
+      },
+      {
+        "repo": "William-Lu-stack/Flawless",
+        "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+        "lang": "Python",
+        "stars_total": 618,
+        "created": "2026-07-10",
+        "topics": [
+          "agenticops",
+          "ai",
+          "aiops",
+          "aisre",
+          "cloud",
+          "cloud-native",
+          "devops",
+          "kubernetes"
+        ],
+        "url": "https://github.com/William-Lu-stack/Flawless"
+      },
+      {
+        "repo": "QuantumByteOSS/quantumbyte",
+        "desc": "Open-source app builder engine — intent to working app",
+        "lang": "Python",
+        "stars_total": 246,
+        "created": "2026-07-14",
+        "topics": [
+          "agents",
+          "ai",
+          "app-builder",
+          "code-generation",
+          "llm",
+          "nextjs",
+          "open-source",
+          "python"
+        ],
+        "url": "https://github.com/QuantumByteOSS/quantumbyte"
+      },
+      {
+        "repo": "SilentFleetKK/ai-market-pulse",
+        "desc": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+        "lang": "Python",
+        "stars_total": 161,
+        "created": "2026-07-09",
+        "topics": [
+          "ai",
+          "akshare",
+          "github-pages",
+          "investment-research",
+          "llm",
+          "portfolio",
+          "quant",
+          "stock-analysis"
+        ],
+        "url": "https://github.com/SilentFleetKK/ai-market-pulse"
+      },
+      {
+        "repo": "barretlee/agent-pulse",
+        "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+        "lang": "TypeScript",
+        "stars_total": 149,
+        "created": "2026-07-11",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-industry",
+          "ai-intelligence",
+          "ai-news",
+          "artificial-intelligence",
+          "evidence",
+          "fastify"
+        ],
+        "url": "https://github.com/barretlee/agent-pulse"
+      },
+      {
+        "repo": "aws-samples/sample-specship",
+        "desc": "Spec-driven autonomous engineering workflow for AI coding agents: recon → plan → build → validate → ship — with TDD, adversarial validation, and anti-slop quality gates. Packaged as a Kiro Power.",
+        "lang": "Shell",
+        "stars_total": 145,
+        "created": "2026-07-10",
+        "topics": [
+          "ai-agents",
+          "autonomous-agents",
+          "code-generation",
+          "developer-tools",
+          "kiro",
+          "llm",
+          "spec-driven-development",
+          "tdd"
+        ],
+        "url": "https://github.com/aws-samples/sample-specship"
+      },
+      {
+        "repo": "Extraltodeus/J-Wash",
+        "desc": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
+        "lang": "Python",
+        "stars_total": 142,
+        "created": "2026-07-13",
+        "topics": [
+          "abliteration",
+          "activation-engineering",
+          "ai",
+          "anthropic",
+          "checkpoint-editing",
+          "huggingface",
+          "interpretability",
+          "j-wash"
+        ],
+        "url": "https://github.com/Extraltodeus/J-Wash"
+      },
+      {
+        "repo": "Alisa0808/vox-director",
+        "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+        "lang": "Python",
+        "stars_total": 139,
+        "created": "2026-07-10",
+        "topics": [
+          "ai",
+          "ai-video",
+          "claude-code",
+          "claude-skill",
+          "collage-video",
+          "explainer-video",
+          "ffmpeg",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Alisa0808/vox-director"
+      },
+      {
+        "repo": "loop-js/loop.js",
+        "desc": "A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+        "lang": "TypeScript",
+        "stars_total": 111,
+        "created": "2026-07-10",
+        "topics": [
+          "agent-framework",
+          "agent-loop",
+          "agent-verification",
+          "ai-agents",
+          "anthropic",
+          "autonomous-agents",
+          "claude",
+          "claude-agent-sdk"
+        ],
+        "url": "https://github.com/loop-js/loop.js"
+      },
+      {
+        "repo": "amitshekhariitbhu/100-days-of-ai",
+        "desc": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+        "lang": "",
+        "stars_total": 53,
+        "created": "2026-07-10",
+        "topics": [
+          "100daysofai",
+          "ai",
+          "ai-agents",
+          "large-language-models",
+          "llm",
+          "llms",
+          "machine-learning"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/100-days-of-ai"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+        "points": 131,
+        "comments": 55,
+        "url": "https://github.com/thephw/claude-meseeks",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+        "points": 68,
+        "comments": 41,
+        "url": "https://arxiv.org/abs/2607.01418",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "Show HN: I implemented a neural network in SQL",
+        "points": 111,
+        "comments": 19,
+        "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+        "date": "2026-07-13"
+      },
+      {
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "points": 695,
+        "comments": 388,
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "date": "2026-07-12"
+      },
+      {
+        "title": "Claude Code May–July 2026 weekly limits promotion",
+        "points": 45,
+        "comments": 66,
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+        "date": "2026-07-12"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
