@@ -1,0 +1,372 @@
+{
+  "date": "2026-07-17",
+  "trending_daily": [
+    {
+      "repo": "apache/ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "lang": "Python",
+      "stars_period": "60",
+      "stars_total": "955",
+      "url": "https://github.com/apache/ossie"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_period": "3372",
+      "stars_total": "11086",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_period": "3537",
+      "stars_total": "74147",
+      "url": "https://github.com/OpenCut-app/OpenCut"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_period": "77",
+      "stars_total": "35892",
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "repo": "openinterpreter/openinterpreter",
+      "desc": "A coding agent for open models like Kimi K3",
+      "lang": "Rust",
+      "stars_period": "661",
+      "stars_total": "66031",
+      "url": "https://github.com/openinterpreter/openinterpreter"
+    },
+    {
+      "repo": "PrismML-Eng/Bonsai-demo",
+      "desc": "Bonsai Demo",
+      "lang": "Shell",
+      "stars_period": "196",
+      "stars_total": "1553",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "lang": "HTML",
+      "stars_period": "710",
+      "stars_total": "15115",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "lang": "Python",
+      "stars_period": "923",
+      "stars_total": "123021",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "repo": "lobehub/lobehub",
+      "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "lang": "TypeScript",
+      "stars_period": "71",
+      "stars_total": "80230",
+      "url": "https://github.com/lobehub/lobehub"
+    },
+    {
+      "repo": "YimMenu/YimMenuV2",
+      "desc": "Experimental menu for GTA 5: Enhanced",
+      "lang": "C++",
+      "stars_period": "128",
+      "stars_total": "1514",
+      "url": "https://github.com/YimMenu/YimMenuV2"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars_period": "656",
+      "stars_total": "26951",
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_period": "2060",
+      "stars_total": "174452",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "lang": "Java",
+      "stars_period": "13",
+      "stars_total": "9676",
+      "url": "https://github.com/github/copilot-sdk"
+    },
+    {
+      "repo": "ibelick/ui-skills",
+      "desc": "Skills for Design Engineers",
+      "lang": "TypeScript",
+      "stars_period": "178",
+      "stars_total": "4350",
+      "url": "https://github.com/ibelick/ui-skills"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "lang": "Python",
+      "stars_period": "1107",
+      "stars_total": "89238",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_period": "435",
+      "stars_total": "526440",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+      "repo": "ossu/computer-science",
+      "desc": "🎓 Path to a free self-taught education in Computer Science!",
+      "lang": "HTML",
+      "stars_period": "107",
+      "stars_total": "206609",
+      "url": "https://github.com/ossu/computer-science"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "kazelad/algo-trading-agent",
+        "desc": "algo trade agent - bot, framework, API, indicator, book, course, community",
+        "lang": "TypeScript",
+        "stars_total": 91,
+        "created": "2026-07-14",
+        "topics": [
+          "agent",
+          "algo",
+          "algo-agent",
+          "algo-trade",
+          "trade",
+          "trade-agent"
+        ],
+        "url": "https://github.com/kazelad/algo-trading-agent"
+      },
+      {
+        "repo": "Dennis-bv/dex-trade-agent-kit",
+        "desc": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
+        "lang": "TypeScript",
+        "stars_total": 78,
+        "created": "2026-07-14",
+        "topics": [
+          "agent",
+          "dex",
+          "dex-kit",
+          "okx",
+          "okx-kit",
+          "trade",
+          "trade-kit"
+        ],
+        "url": "https://github.com/Dennis-bv/dex-trade-agent-kit"
+      },
+      {
+        "repo": "calesthio/generative-media-skills",
+        "desc": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+        "lang": "Python",
+        "stars_total": 74,
+        "created": "2026-07-11",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-audio",
+          "ai-video",
+          "claude",
+          "codex",
+          "copilot"
+        ],
+        "url": "https://github.com/calesthio/generative-media-skills"
+      },
+      {
+        "repo": "Bananefre/Stock-Market-app",
+        "desc": "Stock Market app which track prices and automate workflows",
+        "lang": "TypeScript",
+        "stars_total": 51,
+        "created": "2026-07-14",
+        "topics": [
+          "agent",
+          "market-agent",
+          "market-app",
+          "stock-market",
+          "stock-trading"
+        ],
+        "url": "https://github.com/Bananefre/Stock-Market-app"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "QuantumByteOSS/quantumbyte",
+        "desc": "Open-source app builder engine — intent to working app",
+        "lang": "Python",
+        "stars_total": 317,
+        "created": "2026-07-14",
+        "topics": [
+          "agents",
+          "ai",
+          "app-builder",
+          "code-generation",
+          "llm",
+          "nextjs",
+          "open-source",
+          "python"
+        ],
+        "url": "https://github.com/QuantumByteOSS/quantumbyte"
+      },
+      {
+        "repo": "barretlee/agent-pulse",
+        "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+        "lang": "TypeScript",
+        "stars_total": 198,
+        "created": "2026-07-11",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-industry",
+          "ai-intelligence",
+          "ai-news",
+          "artificial-intelligence",
+          "evidence",
+          "fastify"
+        ],
+        "url": "https://github.com/barretlee/agent-pulse"
+      },
+      {
+        "repo": "Extraltodeus/J-Wash",
+        "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+        "lang": "Python",
+        "stars_total": 170,
+        "created": "2026-07-13",
+        "topics": [
+          "abliteration",
+          "ai",
+          "anthropic",
+          "artificial-intelligence",
+          "huggingface",
+          "interpretability",
+          "j-wash",
+          "jacobian-lens"
+        ],
+        "url": "https://github.com/Extraltodeus/J-Wash"
+      },
+      {
+        "repo": "thesysdev/appless",
+        "desc": "What if your phone had no apps",
+        "lang": "TypeScript",
+        "stars_total": 73,
+        "created": "2026-07-16",
+        "topics": [
+          "generative-ui",
+          "llm",
+          "react-native"
+        ],
+        "url": "https://github.com/thesysdev/appless"
+      },
+      {
+        "repo": "Dgeloe4-yb/market-pilot",
+        "desc": "Evidence-grounded market research prototype with traceable AI workflows.",
+        "lang": "JavaScript",
+        "stars_total": 61,
+        "created": "2026-07-14",
+        "topics": [
+          "ai-product-management",
+          "fastapi",
+          "llm",
+          "market-research",
+          "react"
+        ],
+        "url": "https://github.com/Dgeloe4-yb/market-pilot"
+      },
+      {
+        "repo": "S40911120/recensa",
+        "desc": "Self-hosted web viewer for Claude Code session transcripts — read, search, replay, and audit every session you have ever run",
+        "lang": "TypeScript",
+        "stars_total": 60,
+        "created": "2026-07-12",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "anthropic",
+          "chat-history",
+          "claude",
+          "claude-code",
+          "conversation-history",
+          "developer-tools"
+        ],
+        "url": "https://github.com/S40911120/recensa"
+      },
+      {
+        "repo": "CyberSunil/LLMVault",
+        "desc": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+        "lang": "Python",
+        "stars_total": 59,
+        "created": "2026-07-15",
+        "topics": [
+          "agent-security",
+          "ai-security",
+          "ai-security-tool",
+          "ctf",
+          "cybersecurity",
+          "docker",
+          "education",
+          "genai"
+        ],
+        "url": "https://github.com/CyberSunil/LLMVault"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+        "points": 44,
+        "comments": 13,
+        "url": "https://github.com/1ay1/agentty",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases",
+        "points": 20,
+        "comments": 8,
+        "url": "https://github.com/Litenova-Solutions/Fuse",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+        "points": 127,
+        "comments": 26,
+        "url": "https://brainless.swerdlow.dev",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+        "points": 18,
+        "comments": 44,
+        "url": "https://github.com/evansjp/grepathy",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Show HN: I built a smart proxy so your coding agent can run loose",
+        "points": 14,
+        "comments": 6,
+        "url": "https://trollbridge.dev/",
+        "date": "2026-07-14"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
