@@ -1,0 +1,359 @@
+{
+  "date": "2026-07-19",
+  "trending_daily": [
+    {
+      "repo": "Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "lang": "Python",
+      "stars_period": "831",
+      "stars_total": "13044",
+      "url": "https://github.com/Robbyant/lingbot-map"
+    },
+    {
+      "repo": "apache/ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "lang": "Python",
+      "stars_period": "47",
+      "stars_total": "1299",
+      "url": "https://github.com/apache/ossie"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_period": "338",
+      "stars_total": "36632",
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "repo": "ibelick/ui-skills",
+      "desc": "Skills for Design Engineers",
+      "lang": "TypeScript",
+      "stars_period": "123",
+      "stars_total": "5098",
+      "url": "https://github.com/ibelick/ui-skills"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "191",
+      "stars_total": "39167",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_period": "355",
+      "stars_total": "20242",
+      "url": "https://github.com/tirth8205/code-review-graph"
+    },
+    {
+      "repo": "elder-plinius/G0DM0D3",
+      "desc": "LIBERATED AI CHAT",
+      "lang": "TypeScript",
+      "stars_period": "69",
+      "stars_total": "9546",
+      "url": "https://github.com/elder-plinius/G0DM0D3"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_period": "161",
+      "stars_total": "23377",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "lang": "TypeScript",
+      "stars_period": "203",
+      "stars_total": "1301",
+      "url": "https://github.com/KnockOutEZ/wigolo"
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_period": "1126",
+      "stars_total": "528359",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+      "repo": "MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "lang": "Python",
+      "stars_period": "65",
+      "stars_total": "9534",
+      "url": "https://github.com/MoonshotAI/kimi-cli"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Finderchangchang/codex-autoskin",
+        "desc": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+        "lang": "JavaScript",
+        "stars_total": 94,
+        "created": "2026-07-16",
+        "topics": [
+          "agent",
+          "cdp",
+          "codex",
+          "electron",
+          "openai",
+          "skin",
+          "theme"
+        ],
+        "url": "https://github.com/Finderchangchang/codex-autoskin"
+      },
+      {
+        "repo": "kazelad/algo-trading-agent",
+        "desc": "algo trade agent - bot, framework, API, indicator, book, course, community",
+        "lang": "TypeScript",
+        "stars_total": 91,
+        "created": "2026-07-14",
+        "topics": [
+          "agent",
+          "algo",
+          "algo-agent",
+          "algo-trade",
+          "trade",
+          "trade-agent"
+        ],
+        "url": "https://github.com/kazelad/algo-trading-agent"
+      },
+      {
+        "repo": "Dennis-bv/dex-trade-agent-kit",
+        "desc": "Dex trade agent kit which AI-powered trading toolkit with two standalone packages",
+        "lang": "TypeScript",
+        "stars_total": 78,
+        "created": "2026-07-14",
+        "topics": [
+          "agent",
+          "dex",
+          "dex-kit",
+          "okx",
+          "okx-kit",
+          "trade",
+          "trade-kit"
+        ],
+        "url": "https://github.com/Dennis-bv/dex-trade-agent-kit"
+      },
+      {
+        "repo": "Bananefre/Stock-Market-app",
+        "desc": "Stock Market app which track prices and automate workflows",
+        "lang": "TypeScript",
+        "stars_total": 51,
+        "created": "2026-07-14",
+        "topics": [
+          "agent",
+          "market-agent",
+          "market-app",
+          "stock-market",
+          "stock-trading"
+        ],
+        "url": "https://github.com/Bananefre/Stock-Market-app"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "QuantumByteOSS/quantumbyte",
+        "desc": "Open-source app builder engine — intent to working app",
+        "lang": "Python",
+        "stars_total": 327,
+        "created": "2026-07-14",
+        "topics": [
+          "agents",
+          "ai",
+          "app-builder",
+          "code-generation",
+          "llm",
+          "nextjs",
+          "open-source",
+          "python"
+        ],
+        "url": "https://github.com/QuantumByteOSS/quantumbyte"
+      },
+      {
+        "repo": "PromptPartner/agentsmith",
+        "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+        "lang": "Shell",
+        "stars_total": 308,
+        "created": "2026-07-16",
+        "topics": [
+          "agentic-ai",
+          "agentic-coding",
+          "ai-agents",
+          "ai-tools",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "url": "https://github.com/PromptPartner/agentsmith"
+      },
+      {
+        "repo": "thesysdev/appless",
+        "desc": "What if your phone had no apps",
+        "lang": "TypeScript",
+        "stars_total": 244,
+        "created": "2026-07-16",
+        "topics": [
+          "generative-ui",
+          "llm",
+          "react-native"
+        ],
+        "url": "https://github.com/thesysdev/appless"
+      },
+      {
+        "repo": "CyberSunil/LLMVault",
+        "desc": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+        "lang": "Python",
+        "stars_total": 187,
+        "created": "2026-07-15",
+        "topics": [
+          "agent-security",
+          "ai-security",
+          "ai-security-tool",
+          "artificial-intelligence",
+          "ctf",
+          "docker",
+          "genai",
+          "large-language-models"
+        ],
+        "url": "https://github.com/CyberSunil/LLMVault"
+      },
+      {
+        "repo": "Extraltodeus/J-Wash",
+        "desc": "Jacobian-Brainwash : A manual alignment tool for large language models built on Anthropic's Jacobian Lens. Results are exportable.",
+        "lang": "Python",
+        "stars_total": 179,
+        "created": "2026-07-13",
+        "topics": [
+          "abliteration",
+          "ai",
+          "anthropic",
+          "artificial-intelligence",
+          "huggingface",
+          "interpretability",
+          "j-wash",
+          "jacobian-lens"
+        ],
+        "url": "https://github.com/Extraltodeus/J-Wash"
+      },
+      {
+        "repo": "KlaatAI/klaatcode",
+        "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+        "lang": "TypeScript",
+        "stars_total": 140,
+        "created": "2026-07-17",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "ai-model",
+          "ai-tools",
+          "artificial-intelligence",
+          "calude-code"
+        ],
+        "url": "https://github.com/KlaatAI/klaatcode"
+      },
+      {
+        "repo": "Dgeloe4-yb/market-pilot",
+        "desc": "Evidence-grounded market research prototype with traceable AI workflows.",
+        "lang": "JavaScript",
+        "stars_total": 101,
+        "created": "2026-07-14",
+        "topics": [
+          "ai-product-management",
+          "fastapi",
+          "llm",
+          "market-research",
+          "react"
+        ],
+        "url": "https://github.com/Dgeloe4-yb/market-pilot"
+      },
+      {
+        "repo": "lofty14/restaurant-digitalization-blueprint",
+        "desc": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
+        "lang": "",
+        "stars_total": 89,
+        "created": "2026-07-16",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "blueprint",
+          "chinese",
+          "claude",
+          "digitalization",
+          "django",
+          "erp"
+        ],
+        "url": "https://github.com/lofty14/restaurant-digitalization-blueprint"
+      },
+      {
+        "repo": "Codesteward/codesteward",
+        "desc": "Agentic code review with structural graph intelligence — PR gate + branch stewardship. Self-hosted. Apache-2.0.",
+        "lang": "TypeScript",
+        "stars_total": 61,
+        "created": "2026-07-14",
+        "topics": [
+          "ai",
+          "apache-2-0",
+          "cicd",
+          "code-intelligence",
+          "code-quality",
+          "code-review",
+          "developer-tools",
+          "devops"
+        ],
+        "url": "https://github.com/Codesteward/codesteward"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "points": 195,
+        "comments": 137,
+        "url": "https://ykdojo.github.io/claude-controls-mac/",
+        "date": "2026-07-18"
+      },
+      {
+        "title": "Claude Code(Fable) refused my slow down instruction",
+        "points": 30,
+        "comments": 13,
+        "url": "https://qusaisuwan.github.io/cc-incident/index.html",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Claude Code: Anatomy of a Misfeature",
+        "points": 140,
+        "comments": 119,
+        "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+        "date": "2026-07-17"
+      },
+      {
+        "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+        "points": 48,
+        "comments": 13,
+        "url": "https://github.com/1ay1/agentty",
+        "date": "2026-07-15"
+      },
+      {
+        "title": "Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases",
+        "points": 21,
+        "comments": 8,
+        "url": "https://github.com/Litenova-Solutions/Fuse",
+        "date": "2026-07-15"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
