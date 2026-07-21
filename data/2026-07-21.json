@@ -1,0 +1,435 @@
+{
+  "date": "2026-07-21",
+  "trending_daily": [
+    {
+      "repo": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_period": "1833",
+      "stars_total": "23500",
+      "url": "https://github.com/tirth8205/code-review-graph"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "desc": "The most intelligent agent harness for code",
+      "lang": "Rust",
+      "stars_period": "568",
+      "stars_total": "9756",
+      "url": "https://github.com/1jehuang/jcode"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "lang": "TypeScript",
+      "stars_period": "1107",
+      "stars_total": "22093",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "823",
+      "stars_total": "40686",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_period": "862",
+      "stars_total": "134846",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "repo": "kvcache-ai/ktransformers",
+      "desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "lang": "Python",
+      "stars_period": "458",
+      "stars_total": "18764",
+      "url": "https://github.com/kvcache-ai/ktransformers"
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_period": "821",
+      "stars_total": "44313",
+      "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "lang": "Python",
+      "stars_period": "234",
+      "stars_total": "28848",
+      "url": "https://github.com/topoteretes/cognee"
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "lang": "Python",
+      "stars_period": "565",
+      "stars_total": "14332",
+      "url": "https://github.com/Robbyant/lingbot-map"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "lang": "TypeScript",
+      "stars_period": "939",
+      "stars_total": "5974",
+      "url": "https://github.com/every-app/open-seo"
+    },
+    {
+      "repo": "MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "lang": "Python",
+      "stars_period": "410",
+      "stars_total": "10288",
+      "url": "https://github.com/MoonshotAI/kimi-cli"
+    },
+    {
+      "repo": "AstrBotDevs/AstrBot",
+      "desc": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "lang": "Python",
+      "stars_period": "317",
+      "stars_total": "37164",
+      "url": "https://github.com/AstrBotDevs/AstrBot"
+    },
+    {
+      "repo": "PrefectHQ/fastmcp",
+      "desc": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "lang": "Python",
+      "stars_period": "96",
+      "stars_total": "26586",
+      "url": "https://github.com/PrefectHQ/fastmcp"
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "lang": "TypeScript",
+      "stars_period": "689",
+      "stars_total": "2636",
+      "url": "https://github.com/KnockOutEZ/wigolo"
+    },
+    {
+      "repo": "tokio-rs/topcoat",
+      "desc": "A batteries-included framework for building web apps",
+      "lang": "Rust",
+      "stars_period": "371",
+      "stars_total": "1630",
+      "url": "https://github.com/tokio-rs/topcoat"
+    },
+    {
+      "repo": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "lang": "TypeScript",
+      "stars_period": "240",
+      "stars_total": "133820",
+      "url": "https://github.com/iptv-org/iptv"
+    },
+    {
+      "repo": "oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "lang": "TypeScript",
+      "stars_period": "1641",
+      "stars_total": "4970",
+      "url": "https://github.com/oblien/openship"
+    },
+    {
+      "repo": "microsoft/Ontology-Playground",
+      "desc": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "lang": "TypeScript",
+      "stars_period": "464",
+      "stars_total": "1777",
+      "url": "https://github.com/microsoft/Ontology-Playground"
+    },
+    {
+      "repo": "handy-computer/transcribe.cpp",
+      "desc": "ggml speech-to-text inference for 16+ model families",
+      "lang": "C++",
+      "stars_period": "395",
+      "stars_total": "1324",
+      "url": "https://github.com/handy-computer/transcribe.cpp"
+    },
+    {
+      "repo": "moonshine-ai/moonshine",
+      "desc": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "lang": "C++",
+      "stars_period": "282",
+      "stars_total": "9942",
+      "url": "https://github.com/moonshine-ai/moonshine"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Finderchangchang/codex-autoskin",
+        "desc": "发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+        "lang": "JavaScript",
+        "stars_total": 101,
+        "created": "2026-07-16",
+        "topics": [
+          "agent",
+          "cdp",
+          "codex",
+          "electron",
+          "openai",
+          "skin",
+          "theme"
+        ],
+        "url": "https://github.com/Finderchangchang/codex-autoskin"
+      },
+      {
+        "repo": "Kritt-ai/open-kritt",
+        "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+        "lang": "JavaScript",
+        "stars_total": 67,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "agents",
+          "ai",
+          "bug-bounty",
+          "bugbounty",
+          "bugbounty-tools",
+          "security",
+          "security-research"
+        ],
+        "url": "https://github.com/Kritt-ai/open-kritt"
+      },
+      {
+        "repo": "MemTensor/memmy-agent",
+        "desc": "One Agent. One memory. Shared by every AI. 🍙",
+        "lang": "TypeScript",
+        "stars_total": 61,
+        "created": "2026-07-16",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "ai-assistants",
+          "llm",
+          "long-term-memory",
+          "memory"
+        ],
+        "url": "https://github.com/MemTensor/memmy-agent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "PromptPartner/agentsmith",
+        "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+        "lang": "Shell",
+        "stars_total": 312,
+        "created": "2026-07-16",
+        "topics": [
+          "agentic-ai",
+          "agentic-coding",
+          "ai-agents",
+          "ai-tools",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "url": "https://github.com/PromptPartner/agentsmith"
+      },
+      {
+        "repo": "thesysdev/appless",
+        "desc": "What if your phone had no apps",
+        "lang": "TypeScript",
+        "stars_total": 301,
+        "created": "2026-07-16",
+        "topics": [
+          "generative-ui",
+          "llm",
+          "react-native"
+        ],
+        "url": "https://github.com/thesysdev/appless"
+      },
+      {
+        "repo": "CyberSunil/LLMVault",
+        "desc": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+        "lang": "Python",
+        "stars_total": 215,
+        "created": "2026-07-15",
+        "topics": [
+          "agent-security",
+          "ai-security",
+          "ai-security-tool",
+          "artificial-intelligence",
+          "ctf",
+          "docker",
+          "genai",
+          "large-language-models"
+        ],
+        "url": "https://github.com/CyberSunil/LLMVault"
+      },
+      {
+        "repo": "KlaatAI/klaatcode",
+        "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+        "lang": "TypeScript",
+        "stars_total": 174,
+        "created": "2026-07-17",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "ai-model",
+          "ai-tools",
+          "artificial-intelligence",
+          "calude-code"
+        ],
+        "url": "https://github.com/KlaatAI/klaatcode"
+      },
+      {
+        "repo": "Saivineeth147/lora-speedrun",
+        "desc": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+        "lang": "Python",
+        "stars_total": 121,
+        "created": "2026-07-18",
+        "topics": [
+          "benchmark",
+          "fine-tuning",
+          "leaderboard",
+          "llm",
+          "lora",
+          "peft",
+          "qlora",
+          "speedrun"
+        ],
+        "url": "https://github.com/Saivineeth147/lora-speedrun"
+      },
+      {
+        "repo": "lofty14/restaurant-digitalization-blueprint",
+        "desc": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
+        "lang": "",
+        "stars_total": 116,
+        "created": "2026-07-16",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "blueprint",
+          "chinese",
+          "claude",
+          "digitalization",
+          "django",
+          "erp"
+        ],
+        "url": "https://github.com/lofty14/restaurant-digitalization-blueprint"
+      },
+      {
+        "repo": "PabloTheThinker/hermespace",
+        "desc": "Pocket workbench for Hermes Agent — limited FOA desk, dual decode, skills+MEMORY fabric, neural FOA. Not J-space. Not a second runtime.",
+        "lang": "Python",
+        "stars_total": 78,
+        "created": "2026-07-18",
+        "topics": [
+          "agentskills",
+          "ai-agents",
+          "cognitive-architecture",
+          "hermes-agent",
+          "llm",
+          "open-source",
+          "python",
+          "workbench"
+        ],
+        "url": "https://github.com/PabloTheThinker/hermespace"
+      },
+      {
+        "repo": "NullLabTests/software-periodic-table",
+        "desc": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+        "lang": "TypeScript",
+        "stars_total": 69,
+        "created": "2026-07-19",
+        "topics": [
+          "ai-agents",
+          "llm",
+          "typescript"
+        ],
+        "url": "https://github.com/NullLabTests/software-periodic-table"
+      },
+      {
+        "repo": "MemTensor/memmy-agent",
+        "desc": "One Agent. One memory. Shared by every AI. 🍙",
+        "lang": "TypeScript",
+        "stars_total": 61,
+        "created": "2026-07-16",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "ai-assistants",
+          "llm",
+          "long-term-memory",
+          "memory"
+        ],
+        "url": "https://github.com/MemTensor/memmy-agent"
+      },
+      {
+        "repo": "smixs/mentor",
+        "desc": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable a",
+        "lang": "Python",
+        "stars_total": 51,
+        "created": "2026-07-19",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-skill",
+          "codex",
+          "coding-agent",
+          "developer-productivity"
+        ],
+        "url": "https://github.com/smixs/mentor"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
+        "points": 16,
+        "comments": 4,
+        "url": "https://github.com/dawndrain/movie-gen",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "Claude Code skill for searching royalty-free stock photos via the Pexels API",
+        "points": 15,
+        "comments": 1,
+        "url": "https://github.com/amalshehu/pexels-skill",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "Claude Code uses Bun written in Rust now",
+        "points": 594,
+        "comments": 819,
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "Anthropic runs large-scale code migrations with Claude Code",
+        "points": 35,
+        "comments": 31,
+        "url": "https://claude.com/blog/ai-code-migration",
+        "date": "2026-07-19"
+      },
+      {
+        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "points": 251,
+        "comments": 191,
+        "url": "https://ykdojo.github.io/claude-controls-mac/",
+        "date": "2026-07-18"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
