@@ -1,0 +1,465 @@
+{
+  "date": "2026-07-23",
+  "trending_daily": [
+    {
+      "repo": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_period": "4139",
+      "stars_total": "69371",
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "741",
+      "stars_total": "83993",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "desc": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_period": "1699",
+      "stars_total": "8462",
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "repo": "schollz/croc",
+      "desc": "Easily and securely send things from one computer to another 🐊 📦",
+      "lang": "Go",
+      "stars_period": "739",
+      "stars_total": "37731",
+      "url": "https://github.com/schollz/croc"
+    },
+    {
+      "repo": "likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "lang": "TypeScript",
+      "stars_period": "80",
+      "stars_total": "4359",
+      "url": "https://github.com/likec4/likec4"
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "lang": "Assembly",
+      "stars_period": "768",
+      "stars_total": "70684",
+      "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_period": "557",
+      "stars_total": "45880",
+      "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "lang": "TypeScript",
+      "stars_period": "1651",
+      "stars_total": "25547",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "137",
+      "stars_total": "32661",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_period": "163",
+      "stars_total": "68873",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "repo": "oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "lang": "TypeScript",
+      "stars_period": "1302",
+      "stars_total": "7397",
+      "url": "https://github.com/oblien/openship"
+    },
+    {
+      "repo": "agegr/pi-web",
+      "desc": "Web UI for the pi coding agent",
+      "lang": "TypeScript",
+      "stars_period": "314",
+      "stars_total": "2114",
+      "url": "https://github.com/agegr/pi-web"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "652",
+      "stars_total": "42367",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_period": "882",
+      "stars_total": "25423",
+      "url": "https://github.com/tirth8205/code-review-graph"
+    },
+    {
+      "repo": "dreamhunter2333/cloudflare_temp_email",
+      "desc": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "lang": "TypeScript",
+      "stars_period": "68",
+      "stars_total": "10853",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
+    },
+    {
+      "repo": "DioxusLabs/dioxus",
+      "desc": "Fullstack app framework for web, desktop, and mobile.",
+      "lang": "Rust",
+      "stars_period": "420",
+      "stars_total": "38063",
+      "url": "https://github.com/DioxusLabs/dioxus"
+    },
+    {
+      "repo": "hyprwm/Hyprland",
+      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "lang": "C++",
+      "stars_period": "356",
+      "stars_total": "37323",
+      "url": "https://github.com/hyprwm/Hyprland"
+    },
+    {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars_period": "108",
+      "stars_total": "8485",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin"
+    },
+    {
+      "repo": "dottxt-ai/outlines",
+      "desc": "Structured Outputs",
+      "lang": "Python",
+      "stars_period": "364",
+      "stars_total": "15148",
+      "url": "https://github.com/dottxt-ai/outlines"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Kritt-ai/open-kritt",
+        "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+        "lang": "JavaScript",
+        "stars_total": 324,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "agents",
+          "ai",
+          "bug-bounty",
+          "bugbounty",
+          "bugbounty-tools",
+          "security",
+          "security-research"
+        ],
+        "url": "https://github.com/Kritt-ai/open-kritt"
+      },
+      {
+        "repo": "Prism-Shadow/penguin-harness",
+        "desc": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+        "lang": "TypeScript",
+        "stars_total": 130,
+        "created": "2026-07-19",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-product",
+          "claude-code",
+          "harness",
+          "llm",
+          "productivity"
+        ],
+        "url": "https://github.com/Prism-Shadow/penguin-harness"
+      },
+      {
+        "repo": "Tencent-Hunyuan/Hyra-results",
+        "desc": "Research artifacts from Hyra (/ˈhaɪ.rɑː/)",
+        "lang": "Python",
+        "stars_total": 88,
+        "created": "2026-07-17",
+        "topics": [
+          "agent",
+          "ai-for-science",
+          "ai4science",
+          "autoresearch",
+          "coding",
+          "llm",
+          "recursive-self-improvement"
+        ],
+        "url": "https://github.com/Tencent-Hunyuan/Hyra-results"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "livetennisapi/livetennisapi-mcp",
+        "desc": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+        "lang": "JavaScript",
+        "stars_total": 271,
+        "created": "2026-07-18",
+        "topics": [
+          "ai",
+          "claude",
+          "live-scores",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "sports-api"
+        ],
+        "url": "https://github.com/livetennisapi/livetennisapi-mcp"
+      },
+      {
+        "repo": "KlaatAI/klaatcode",
+        "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.",
+        "lang": "TypeScript",
+        "stars_total": 251,
+        "created": "2026-07-17",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "ai-model",
+          "ai-tools",
+          "artificial-intelligence",
+          "calude-code"
+        ],
+        "url": "https://github.com/KlaatAI/klaatcode"
+      },
+      {
+        "repo": "risa-labs-inc/BossConsole",
+        "desc": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+        "lang": "Kotlin",
+        "stars_total": 154,
+        "created": "2026-07-21",
+        "topics": [
+          "agent-harness",
+          "ai-agents",
+          "browser",
+          "claude-code",
+          "codex",
+          "compose-multiplatform",
+          "desktop-app",
+          "gemini"
+        ],
+        "url": "https://github.com/risa-labs-inc/BossConsole"
+      },
+      {
+        "repo": "Saivineeth147/lora-speedrun",
+        "desc": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+        "lang": "Python",
+        "stars_total": 137,
+        "created": "2026-07-18",
+        "topics": [
+          "benchmark",
+          "fine-tuning",
+          "leaderboard",
+          "llm",
+          "lora",
+          "peft",
+          "qlora",
+          "speedrun"
+        ],
+        "url": "https://github.com/Saivineeth147/lora-speedrun"
+      },
+      {
+        "repo": "hahhforest/pi-textbook",
+        "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+        "lang": "TypeScript",
+        "stars_total": 134,
+        "created": "2026-07-21",
+        "topics": [
+          "agent-engineering",
+          "ai-agent",
+          "chinese",
+          "llm",
+          "textbook",
+          "typescript"
+        ],
+        "url": "https://github.com/hahhforest/pi-textbook"
+      },
+      {
+        "repo": "Prism-Shadow/penguin-harness",
+        "desc": "Open, Efficient, Self-Improving Harness: Autonomously Build and Optimize AI Products for Just a Few Dollars",
+        "lang": "TypeScript",
+        "stars_total": 130,
+        "created": "2026-07-19",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-product",
+          "claude-code",
+          "harness",
+          "llm",
+          "productivity"
+        ],
+        "url": "https://github.com/Prism-Shadow/penguin-harness"
+      },
+      {
+        "repo": "Tencent-Hunyuan/Hyra-results",
+        "desc": "Research artifacts from Hyra (/ˈhaɪ.rɑː/)",
+        "lang": "Python",
+        "stars_total": 88,
+        "created": "2026-07-17",
+        "topics": [
+          "agent",
+          "ai-for-science",
+          "ai4science",
+          "autoresearch",
+          "coding",
+          "llm",
+          "recursive-self-improvement"
+        ],
+        "url": "https://github.com/Tencent-Hunyuan/Hyra-results"
+      },
+      {
+        "repo": "drumih/turbo-fieldfare",
+        "desc": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
+        "lang": "Swift",
+        "stars_total": 75,
+        "created": "2026-07-17",
+        "topics": [
+          "apple-silicon",
+          "gemma",
+          "gemma4",
+          "gemma4-26b-a4b",
+          "gpgpu",
+          "llm",
+          "llm-inference",
+          "local-ai"
+        ],
+        "url": "https://github.com/drumih/turbo-fieldfare"
+      },
+      {
+        "repo": "NullLabTests/software-periodic-table",
+        "desc": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+        "lang": "TypeScript",
+        "stars_total": 75,
+        "created": "2026-07-19",
+        "topics": [
+          "ai-agents",
+          "llm",
+          "typescript"
+        ],
+        "url": "https://github.com/NullLabTests/software-periodic-table"
+      },
+      {
+        "repo": "ailinone/collective-intelligence",
+        "desc": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+        "lang": "TypeScript",
+        "stars_total": 61,
+        "created": "2026-07-20",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "artificial-intelligence",
+          "collective",
+          "collective-intelligence",
+          "consensus",
+          "docker",
+          "gateway"
+        ],
+        "url": "https://github.com/ailinone/collective-intelligence"
+      },
+      {
+        "repo": "smixs/mentor",
+        "desc": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable a",
+        "lang": "Python",
+        "stars_total": 59,
+        "created": "2026-07-19",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-skill",
+          "codex",
+          "coding-agent",
+          "developer-productivity"
+        ],
+        "url": "https://github.com/smixs/mentor"
+      },
+      {
+        "repo": "Sudharsanselvaraj/Token-Print",
+        "desc": "Interactive 3D visualization platform for exploring transformer architectures, tensors, and real-time LLM inference.",
+        "lang": "TypeScript",
+        "stars_total": 55,
+        "created": "2026-07-17",
+        "topics": [
+          "3d",
+          "gguf-model-support",
+          "huggingface",
+          "large-language-models",
+          "llm",
+          "open-source",
+          "threejs",
+          "transformer-visualization"
+        ],
+        "url": "https://github.com/Sudharsanselvaraj/Token-Print"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "points": 690,
+        "comments": 155,
+        "url": "https://bento.page/slides/",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
+        "points": 17,
+        "comments": 17,
+        "url": "https://orate.to/",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+        "points": 59,
+        "comments": 20,
+        "url": "https://github.com/AlmanacCode/codealmanac/",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Ask HN: Claude Code or Codex?",
+        "points": 13,
+        "comments": 33,
+        "url": "https://news.ycombinator.com/item?id=48989357",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
+        "points": 21,
+        "comments": 4,
+        "url": "https://github.com/dawndrain/movie-gen",
+        "date": "2026-07-20"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
