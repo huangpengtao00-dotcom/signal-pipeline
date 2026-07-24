@@ -1,0 +1,399 @@
+{
+  "date": "2026-07-24",
+  "trending_daily": [
+    {
+      "repo": "block/buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars_period": "2162",
+      "stars_total": "7282",
+      "url": "https://github.com/block/buzz"
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_period": "3175",
+      "stars_total": "71880",
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "401",
+      "stars_total": "33142",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars_period": "565",
+      "stars_total": "8984",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin"
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "desc": "The best browser for both you and your AI agents work in parallel.",
+      "lang": "JavaScript",
+      "stars_period": "247",
+      "stars_total": "1785",
+      "url": "https://github.com/citrolabs/ego-lite"
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "lang": "Assembly",
+      "stars_period": "592",
+      "stars_total": "71147",
+      "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "lang": "TypeScript",
+      "stars_period": "1929",
+      "stars_total": "27421",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_period": "636",
+      "stars_total": "69531",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "desc": "A collection of agent skills for CAD, robotics and hardware design",
+      "lang": "JavaScript",
+      "stars_period": "230",
+      "stars_total": "10071",
+      "url": "https://github.com/earthtojake/text-to-cad"
+    },
+    {
+      "repo": "agegr/pi-web",
+      "desc": "Web UI for the pi coding agent",
+      "lang": "TypeScript",
+      "stars_period": "315",
+      "stars_total": "2426",
+      "url": "https://github.com/agegr/pi-web"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "180",
+      "stars_total": "11693",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "1708",
+      "stars_total": "85303",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "lang": "TypeScript",
+      "stars_period": "472",
+      "stars_total": "4753",
+      "url": "https://github.com/likec4/likec4"
+    },
+    {
+      "repo": "Automattic/harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "lang": "Rust",
+      "stars_period": "624",
+      "stars_total": "12425",
+      "url": "https://github.com/Automattic/harper"
+    },
+    {
+      "repo": "jellyfin/jellyfin",
+      "desc": "The Free Software Media System - Server Backend &amp; API",
+      "lang": "C#",
+      "stars_period": "66",
+      "stars_total": "54774",
+      "url": "https://github.com/jellyfin/jellyfin"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Kritt-ai/open-kritt",
+        "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+        "lang": "JavaScript",
+        "stars_total": 359,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "agents",
+          "ai",
+          "bug-bounty",
+          "bugbounty",
+          "bugbounty-tools",
+          "security",
+          "security-research"
+        ],
+        "url": "https://github.com/Kritt-ai/open-kritt"
+      },
+      {
+        "repo": "TryCaspian/caspian-sdk",
+        "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+        "lang": "Python",
+        "stars_total": 180,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "communication",
+          "crewai",
+          "discord",
+          "email",
+          "imessage"
+        ],
+        "url": "https://github.com/TryCaspian/caspian-sdk"
+      },
+      {
+        "repo": "Prism-Shadow/penguin-harness",
+        "desc": "🐧 Your Automated Agent Builder Lives on Your Desktop",
+        "lang": "TypeScript",
+        "stars_total": 142,
+        "created": "2026-07-19",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-product",
+          "build-tool",
+          "claude-code",
+          "desktop",
+          "harness"
+        ],
+        "url": "https://github.com/Prism-Shadow/penguin-harness"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "livetennisapi/livetennisapi-mcp",
+        "desc": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+        "lang": "JavaScript",
+        "stars_total": 205,
+        "created": "2026-07-18",
+        "topics": [
+          "ai",
+          "claude",
+          "live-scores",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "sports-api"
+        ],
+        "url": "https://github.com/livetennisapi/livetennisapi-mcp"
+      },
+      {
+        "repo": "TryCaspian/caspian-sdk",
+        "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+        "lang": "Python",
+        "stars_total": 180,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "communication",
+          "crewai",
+          "discord",
+          "email",
+          "imessage"
+        ],
+        "url": "https://github.com/TryCaspian/caspian-sdk"
+      },
+      {
+        "repo": "risa-labs-inc/BossConsole",
+        "desc": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+        "lang": "Kotlin",
+        "stars_total": 168,
+        "created": "2026-07-21",
+        "topics": [
+          "agent-harness",
+          "ai-agents",
+          "browser",
+          "claude-code",
+          "codex",
+          "compose-multiplatform",
+          "desktop-app",
+          "gemini"
+        ],
+        "url": "https://github.com/risa-labs-inc/BossConsole"
+      },
+      {
+        "repo": "hahhforest/pi-textbook",
+        "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+        "lang": "TypeScript",
+        "stars_total": 158,
+        "created": "2026-07-21",
+        "topics": [
+          "agent-engineering",
+          "ai-agent",
+          "chinese",
+          "llm",
+          "textbook",
+          "typescript"
+        ],
+        "url": "https://github.com/hahhforest/pi-textbook"
+      },
+      {
+        "repo": "Prism-Shadow/penguin-harness",
+        "desc": "🐧 Your Automated Agent Builder Lives on Your Desktop",
+        "lang": "TypeScript",
+        "stars_total": 142,
+        "created": "2026-07-19",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-product",
+          "build-tool",
+          "claude-code",
+          "desktop",
+          "harness"
+        ],
+        "url": "https://github.com/Prism-Shadow/penguin-harness"
+      },
+      {
+        "repo": "Saivineeth147/lora-speedrun",
+        "desc": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning.",
+        "lang": "Python",
+        "stars_total": 138,
+        "created": "2026-07-18",
+        "topics": [
+          "benchmark",
+          "fine-tuning",
+          "leaderboard",
+          "llm",
+          "lora",
+          "peft",
+          "qlora",
+          "speedrun"
+        ],
+        "url": "https://github.com/Saivineeth147/lora-speedrun"
+      },
+      {
+        "repo": "ailinone/collective-intelligence",
+        "desc": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+        "lang": "TypeScript",
+        "stars_total": 80,
+        "created": "2026-07-20",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "artificial-intelligence",
+          "collective",
+          "collective-intelligence",
+          "consensus",
+          "docker",
+          "gateway"
+        ],
+        "url": "https://github.com/ailinone/collective-intelligence"
+      },
+      {
+        "repo": "NullLabTests/software-periodic-table",
+        "desc": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+        "lang": "TypeScript",
+        "stars_total": 76,
+        "created": "2026-07-19",
+        "topics": [
+          "ai-agents",
+          "llm",
+          "typescript"
+        ],
+        "url": "https://github.com/NullLabTests/software-periodic-table"
+      },
+      {
+        "repo": "smixs/mentor",
+        "desc": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable a",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-07-19",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-skill",
+          "codex",
+          "coding-agent",
+          "developer-productivity"
+        ],
+        "url": "https://github.com/smixs/mentor"
+      },
+      {
+        "repo": "krakonjac300-pixel/podcast-shorts-factory",
+        "desc": "Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-07-22",
+        "topics": [
+          "ai-agents",
+          "content-automation",
+          "faceless-channel",
+          "ffmpeg",
+          "llm",
+          "podcast",
+          "python",
+          "video-automation"
+        ],
+        "url": "https://github.com/krakonjac300-pixel/podcast-shorts-factory"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+        "points": 82,
+        "comments": 29,
+        "url": "https://github.com/onecli/onecli",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "points": 986,
+        "comments": 230,
+        "url": "https://bento.page/slides/",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
+        "points": 17,
+        "comments": 19,
+        "url": "https://orate.to/",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+        "points": 59,
+        "comments": 21,
+        "url": "https://github.com/AlmanacCode/codealmanac/",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Ask HN: Claude Code or Codex?",
+        "points": 13,
+        "comments": 33,
+        "url": "https://news.ycombinator.com/item?id=48989357",
+        "date": "2026-07-21"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
