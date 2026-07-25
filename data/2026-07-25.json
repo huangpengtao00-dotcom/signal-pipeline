@@ -1,0 +1,385 @@
+{
+  "date": "2026-07-25",
+  "trending_daily": [
+    {
+      "repo": "block/buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars_period": "3270",
+      "stars_total": "10182",
+      "url": "https://github.com/block/buzz"
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_period": "2184",
+      "stars_total": "73413",
+      "url": "https://github.com/koala73/worldmonitor"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_period": "663",
+      "stars_total": "70132",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars_period": "473",
+      "stars_total": "9374",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "499",
+      "stars_total": "33528",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "Automattic/harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "lang": "Rust",
+      "stars_period": "876",
+      "stars_total": "13083",
+      "url": "https://github.com/Automattic/harper"
+    },
+    {
+      "repo": "likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "lang": "TypeScript",
+      "stars_period": "337",
+      "stars_total": "5055",
+      "url": "https://github.com/likec4/likec4"
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "lang": "JavaScript",
+      "stars_period": "880",
+      "stars_total": "2698",
+      "url": "https://github.com/citrolabs/ego-lite"
+    },
+    {
+      "repo": "yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars_period": "338",
+      "stars_total": "19645",
+      "url": "https://github.com/yorukot/superfile"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "1022",
+      "stars_total": "86003",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "CoreBunch/Instatic",
+      "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "lang": "TypeScript",
+      "stars_period": "201",
+      "stars_total": "4335",
+      "url": "https://github.com/CoreBunch/Instatic"
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "lang": "Assembly",
+      "stars_period": "409",
+      "stars_total": "71427",
+      "url": "https://github.com/chrislgarry/Apollo-11"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "2251",
+      "stars_total": "186971",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "lang": "Jupyter Notebook",
+      "stars_period": "328",
+      "stars_total": "45055",
+      "url": "https://github.com/Lordog/dive-into-llms"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "lang": "TypeScript",
+      "stars_period": "1841",
+      "stars_total": "28994",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "repo": "OtterMind/Chat2DB",
+      "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "lang": "Java",
+      "stars_period": "82",
+      "stars_total": "26378",
+      "url": "https://github.com/OtterMind/Chat2DB"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Kritt-ai/open-kritt",
+        "desc": "Orchestrate AI agents to find real vulnerabilities in code.",
+        "lang": "JavaScript",
+        "stars_total": 374,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "agents",
+          "ai",
+          "bug-bounty",
+          "bugbounty",
+          "bugbounty-tools",
+          "security",
+          "security-research"
+        ],
+        "url": "https://github.com/Kritt-ai/open-kritt"
+      },
+      {
+        "repo": "TryCaspian/caspian-sdk",
+        "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+        "lang": "Python",
+        "stars_total": 219,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "communication",
+          "crewai",
+          "discord",
+          "email",
+          "imessage"
+        ],
+        "url": "https://github.com/TryCaspian/caspian-sdk"
+      },
+      {
+        "repo": "Prism-Shadow/penguin-harness",
+        "desc": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
+        "lang": "TypeScript",
+        "stars_total": 152,
+        "created": "2026-07-19",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-product",
+          "build-tool",
+          "claude-code",
+          "desktop",
+          "harness"
+        ],
+        "url": "https://github.com/Prism-Shadow/penguin-harness"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "TryCaspian/caspian-sdk",
+        "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+        "lang": "Python",
+        "stars_total": 219,
+        "created": "2026-07-20",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "communication",
+          "crewai",
+          "discord",
+          "email",
+          "imessage"
+        ],
+        "url": "https://github.com/TryCaspian/caspian-sdk"
+      },
+      {
+        "repo": "risa-labs-inc/BossConsole",
+        "desc": "Open-source, multi-platform harness for AI agents — a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor, secrets & 100+ MCP tools. Built for enterprises, science & research.",
+        "lang": "Kotlin",
+        "stars_total": 175,
+        "created": "2026-07-21",
+        "topics": [
+          "agent-harness",
+          "ai-agents",
+          "browser",
+          "claude-code",
+          "codex",
+          "compose-multiplatform",
+          "desktop-app",
+          "gemini"
+        ],
+        "url": "https://github.com/risa-labs-inc/BossConsole"
+      },
+      {
+        "repo": "hahhforest/pi-textbook",
+        "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+        "lang": "TypeScript",
+        "stars_total": 169,
+        "created": "2026-07-21",
+        "topics": [
+          "agent-engineering",
+          "ai-agent",
+          "chinese",
+          "llm",
+          "textbook",
+          "typescript"
+        ],
+        "url": "https://github.com/hahhforest/pi-textbook"
+      },
+      {
+        "repo": "Prism-Shadow/penguin-harness",
+        "desc": "🐧 Your Automated Agent Builder Lives on Your Desktop: The Best Self-Improving Harness",
+        "lang": "TypeScript",
+        "stars_total": 152,
+        "created": "2026-07-19",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-product",
+          "build-tool",
+          "claude-code",
+          "desktop",
+          "harness"
+        ],
+        "url": "https://github.com/Prism-Shadow/penguin-harness"
+      },
+      {
+        "repo": "ailinone/collective-intelligence",
+        "desc": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.",
+        "lang": "TypeScript",
+        "stars_total": 115,
+        "created": "2026-07-20",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "artificial-intelligence",
+          "collective",
+          "collective-intelligence",
+          "consensus",
+          "docker",
+          "gateway"
+        ],
+        "url": "https://github.com/ailinone/collective-intelligence"
+      },
+      {
+        "repo": "NullLabTests/software-periodic-table",
+        "desc": "A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+        "lang": "TypeScript",
+        "stars_total": 77,
+        "created": "2026-07-19",
+        "topics": [
+          "ai-agents",
+          "llm",
+          "typescript"
+        ],
+        "url": "https://github.com/NullLabTests/software-periodic-table"
+      },
+      {
+        "repo": "krakonjac300-pixel/podcast-shorts-factory",
+        "desc": "Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
+        "lang": "Python",
+        "stars_total": 62,
+        "created": "2026-07-22",
+        "topics": [
+          "ai-agents",
+          "content-automation",
+          "faceless-channel",
+          "ffmpeg",
+          "llm",
+          "podcast",
+          "python",
+          "video-automation"
+        ],
+        "url": "https://github.com/krakonjac300-pixel/podcast-shorts-factory"
+      },
+      {
+        "repo": "smixs/mentor",
+        "desc": "mentor — a session-insights skill for AI coding agents. This skill reads your local Claude Code and OpenAI Codex history and writes an /insights-style HTML report on how you work: what you build, where you lose time, and concrete fixes. An agent skill for Claude Code, Codex, and any skills-capable a",
+        "lang": "Python",
+        "stars_total": 62,
+        "created": "2026-07-19",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-skill",
+          "codex",
+          "coding-agent",
+          "developer-productivity"
+        ],
+        "url": "https://github.com/smixs/mentor"
+      },
+      {
+        "repo": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+        "desc": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
+        "lang": "",
+        "stars_total": 58,
+        "created": "2026-07-23",
+        "topics": [
+          "agi",
+          "deepseek",
+          "liang-wenfeng",
+          "llm"
+        ],
+        "url": "https://github.com/0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+        "points": 103,
+        "comments": 31,
+        "url": "https://github.com/onecli/onecli",
+        "date": "2026-07-23"
+      },
+      {
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "points": 1007,
+        "comments": 234,
+        "url": "https://bento.page/slides/",
+        "date": "2026-07-22"
+      },
+      {
+        "title": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
+        "points": 17,
+        "comments": 19,
+        "url": "https://orate.to/",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+        "points": 59,
+        "comments": 21,
+        "url": "https://github.com/AlmanacCode/codealmanac/",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "Ask HN: Claude Code or Codex?",
+        "points": 13,
+        "comments": 33,
+        "url": "https://news.ycombinator.com/item?id=48989357",
+        "date": "2026-07-21"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
