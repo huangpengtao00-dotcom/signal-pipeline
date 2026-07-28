@@ -1,0 +1,330 @@
+{
+  "date": "2026-07-28",
+  "trending_daily": [
+    {
+      "repo": "permissionlesstech/bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "lang": "Swift",
+      "stars_period": "2346",
+      "stars_total": "32439",
+      "url": "https://github.com/permissionlesstech/bitchat"
+    },
+    {
+      "repo": "amnezia-vpn/amnezia-client",
+      "desc": "Amnezia VPN Client (Desktop+Mobile)",
+      "lang": "C++",
+      "stars_period": "515",
+      "stars_total": "13918",
+      "url": "https://github.com/amnezia-vpn/amnezia-client"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_period": "572",
+      "stars_total": "44163",
+      "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "repo": "opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "lang": "TypeScript",
+      "stars_period": "420",
+      "stars_total": "2805",
+      "url": "https://github.com/opengeos/GeoLibre"
+    },
+    {
+      "repo": "yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars_period": "600",
+      "stars_total": "20970",
+      "url": "https://github.com/yorukot/superfile"
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_period": "362",
+      "stars_total": "58402",
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_period": "847",
+      "stars_total": "51675",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "441",
+      "stars_total": "34613",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "979",
+      "stars_total": "14998",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "lang": "Java",
+      "stars_period": "180",
+      "stars_total": "25907",
+      "url": "https://github.com/jenkinsci/jenkins"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_period": "434",
+      "stars_total": "11230",
+      "url": "https://github.com/bradautomates/claude-video"
+    },
+    {
+      "repo": "vudovn/ag-kit",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "14",
+      "stars_total": "7996",
+      "url": "https://github.com/vudovn/ag-kit"
+    },
+    {
+      "repo": "apache/cassandra",
+      "desc": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "lang": "Java",
+      "stars_period": "11",
+      "stars_total": "9984",
+      "url": "https://github.com/apache/cassandra"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "240",
+      "stars_total": "54260",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "ocornut/imgui",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "lang": "C++",
+      "stars_period": "51",
+      "stars_total": "75236",
+      "url": "https://github.com/ocornut/imgui"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "makecindy/cindy",
+        "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "lang": "TypeScript",
+        "stars_total": 881,
+        "created": "2026-07-22",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios"
+        ],
+        "url": "https://github.com/makecindy/cindy"
+      },
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 263,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      },
+      {
+        "repo": "cocofhu/approving",
+        "desc": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+        "lang": "Go",
+        "stars_total": 73,
+        "created": "2026-07-24",
+        "topics": [
+          "agent",
+          "ai",
+          "browser-automation",
+          "harness",
+          "harness-ai",
+          "harness-ci",
+          "harness-design",
+          "harness-engineering"
+        ],
+        "url": "https://github.com/cocofhu/approving"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "makecindy/cindy",
+        "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "lang": "TypeScript",
+        "stars_total": 881,
+        "created": "2026-07-22",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios"
+        ],
+        "url": "https://github.com/makecindy/cindy"
+      },
+      {
+        "repo": "0xwilliamortiz/openclaude-improved",
+        "desc": "runs anywhere. uses anything",
+        "lang": "TypeScript",
+        "stars_total": 577,
+        "created": "2026-07-26",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "ai-coding-agent",
+          "ai-coding-agents",
+          "ai-coding-assistant",
+          "anthropic"
+        ],
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+      },
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 263,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      },
+      {
+        "repo": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+        "desc": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
+        "lang": "",
+        "stars_total": 148,
+        "created": "2026-07-23",
+        "topics": [
+          "agi",
+          "deepseek",
+          "liang-wenfeng",
+          "llm"
+        ],
+        "url": "https://github.com/0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting"
+      },
+      {
+        "repo": "krakonjac300-pixel/podcast-shorts-factory",
+        "desc": "Ten cooperating AI agents that turn long podcasts into short-form videos, automatically. Free and open source, runs on free AI providers.",
+        "lang": "Python",
+        "stars_total": 80,
+        "created": "2026-07-22",
+        "topics": [
+          "ai-agents",
+          "content-automation",
+          "faceless-channel",
+          "ffmpeg",
+          "llm",
+          "podcast",
+          "python",
+          "video-automation"
+        ],
+        "url": "https://github.com/krakonjac300-pixel/podcast-shorts-factory"
+      },
+      {
+        "repo": "cocofhu/approving",
+        "desc": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+        "lang": "Go",
+        "stars_total": 73,
+        "created": "2026-07-24",
+        "topics": [
+          "agent",
+          "ai",
+          "browser-automation",
+          "harness",
+          "harness-ai",
+          "harness-ci",
+          "harness-design",
+          "harness-engineering"
+        ],
+        "url": "https://github.com/cocofhu/approving"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+        "points": 19,
+        "comments": 21,
+        "url": "https://github.com/hkc5/cursor-bridge",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+        "points": 15,
+        "comments": 1,
+        "url": "https://code.claude.com/docs/en/data-usage",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+        "points": 28,
+        "comments": 13,
+        "url": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "\"We removed over 80% of Claude Code's system prompt for Opus 5 and Fable 5\"",
+        "points": 20,
+        "comments": 2,
+        "url": "https://twitter.com/trq212/status/2080710971228918066",
+        "date": "2026-07-25"
+      },
+      {
+        "title": "Show HN: How well do you use Claude Code?",
+        "points": 21,
+        "comments": 22,
+        "url": "https://news.ycombinator.com/item?id=49042653",
+        "date": "2026-07-24"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
