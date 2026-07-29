@@ -1,0 +1,296 @@
+{
+  "date": "2026-07-29",
+  "trending_daily": [
+    {
+      "repo": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "lang": "TypeScript",
+      "stars_period": "341",
+      "stars_total": "18862",
+      "url": "https://github.com/pascalorg/editor"
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "lang": "Java",
+      "stars_period": "180",
+      "stars_total": "26104",
+      "url": "https://github.com/jenkinsci/jenkins"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_period": "797",
+      "stars_total": "44871",
+      "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "repo": "andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "lang": "Python",
+      "stars_period": "62",
+      "stars_total": "15719",
+      "url": "https://github.com/andrewyng/aisuite"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "636",
+      "stars_total": "234941",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "hello245m/free-stockdb",
+      "desc": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "lang": "HTML",
+      "stars_period": "50",
+      "stars_total": "1413",
+      "url": "https://github.com/hello245m/free-stockdb"
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "lang": "Python",
+      "stars_period": "227",
+      "stars_total": "7348",
+      "url": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "stars_period": "423",
+      "stars_total": "11610",
+      "url": "https://github.com/virgiliojr94/book-to-skill"
+    },
+    {
+      "repo": "opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "lang": "TypeScript",
+      "stars_period": "607",
+      "stars_total": "3480",
+      "url": "https://github.com/opengeos/GeoLibre"
+    },
+    {
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "lang": "Python",
+      "stars_period": "309",
+      "stars_total": "9756",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "lang": "Python",
+      "stars_period": "46",
+      "stars_total": "5270",
+      "url": "https://github.com/microsoft/agent-governance-toolkit"
+    },
+    {
+      "repo": "yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars_period": "662",
+      "stars_total": "21550",
+      "url": "https://github.com/yorukot/superfile"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_period": "988",
+      "stars_total": "12228",
+      "url": "https://github.com/bradautomates/claude-video"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 328,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      },
+      {
+        "repo": "cocofhu/approving",
+        "desc": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+        "lang": "Go",
+        "stars_total": 73,
+        "created": "2026-07-24",
+        "topics": [
+          "agent",
+          "ai",
+          "browser-automation",
+          "harness",
+          "harness-ai",
+          "harness-ci",
+          "harness-design",
+          "harness-engineering"
+        ],
+        "url": "https://github.com/cocofhu/approving"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "0xwilliamortiz/openclaude-improved",
+        "desc": "runs anywhere. uses anything",
+        "lang": "TypeScript",
+        "stars_total": 583,
+        "created": "2026-07-26",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "ai-coding-agent",
+          "ai-coding-agents",
+          "ai-coding-assistant",
+          "anthropic"
+        ],
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+      },
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 328,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      },
+      {
+        "repo": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+        "desc": "梁文锋四小时投资人会议实录，因原文在微信上无法查看，特传一份github",
+        "lang": "",
+        "stars_total": 166,
+        "created": "2026-07-23",
+        "topics": [
+          "agi",
+          "deepseek",
+          "liang-wenfeng",
+          "llm"
+        ],
+        "url": "https://github.com/0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting"
+      },
+      {
+        "repo": "krishagarwal314/autodev-studio",
+        "desc": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
+        "lang": "Python",
+        "stars_total": 84,
+        "created": "2026-07-24",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "autonomous-agents",
+          "claude",
+          "code-generation",
+          "developer-tools",
+          "fastapi",
+          "groq"
+        ],
+        "url": "https://github.com/krishagarwal314/autodev-studio"
+      },
+      {
+        "repo": "cocofhu/approving",
+        "desc": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+        "lang": "Go",
+        "stars_total": 73,
+        "created": "2026-07-24",
+        "topics": [
+          "agent",
+          "ai",
+          "browser-automation",
+          "harness",
+          "harness-ai",
+          "harness-ci",
+          "harness-design",
+          "harness-engineering"
+        ],
+        "url": "https://github.com/cocofhu/approving"
+      },
+      {
+        "repo": "Pinvou/pinvou-agent",
+        "desc": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+        "lang": "JavaScript",
+        "stars_total": 52,
+        "created": "2026-07-24",
+        "topics": [
+          "ai-agent",
+          "automation",
+          "desktop-app",
+          "llm",
+          "local-first",
+          "mcp",
+          "open-source",
+          "react"
+        ],
+        "url": "https://github.com/Pinvou/pinvou-agent"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Tines 3B – safe workflow automation for when everyone builds software",
+        "points": 27,
+        "comments": 2,
+        "url": "https://www.tines.com/",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+        "points": 19,
+        "comments": 21,
+        "url": "https://github.com/hkc5/cursor-bridge",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+        "points": 15,
+        "comments": 1,
+        "url": "https://code.claude.com/docs/en/data-usage",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+        "points": 28,
+        "comments": 13,
+        "url": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "\"We removed over 80% of Claude Code's system prompt for Opus 5 and Fable 5\"",
+        "points": 20,
+        "comments": 2,
+        "url": "https://twitter.com/trq212/status/2080710971228918066",
+        "date": "2026-07-25"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
