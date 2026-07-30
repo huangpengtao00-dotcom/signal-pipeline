@@ -1,0 +1,347 @@
+{
+  "date": "2026-07-30",
+  "trending_daily": [
+    {
+      "repo": "opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "lang": "TypeScript",
+      "stars_period": "671",
+      "stars_total": "4141",
+      "url": "https://github.com/opengeos/GeoLibre"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_period": "682",
+      "stars_total": "45473",
+      "url": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "857",
+      "stars_total": "235676",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "lang": "Python",
+      "stars_period": "827",
+      "stars_total": "7959",
+      "url": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "desc": "The most RAM efficient harness",
+      "lang": "Rust",
+      "stars_period": "640",
+      "stars_total": "13555",
+      "url": "https://github.com/1jehuang/jcode"
+    },
+    {
+      "repo": "grokability/snipe-it",
+      "desc": "A free open source IT asset/license management system",
+      "lang": "PHP",
+      "stars_period": "164",
+      "stars_total": "14494",
+      "url": "https://github.com/grokability/snipe-it"
+    },
+    {
+      "repo": "deepfakes/faceswap",
+      "desc": "Deepfakes Software For All",
+      "lang": "Python",
+      "stars_period": "166",
+      "stars_total": "56395",
+      "url": "https://github.com/deepfakes/faceswap"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "lang": "Python",
+      "stars_period": "336",
+      "stars_total": "51386",
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "lang": "TypeScript",
+      "stars_period": "97",
+      "stars_total": "18042",
+      "url": "https://github.com/different-ai/openwork"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "616",
+      "stars_total": "263380",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "MoonshotAI/FlashKDA",
+      "desc": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "lang": "Cuda",
+      "stars_period": "91",
+      "stars_total": "1016",
+      "url": "https://github.com/MoonshotAI/FlashKDA"
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_period": "154",
+      "stars_total": "59173",
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "359",
+      "stars_total": "16124",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "lang": "Python",
+      "stars_period": "945",
+      "stars_total": "10465",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+    },
+    {
+      "repo": "maderix/ANE",
+      "desc": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "lang": "Objective-C",
+      "stars_period": "22",
+      "stars_total": "7164",
+      "url": "https://github.com/maderix/ANE"
+    },
+    {
+      "repo": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "lang": "TypeScript",
+      "stars_period": "1022",
+      "stars_total": "19644",
+      "url": "https://github.com/pascalorg/editor"
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "stars_period": "1421",
+      "stars_total": "12934",
+      "url": "https://github.com/virgiliojr94/book-to-skill"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 348,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      },
+      {
+        "repo": "QwenAudio/qwen-audio-agent",
+        "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "lang": "JavaScript",
+        "stars_total": 221,
+        "created": "2026-07-27",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "voice-agent",
+          "voice-ai",
+          "voice-chat"
+        ],
+        "url": "https://github.com/QwenAudio/qwen-audio-agent"
+      },
+      {
+        "repo": "cocofhu/approving",
+        "desc": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+        "lang": "Go",
+        "stars_total": 72,
+        "created": "2026-07-24",
+        "topics": [
+          "agent",
+          "ai",
+          "browser-automation",
+          "harness",
+          "harness-ai",
+          "harness-ci",
+          "harness-design",
+          "harness-engineering"
+        ],
+        "url": "https://github.com/cocofhu/approving"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "0xwilliamortiz/openclaude-improved",
+        "desc": "runs anywhere. uses anything",
+        "lang": "TypeScript",
+        "stars_total": 556,
+        "created": "2026-07-26",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "ai-coding-agent",
+          "ai-coding-agents",
+          "ai-coding-assistant",
+          "anthropic"
+        ],
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+      },
+      {
+        "repo": "mikehasa/agentacct",
+        "desc": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+        "lang": "Python",
+        "stars_total": 532,
+        "created": "2026-07-24",
+        "topics": [
+          "agent-observability",
+          "ai-agents",
+          "analytics",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agent",
+          "cost-tracking"
+        ],
+        "url": "https://github.com/mikehasa/agentacct"
+      },
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 348,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      },
+      {
+        "repo": "krishagarwal314/autodev-studio",
+        "desc": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and open a PR — grounded in a one-time knowledge base of your repo.",
+        "lang": "Python",
+        "stars_total": 111,
+        "created": "2026-07-24",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "autonomous-agents",
+          "claude",
+          "code-generation",
+          "developer-tools",
+          "fastapi",
+          "groq"
+        ],
+        "url": "https://github.com/krishagarwal314/autodev-studio"
+      },
+      {
+        "repo": "Pinvou/pinvou-agent",
+        "desc": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+        "lang": "JavaScript",
+        "stars_total": 87,
+        "created": "2026-07-24",
+        "topics": [
+          "ai-agent",
+          "automation",
+          "desktop-app",
+          "llm",
+          "local-first",
+          "mcp",
+          "open-source",
+          "react"
+        ],
+        "url": "https://github.com/Pinvou/pinvou-agent"
+      },
+      {
+        "repo": "cocofhu/approving",
+        "desc": "Approving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.",
+        "lang": "Go",
+        "stars_total": 72,
+        "created": "2026-07-24",
+        "topics": [
+          "agent",
+          "ai",
+          "browser-automation",
+          "harness",
+          "harness-ai",
+          "harness-ci",
+          "harness-design",
+          "harness-engineering"
+        ],
+        "url": "https://github.com/cocofhu/approving"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: A local merge queue for parallel Claude Code agents",
+        "points": 17,
+        "comments": 6,
+        "url": "https://github.com/funador/claude-code-merge-queue",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Show HN: Tines 3B – safe workflow automation for when everyone builds software",
+        "points": 27,
+        "comments": 2,
+        "url": "https://www.tines.com/",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+        "points": 19,
+        "comments": 21,
+        "url": "https://github.com/hkc5/cursor-bridge",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+        "points": 15,
+        "comments": 1,
+        "url": "https://code.claude.com/docs/en/data-usage",
+        "date": "2026-07-26"
+      },
+      {
+        "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+        "points": 28,
+        "comments": 13,
+        "url": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+        "date": "2026-07-26"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
