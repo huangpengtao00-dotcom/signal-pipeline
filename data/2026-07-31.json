@@ -1,0 +1,266 @@
+{
+  "date": "2026-07-31",
+  "trending_daily": [
+    {
+      "repo": "huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "lang": "Python",
+      "stars_period": "628",
+      "stars_total": "9091",
+      "url": "https://github.com/huggingface/speech-to-speech"
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "lang": "Jupyter Notebook",
+      "stars_period": "155",
+      "stars_total": "54234",
+      "url": "https://github.com/microsoft/AI-For-Beginners"
+    },
+    {
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "lang": "Python",
+      "stars_period": "621",
+      "stars_total": "11171",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "lang": "TypeScript",
+      "stars_period": "915",
+      "stars_total": "18852",
+      "url": "https://github.com/different-ai/openwork"
+    },
+    {
+      "repo": "WhiskeySockets/Baileys",
+      "desc": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "lang": "JavaScript",
+      "stars_period": "19",
+      "stars_total": "10464",
+      "url": "https://github.com/WhiskeySockets/Baileys"
+    },
+    {
+      "repo": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "lang": "TypeScript",
+      "stars_period": "625",
+      "stars_total": "20189",
+      "url": "https://github.com/pascalorg/editor"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "378",
+      "stars_total": "55631",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "dotnet/aspnetcore",
+      "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "lang": "C#",
+      "stars_period": "7",
+      "stars_total": "38303",
+      "url": "https://github.com/dotnet/aspnetcore"
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "lang": "C",
+      "stars_period": "70",
+      "stars_total": "137186",
+      "url": "https://github.com/microsoft/PowerToys"
+    },
+    {
+      "repo": "ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "lang": "Python",
+      "stars_period": "29",
+      "stars_total": "69921",
+      "url": "https://github.com/ansible/ansible"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_period": "80",
+      "stars_total": "48128",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "lang": "Java",
+      "stars_period": "25",
+      "stars_total": "26319",
+      "url": "https://github.com/jenkinsci/jenkins"
+    },
+    {
+      "repo": "agavra/tuicr",
+      "desc": "a code review TUI with vim keybindings",
+      "lang": "Rust",
+      "stars_period": "190",
+      "stars_total": "1900",
+      "url": "https://github.com/agavra/tuicr"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "804",
+      "stars_total": "236299",
+      "url": "https://github.com/affaan-m/ECC"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "QwenAudio/qwen-audio-agent",
+        "desc": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+        "lang": "JavaScript",
+        "stars_total": 458,
+        "created": "2026-07-27",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "voice-agent",
+          "voice-ai",
+          "voice-chat"
+        ],
+        "url": "https://github.com/QwenAudio/qwen-audio-agent"
+      },
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 359,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "0xwilliamortiz/openclaude-improved",
+        "desc": "runs anywhere. uses anything",
+        "lang": "TypeScript",
+        "stars_total": 562,
+        "created": "2026-07-26",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-coding",
+          "ai-coding-agent",
+          "ai-coding-agents",
+          "ai-coding-assistant",
+          "anthropic"
+        ],
+        "url": "https://github.com/0xwilliamortiz/openclaude-improved"
+      },
+      {
+        "repo": "deerwork-ai/deer-workflow",
+        "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+        "lang": "TypeScript",
+        "stars_total": 359,
+        "created": "2026-07-26",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-coding",
+          "bun",
+          "dynamic-workflow",
+          "dynamic-workflows"
+        ],
+        "url": "https://github.com/deerwork-ai/deer-workflow"
+      },
+      {
+        "repo": "aigclink/geolook",
+        "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+        "lang": "Python",
+        "stars_total": 132,
+        "created": "2026-07-29",
+        "topics": [
+          "ai-search",
+          "generative-engine-optimization",
+          "geo",
+          "llm",
+          "self-hosted",
+          "seo"
+        ],
+        "url": "https://github.com/aigclink/geolook"
+      },
+      {
+        "repo": "hardrave/NIGHTRUN",
+        "desc": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+        "lang": "Rust",
+        "stars_total": 56,
+        "created": "2026-07-27",
+        "topics": [
+          "ai",
+          "genai",
+          "llama-cpp",
+          "llm",
+          "ollama",
+          "runtime",
+          "vlm"
+        ],
+        "url": "https://github.com/hardrave/NIGHTRUN"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Ski – Voice Coding for Claude Code, Codex and More – On-Device – Free",
+        "points": 13,
+        "comments": 6,
+        "url": "https://heyski.io/",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+        "points": 48,
+        "comments": 24,
+        "url": "https://github.com/hamzarehmandeveloper/claude-account",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "points": 95,
+        "comments": 75,
+        "url": "https://github.com/YoanWai/agent-manager",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Show HN: A local merge queue for parallel Claude Code agents",
+        "points": 41,
+        "comments": 22,
+        "url": "https://github.com/funador/claude-code-merge-queue",
+        "date": "2026-07-30"
+      },
+      {
+        "title": "Show HN: Tines 3B – safe workflow automation for when everyone builds software",
+        "points": 27,
+        "comments": 2,
+        "url": "https://www.tines.com/",
+        "date": "2026-07-28"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
