@@ -1,0 +1,418 @@
+{
+  "date": "2026-08-03",
+  "trending_daily": [
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "lang": "Jupyter Notebook",
+      "stars_period": "2629",
+      "stars_total": "59460",
+      "url": "https://github.com/microsoft/AI-For-Beginners"
+    },
+    {
+      "repo": "usekaneo/kaneo",
+      "desc": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "lang": "TypeScript",
+      "stars_period": "496",
+      "stars_total": "6288",
+      "url": "https://github.com/usekaneo/kaneo"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_period": "819",
+      "stars_total": "25840",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "repo": "iv-org/invidious",
+      "desc": "Invidious is an alternative front-end to YouTube",
+      "lang": "Crystal",
+      "stars_period": "305",
+      "stars_total": "22034",
+      "url": "https://github.com/iv-org/invidious"
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_period": "674",
+      "stars_total": "535067",
+      "url": "https://github.com/codecrafters-io/build-your-own-x"
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "lang": "PowerShell",
+      "stars_period": "1141",
+      "stars_total": "13948",
+      "url": "https://github.com/zhaoxuya520/reverse-skill"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "lang": "TypeScript",
+      "stars_period": "280",
+      "stars_total": "20435",
+      "url": "https://github.com/different-ai/openwork"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "desc": "21 Lessons, Get Started Building with Generative AI",
+      "lang": "Jupyter Notebook",
+      "stars_period": "588",
+      "stars_total": "114915",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_period": "659",
+      "stars_total": "64900",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "lang": "TypeScript",
+      "stars_period": "602",
+      "stars_total": "11250",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "206",
+      "stars_total": "56943",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "NomaDamas/k-skill",
+      "desc": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "lang": "JavaScript",
+      "stars_period": "177",
+      "stars_total": "6916",
+      "url": "https://github.com/NomaDamas/k-skill"
+    },
+    {
+      "repo": "HarbourMasters/Lighthouse",
+      "desc": "",
+      "lang": "C",
+      "stars_period": "65",
+      "stars_total": "242",
+      "url": "https://github.com/HarbourMasters/Lighthouse"
+    },
+    {
+      "repo": "antirez/ds4",
+      "desc": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "lang": "C",
+      "stars_period": "139",
+      "stars_total": "20065",
+      "url": "https://github.com/antirez/ds4"
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "lang": "Go",
+      "stars_period": "333",
+      "stars_total": "29236",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Anionex/codex-vision-proxy",
+        "desc": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+        "lang": "Python",
+        "stars_total": 212,
+        "created": "2026-08-01",
+        "topics": [
+          "agent",
+          "codex",
+          "deepseek",
+          "glm",
+          "kimi",
+          "llm",
+          "multimodal",
+          "text-only-llm"
+        ],
+        "url": "https://github.com/Anionex/codex-vision-proxy"
+      },
+      {
+        "repo": "HezaoHezao/poirot",
+        "desc": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
+        "lang": "Python",
+        "stars_total": 103,
+        "created": "2026-07-28",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "agent-skill",
+          "agent-skills",
+          "agentic-ai",
+          "agents",
+          "ai-agent",
+          "ai-agents"
+        ],
+        "url": "https://github.com/HezaoHezao/poirot"
+      },
+      {
+        "repo": "danielroe/empathy",
+        "desc": "A skill that helps AI agents talk to humans.",
+        "lang": "Shell",
+        "stars_total": 61,
+        "created": "2026-07-30",
+        "topics": [
+          "agent",
+          "kindness",
+          "skill"
+        ],
+        "url": "https://github.com/danielroe/empathy"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "0xwilliamortiz/ratchet",
+        "desc": "Your agent reads the rules. This checks whether it followed them.",
+        "lang": "JavaScript",
+        "stars_total": 411,
+        "created": "2026-07-31",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "code-quality",
+          "developer-tools",
+          "hooks",
+          "llm"
+        ],
+        "url": "https://github.com/0xwilliamortiz/ratchet"
+      },
+      {
+        "repo": "FareedKhan-dev/kimi-k3-in-c",
+        "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "lang": "C",
+        "stars_total": 310,
+        "created": "2026-08-01",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention"
+        ],
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+      },
+      {
+        "repo": "Anionex/codex-vision-proxy",
+        "desc": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+        "lang": "Python",
+        "stars_total": 212,
+        "created": "2026-08-01",
+        "topics": [
+          "agent",
+          "codex",
+          "deepseek",
+          "glm",
+          "kimi",
+          "llm",
+          "multimodal",
+          "text-only-llm"
+        ],
+        "url": "https://github.com/Anionex/codex-vision-proxy"
+      },
+      {
+        "repo": "aigclink/geolook",
+        "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+        "lang": "Python",
+        "stars_total": 186,
+        "created": "2026-07-29",
+        "topics": [
+          "aeo",
+          "ai-search",
+          "ai-visibility",
+          "answer-engine-optimization",
+          "generative-engine-optimization",
+          "geo",
+          "llm",
+          "self-hosted"
+        ],
+        "url": "https://github.com/aigclink/geolook"
+      },
+      {
+        "repo": "simonlin1212/vibe-astock",
+        "desc": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
+        "lang": "Python",
+        "stars_total": 111,
+        "created": "2026-07-29",
+        "topics": [
+          "a-share",
+          "ai-agent",
+          "akshare",
+          "china-stock-market",
+          "dashboard",
+          "fastapi",
+          "fintech",
+          "llm"
+        ],
+        "url": "https://github.com/simonlin1212/vibe-astock"
+      },
+      {
+        "repo": "juxhinr/bindwidth",
+        "desc": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+        "lang": "JavaScript",
+        "stars_total": 95,
+        "created": "2026-08-01",
+        "topics": [
+          "ai",
+          "calculator",
+          "inference",
+          "javascript",
+          "llm",
+          "on-prem",
+          "sizing",
+          "tco"
+        ],
+        "url": "https://github.com/juxhinr/bindwidth"
+      },
+      {
+        "repo": "bybit-exchange/kaas",
+        "desc": "Turn scattered notes, docs and transcripts into a queryable Markdown wiki — an LLM knowledge-base compiler with MCP access, no embeddings, self-hosted.",
+        "lang": "Python",
+        "stars_total": 76,
+        "created": "2026-07-29",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "golang",
+          "knowledge-base",
+          "knowledge-management",
+          "llm",
+          "markdown",
+          "mcp"
+        ],
+        "url": "https://github.com/bybit-exchange/kaas"
+      },
+      {
+        "repo": "ilindaniel/impeccable-lite",
+        "desc": "Stop agents from designing sloppy UI. Inspired by Impeccable, but without the plugin machinery. Just one SKILL.md file.",
+        "lang": "",
+        "stars_total": 61,
+        "created": "2026-08-01",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "cursor-rules",
+          "developer-tools"
+        ],
+        "url": "https://github.com/ilindaniel/impeccable-lite"
+      },
+      {
+        "repo": "patchy631/time-to-first-token",
+        "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+        "lang": "HTML",
+        "stars_total": 60,
+        "created": "2026-08-02",
+        "topics": [
+          "learning-resources",
+          "llm",
+          "llm-inference",
+          "mlops",
+          "roadmap",
+          "sglang",
+          "vllm"
+        ],
+        "url": "https://github.com/patchy631/time-to-first-token"
+      },
+      {
+        "repo": "alikon-art/DeterminFlow",
+        "desc": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+        "lang": "Python",
+        "stars_total": 58,
+        "created": "2026-08-02",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "ai-workflow",
+          "fastapi",
+          "llm",
+          "multi-agent",
+          "python",
+          "workflow-automation"
+        ],
+        "url": "https://github.com/alikon-art/DeterminFlow"
+      },
+      {
+        "repo": "CoordClaw/CoordClaw",
+        "desc": "CoordClaw: a multi-agent system that runs AI like a one-person company. Built on management & organizational theory — teams defined in natural language, collaboration driven by a message loop (not hard-coded DAGs). Auditable work logs, human god's-eye oversight.",
+        "lang": "TypeScript",
+        "stars_total": 52,
+        "created": "2026-07-29",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "ai-digital-society",
+          "ai-management",
+          "ai-team",
+          "autonomous-agents",
+          "collaboration",
+          "llm"
+        ],
+        "url": "https://github.com/CoordClaw/CoordClaw"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+        "points": 34,
+        "comments": 9,
+        "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+        "points": 14,
+        "comments": 13,
+        "url": "https://news.ycombinator.com/item?id=49139845",
+        "date": "2026-08-02"
+      },
+      {
+        "title": "Show HN: Cockpit for you Claude Code agents in Rust",
+        "points": 12,
+        "comments": 2,
+        "url": "https://episko.dev/",
+        "date": "2026-08-01"
+      },
+      {
+        "title": "Show HN: The Goal is simple, there should be an actual free editor",
+        "points": 20,
+        "comments": 7,
+        "url": "https://sylixide.com",
+        "date": "2026-07-31"
+      },
+      {
+        "title": "Show HN: Ski – Voice Coding for Claude Code, Codex and More – On-Device – Free",
+        "points": 15,
+        "comments": 14,
+        "url": "https://heyski.io/",
+        "date": "2026-07-30"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
