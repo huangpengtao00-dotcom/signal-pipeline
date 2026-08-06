@@ -1,0 +1,388 @@
+{
+  "date": "2026-08-06",
+  "trending_daily": [
+    {
+      "repo": "cloudflare/computer",
+      "desc": "Give your agent a computer 👾",
+      "lang": "TypeScript",
+      "stars_period": "891",
+      "stars_total": "3337",
+      "url": "https://github.com/cloudflare/computer"
+    },
+    {
+      "repo": "huangruiteng/loopx",
+      "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "lang": "Python",
+      "stars_period": "326",
+      "stars_total": "2293",
+      "url": "https://github.com/huangruiteng/loopx"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "lang": "TypeScript",
+      "stars_period": "1892",
+      "stars_total": "15217",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "lang": "Python",
+      "stars_period": "303",
+      "stars_total": "361646",
+      "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_period": "1582",
+      "stars_total": "11594",
+      "url": "https://github.com/firecrawl/pdf-inspector"
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "lang": "Go",
+      "stars_period": "747",
+      "stars_total": "31761",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "226",
+      "stars_total": "82054",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "931",
+      "stars_total": "267406",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_period": "146",
+      "stars_total": "48979",
+      "url": "https://github.com/roboflow/supervision"
+    },
+    {
+      "repo": "vercel/next.js",
+      "desc": "The React Framework",
+      "lang": "JavaScript",
+      "stars_period": "68",
+      "stars_total": "141576",
+      "url": "https://github.com/vercel/next.js"
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "lang": "TypeScript",
+      "stars_period": "408",
+      "stars_total": "96901",
+      "url": "https://github.com/tailwindlabs/tailwindcss"
+    },
+    {
+      "repo": "uber/ADR",
+      "desc": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "lang": "Python",
+      "stars_period": "354",
+      "stars_total": "1084",
+      "url": "https://github.com/uber/ADR"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_period": "833",
+      "stars_total": "29185",
+      "url": "https://github.com/lyogavin/airllm"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Anionex/agent-vision-toolkit",
+        "desc": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+        "lang": "Python",
+        "stars_total": 306,
+        "created": "2026-08-01",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "codex",
+          "computer-use",
+          "deepseek",
+          "deepseek-v4"
+        ],
+        "url": "https://github.com/Anionex/agent-vision-toolkit"
+      },
+      {
+        "repo": "AMAP-ML/LongHorizon-Harness",
+        "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Cl",
+        "lang": "Python",
+        "stars_total": 289,
+        "created": "2026-08-04",
+        "topics": [
+          "agent",
+          "claude",
+          "claude-code",
+          "claude-plugin",
+          "cli",
+          "codex",
+          "codex-desktop",
+          "codex-plugin"
+        ],
+        "url": "https://github.com/AMAP-ML/LongHorizon-Harness"
+      },
+      {
+        "repo": "xbsheng/atguigu-note",
+        "desc": "尚硅谷 AI 课程笔记",
+        "lang": "Jupyter Notebook",
+        "stars_total": 73,
+        "created": "2026-07-31",
+        "topics": [
+          "agent",
+          "agents",
+          "ai",
+          "atguigu",
+          "langchain",
+          "langgraph",
+          "python"
+        ],
+        "url": "https://github.com/xbsheng/atguigu-note"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "FareedKhan-dev/kimi-k3-in-c",
+        "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "lang": "C",
+        "stars_total": 2607,
+        "created": "2026-08-01",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention"
+        ],
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+      },
+      {
+        "repo": "0xwilliamortiz/ratchet",
+        "desc": "Your agent reads the rules. This checks whether it followed them.",
+        "lang": "JavaScript",
+        "stars_total": 432,
+        "created": "2026-07-31",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-skills",
+          "code-quality",
+          "developer-tools",
+          "hooks",
+          "llm"
+        ],
+        "url": "https://github.com/0xwilliamortiz/ratchet"
+      },
+      {
+        "repo": "patchy631/time-to-first-token",
+        "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+        "lang": "HTML",
+        "stars_total": 331,
+        "created": "2026-08-02",
+        "topics": [
+          "learning-resources",
+          "llm",
+          "llm-inference",
+          "mlops",
+          "roadmap",
+          "sglang",
+          "vllm"
+        ],
+        "url": "https://github.com/patchy631/time-to-first-token"
+      },
+      {
+        "repo": "Anionex/agent-vision-toolkit",
+        "desc": "给纯文本 LLM agent 装上眼睛：图片问答、OCR、截图分析、视觉定位等一套视觉工具箱 + skill，并可无缝接入 Codex、Claude Code、OpenCode、Pi ｜ Give text-only LLM agents vision: image Q&A, OCR, screenshot understanding, visual grounding, image-to-SVG - a vision toolkit & skill, with drop-in integration for Codex, Claude Code, OpenCode, Pi",
+        "lang": "Python",
+        "stars_total": 306,
+        "created": "2026-08-01",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "claude-code",
+          "cli",
+          "codex",
+          "computer-use",
+          "deepseek",
+          "deepseek-v4"
+        ],
+        "url": "https://github.com/Anionex/agent-vision-toolkit"
+      },
+      {
+        "repo": "alikon-art/DeterminFlow",
+        "desc": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+        "lang": "Python",
+        "stars_total": 202,
+        "created": "2026-08-02",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "ai-workflow",
+          "fastapi",
+          "llm",
+          "multi-agent",
+          "python",
+          "workflow-automation"
+        ],
+        "url": "https://github.com/alikon-art/DeterminFlow"
+      },
+      {
+        "repo": "juxhinr/bindwidth",
+        "desc": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+        "lang": "JavaScript",
+        "stars_total": 128,
+        "created": "2026-08-01",
+        "topics": [
+          "ai",
+          "calculator",
+          "inference",
+          "javascript",
+          "llm",
+          "on-prem",
+          "sizing",
+          "tco"
+        ],
+        "url": "https://github.com/juxhinr/bindwidth"
+      },
+      {
+        "repo": "AFan4724/clone-chat",
+        "desc": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.",
+        "lang": "JavaScript",
+        "stars_total": 111,
+        "created": "2026-08-01",
+        "topics": [
+          "ai",
+          "chat-history",
+          "chatbot",
+          "conversation-agent",
+          "llm",
+          "local-llm",
+          "openai-agents",
+          "persona"
+        ],
+        "url": "https://github.com/AFan4724/clone-chat"
+      },
+      {
+        "repo": "888newstep/ai-agent-platform",
+        "desc": "企业级 AI Agent 平台 | Spring Boot 3 + LangChain4j | ReAct 推理 + 多路召回 RAG + 语义缓存 + 多智能体协作",
+        "lang": "Java",
+        "stars_total": 64,
+        "created": "2026-07-31",
+        "topics": [
+          "ai-agent",
+          "docker",
+          "java",
+          "langchain4j",
+          "llm",
+          "milvus",
+          "rag",
+          "react-agent"
+        ],
+        "url": "https://github.com/888newstep/ai-agent-platform"
+      },
+      {
+        "repo": "ilindaniel/impeccable-lite",
+        "desc": "Stop agents from designing sloppy UI. Inspired by Impeccable, but without the plugin machinery. Just one SKILL.md file.",
+        "lang": "",
+        "stars_total": 62,
+        "created": "2026-08-01",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "cursor-rules",
+          "developer-tools"
+        ],
+        "url": "https://github.com/ilindaniel/impeccable-lite"
+      },
+      {
+        "repo": "openwarehq/websiteprompts",
+        "desc": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.",
+        "lang": "",
+        "stars_total": 57,
+        "created": "2026-08-02",
+        "topics": [
+          "ai",
+          "ai-tools",
+          "claude",
+          "claude-code",
+          "cursor",
+          "frontend",
+          "generative-ai",
+          "landing-page"
+        ],
+        "url": "https://github.com/openwarehq/websiteprompts"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+        "points": 75,
+        "comments": 38,
+        "url": "https://github.com/tikalk/adlc-team-skills",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+        "points": 79,
+        "comments": 63,
+        "url": "https://hoplite.sh",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "points": 42,
+        "comments": 4,
+        "url": "https://armature.tech/",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+        "points": 69,
+        "comments": 14,
+        "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Ask HN: I still don't understand why AI agents need \"skills\"",
+        "points": 17,
+        "comments": 17,
+        "url": "https://news.ycombinator.com/item?id=49139845",
+        "date": "2026-08-02"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
