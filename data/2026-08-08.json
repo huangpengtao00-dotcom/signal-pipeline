@@ -1,0 +1,331 @@
+{
+  "date": "2026-08-08",
+  "trending_daily": [
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars_period": "2293",
+      "stars_total": "6668",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "1131",
+      "stars_total": "83940",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "cloudflare/computer",
+      "desc": "Give your agent a computer 👾",
+      "lang": "TypeScript",
+      "stars_period": "872",
+      "stars_total": "5793",
+      "url": "https://github.com/cloudflare/computer"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "2152",
+      "stars_total": "208897",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "782",
+      "stars_total": "268772",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "goauthentik/authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars_period": "530",
+      "stars_total": "23630",
+      "url": "https://github.com/goauthentik/authentik"
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_period": "122",
+      "stars_total": "2367",
+      "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "stars_period": "141",
+      "stars_total": "70527",
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "repo": "chenyme/grok2api",
+      "desc": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "lang": "Go",
+      "stars_period": "55",
+      "stars_total": "7146",
+      "url": "https://github.com/chenyme/grok2api"
+    },
+    {
+      "repo": "jdx/mise",
+      "desc": "dev tools, env vars, task runner",
+      "lang": "Rust",
+      "stars_period": "135",
+      "stars_total": "32084",
+      "url": "https://github.com/jdx/mise"
+    },
+    {
+      "repo": "Significant-Gravitas/AutoGPT",
+      "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "lang": "Python",
+      "stars_period": "355",
+      "stars_total": "186343",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT"
+    },
+    {
+      "repo": "google/guava",
+      "desc": "Google core libraries for Java",
+      "lang": "Java",
+      "stars_period": "152",
+      "stars_total": "51767",
+      "url": "https://github.com/google/guava"
+    },
+    {
+      "repo": "unclebob/swarm-forge",
+      "desc": "A simple tool for coordinating several AI agents.",
+      "lang": "Clojure",
+      "stars_period": "81",
+      "stars_total": "1842",
+      "url": "https://github.com/unclebob/swarm-forge"
+    },
+    {
+      "repo": "denoland/celld",
+      "desc": "self-hosted, distributed Durable Objects",
+      "lang": "Rust",
+      "stars_period": "516",
+      "stars_total": "2226",
+      "url": "https://github.com/denoland/celld"
+    },
+    {
+      "repo": "K2SOsint/Legendary_OSINT",
+      "desc": "A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "lang": "",
+      "stars_period": "109",
+      "stars_total": "1458",
+      "url": "https://github.com/K2SOsint/Legendary_OSINT"
+    },
+    {
+      "repo": "pranshuparmar/witr",
+      "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "lang": "Go",
+      "stars_period": "234",
+      "stars_total": "19788",
+      "url": "https://github.com/pranshuparmar/witr"
+    },
+    {
+      "repo": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_period": "327",
+      "stars_total": "16275",
+      "url": "https://github.com/google/skills"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "AMAP-ML/LongHorizon-Harness",
+        "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Cl",
+        "lang": "Python",
+        "stars_total": 389,
+        "created": "2026-08-04",
+        "topics": [
+          "agent",
+          "claude",
+          "claude-code",
+          "claude-plugin",
+          "cli",
+          "codex",
+          "codex-desktop",
+          "codex-plugin"
+        ],
+        "url": "https://github.com/AMAP-ML/LongHorizon-Harness"
+      },
+      {
+        "repo": "wanmol/goal-flow",
+        "desc": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+        "lang": "Python",
+        "stars_total": 71,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "agentic-engineering",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agent"
+        ],
+        "url": "https://github.com/wanmol/goal-flow"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "patchy631/time-to-first-token",
+        "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+        "lang": "HTML",
+        "stars_total": 343,
+        "created": "2026-08-02",
+        "topics": [
+          "learning-resources",
+          "llm",
+          "llm-inference",
+          "mlops",
+          "roadmap",
+          "sglang",
+          "vllm"
+        ],
+        "url": "https://github.com/patchy631/time-to-first-token"
+      },
+      {
+        "repo": "alikon-art/DeterminFlow",
+        "desc": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+        "lang": "Python",
+        "stars_total": 250,
+        "created": "2026-08-02",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "ai-workflow",
+          "fastapi",
+          "llm",
+          "multi-agent",
+          "python",
+          "workflow-automation"
+        ],
+        "url": "https://github.com/alikon-art/DeterminFlow"
+      },
+      {
+        "repo": "oliverb-io1902e8/agent-skills-collection",
+        "desc": "Curated collection of modular agent skills for LLM-based agents",
+        "lang": "Python",
+        "stars_total": 146,
+        "created": "2026-08-06",
+        "topics": [
+          "agent-skills",
+          "agentic-workflow",
+          "ai-agents",
+          "automation",
+          "chatgpt",
+          "claude",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/oliverb-io1902e8/agent-skills-collection"
+      },
+      {
+        "repo": "TOPDEV99999/AI-Knowledge-Management-Platform",
+        "desc": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+        "lang": "Jupyter Notebook",
+        "stars_total": 93,
+        "created": "2026-08-03",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "artificial-intelligence",
+          "generative-ai",
+          "large-language-models",
+          "llm",
+          "llm-agents"
+        ],
+        "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform"
+      },
+      {
+        "repo": "openwarehq/websiteprompts",
+        "desc": "make beautiful 3d websites in one skill, plus 50+ website prompts for you to use. ",
+        "lang": "JavaScript",
+        "stars_total": 71,
+        "created": "2026-08-02",
+        "topics": [
+          "agent-skills",
+          "ai",
+          "ai-tools",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "cursor",
+          "frontend"
+        ],
+        "url": "https://github.com/openwarehq/websiteprompts"
+      },
+      {
+        "repo": "wanmol/goal-flow",
+        "desc": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+        "lang": "Python",
+        "stars_total": 71,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "agentic-engineering",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agent"
+        ],
+        "url": "https://github.com/wanmol/goal-flow"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+        "points": 18,
+        "comments": 14,
+        "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+        "points": 35,
+        "comments": 22,
+        "url": "https://github.com/pradipta/wallfacer",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+        "points": 75,
+        "comments": 38,
+        "url": "https://github.com/tikalk/adlc-team-skills",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+        "points": 81,
+        "comments": 66,
+        "url": "https://hoplite.sh",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "points": 42,
+        "comments": 8,
+        "url": "https://armature.tech/",
+        "date": "2026-08-03"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
