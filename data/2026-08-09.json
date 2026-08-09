@@ -1,0 +1,308 @@
+{
+  "date": "2026-08-09",
+  "trending_daily": [
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars_period": "2483",
+      "stars_total": "9058",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "779",
+      "stars_total": "84607",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars_period": "118",
+      "stars_total": "77964",
+      "url": "https://github.com/TapXWorld/ChinaTextbook"
+    },
+    {
+      "repo": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_period": "481",
+      "stars_total": "16767",
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1359",
+      "stars_total": "210088",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "goauthentik/authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars_period": "467",
+      "stars_total": "23990",
+      "url": "https://github.com/goauthentik/authentik"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_period": "153",
+      "stars_total": "96518",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "repo": "google/guava",
+      "desc": "Google core libraries for Java",
+      "lang": "Java",
+      "stars_period": "93",
+      "stars_total": "51858",
+      "url": "https://github.com/google/guava"
+    },
+    {
+      "repo": "LadybirdBrowser/ladybird",
+      "desc": "Truly independent web browser",
+      "lang": "C++",
+      "stars_period": "48",
+      "stars_total": "65007",
+      "url": "https://github.com/LadybirdBrowser/ladybird"
+    },
+    {
+      "repo": "denoland/celld",
+      "desc": "self-hosted, distributed Durable Objects",
+      "lang": "Rust",
+      "stars_period": "432",
+      "stars_total": "2606",
+      "url": "https://github.com/denoland/celld"
+    },
+    {
+      "repo": "litu54/DevOps-Interview-Guide",
+      "desc": "DevOps Interview Guide",
+      "lang": "",
+      "stars_period": "68",
+      "stars_total": "714",
+      "url": "https://github.com/litu54/DevOps-Interview-Guide"
+    },
+    {
+      "repo": "bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "lang": "Kotlin",
+      "stars_period": "101",
+      "stars_total": "49915",
+      "url": "https://github.com/bannedbook/fanqiang"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "AMAP-ML/LongHorizon-Harness",
+        "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Cl",
+        "lang": "Python",
+        "stars_total": 411,
+        "created": "2026-08-04",
+        "topics": [
+          "agent",
+          "claude",
+          "claude-code",
+          "claude-plugin",
+          "cli",
+          "codex",
+          "codex-desktop",
+          "codex-plugin"
+        ],
+        "url": "https://github.com/AMAP-ML/LongHorizon-Harness"
+      },
+      {
+        "repo": "wanmol/goal-flow",
+        "desc": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+        "lang": "Python",
+        "stars_total": 71,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "agentic-engineering",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agent"
+        ],
+        "url": "https://github.com/wanmol/goal-flow"
+      },
+      {
+        "repo": "shift-labs-ai/pi-rlm",
+        "desc": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
+        "lang": "TypeScript",
+        "stars_total": 61,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "bun",
+          "llm-tools",
+          "pi",
+          "repl",
+          "typescript"
+        ],
+        "url": "https://github.com/shift-labs-ai/pi-rlm"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "i3T4AN/KADATH",
+        "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+        "lang": "Python",
+        "stars_total": 163,
+        "created": "2026-08-08",
+        "topics": [
+          "agent-evaluation-tools",
+          "agent-framework",
+          "agent-swarms",
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-agents",
+          "autonomous-agents"
+        ],
+        "url": "https://github.com/i3T4AN/KADATH"
+      },
+      {
+        "repo": "oliverb-io1902e8/agent-skills-collection",
+        "desc": "Curated collection of modular agent skills for LLM-based agents",
+        "lang": "Python",
+        "stars_total": 146,
+        "created": "2026-08-06",
+        "topics": [
+          "agent-skills",
+          "agentic-workflow",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-tools",
+          "automation",
+          "chatgpt"
+        ],
+        "url": "https://github.com/oliverb-io1902e8/agent-skills-collection"
+      },
+      {
+        "repo": "TOPDEV99999/AI-Knowledge-Management-Platform",
+        "desc": "An agentic LLM-powered knowledge assistant that enhances RAG capabilities through automated entity extraction, structured data analysis, and SQL-based reasoning to deliver accurate answers for complex, multi-step, and analytical queries.",
+        "lang": "Jupyter Notebook",
+        "stars_total": 93,
+        "created": "2026-08-03",
+        "topics": [
+          "agentic-ai",
+          "ai",
+          "ai-agents",
+          "artificial-intelligence",
+          "generative-ai",
+          "large-language-models",
+          "llm",
+          "llm-agents"
+        ],
+        "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform"
+      },
+      {
+        "repo": "UditAkhourii/neuroarxiv",
+        "desc": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+        "lang": "TypeScript",
+        "stars_total": 88,
+        "created": "2026-08-05",
+        "topics": [
+          "arxiv",
+          "arxiv-api",
+          "llm",
+          "planning",
+          "reasoning",
+          "reasoning-language-models",
+          "reasoning-models",
+          "workflow"
+        ],
+        "url": "https://github.com/UditAkhourii/neuroarxiv"
+      },
+      {
+        "repo": "wanmol/goal-flow",
+        "desc": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+        "lang": "Python",
+        "stars_total": 71,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "agentic-engineering",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agent"
+        ],
+        "url": "https://github.com/wanmol/goal-flow"
+      },
+      {
+        "repo": "david-g-3654/homebench",
+        "desc": "Benchmark your local LLMs: speed, memory, and quality, in one command. TUI leaderboard for Ollama, LM Studio, llama.cpp, and vLLM.",
+        "lang": "Python",
+        "stars_total": 51,
+        "created": "2026-08-03",
+        "topics": [
+          "benchmark",
+          "cli",
+          "evaluation",
+          "llama-cpp",
+          "llm",
+          "lm-studio",
+          "local-ai",
+          "local-llm"
+        ],
+        "url": "https://github.com/david-g-3654/homebench"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Message your other Claude Code sessions",
+        "points": 70,
+        "comments": 33,
+        "url": "https://code.claude.com/docs/en/cross-session-messaging",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Auto Mode will be the default in Claude Code – because humans can't be trusted",
+        "points": 16,
+        "comments": 4,
+        "url": "https://thenewstack.io/claude-code-auto-mode/",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+        "points": 21,
+        "comments": 23,
+        "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+        "date": "2026-08-07"
+      },
+      {
+        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+        "points": 36,
+        "comments": 22,
+        "url": "https://github.com/pradipta/wallfacer",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+        "points": 75,
+        "comments": 38,
+        "url": "https://github.com/tikalk/adlc-team-skills",
+        "date": "2026-08-04"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
