@@ -1,0 +1,367 @@
+{
+  "date": "2026-08-11",
+  "trending_daily": [
+    {
+      "repo": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_period": "970",
+      "stars_total": "4195",
+      "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_period": "1349",
+      "stars_total": "141888",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_period": "259",
+      "stars_total": "61133",
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "659",
+      "stars_total": "85788",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_period": "198",
+      "stars_total": "76559",
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars_period": "2642",
+      "stars_total": "13171",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+    },
+    {
+      "repo": "LadybirdBrowser/ladybird",
+      "desc": "Truly independent web browser",
+      "lang": "C++",
+      "stars_period": "56",
+      "stars_total": "65276",
+      "url": "https://github.com/LadybirdBrowser/ladybird"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "154",
+      "stars_total": "89394",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "danielmiessler/LifeOS",
+      "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "lang": "TypeScript",
+      "stars_period": "315",
+      "stars_total": "17961",
+      "url": "https://github.com/danielmiessler/LifeOS"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "lang": "TypeScript",
+      "stars_period": "835",
+      "stars_total": "165148",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_period": "177",
+      "stars_total": "97261",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "repo": "google-deepmind/weathernext",
+      "desc": "",
+      "lang": "Python",
+      "stars_period": "325",
+      "stars_total": "7371",
+      "url": "https://github.com/google-deepmind/weathernext"
+    },
+    {
+      "repo": "vitali87/code-graph-rag",
+      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "lang": "Python",
+      "stars_period": "682",
+      "stars_total": "3561",
+      "url": "https://github.com/vitali87/code-graph-rag"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "389",
+      "stars_total": "18046",
+      "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "lang": "Python",
+      "stars_period": "922",
+      "stars_total": "126373",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "repo": "opa334/Dopamine",
+      "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "lang": "C",
+      "stars_period": "111",
+      "stars_total": "6052",
+      "url": "https://github.com/opa334/Dopamine"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "wanmol/goal-flow",
+        "desc": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+        "lang": "Python",
+        "stars_total": 72,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "agentic-engineering",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agent"
+        ],
+        "url": "https://github.com/wanmol/goal-flow"
+      },
+      {
+        "repo": "shift-labs-ai/pi-rlm",
+        "desc": "A pi extension with a single tool: execute, running TypeScript in a persistent Bun evaluator. Files, shell, and subagents are expressed as code rather than as more tools.",
+        "lang": "TypeScript",
+        "stars_total": 68,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "bun",
+          "llm-tools",
+          "pi",
+          "repl",
+          "typescript"
+        ],
+        "url": "https://github.com/shift-labs-ai/pi-rlm"
+      },
+      {
+        "repo": "irzix/nestjs-agentic",
+        "desc": "Agentic Infrastructure & Governance Layer for NestJS",
+        "lang": "TypeScript",
+        "stars_total": 51,
+        "created": "2026-08-07",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "nestjs",
+          "nestjs-backend"
+        ],
+        "url": "https://github.com/irzix/nestjs-agentic"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "UditAkhourii/neuroarxiv",
+        "desc": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+        "lang": "TypeScript",
+        "stars_total": 250,
+        "created": "2026-08-05",
+        "topics": [
+          "arxiv",
+          "arxiv-api",
+          "llm",
+          "planning",
+          "reasoning",
+          "reasoning-language-models",
+          "reasoning-models",
+          "workflow"
+        ],
+        "url": "https://github.com/UditAkhourii/neuroarxiv"
+      },
+      {
+        "repo": "antinomie-lab/pi-book",
+        "desc": "Source-backed architecture notes on building an agent",
+        "lang": "Vue",
+        "stars_total": 236,
+        "created": "2026-08-07",
+        "topics": [
+          "agent-loop",
+          "ai-agent",
+          "book",
+          "chinese",
+          "code-reading",
+          "llm",
+          "pi-agent",
+          "pi-agent-core"
+        ],
+        "url": "https://github.com/antinomie-lab/pi-book"
+      },
+      {
+        "repo": "SaladDay/pi-from-scratch",
+        "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+        "lang": "TypeScript",
+        "stars_total": 217,
+        "created": "2026-08-09",
+        "topics": [
+          "agent-loop",
+          "ai-agent",
+          "coding-agent",
+          "llm",
+          "llm-agent",
+          "pi",
+          "pi-agent",
+          "tool-calling"
+        ],
+        "url": "https://github.com/SaladDay/pi-from-scratch"
+      },
+      {
+        "repo": "i3T4AN/KADATH",
+        "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+        "lang": "Python",
+        "stars_total": 172,
+        "created": "2026-08-08",
+        "topics": [
+          "agent-evaluation-tools",
+          "agent-framework",
+          "agent-swarms",
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-agents",
+          "autonomous-agents"
+        ],
+        "url": "https://github.com/i3T4AN/KADATH"
+      },
+      {
+        "repo": "oliverb-io1902e8/agent-skills-collection",
+        "desc": "Curated collection of modular agent skills for LLM-based agents",
+        "lang": "Python",
+        "stars_total": 134,
+        "created": "2026-08-06",
+        "topics": [
+          "agent-skills",
+          "agentic-workflow",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-tools",
+          "automation",
+          "chatgpt"
+        ],
+        "url": "https://github.com/oliverb-io1902e8/agent-skills-collection"
+      },
+      {
+        "repo": "Juror-AI/juror",
+        "desc": "Cheaper and better Greptile alternative runs on your own github actions.",
+        "lang": "TypeScript",
+        "stars_total": 77,
+        "created": "2026-08-06",
+        "topics": [
+          "ai-agents",
+          "ai-code-review",
+          "cli",
+          "code-quality",
+          "code-review",
+          "codex",
+          "developer-tools",
+          "devtools"
+        ],
+        "url": "https://github.com/Juror-AI/juror"
+      },
+      {
+        "repo": "p-e-w/lophius",
+        "desc": "A workbench for language model research",
+        "lang": "Python",
+        "stars_total": 75,
+        "created": "2026-08-09",
+        "topics": [
+          "llm",
+          "research"
+        ],
+        "url": "https://github.com/p-e-w/lophius"
+      },
+      {
+        "repo": "wanmol/goal-flow",
+        "desc": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).",
+        "lang": "Python",
+        "stars_total": 72,
+        "created": "2026-08-06",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "agentic-engineering",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agent"
+        ],
+        "url": "https://github.com/wanmol/goal-flow"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: 100% native Swift harness (NOT Electron)",
+        "points": 12,
+        "comments": 3,
+        "url": "https://github.com/Lore-Hex/QuillCode",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Auto mode is now the default in Claude Code",
+        "points": 276,
+        "comments": 303,
+        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+        "points": 17,
+        "comments": 5,
+        "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+        "date": "2026-08-09"
+      },
+      {
+        "title": "Message your other Claude Code sessions",
+        "points": 169,
+        "comments": 71,
+        "url": "https://code.claude.com/docs/en/cross-session-messaging",
+        "date": "2026-08-08"
+      },
+      {
+        "title": "Auto Mode will be the default in Claude Code – because humans can't be trusted",
+        "points": 22,
+        "comments": 6,
+        "url": "https://thenewstack.io/claude-code-auto-mode/",
+        "date": "2026-08-08"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
