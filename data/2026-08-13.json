@@ -1,0 +1,370 @@
+{
+  "date": "2026-08-13",
+  "trending_daily": [
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "lang": "HTML",
+      "stars_period": "2855",
+      "stars_total": "10882",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars_period": "227",
+      "stars_total": "1921",
+      "url": "https://github.com/macro-inc/macro"
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_period": "845",
+      "stars_total": "5789",
+      "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+      "repo": "stablyai/orca",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "lang": "TypeScript",
+      "stars_period": "1235",
+      "stars_total": "44012",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_period": "1873",
+      "stars_total": "144638",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "266",
+      "stars_total": "36960",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_period": "215",
+      "stars_total": "62040",
+      "url": "https://github.com/NanmiCoder/MediaCrawler"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "lang": "Python",
+      "stars_period": "476",
+      "stars_total": "45740",
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "repo": "infiniflow/ragflow",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "lang": "Go",
+      "stars_period": "139",
+      "stars_total": "87592",
+      "url": "https://github.com/infiniflow/ragflow"
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_period": "571",
+      "stars_total": "77776",
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "repo": "NVIDIA-NeMo/Switchyard",
+      "desc": "",
+      "lang": "Rust",
+      "stars_period": "421",
+      "stars_total": "872",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+    },
+    {
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "desc": "人人都能用英语",
+      "lang": "TypeScript",
+      "stars_period": "86",
+      "stars_total": "36149",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english"
+    },
+    {
+      "repo": "smicallef/spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "lang": "Python",
+      "stars_period": "74",
+      "stars_total": "20374",
+      "url": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "repo": "localsend/localsend",
+      "desc": "An open-source cross-platform alternative to AirDrop",
+      "lang": "Dart",
+      "stars_period": "213",
+      "stars_total": "87871",
+      "url": "https://github.com/localsend/localsend"
+    },
+    {
+      "repo": "Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "lang": "Python",
+      "stars_period": "65",
+      "stars_total": "8735",
+      "url": "https://github.com/Lightricks/LTX-2"
+    },
+    {
+      "repo": "embabel/embabel-agent",
+      "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "lang": "Kotlin",
+      "stars_period": "40",
+      "stars_total": "4236",
+      "url": "https://github.com/embabel/embabel-agent"
+    },
+    {
+      "repo": "cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "lang": "Python",
+      "stars_period": "315",
+      "stars_total": "4305",
+      "url": "https://github.com/cactus-compute/needle"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "ShawnPana/phone-harness",
+        "desc": "let your agent control your phone",
+        "lang": "Python",
+        "stars_total": 1648,
+        "created": "2026-08-07",
+        "topics": [
+          "agent",
+          "ai",
+          "automation",
+          "developer-tools"
+        ],
+        "url": "https://github.com/ShawnPana/phone-harness"
+      },
+      {
+        "repo": "Jaxton07/pi-desktop",
+        "desc": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+        "lang": "TypeScript",
+        "stars_total": 82,
+        "created": "2026-08-08",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "coding-agent",
+          "desktop-app",
+          "gui",
+          "minimalist",
+          "pi",
+          "pi-agent"
+        ],
+        "url": "https://github.com/Jaxton07/pi-desktop"
+      },
+      {
+        "repo": "open-video-ai/open-video",
+        "desc": "Open-source video generation — Ollama for MiniMax H3. Local director on ComfyUI.",
+        "lang": "Python",
+        "stars_total": 65,
+        "created": "2026-08-07",
+        "topics": [
+          "agent",
+          "comfyui",
+          "minimax-h3",
+          "open-source",
+          "text-to-video",
+          "video-generation"
+        ],
+        "url": "https://github.com/open-video-ai/open-video"
+      },
+      {
+        "repo": "irzix/nestjs-agentic",
+        "desc": "The NestJS-native runtime for governed AI agents",
+        "lang": "TypeScript",
+        "stars_total": 62,
+        "created": "2026-08-07",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-ai",
+          "nestjs",
+          "nestjs-backend"
+        ],
+        "url": "https://github.com/irzix/nestjs-agentic"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "SaladDay/pi-from-scratch",
+        "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+        "lang": "TypeScript",
+        "stars_total": 791,
+        "created": "2026-08-09",
+        "topics": [
+          "agent-loop",
+          "ai-agent",
+          "coding-agent",
+          "llm",
+          "llm-agent",
+          "pi",
+          "pi-agent",
+          "tool-calling"
+        ],
+        "url": "https://github.com/SaladDay/pi-from-scratch"
+      },
+      {
+        "repo": "antinomie-lab/pi-book",
+        "desc": "Source-backed architecture notes on building an agent",
+        "lang": "Vue",
+        "stars_total": 276,
+        "created": "2026-08-07",
+        "topics": [
+          "agent-loop",
+          "ai-agent",
+          "book",
+          "chinese",
+          "code-reading",
+          "llm",
+          "pi-agent",
+          "pi-agent-core"
+        ],
+        "url": "https://github.com/antinomie-lab/pi-book"
+      },
+      {
+        "repo": "i3T4AN/KADATH",
+        "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+        "lang": "Python",
+        "stars_total": 172,
+        "created": "2026-08-08",
+        "topics": [
+          "agent-evaluation-tools",
+          "agent-framework",
+          "agent-swarms",
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-agents",
+          "autonomous-agents"
+        ],
+        "url": "https://github.com/i3T4AN/KADATH"
+      },
+      {
+        "repo": "jundizhou/easy-stock",
+        "desc": "A 股行情分析与AI智能投研智能体--基于大模型",
+        "lang": "Go",
+        "stars_total": 138,
+        "created": "2026-08-07",
+        "topics": [
+          "a-share",
+          "ai-agent",
+          "china-stock",
+          "llm",
+          "stock",
+          "stock-analysis",
+          "trade"
+        ],
+        "url": "https://github.com/jundizhou/easy-stock"
+      },
+      {
+        "repo": "wanshuiyin/HERO-Anti-OverDefense",
+        "desc": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+        "lang": "Markdown",
+        "stars_total": 119,
+        "created": "2026-08-11",
+        "topics": [
+          "agents-md",
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "claude-md",
+          "codex",
+          "coding-agent",
+          "cursor"
+        ],
+        "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
+      },
+      {
+        "repo": "p-e-w/lophius",
+        "desc": "A workbench for language model research",
+        "lang": "Python",
+        "stars_total": 82,
+        "created": "2026-08-09",
+        "topics": [
+          "llm",
+          "research"
+        ],
+        "url": "https://github.com/p-e-w/lophius"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作",
+        "lang": "Python",
+        "stars_total": 53,
+        "created": "2026-08-08",
+        "topics": [
+          "agent-framework",
+          "agentic-ai",
+          "ai-agents",
+          "codex",
+          "fastapi",
+          "knowledge-management",
+          "llm",
+          "muti-agent"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
+        "points": 38,
+        "comments": 29,
+        "url": "https://github.com/anthropics/claude-code/issues/78431",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "How to organize Claude Code for product work",
+        "points": 35,
+        "comments": 27,
+        "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
+        "points": 31,
+        "comments": 10,
+        "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+        "points": 18,
+        "comments": 12,
+        "url": "https://github.com/leog/ai-pulse",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Show HN: 100% native Swift harness (NOT Electron)",
+        "points": 15,
+        "comments": 5,
+        "url": "https://github.com/Lore-Hex/QuillCode",
+        "date": "2026-08-10"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
