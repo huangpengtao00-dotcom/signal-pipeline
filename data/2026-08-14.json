@@ -1,0 +1,480 @@
+{
+  "date": "2026-08-14",
+  "trending_daily": [
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "lang": "HTML",
+      "stars_period": "4475",
+      "stars_total": "14883",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_period": "713",
+      "stars_total": "6780",
+      "url": "https://github.com/semantica-agi/semantica"
+    },
+    {
+      "repo": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_period": "312",
+      "stars_total": "169089",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "repo": "cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "lang": "Python",
+      "stars_period": "769",
+      "stars_total": "5002",
+      "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
+      "lang": "Swift",
+      "stars_period": "76",
+      "stars_total": "9897",
+      "url": "https://github.com/altic-dev/FluidVoice"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "lang": "Python",
+      "stars_period": "328",
+      "stars_total": "71100",
+      "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "repo": "macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars_period": "1239",
+      "stars_total": "2642",
+      "url": "https://github.com/macro-inc/macro"
+    },
+    {
+      "repo": "megadose/holehe",
+      "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "lang": "Python",
+      "stars_period": "195",
+      "stars_total": "12460",
+      "url": "https://github.com/megadose/holehe"
+    },
+    {
+      "repo": "smicallef/spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "lang": "Python",
+      "stars_period": "283",
+      "stars_total": "20690",
+      "url": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "repo": "NVIDIA-NeMo/Switchyard",
+      "desc": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "lang": "Rust",
+      "stars_period": "408",
+      "stars_total": "1247",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard"
+    },
+    {
+      "repo": "holaboss-ai/holaOS",
+      "desc": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "lang": "TypeScript",
+      "stars_period": "241",
+      "stars_total": "6664",
+      "url": "https://github.com/holaboss-ai/holaOS"
+    },
+    {
+      "repo": "kepano/obsidian-skills",
+      "desc": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "lang": "",
+      "stars_period": "292",
+      "stars_total": "45853",
+      "url": "https://github.com/kepano/obsidian-skills"
+    },
+    {
+      "repo": "3b1b/manim",
+      "desc": "Animation engine for explanatory math videos",
+      "lang": "Python",
+      "stars_period": "176",
+      "stars_total": "90908",
+      "url": "https://github.com/3b1b/manim"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_period": "778",
+      "stars_total": "145229",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "repo": "Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "lang": "Python",
+      "stars_period": "205",
+      "stars_total": "8938",
+      "url": "https://github.com/Lightricks/LTX-2"
+    },
+    {
+      "repo": "lightningpixel/modly",
+      "desc": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "lang": "TypeScript",
+      "stars_period": "118",
+      "stars_total": "5472",
+      "url": "https://github.com/lightningpixel/modly"
+    },
+    {
+      "repo": "infiniflow/ragflow",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "lang": "Go",
+      "stars_period": "465",
+      "stars_total": "88069",
+      "url": "https://github.com/infiniflow/ragflow"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Leutenegger/book-to-skill",
+        "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "lang": "Python",
+        "stars_total": 1030,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "agent-skill",
+          "agent-skills",
+          "agentic",
+          "agentic-ai",
+          "agents",
+          "ai-agents"
+        ],
+        "url": "https://github.com/Leutenegger/book-to-skill"
+      },
+      {
+        "repo": "0xsline/awesome-deepseek-harness",
+        "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+        "lang": "Python",
+        "stars_total": 200,
+        "created": "2026-08-11",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "coding-assistant",
+          "curated-list"
+        ],
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      {
+        "repo": "Jaxton07/percho",
+        "desc": "pi-desktop Minimalist desktop GUI for the Pi coding agent — the same engine as the Pi CLI, in a clean visual interface. Multi-session chat, visual tool approvals, and custom themes.",
+        "lang": "TypeScript",
+        "stars_total": 107,
+        "created": "2026-08-08",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "coding-agent",
+          "desktop-app",
+          "gui",
+          "minimalist",
+          "pi",
+          "pi-agent"
+        ],
+        "url": "https://github.com/Jaxton07/percho"
+      },
+      {
+        "repo": "vercel-labs/eve-software-factory-template",
+        "desc": "Meet Foreman, an eve Software Factory.",
+        "lang": "TypeScript",
+        "stars_total": 98,
+        "created": "2026-08-12",
+        "topics": [
+          "agent",
+          "ai",
+          "eve",
+          "vercel"
+        ],
+        "url": "https://github.com/vercel-labs/eve-software-factory-template"
+      },
+      {
+        "repo": "hewzhew/dsh-agent-rp",
+        "desc": "SillyTavern migration and next-generation Agent RP for DSH",
+        "lang": "JavaScript",
+        "stars_total": 74,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "dsh",
+          "roleplay",
+          "sillytavern"
+        ],
+        "url": "https://github.com/hewzhew/dsh-agent-rp"
+      },
+      {
+        "repo": "Electricitysheep/dsh-handbook",
+        "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+        "lang": "HTML",
+        "stars_total": 52,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agents",
+          "beginners",
+          "deepseek",
+          "deepseek-ai",
+          "dsh-plugin",
+          "getting-started"
+        ],
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "SaladDay/pi-from-scratch",
+        "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+        "lang": "TypeScript",
+        "stars_total": 896,
+        "created": "2026-08-09",
+        "topics": [
+          "agent-loop",
+          "ai-agent",
+          "coding-agent",
+          "llm",
+          "llm-agent",
+          "pi",
+          "pi-agent",
+          "tool-calling"
+        ],
+        "url": "https://github.com/SaladDay/pi-from-scratch"
+      },
+      {
+        "repo": "i3T4AN/KADATH",
+        "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+        "lang": "Python",
+        "stars_total": 348,
+        "created": "2026-08-08",
+        "topics": [
+          "agent-evaluation-tools",
+          "agent-framework",
+          "agent-swarms",
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-agents",
+          "autonomous-agents"
+        ],
+        "url": "https://github.com/i3T4AN/KADATH"
+      },
+      {
+        "repo": "elie222/rakazo",
+        "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+        "lang": "TypeScript",
+        "stars_total": 254,
+        "created": "2026-08-13",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "docker",
+          "electron",
+          "expo",
+          "grok",
+          "llm",
+          "self-hosted"
+        ],
+        "url": "https://github.com/elie222/rakazo"
+      },
+      {
+        "repo": "0xsline/awesome-deepseek-harness",
+        "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+        "lang": "Python",
+        "stars_total": 200,
+        "created": "2026-08-11",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "coding-assistant",
+          "curated-list"
+        ],
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      {
+        "repo": "wanshuiyin/HERO-Anti-OverDefense",
+        "desc": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+        "lang": "Markdown",
+        "stars_total": 130,
+        "created": "2026-08-11",
+        "topics": [
+          "agents-md",
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "claude-md",
+          "codex",
+          "coding-agent",
+          "cursor"
+        ],
+        "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
+      },
+      {
+        "repo": "OpenSparX/MasterAgent",
+        "desc": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+        "lang": "C++",
+        "stars_total": 93,
+        "created": "2026-08-10",
+        "topics": [
+          "agent-framework",
+          "ai-agent",
+          "automotive",
+          "edge-ai",
+          "embedded",
+          "iot",
+          "llm",
+          "npu"
+        ],
+        "url": "https://github.com/OpenSparX/MasterAgent"
+      },
+      {
+        "repo": "vuphongle/oss-pr-reviewer",
+        "desc": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+        "lang": "TypeScript",
+        "stars_total": 91,
+        "created": "2026-08-13",
+        "topics": [
+          "ai",
+          "cli",
+          "code-review",
+          "developer-tools",
+          "github",
+          "llm",
+          "maintainer-tools",
+          "open-source"
+        ],
+        "url": "https://github.com/vuphongle/oss-pr-reviewer"
+      },
+      {
+        "repo": "p-e-w/lophius",
+        "desc": "A workbench for language model research",
+        "lang": "Python",
+        "stars_total": 83,
+        "created": "2026-08-09",
+        "topics": [
+          "llm",
+          "research"
+        ],
+        "url": "https://github.com/p-e-w/lophius"
+      },
+      {
+        "repo": "thiientv/godmode",
+        "desc": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+        "lang": "Python",
+        "stars_total": 82,
+        "created": "2026-08-13",
+        "topics": [
+          "agent-evaluation",
+          "agent-skills",
+          "ai-agents",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "codex",
+          "coding-agents"
+        ],
+        "url": "https://github.com/thiientv/godmode"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作",
+        "lang": "Python",
+        "stars_total": 69,
+        "created": "2026-08-08",
+        "topics": [
+          "agent-framework",
+          "agent-orchestration",
+          "agent-platform",
+          "agentic",
+          "agentic-ai",
+          "ai-agents",
+          "codex",
+          "fastapi"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      },
+      {
+        "repo": "Electricitysheep/dsh-handbook",
+        "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+        "lang": "HTML",
+        "stars_total": 52,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agents",
+          "beginners",
+          "deepseek",
+          "deepseek-ai",
+          "dsh-plugin",
+          "getting-started"
+        ],
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+        "points": 85,
+        "comments": 56,
+        "url": "https://www.codewithbullet.com",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
+        "points": 38,
+        "comments": 29,
+        "url": "https://github.com/anthropics/claude-code/issues/78431",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "How to organize Claude Code for product work",
+        "points": 35,
+        "comments": 27,
+        "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
+        "points": 31,
+        "comments": 10,
+        "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+        "points": 18,
+        "comments": 12,
+        "url": "https://github.com/leog/ai-pulse",
+        "date": "2026-08-10"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
