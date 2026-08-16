@@ -1,0 +1,540 @@
+{
+  "date": "2026-08-16",
+  "trending_daily": [
+    {
+      "repo": "cordiverse/cordis",
+      "desc": "Meta-Framework of Spatiotemporal Composability",
+      "lang": "TypeScript",
+      "stars_period": "599",
+      "stars_total": "4088",
+      "url": "https://github.com/cordiverse/cordis"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "lang": "HTML",
+      "stars_period": "1607",
+      "stars_total": "18661",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "149",
+      "stars_total": "2955",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "lang": "Python",
+      "stars_period": "547",
+      "stars_total": "6081",
+      "url": "https://github.com/cactus-compute/needle"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "lang": "Python",
+      "stars_period": "434",
+      "stars_total": "72063",
+      "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "lang": "Python",
+      "stars_period": "2260",
+      "stars_total": "460215",
+      "url": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "repo": "MakazhanAlpamys/Soup",
+      "desc": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "lang": "Python",
+      "stars_period": "297",
+      "stars_total": "1683",
+      "url": "https://github.com/MakazhanAlpamys/Soup"
+    },
+    {
+      "repo": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "lang": "Python",
+      "stars_period": "892",
+      "stars_total": "129213",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "repo": "megadose/holehe",
+      "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "lang": "Python",
+      "stars_period": "382",
+      "stars_total": "13125",
+      "url": "https://github.com/megadose/holehe"
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+      "lang": "Swift",
+      "stars_period": "104",
+      "stars_total": "10340",
+      "url": "https://github.com/altic-dev/FluidVoice"
+    },
+    {
+      "repo": "ToolJet/ToolJet",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "lang": "JavaScript",
+      "stars_period": "544",
+      "stars_total": "39553",
+      "url": "https://github.com/ToolJet/ToolJet"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_period": "118",
+      "stars_total": "47368",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "lang": "JavaScript",
+      "stars_period": "545",
+      "stars_total": "10988",
+      "url": "https://github.com/citrolabs/ego-lite"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Leutenegger/book-to-skill",
+        "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+        "lang": "Python",
+        "stars_total": 1127,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "agent-skill",
+          "agent-skills",
+          "agentic",
+          "agentic-ai",
+          "agents",
+          "ai-agents"
+        ],
+        "url": "https://github.com/Leutenegger/book-to-skill"
+      },
+      {
+        "repo": "vercel-labs/eve-software-factory-template",
+        "desc": "Meet Foreman, an eve Software Factory.",
+        "lang": "TypeScript",
+        "stars_total": 789,
+        "created": "2026-08-12",
+        "topics": [
+          "agent",
+          "ai",
+          "eve",
+          "vercel"
+        ],
+        "url": "https://github.com/vercel-labs/eve-software-factory-template"
+      },
+      {
+        "repo": "0xsline/awesome-deepseek-harness",
+        "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+        "lang": "Python",
+        "stars_total": 497,
+        "created": "2026-08-11",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "coding-assistant",
+          "curated-list"
+        ],
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      {
+        "repo": "Electricitysheep/dsh-handbook",
+        "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+        "lang": "HTML",
+        "stars_total": 292,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agents",
+          "beginners",
+          "deepseek",
+          "deepseek-ai",
+          "dsh-plugin",
+          "getting-started"
+        ],
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      {
+        "repo": "SheberDavid/v4-flash-godmode-opencode-go",
+        "desc": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+        "lang": "JavaScript",
+        "stars_total": 275,
+        "created": "2026-08-15",
+        "topics": [
+          "agent",
+          "deepseek",
+          "dsh",
+          "flash"
+        ],
+        "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go"
+      },
+      {
+        "repo": "hewzhew/dsh-agent-rp",
+        "desc": "SillyTavern migration and next-generation Agent RP for DSH",
+        "lang": "TypeScript",
+        "stars_total": 130,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "dsh",
+          "roleplay",
+          "sillytavern"
+        ],
+        "url": "https://github.com/hewzhew/dsh-agent-rp"
+      },
+      {
+        "repo": "libukai/awesome-deepseek-harness",
+        "desc": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+        "lang": "",
+        "stars_total": 72,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-harness",
+          "awesome-list",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin"
+        ],
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      {
+        "repo": "bradeGithub/DSH-Plugins-Marketplace",
+        "desc": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+        "lang": "JavaScript",
+        "stars_total": 70,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "ai-agents",
+          "cordis",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "javascript",
+          "llm"
+        ],
+        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
+      },
+      {
+        "repo": "Dominic789654/awesome-deepseek-harness",
+        "desc": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+        "lang": "TypeScript",
+        "stars_total": 52,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agent",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "coding-agent",
+          "deepseek"
+        ],
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "0xsline/awesome-deepseek-harness",
+        "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+        "lang": "Python",
+        "stars_total": 497,
+        "created": "2026-08-11",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "coding-assistant",
+          "curated-list"
+        ],
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      {
+        "repo": "elie222/rakazo",
+        "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+        "lang": "TypeScript",
+        "stars_total": 490,
+        "created": "2026-08-13",
+        "topics": [
+          "ai-agents",
+          "chatgpt",
+          "docker",
+          "electron",
+          "expo",
+          "grok",
+          "llm",
+          "self-hosted"
+        ],
+        "url": "https://github.com/elie222/rakazo"
+      },
+      {
+        "repo": "OpenSparX/MasterAgent",
+        "desc": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+        "lang": "C++",
+        "stars_total": 344,
+        "created": "2026-08-10",
+        "topics": [
+          "agent-framework",
+          "ai-agent",
+          "automotive",
+          "edge-ai",
+          "embedded",
+          "iot",
+          "llm",
+          "npu"
+        ],
+        "url": "https://github.com/OpenSparX/MasterAgent"
+      },
+      {
+        "repo": "Electricitysheep/dsh-handbook",
+        "desc": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+        "lang": "HTML",
+        "stars_total": 292,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agents",
+          "beginners",
+          "deepseek",
+          "deepseek-ai",
+          "dsh-plugin",
+          "getting-started"
+        ],
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      {
+        "repo": "wanshuiyin/HERO-Anti-OverDefense",
+        "desc": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+        "lang": "Markdown",
+        "stars_total": 154,
+        "created": "2026-08-11",
+        "topics": [
+          "agents-md",
+          "ai-agents",
+          "antigravity",
+          "claude-code",
+          "claude-md",
+          "codex",
+          "coding-agent",
+          "cursor"
+        ],
+        "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense"
+      },
+      {
+        "repo": "vuphongle/oss-pr-reviewer",
+        "desc": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+        "lang": "TypeScript",
+        "stars_total": 106,
+        "created": "2026-08-13",
+        "topics": [
+          "ai",
+          "cli",
+          "code-review",
+          "developer-tools",
+          "github",
+          "llm",
+          "maintainer-tools",
+          "open-source"
+        ],
+        "url": "https://github.com/vuphongle/oss-pr-reviewer"
+      },
+      {
+        "repo": "thiientv/godmode",
+        "desc": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+        "lang": "Python",
+        "stars_total": 90,
+        "created": "2026-08-13",
+        "topics": [
+          "agent-evaluation",
+          "agent-skills",
+          "ai-agents",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "codex",
+          "coding-agents"
+        ],
+        "url": "https://github.com/thiientv/godmode"
+      },
+      {
+        "repo": "seyedehsanhadi/sloptrim",
+        "desc": "A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standard library only, no network, no model.",
+        "lang": "Python",
+        "stars_total": 88,
+        "created": "2026-08-13",
+        "topics": [
+          "ai-agents",
+          "ai-slop",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-code-plugins-marketplace",
+          "claude-code-skills",
+          "de-slop",
+          "developer-tools"
+        ],
+        "url": "https://github.com/seyedehsanhadi/sloptrim"
+      },
+      {
+        "repo": "trefeon/freebuff-proxy",
+        "desc": "OpenAI-compatible gateway for FreeBuff coding models. Token pool, session lifecycle, TLS stealth, embedded admin dashboard. No ads, no CLI, just /v1/chat/completions.",
+        "lang": "Go",
+        "stars_total": 84,
+        "created": "2026-08-11",
+        "topics": [
+          "api-gateway",
+          "codebuff",
+          "coding-agent",
+          "coding-assistant",
+          "freebuff",
+          "golang",
+          "htmx",
+          "llm"
+        ],
+        "url": "https://github.com/trefeon/freebuff-proxy"
+      },
+      {
+        "repo": "bradeGithub/DSH-Plugins-Marketplace",
+        "desc": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+        "lang": "JavaScript",
+        "stars_total": 70,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "ai-agents",
+          "cordis",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "javascript",
+          "llm"
+        ],
+        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
+      },
+      {
+        "repo": "biuworks/bilibili-digest",
+        "desc": "已上架 Chrome 商店 🚀 把 B 站视频变成学习资源的浏览器扩展（Chrome / Edge）：字幕阅读、双语对照、AI 章节概览、划词解释和带时间戳的笔记",
+        "lang": "JavaScript",
+        "stars_total": 63,
+        "created": "2026-08-12",
+        "topics": [
+          "ai",
+          "bilibili",
+          "browser-extension",
+          "chrome-extension",
+          "edge-extension",
+          "language-learning",
+          "llm",
+          "note-taking"
+        ],
+        "url": "https://github.com/biuworks/bilibili-digest"
+      },
+      {
+        "repo": "memoket/memoket-kite",
+        "desc": "Memory engine for AI agents with token-efficient, explainable retrieval beyond vector similarity.",
+        "lang": "Python",
+        "stars_total": 58,
+        "created": "2026-08-12",
+        "topics": [
+          "agent-memory",
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-memory",
+          "chatbot",
+          "genai",
+          "knowledge-management"
+        ],
+        "url": "https://github.com/memoket/memoket-kite"
+      },
+      {
+        "repo": "Dominic789654/awesome-deepseek-harness",
+        "desc": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+        "lang": "TypeScript",
+        "stars_total": 52,
+        "created": "2026-08-13",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agent",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "coding-agent",
+          "deepseek"
+        ],
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Maximizing the value of your Claude Code sessions",
+        "points": 302,
+        "comments": 176,
+        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+        "points": 39,
+        "comments": 42,
+        "url": "https://github.com/NanoNets/Graft",
+        "date": "2026-08-14"
+      },
+      {
+        "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+        "points": 112,
+        "comments": 88,
+        "url": "https://www.codewithbullet.com",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
+        "points": 38,
+        "comments": 29,
+        "url": "https://github.com/anthropics/claude-code/issues/78431",
+        "date": "2026-08-11"
+      },
+      {
+        "title": "How to organize Claude Code for product work",
+        "points": 35,
+        "comments": 27,
+        "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+        "date": "2026-08-11"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
