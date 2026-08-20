@@ -1,0 +1,479 @@
+{
+  "date": "2026-08-20",
+  "trending_daily": [
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "stars_period": "2221",
+      "stars_total": "110815",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "lang": "Python",
+      "stars_period": "804",
+      "stars_total": "30241",
+      "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+      "repo": "chaitanyagiri/munder-difflin",
+      "desc": "local multi-agent harness",
+      "lang": "TypeScript",
+      "stars_period": "795",
+      "stars_total": "2712",
+      "url": "https://github.com/chaitanyagiri/munder-difflin"
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_period": "766",
+      "stars_total": "29866",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "repo": "nautechsystems/nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "lang": "Rust",
+      "stars_period": "80",
+      "stars_total": "26457",
+      "url": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1894",
+      "stars_total": "223888",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "557",
+      "stars_total": "274303",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "jundot/omlx",
+      "desc": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "lang": "Python",
+      "stars_period": "472",
+      "stars_total": "19851",
+      "url": "https://github.com/jundot/omlx"
+    },
+    {
+      "repo": "santifer/career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "lang": "JavaScript",
+      "stars_period": "198",
+      "stars_total": "65822",
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "repo": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars_period": "128",
+      "stars_total": "111891",
+      "url": "https://github.com/immich-app/immich"
+    },
+    {
+      "repo": "amadeusprotocol/node",
+      "desc": "",
+      "lang": "Rust",
+      "stars_period": "1397",
+      "stars_total": "4573",
+      "url": "https://github.com/amadeusprotocol/node"
+    },
+    {
+      "repo": "marceloprates/prettymaps",
+      "desc": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "lang": "Python",
+      "stars_period": "63",
+      "stars_total": "13153",
+      "url": "https://github.com/marceloprates/prettymaps"
+    },
+    {
+      "repo": "genlayerlabs/genlayer-project-boilerplate",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "430",
+      "stars_total": "16226",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "browser-use/macos-harness",
+        "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+        "lang": "Python",
+        "stars_total": 529,
+        "created": "2026-08-17",
+        "topics": [
+          "accessibility",
+          "agent",
+          "automation",
+          "cdp",
+          "computer-use",
+          "macos",
+          "python"
+        ],
+        "url": "https://github.com/browser-use/macos-harness"
+      },
+      {
+        "repo": "SheberDavid/v4-flash-godmode-opencode-go",
+        "desc": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+        "lang": "JavaScript",
+        "stars_total": 497,
+        "created": "2026-08-15",
+        "topics": [
+          "agent",
+          "deepseek",
+          "dsh",
+          "flash"
+        ],
+        "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go"
+      },
+      {
+        "repo": "lencx/Minke",
+        "desc": "🐳 DeepSeek Harness Desktop",
+        "lang": "TypeScript",
+        "stars_total": 233,
+        "created": "2026-08-15",
+        "topics": [
+          "agent",
+          "deekseek",
+          "desktop",
+          "dsh",
+          "dsh-plugin",
+          "harness"
+        ],
+        "url": "https://github.com/lencx/Minke"
+      },
+      {
+        "repo": "MirroS-Lab/HarnessEval-W",
+        "desc": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+        "lang": "Python",
+        "stars_total": 206,
+        "created": "2026-08-17",
+        "topics": [
+          "agent",
+          "benchmark",
+          "evaluation",
+          "harness",
+          "harness-engineering",
+          "kling",
+          "minimax-h3",
+          "seedance"
+        ],
+        "url": "https://github.com/MirroS-Lab/HarnessEval-W"
+      },
+      {
+        "repo": "toolclub/dsh-agent-team-gui",
+        "desc": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+        "lang": "TypeScript",
+        "stars_total": 108,
+        "created": "2026-08-15",
+        "topics": [
+          "agent",
+          "agent-orchestration",
+          "ai-agents",
+          "dag",
+          "deepseek-harness",
+          "deepseek-harness-plugin",
+          "dsh",
+          "dsh-plugin"
+        ],
+        "url": "https://github.com/toolclub/dsh-agent-team-gui"
+      },
+      {
+        "repo": "cocode-agency/cocode",
+        "desc": "Best ready-to-run DeepSeek Harness distribution: DSH desktop GUI, terminal TUI, and harness integration.",
+        "lang": "TypeScript",
+        "stars_total": 82,
+        "created": "2026-08-14",
+        "topics": [
+          "agent",
+          "byok",
+          "cocode",
+          "coding-agent",
+          "deepseek",
+          "deepseek-harness",
+          "desktop-app",
+          "dsh"
+        ],
+        "url": "https://github.com/cocode-agency/cocode"
+      },
+      {
+        "repo": "Tencent/UI-Mate",
+        "desc": "Advancing Foundation GUI Agents with In-Context Demonstrations",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-08-14",
+        "topics": [
+          "agent",
+          "gui"
+        ],
+        "url": "https://github.com/Tencent/UI-Mate"
+      },
+      {
+        "repo": "shengsheng90/DSH-taskboard",
+        "desc": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+        "lang": "TypeScript",
+        "stars_total": 57,
+        "created": "2026-08-14",
+        "topics": [
+          "agent",
+          "cordis",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "task-management",
+          "taskboard"
+        ],
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "amitshekhariitbhu/llm-inference-engineering",
+        "desc": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+        "lang": "Markdown",
+        "stars_total": 180,
+        "created": "2026-08-18",
+        "topics": [
+          "inference-engineering",
+          "inference-optimization",
+          "large-language-models",
+          "llm",
+          "llm-engineering",
+          "llm-inference",
+          "llms"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering"
+      },
+      {
+        "repo": "V1ki/dsh-plugin-subscriptions",
+        "desc": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+        "lang": "TypeScript",
+        "stars_total": 168,
+        "created": "2026-08-14",
+        "topics": [
+          "ai-agent",
+          "chatgpt",
+          "claude",
+          "codex",
+          "deepseek-harness",
+          "dsh-plugin",
+          "grok",
+          "llm"
+        ],
+        "url": "https://github.com/V1ki/dsh-plugin-subscriptions"
+      },
+      {
+        "repo": "Vistyy/nopus",
+        "desc": "Deterministic prose checks for clearer coding-agent responses",
+        "lang": "TypeScript",
+        "stars_total": 117,
+        "created": "2026-08-15",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "coding-agents",
+          "developer-tools",
+          "llm",
+          "openai-codex",
+          "pi-coding-agent",
+          "readability"
+        ],
+        "url": "https://github.com/Vistyy/nopus"
+      },
+      {
+        "repo": "qiannianhuanxiang/DSHA",
+        "desc": "DeepSeek Harness 安卓启动器：内置 proot+Ubuntu，免 ROOT 免 Termux 一键运行 deepseek-harness，多源测速/分步安装/WebUI 预览/设备 Shell 桥接",
+        "lang": "Java",
+        "stars_total": 94,
+        "created": "2026-08-14",
+        "topics": [
+          "android",
+          "deepseek",
+          "launcher",
+          "llm",
+          "proot",
+          "shizuku",
+          "webui"
+        ],
+        "url": "https://github.com/qiannianhuanxiang/DSHA"
+      },
+      {
+        "repo": "squall01337/mixamo-llm-mocap",
+        "desc": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+        "lang": "Python",
+        "stars_total": 91,
+        "created": "2026-08-17",
+        "topics": [
+          "ai-agent",
+          "animation",
+          "blender",
+          "gvhmr",
+          "llm",
+          "mixamo",
+          "mocap",
+          "motion-capture"
+        ],
+        "url": "https://github.com/squall01337/mixamo-llm-mocap"
+      },
+      {
+        "repo": "elie222/botdirectory.ai",
+        "desc": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
+        "lang": "Astro",
+        "stars_total": 78,
+        "created": "2026-08-17",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "astro",
+          "automation",
+          "bots",
+          "directory",
+          "grok",
+          "grokbot"
+        ],
+        "url": "https://github.com/elie222/botdirectory.ai"
+      },
+      {
+        "repo": "Mars-Sea/dsh-commandcode-provider",
+        "desc": "Unofficial DeepSeek Harness LLM provider plugin for Command Code: live model catalog, reasoning-effort support, Models-page card. Ported from pi-commandcode-provider (MIT).",
+        "lang": "TypeScript",
+        "stars_total": 68,
+        "created": "2026-08-14",
+        "topics": [
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "llm",
+          "llm-provider",
+          "npm",
+          "plugin",
+          "provider"
+        ],
+        "url": "https://github.com/Mars-Sea/dsh-commandcode-provider"
+      },
+      {
+        "repo": "only-cli/oc",
+        "desc": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+        "lang": "JavaScript",
+        "stars_total": 58,
+        "created": "2026-08-18",
+        "topics": [
+          "ai-agents",
+          "browser-automation",
+          "claude-code",
+          "cli",
+          "cli-app",
+          "cli-tool",
+          "llm",
+          "markdown"
+        ],
+        "url": "https://github.com/only-cli/oc"
+      },
+      {
+        "repo": "wtfzambo/speak-like-you-eat",
+        "desc": "Translate AI garbage to human language. A Pi package for plain-language rewrites.",
+        "lang": "TypeScript",
+        "stars_total": 58,
+        "created": "2026-08-15",
+        "topics": [
+          "llm",
+          "pi",
+          "pi-package",
+          "plain-language",
+          "writing"
+        ],
+        "url": "https://github.com/wtfzambo/speak-like-you-eat"
+      },
+      {
+        "repo": "feibi-mochi/deepseek-harness-control-center",
+        "desc": "DeepSeek Harness account monitoring, usage accounting, completion alerts, official recharge, flexible layout, and agent-assisted session controls. / 账户监控、提醒、充值与会话控制中心",
+        "lang": "JavaScript",
+        "stars_total": 56,
+        "created": "2026-08-14",
+        "topics": [
+          "account-monitoring",
+          "agentic-ai",
+          "balance-monitor",
+          "cost-tracking",
+          "deepseek",
+          "deepseek-harness",
+          "dsh-plugin",
+          "javascript"
+        ],
+        "url": "https://github.com/feibi-mochi/deepseek-harness-control-center"
+      },
+      {
+        "repo": "Greninja9257/LabLLM",
+        "desc": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+        "lang": "Swift",
+        "stars_total": 56,
+        "created": "2026-08-15",
+        "topics": [
+          "ai",
+          "apple-silicon",
+          "artificial-intelligence",
+          "deep-learning",
+          "fine-tuning",
+          "generative-ai",
+          "gpt",
+          "large-language-model"
+        ],
+        "url": "https://github.com/Greninja9257/LabLLM"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Feature Request: Support AGENTS.md",
+        "points": 134,
+        "comments": 78,
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Opus 5.0 drives incoherence into the stratosphere",
+        "points": 167,
+        "comments": 153,
+        "url": "https://github.com/anthropics/claude-code/issues/77136",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
+        "points": 129,
+        "comments": 3,
+        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Claude Code May–August 2026 weekly limits promotion",
+        "points": 292,
+        "comments": 259,
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "date": "2026-08-18"
+      },
+      {
+        "title": "Show HN: A community library for Claude Code status lines",
+        "points": 13,
+        "comments": 2,
+        "url": "https://statuslin.es",
+        "date": "2026-08-17"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
