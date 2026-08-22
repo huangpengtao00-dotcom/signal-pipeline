@@ -1,0 +1,398 @@
+{
+  "date": "2026-08-22",
+  "trending_daily": [
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "3362",
+      "stars_total": "229577",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "mahlernim/google-timeline-visualizer",
+      "desc": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "lang": "Kotlin",
+      "stars_period": "1053",
+      "stars_total": "2236",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer"
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "stars_period": "1201",
+      "stars_total": "113958",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "repo": "AprilNEA/OpenLogi",
+      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "lang": "Rust",
+      "stars_period": "1380",
+      "stars_total": "12975",
+      "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_period": "335",
+      "stars_total": "38300",
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "repo": "microsoft/TypeScript",
+      "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "lang": "Go",
+      "stars_period": "65",
+      "stars_total": "110385",
+      "url": "https://github.com/microsoft/TypeScript"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "790",
+      "stars_total": "275670",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "santifer/career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "lang": "JavaScript",
+      "stars_period": "921",
+      "stars_total": "67467",
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "388",
+      "stars_total": "4416",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "modular/modular",
+      "desc": "The Modular Platform (includes MAX &amp; Mojo)",
+      "lang": "Mojo",
+      "stars_period": "913",
+      "stars_total": "28694",
+      "url": "https://github.com/modular/modular"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "357",
+      "stars_total": "241807",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "TryGhost/Ghost",
+      "desc": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "lang": "JavaScript",
+      "stars_period": "32",
+      "stars_total": "54898",
+      "url": "https://github.com/TryGhost/Ghost"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_period": "140",
+      "stars_total": "68658",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "repo": "apache/maka",
+      "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "lang": "TypeScript",
+      "stars_period": "148",
+      "stars_total": "2033",
+      "url": "https://github.com/apache/maka"
+    },
+    {
+      "repo": "protocolbuffers/protobuf",
+      "desc": "Protocol Buffers - Google's data interchange format",
+      "lang": "C++",
+      "stars_period": "4",
+      "stars_total": "71773",
+      "url": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+      "repo": "elder-plinius/OBLITERATUS",
+      "desc": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "lang": "Python",
+      "stars_period": "63",
+      "stars_total": "7800",
+      "url": "https://github.com/elder-plinius/OBLITERATUS"
+    },
+    {
+      "repo": "microsoft/onnxruntime",
+      "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "lang": "C++",
+      "stars_period": "5",
+      "stars_total": "21462",
+      "url": "https://github.com/microsoft/onnxruntime"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "browser-use/macos-harness",
+        "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+        "lang": "Python",
+        "stars_total": 687,
+        "created": "2026-08-17",
+        "topics": [
+          "accessibility",
+          "agent",
+          "automation",
+          "cdp",
+          "computer-use",
+          "macos",
+          "python"
+        ],
+        "url": "https://github.com/browser-use/macos-harness"
+      },
+      {
+        "repo": "MirroS-Lab/HarnessEval-W",
+        "desc": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+        "lang": "Python",
+        "stars_total": 242,
+        "created": "2026-08-17",
+        "topics": [
+          "agent",
+          "benchmark",
+          "evaluation",
+          "harness",
+          "harness-engineering",
+          "kling",
+          "minimax-h3",
+          "seedance"
+        ],
+        "url": "https://github.com/MirroS-Lab/HarnessEval-W"
+      },
+      {
+        "repo": "furkankly/zoetrope",
+        "desc": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+        "lang": "Rust",
+        "stars_total": 105,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-visualization",
+          "claude-code",
+          "flow"
+        ],
+        "url": "https://github.com/furkankly/zoetrope"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作，共享智能体和项目记忆",
+        "lang": "Python",
+        "stars_total": 68,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "agent-orchestration",
+          "agentic",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-governance",
+          "ai-tools"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "amitshekhariitbhu/llm-inference-engineering",
+        "desc": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+        "lang": "Markdown",
+        "stars_total": 213,
+        "created": "2026-08-18",
+        "topics": [
+          "inference-engineering",
+          "inference-optimization",
+          "large-language-models",
+          "llm",
+          "llm-engineering",
+          "llm-inference",
+          "llms"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering"
+      },
+      {
+        "repo": "squall01337/mixamo-llm-mocap",
+        "desc": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+        "lang": "Python",
+        "stars_total": 134,
+        "created": "2026-08-17",
+        "topics": [
+          "ai-agent",
+          "animation",
+          "blender",
+          "gvhmr",
+          "llm",
+          "mixamo",
+          "mocap",
+          "motion-capture"
+        ],
+        "url": "https://github.com/squall01337/mixamo-llm-mocap"
+      },
+      {
+        "repo": "elie222/botdirectory.ai",
+        "desc": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
+        "lang": "Astro",
+        "stars_total": 103,
+        "created": "2026-08-17",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "astro",
+          "automation",
+          "bots",
+          "directory",
+          "grok",
+          "grokbot"
+        ],
+        "url": "https://github.com/elie222/botdirectory.ai"
+      },
+      {
+        "repo": "zorost/AI-Engineering-Lab",
+        "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+        "lang": "Jupyter Notebook",
+        "stars_total": 98,
+        "created": "2026-08-17",
+        "topics": [
+          "ai-agents",
+          "ai-engineering",
+          "course",
+          "curriculum",
+          "databricks",
+          "deep-learning",
+          "fine-tuning",
+          "generative-ai"
+        ],
+        "url": "https://github.com/zorost/AI-Engineering-Lab"
+      },
+      {
+        "repo": "abligail/narralume",
+        "desc": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
+        "lang": "TypeScript",
+        "stars_total": 75,
+        "created": "2026-08-20",
+        "topics": [
+          "ai-writing",
+          "creative-writing",
+          "llm",
+          "long-form-writing",
+          "novel-writing",
+          "novel-writing-assistant",
+          "self-hosted",
+          "storytelling"
+        ],
+        "url": "https://github.com/abligail/narralume"
+      },
+      {
+        "repo": "Vendredi218/awesome-ai-harness",
+        "desc": "The model is the engine; the harness is the car. Curated knowledge on harness engineering — context management, tool design, agent loops, memory, sandboxing, evals. EN/中文",
+        "lang": "",
+        "stars_total": 72,
+        "created": "2026-08-16",
+        "topics": [
+          "agent-harness",
+          "agentic-ai",
+          "ai-agents",
+          "awesome-list",
+          "context-engineering",
+          "llm",
+          "mcp",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/Vendredi218/awesome-ai-harness"
+      },
+      {
+        "repo": "only-cli/oc",
+        "desc": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+        "lang": "JavaScript",
+        "stars_total": 70,
+        "created": "2026-08-18",
+        "topics": [
+          "ai-agents",
+          "browser-automation",
+          "claude-code",
+          "cli",
+          "cli-app",
+          "cli-tool",
+          "llm",
+          "markdown"
+        ],
+        "url": "https://github.com/only-cli/oc"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作，共享智能体和项目记忆",
+        "lang": "Python",
+        "stars_total": 68,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "agent-orchestration",
+          "agentic",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-governance",
+          "ai-tools"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "points": 37,
+        "comments": 12,
+        "url": "https://ozbrain.com",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "points": 37,
+        "comments": 15,
+        "url": "https://github.com/proliferate-ai/proliferate",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Claude Code adds new \"concise\" output style setting",
+        "points": 11,
+        "comments": 0,
+        "url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
+        "date": "2026-08-20"
+      },
+      {
+        "title": "Feature Request: Support AGENTS.md",
+        "points": 370,
+        "comments": 218,
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "date": "2026-08-19"
+      },
+      {
+        "title": "Opus 5.0 drives incoherence into the stratosphere",
+        "points": 189,
+        "comments": 170,
+        "url": "https://github.com/anthropics/claude-code/issues/77136",
+        "date": "2026-08-19"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
