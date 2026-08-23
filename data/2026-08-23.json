@@ -1,0 +1,412 @@
+{
+  "date": "2026-08-23",
+  "trending_daily": [
+    {
+      "repo": "openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars_period": "1544",
+      "stars_total": "113500",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "2683",
+      "stars_total": "232142",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "411",
+      "stars_total": "242186",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "592",
+      "stars_total": "276204",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "Wei-Shaw/sub2api",
+      "desc": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "lang": "Go",
+      "stars_period": "278",
+      "stars_total": "38803",
+      "url": "https://github.com/Wei-Shaw/sub2api"
+    },
+    {
+      "repo": "makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "lang": "TypeScript",
+      "stars_period": "263",
+      "stars_total": "57240",
+      "url": "https://github.com/makeplane/plane"
+    },
+    {
+      "repo": "n8n-io/n8n",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "lang": "TypeScript",
+      "stars_period": "149",
+      "stars_total": "201838",
+      "url": "https://github.com/n8n-io/n8n"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "Python",
+      "stars_period": "127",
+      "stars_total": "142552",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "repo": "AprilNEA/OpenLogi",
+      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "lang": "Rust",
+      "stars_period": "959",
+      "stars_total": "13981",
+      "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+      "repo": "modular/modular",
+      "desc": "The Modular Platform (includes MAX &amp; Mojo)",
+      "lang": "Mojo",
+      "stars_period": "395",
+      "stars_total": "28852",
+      "url": "https://github.com/modular/modular"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "",
+      "stars_period": "315",
+      "stars_total": "205328",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "repo": "mahlernim/google-timeline-visualizer",
+      "desc": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "lang": "Kotlin",
+      "stars_period": "441",
+      "stars_total": "2574",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer"
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_period": "829",
+      "stars_total": "133930",
+      "url": "https://github.com/ripienaar/free-for-dev"
+    },
+    {
+      "repo": "microsoft/TypeScript",
+      "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "lang": "Go",
+      "stars_period": "104",
+      "stars_total": "110545",
+      "url": "https://github.com/microsoft/TypeScript"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "286",
+      "stars_total": "4677",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_period": "286",
+      "stars_total": "38624",
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "repo": "Tencent/AI-Infra-Guard",
+      "desc": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "lang": "Python",
+      "stars_period": "150",
+      "stars_total": "5512",
+      "url": "https://github.com/Tencent/AI-Infra-Guard"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "browser-use/macos-harness",
+        "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+        "lang": "Python",
+        "stars_total": 709,
+        "created": "2026-08-17",
+        "topics": [
+          "accessibility",
+          "agent",
+          "automation",
+          "cdp",
+          "computer-use",
+          "macos",
+          "python"
+        ],
+        "url": "https://github.com/browser-use/macos-harness"
+      },
+      {
+        "repo": "MirroS-Lab/HarnessEval-W",
+        "desc": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+        "lang": "Python",
+        "stars_total": 246,
+        "created": "2026-08-17",
+        "topics": [
+          "agent",
+          "benchmark",
+          "evaluation",
+          "harness",
+          "harness-engineering",
+          "kling",
+          "minimax-h3",
+          "seedance"
+        ],
+        "url": "https://github.com/MirroS-Lab/HarnessEval-W"
+      },
+      {
+        "repo": "furkankly/zoetrope",
+        "desc": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+        "lang": "Rust",
+        "stars_total": 168,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-visualization",
+          "claude-code",
+          "flow"
+        ],
+        "url": "https://github.com/furkankly/zoetrope"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作，共享智能体和项目记忆",
+        "lang": "Python",
+        "stars_total": 72,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "agent-orchestration",
+          "agentic",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-governance",
+          "ai-tools"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "amitshekhariitbhu/llm-inference-engineering",
+        "desc": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+        "lang": "Markdown",
+        "stars_total": 214,
+        "created": "2026-08-18",
+        "topics": [
+          "inference-engineering",
+          "inference-optimization",
+          "large-language-models",
+          "llm",
+          "llm-engineering",
+          "llm-inference",
+          "llms"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering"
+      },
+      {
+        "repo": "squall01337/mixamo-llm-mocap",
+        "desc": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+        "lang": "Python",
+        "stars_total": 152,
+        "created": "2026-08-17",
+        "topics": [
+          "ai-agent",
+          "animation",
+          "blender",
+          "gvhmr",
+          "llm",
+          "mixamo",
+          "mocap",
+          "motion-capture"
+        ],
+        "url": "https://github.com/squall01337/mixamo-llm-mocap"
+      },
+      {
+        "repo": "only-cli/oc",
+        "desc": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+        "lang": "JavaScript",
+        "stars_total": 120,
+        "created": "2026-08-18",
+        "topics": [
+          "ai-agents",
+          "browser-automation",
+          "claude-code",
+          "cli",
+          "cli-app",
+          "cli-tool",
+          "llm",
+          "markdown"
+        ],
+        "url": "https://github.com/only-cli/oc"
+      },
+      {
+        "repo": "elie222/botdirectory.ai",
+        "desc": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
+        "lang": "Astro",
+        "stars_total": 107,
+        "created": "2026-08-17",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "astro",
+          "automation",
+          "bots",
+          "directory",
+          "grok",
+          "grokbot"
+        ],
+        "url": "https://github.com/elie222/botdirectory.ai"
+      },
+      {
+        "repo": "Jordanwei1/jiaojie-skill",
+        "desc": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+        "lang": "Python",
+        "stars_total": 103,
+        "created": "2026-08-20",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-agents",
+          "ai-memory",
+          "claude-code",
+          "claude-code-skill",
+          "codex",
+          "codex-skill"
+        ],
+        "url": "https://github.com/Jordanwei1/jiaojie-skill"
+      },
+      {
+        "repo": "zorost/AI-Engineering-Lab",
+        "desc": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+        "lang": "Jupyter Notebook",
+        "stars_total": 98,
+        "created": "2026-08-17",
+        "topics": [
+          "ai-agents",
+          "ai-engineering",
+          "course",
+          "curriculum",
+          "databricks",
+          "deep-learning",
+          "fine-tuning",
+          "generative-ai"
+        ],
+        "url": "https://github.com/zorost/AI-Engineering-Lab"
+      },
+      {
+        "repo": "abligail/narralume",
+        "desc": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
+        "lang": "TypeScript",
+        "stars_total": 86,
+        "created": "2026-08-20",
+        "topics": [
+          "ai-writing",
+          "creative-writing",
+          "llm",
+          "long-form-writing",
+          "novel-writing",
+          "novel-writing-assistant",
+          "self-hosted",
+          "storytelling"
+        ],
+        "url": "https://github.com/abligail/narralume"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作，共享智能体和项目记忆",
+        "lang": "Python",
+        "stars_total": 72,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "agent-orchestration",
+          "agentic",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-governance",
+          "ai-tools"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      },
+      {
+        "repo": "unclecode/modelprint",
+        "desc": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+        "lang": "JavaScript",
+        "stars_total": 51,
+        "created": "2026-08-21",
+        "topics": [
+          "ai-tools",
+          "fingerprinting",
+          "llm",
+          "openrouter"
+        ],
+        "url": "https://github.com/unclecode/modelprint"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "points": 52,
+        "comments": 60,
+        "url": "https://www.soverybright.com/",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "points": 164,
+        "comments": 154,
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "points": 79,
+        "comments": 46,
+        "url": "https://ozbrain.com",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "points": 43,
+        "comments": 15,
+        "url": "https://github.com/proliferate-ai/proliferate",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Claude Code adds new \"concise\" output style setting",
+        "points": 11,
+        "comments": 0,
+        "url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
+        "date": "2026-08-20"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
