@@ -1,0 +1,367 @@
+{
+  "date": "2026-08-24",
+  "trending_daily": [
+    {
+      "repo": "openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars_period": "2715",
+      "stars_total": "115354",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_period": "401",
+      "stars_total": "12857",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "2447",
+      "stars_total": "233937",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "basecamp/omarchy",
+      "desc": "Beautiful, Modern &amp; Opinionated Linux",
+      "lang": "Shell",
+      "stars_period": "750",
+      "stars_total": "29174",
+      "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+      "repo": "AprilNEA/OpenLogi",
+      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "lang": "Rust",
+      "stars_period": "1009",
+      "stars_total": "14996",
+      "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+      "repo": "block/buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars_period": "410",
+      "stars_total": "30135",
+      "url": "https://github.com/block/buzz"
+    },
+    {
+      "repo": "apache/maka",
+      "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "lang": "TypeScript",
+      "stars_period": "51",
+      "stars_total": "2369",
+      "url": "https://github.com/apache/maka"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_period": "1081",
+      "stars_total": "48008",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "repo": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "lang": "Rust",
+      "stars_period": "39",
+      "stars_total": "36784",
+      "url": "https://github.com/tinyhumansai/openhuman"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "427",
+      "stars_total": "242578",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_period": "131",
+      "stars_total": "69097",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "repo": "VoltAgent/awesome-agent-skills",
+      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "lang": "",
+      "stars_period": "156",
+      "stars_total": "31326",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills"
+    },
+    {
+      "repo": "virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "stars_period": "417",
+      "stars_total": "24696",
+      "url": "https://github.com/virgiliojr94/book-to-skill"
+    },
+    {
+      "repo": "dani-garcia/vaultwarden",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "lang": "Rust",
+      "stars_period": "78",
+      "stars_total": "65970",
+      "url": "https://github.com/dani-garcia/vaultwarden"
+    },
+    {
+      "repo": "anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "lang": "Python",
+      "stars_period": "225",
+      "stars_total": "985",
+      "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_period": "615",
+      "stars_total": "134458",
+      "url": "https://github.com/ripienaar/free-for-dev"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "lang": "Python",
+      "stars_period": "201",
+      "stars_total": "129419",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_period": "454",
+      "stars_total": "235027",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "furkankly/zoetrope",
+        "desc": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+        "lang": "Rust",
+        "stars_total": 190,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-visualization",
+          "claude-code",
+          "flow"
+        ],
+        "url": "https://github.com/furkankly/zoetrope"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作，共享智能体和项目记忆",
+        "lang": "Python",
+        "stars_total": 83,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "agent-orchestration",
+          "agentic",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-governance",
+          "ai-tools"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "only-cli/oc",
+        "desc": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+        "lang": "JavaScript",
+        "stars_total": 230,
+        "created": "2026-08-18",
+        "topics": [
+          "ai-agents",
+          "browser-automation",
+          "claude-code",
+          "cli",
+          "cli-app",
+          "cli-tool",
+          "llm",
+          "markdown"
+        ],
+        "url": "https://github.com/only-cli/oc"
+      },
+      {
+        "repo": "amitshekhariitbhu/llm-inference-engineering",
+        "desc": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+        "lang": "Markdown",
+        "stars_total": 216,
+        "created": "2026-08-18",
+        "topics": [
+          "inference-engineering",
+          "inference-optimization",
+          "large-language-models",
+          "llm",
+          "llm-engineering",
+          "llm-inference",
+          "llms"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering"
+      },
+      {
+        "repo": "Jordanwei1/jiaojie-skill",
+        "desc": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+        "lang": "Python",
+        "stars_total": 103,
+        "created": "2026-08-20",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-agents",
+          "ai-memory",
+          "claude-code",
+          "claude-code-skill",
+          "codex",
+          "codex-skill"
+        ],
+        "url": "https://github.com/Jordanwei1/jiaojie-skill"
+      },
+      {
+        "repo": "abligail/narralume",
+        "desc": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
+        "lang": "TypeScript",
+        "stars_total": 89,
+        "created": "2026-08-20",
+        "topics": [
+          "ai-writing",
+          "creative-writing",
+          "llm",
+          "long-form-writing",
+          "novel-writing",
+          "novel-writing-assistant",
+          "self-hosted",
+          "storytelling"
+        ],
+        "url": "https://github.com/abligail/narralume"
+      },
+      {
+        "repo": "agents-universe/agents-universe",
+        "desc": "让智能体像人一样学习和工作，共享智能体和项目记忆",
+        "lang": "Python",
+        "stars_total": 83,
+        "created": "2026-08-18",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "agent-orchestration",
+          "agentic",
+          "agentic-workflow",
+          "ai-agents",
+          "ai-governance",
+          "ai-tools"
+        ],
+        "url": "https://github.com/agents-universe/agents-universe"
+      },
+      {
+        "repo": "unclecode/modelprint",
+        "desc": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+        "lang": "JavaScript",
+        "stars_total": 78,
+        "created": "2026-08-21",
+        "topics": [
+          "ai-tools",
+          "fingerprinting",
+          "llm",
+          "openrouter"
+        ],
+        "url": "https://github.com/unclecode/modelprint"
+      },
+      {
+        "repo": "itshen/source-reading-methodology",
+        "desc": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+        "lang": "Python",
+        "stars_total": 72,
+        "created": "2026-08-23",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "documentation",
+          "llm",
+          "methodology"
+        ],
+        "url": "https://github.com/itshen/source-reading-methodology"
+      },
+      {
+        "repo": "SeanEllyJames/deep-research-skill",
+        "desc": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+        "lang": "",
+        "stars_total": 65,
+        "created": "2026-08-18",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "claude",
+          "claude-code",
+          "deep-research",
+          "llm",
+          "prompt-engineering",
+          "research"
+        ],
+        "url": "https://github.com/SeanEllyJames/deep-research-skill"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "points": 64,
+        "comments": 85,
+        "url": "https://www.soverybright.com/",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "points": 196,
+        "comments": 175,
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "points": 85,
+        "comments": 50,
+        "url": "https://ozbrain.com",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "points": 45,
+        "comments": 16,
+        "url": "https://github.com/proliferate-ai/proliferate",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Claude Code adds new \"concise\" output style setting",
+        "points": 11,
+        "comments": 0,
+        "url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
+        "date": "2026-08-20"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
