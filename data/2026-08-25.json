@@ -1,0 +1,338 @@
+{
+  "date": "2026-08-25",
+  "trending_daily": [
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_period": "891",
+      "stars_total": "49023",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "repo": "openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars_period": "1994",
+      "stars_total": "117123",
+      "url": "https://github.com/openai/codex"
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_period": "434",
+      "stars_total": "34118",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "",
+      "stars_period": "588",
+      "stars_total": "206559",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "repo": "makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "lang": "TypeScript",
+      "stars_period": "243",
+      "stars_total": "57957",
+      "url": "https://github.com/makeplane/plane"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_period": "896",
+      "stars_total": "235839",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "repo": "anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "lang": "Python",
+      "stars_period": "489",
+      "stars_total": "1374",
+      "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+      "repo": "AprilNEA/OpenLogi",
+      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "lang": "Rust",
+      "stars_period": "1097",
+      "stars_total": "15903",
+      "url": "https://github.com/AprilNEA/OpenLogi"
+    },
+    {
+      "repo": "apache/maka",
+      "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "lang": "TypeScript",
+      "stars_period": "411",
+      "stars_total": "2930",
+      "url": "https://github.com/apache/maka"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_period": "83",
+      "stars_total": "39009",
+      "url": "https://github.com/PostHog/posthog"
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "stars_period": "173",
+      "stars_total": "387441",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "repo": "AgriciDaniel/claude-obsidian",
+      "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "lang": "Python",
+      "stars_period": "310",
+      "stars_total": "11939",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "349",
+      "stars_total": "48314",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "basecamp/omarchy",
+      "desc": "Beautiful, Modern &amp; Opinionated Linux",
+      "lang": "Shell",
+      "stars_period": "1056",
+      "stars_total": "30199",
+      "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+      "repo": "tashfeenahmed/freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "lang": "TypeScript",
+      "stars_period": "174",
+      "stars_total": "19805",
+      "url": "https://github.com/tashfeenahmed/freellmapi"
+    },
+    {
+      "repo": "dani-garcia/vaultwarden",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "lang": "Rust",
+      "stars_period": "175",
+      "stars_total": "66131",
+      "url": "https://github.com/dani-garcia/vaultwarden"
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_period": "2449",
+      "stars_total": "15626",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "repo": "VoltAgent/awesome-agent-skills",
+      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "lang": "",
+      "stars_period": "602",
+      "stars_total": "31906",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills"
+    },
+    {
+      "repo": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "lang": "Rust",
+      "stars_period": "515",
+      "stars_total": "37289",
+      "url": "https://github.com/tinyhumansai/openhuman"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "rome-os/rome",
+        "desc": "Rome is the agentic OS.",
+        "lang": "TypeScript",
+        "stars_total": 295,
+        "created": "2026-08-23",
+        "topics": [
+          "agent",
+          "agent-os",
+          "claude-code",
+          "codex",
+          "llm"
+        ],
+        "url": "https://github.com/rome-os/rome"
+      },
+      {
+        "repo": "DEEP-JLU/Awesome-Graph-Engineering",
+        "desc": "A Survey on Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+        "lang": "",
+        "stars_total": 51,
+        "created": "2026-08-20",
+        "topics": [
+          "agent",
+          "graph-based-agent",
+          "graph-engineering",
+          "graph-engineering-survey",
+          "harness-engineering",
+          "individual-intelligence",
+          "loop-engineering",
+          "memory"
+        ],
+        "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "rome-os/rome",
+        "desc": "Rome is the agentic OS.",
+        "lang": "TypeScript",
+        "stars_total": 295,
+        "created": "2026-08-23",
+        "topics": [
+          "agent",
+          "agent-os",
+          "claude-code",
+          "codex",
+          "llm"
+        ],
+        "url": "https://github.com/rome-os/rome"
+      },
+      {
+        "repo": "itshen/source-reading-methodology",
+        "desc": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+        "lang": "Python",
+        "stars_total": 112,
+        "created": "2026-08-23",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "documentation",
+          "llm",
+          "methodology"
+        ],
+        "url": "https://github.com/itshen/source-reading-methodology"
+      },
+      {
+        "repo": "Jordanwei1/jiaojie-skill",
+        "desc": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+        "lang": "Python",
+        "stars_total": 104,
+        "created": "2026-08-20",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-agents",
+          "ai-memory",
+          "claude-code",
+          "claude-code-skill",
+          "codex",
+          "codex-skill"
+        ],
+        "url": "https://github.com/Jordanwei1/jiaojie-skill"
+      },
+      {
+        "repo": "abligail/narralume",
+        "desc": "Open-source AI-assisted writing studio for long-form fiction. 故事设定、正文版本、AI 协作、审稿与交付一体化的长篇小说写作工具。",
+        "lang": "TypeScript",
+        "stars_total": 91,
+        "created": "2026-08-20",
+        "topics": [
+          "ai-writing",
+          "creative-writing",
+          "llm",
+          "long-form-writing",
+          "novel-writing",
+          "novel-writing-assistant",
+          "self-hosted",
+          "storytelling"
+        ],
+        "url": "https://github.com/abligail/narralume"
+      },
+      {
+        "repo": "unclecode/modelprint",
+        "desc": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+        "lang": "JavaScript",
+        "stars_total": 85,
+        "created": "2026-08-21",
+        "topics": [
+          "ai-tools",
+          "fingerprinting",
+          "llm",
+          "openrouter"
+        ],
+        "url": "https://github.com/unclecode/modelprint"
+      },
+      {
+        "repo": "forcewake/hermes-conductor",
+        "desc": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+        "lang": "",
+        "stars_total": 57,
+        "created": "2026-08-23",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "claude-code",
+          "codex-cli",
+          "hermes-agent",
+          "kanban",
+          "llm",
+          "multi-agent"
+        ],
+        "url": "https://github.com/forcewake/hermes-conductor"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+        "points": 45,
+        "comments": 11,
+        "url": "https://github.com/l3a0/claude-plugins",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "points": 78,
+        "comments": 88,
+        "url": "https://www.soverybright.com/",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "points": 213,
+        "comments": 186,
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "points": 92,
+        "comments": 54,
+        "url": "https://ozbrain.com",
+        "date": "2026-08-21"
+      },
+      {
+        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "points": 45,
+        "comments": 16,
+        "url": "https://github.com/proliferate-ai/proliferate",
+        "date": "2026-08-21"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
