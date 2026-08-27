@@ -1,0 +1,311 @@
+{
+  "date": "2026-08-27",
+  "trending_daily": [
+    {
+      "repo": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "stars_period": "1035",
+      "stars_total": "20349",
+      "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_period": "4050",
+      "stars_total": "22354",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_period": "308",
+      "stars_total": "34482",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_period": "536",
+      "stars_total": "50657",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_period": "1300",
+      "stars_total": "36923",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "repo": "AgriciDaniel/claude-obsidian",
+      "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "lang": "Python",
+      "stars_period": "810",
+      "stars_total": "13668",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian"
+    },
+    {
+      "repo": "basecamp/omarchy",
+      "desc": "Beautiful, Modern &amp; Opinionated Linux",
+      "lang": "Shell",
+      "stars_period": "1024",
+      "stars_total": "32300",
+      "url": "https://github.com/basecamp/omarchy"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "838",
+      "stars_total": "49844",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "lang": "Rust",
+      "stars_period": "525",
+      "stars_total": "38409",
+      "url": "https://github.com/tinyhumansai/openhuman"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1598",
+      "stars_total": "113266",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "lang": "Python",
+      "stars_period": "538",
+      "stars_total": "2328",
+      "url": "https://github.com/anthropics/claude-plugins-community"
+    },
+    {
+      "repo": "ConardLi/garden-skills",
+      "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "lang": "CSS",
+      "stars_period": "113",
+      "stars_total": "11130",
+      "url": "https://github.com/ConardLi/garden-skills"
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "lang": "Python",
+      "stars_period": "149",
+      "stars_total": "111320",
+      "url": "https://github.com/browser-use/browser-use"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_period": "138",
+      "stars_total": "34956",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "repo": "marin-community/marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "lang": "Python",
+      "stars_period": "441",
+      "stars_total": "2569",
+      "url": "https://github.com/marin-community/marin"
+    },
+    {
+      "repo": "VoltAgent/awesome-agent-skills",
+      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "lang": "",
+      "stars_period": "242",
+      "stars_total": "32853",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "rome-os/rome",
+        "desc": "Rome is the agentic OS.",
+        "lang": "TypeScript",
+        "stars_total": 366,
+        "created": "2026-08-23",
+        "topics": [
+          "agent",
+          "agent-os",
+          "claude-code",
+          "codex",
+          "llm"
+        ],
+        "url": "https://github.com/rome-os/rome"
+      },
+      {
+        "repo": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+        "desc": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+        "lang": "",
+        "stars_total": 156,
+        "created": "2026-08-26",
+        "topics": [
+          "agent",
+          "ai-coding",
+          "documentation",
+          "interview",
+          "take-home-assignment"
+        ],
+        "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects"
+      },
+      {
+        "repo": "2youg1/sprawling",
+        "desc": "Local multi-agent city for running persistent agent teams, long-run, society-simulation",
+        "lang": "Rust",
+        "stars_total": 58,
+        "created": "2026-08-22",
+        "topics": [
+          "agent",
+          "agentic-workflow",
+          "harness",
+          "harness-engineering",
+          "multi-agent",
+          "multi-agent-system",
+          "privacy-first",
+          "rust"
+        ],
+        "url": "https://github.com/2youg1/sprawling"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "rome-os/rome",
+        "desc": "Rome is the agentic OS.",
+        "lang": "TypeScript",
+        "stars_total": 366,
+        "created": "2026-08-23",
+        "topics": [
+          "agent",
+          "agent-os",
+          "claude-code",
+          "codex",
+          "llm"
+        ],
+        "url": "https://github.com/rome-os/rome"
+      },
+      {
+        "repo": "itshen/source-reading-methodology",
+        "desc": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+        "lang": "Python",
+        "stars_total": 125,
+        "created": "2026-08-23",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "documentation",
+          "llm",
+          "methodology"
+        ],
+        "url": "https://github.com/itshen/source-reading-methodology"
+      },
+      {
+        "repo": "unclecode/modelprint",
+        "desc": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+        "lang": "JavaScript",
+        "stars_total": 96,
+        "created": "2026-08-21",
+        "topics": [
+          "ai-tools",
+          "fingerprinting",
+          "llm",
+          "openrouter"
+        ],
+        "url": "https://github.com/unclecode/modelprint"
+      },
+      {
+        "repo": "UditAkhourii/cdaf",
+        "desc": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+        "lang": "Python",
+        "stars_total": 82,
+        "created": "2026-08-26",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "file-format",
+          "gemini",
+          "llm",
+          "remotion",
+          "sidecar",
+          "token-optimization"
+        ],
+        "url": "https://github.com/UditAkhourii/cdaf"
+      },
+      {
+        "repo": "forcewake/hermes-conductor",
+        "desc": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+        "lang": "",
+        "stars_total": 68,
+        "created": "2026-08-23",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "claude-code",
+          "codex-cli",
+          "hermes-agent",
+          "kanban",
+          "llm",
+          "multi-agent"
+        ],
+        "url": "https://github.com/forcewake/hermes-conductor"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "I miss the old Claude Code",
+        "points": 36,
+        "comments": 22,
+        "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+        "points": 61,
+        "comments": 25,
+        "url": "https://github.com/dragthelake/ambient-context",
+        "date": "2026-08-25"
+      },
+      {
+        "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+        "points": 45,
+        "comments": 11,
+        "url": "https://github.com/l3a0/claude-plugins",
+        "date": "2026-08-24"
+      },
+      {
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "points": 78,
+        "comments": 88,
+        "url": "https://www.soverybright.com/",
+        "date": "2026-08-22"
+      },
+      {
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "points": 216,
+        "comments": 190,
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "date": "2026-08-22"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
