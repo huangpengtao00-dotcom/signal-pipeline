@@ -1,0 +1,392 @@
+{
+  "date": "2026-08-29",
+  "trending_daily": [
+    {
+      "repo": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "stars_period": "4562",
+      "stars_total": "28448",
+      "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_period": "720",
+      "stars_total": "36969",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_period": "457",
+      "stars_total": "35127",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_period": "3829",
+      "stars_total": "11456",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "lang": "TypeScript",
+      "stars_period": "202",
+      "stars_total": "46226",
+      "url": "https://github.com/abhigyanpatwari/GitNexus"
+    },
+    {
+      "repo": "JetBrains/go-modern-guidelines",
+      "desc": "Help AI coding agents write modern Go",
+      "lang": "Go",
+      "stars_period": "574",
+      "stars_total": "2668",
+      "url": "https://github.com/JetBrains/go-modern-guidelines"
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_period": "1144",
+      "stars_total": "53494",
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "repo": "abi/screenshot-to-code",
+      "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "lang": "Python",
+      "stars_period": "326",
+      "stars_total": "75686",
+      "url": "https://github.com/abi/screenshot-to-code"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "246",
+      "stars_total": "6023",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_period": "1687",
+      "stars_total": "24485",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "repo": "tailscale/tailcat",
+      "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "lang": "Go",
+      "stars_period": "965",
+      "stars_total": "2954",
+      "url": "https://github.com/tailscale/tailcat"
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_period": "191",
+      "stars_total": "73413",
+      "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+      "repo": "swoole/typephp",
+      "desc": "Compile PHP to Native Binaries",
+      "lang": "PHP",
+      "stars_period": "188",
+      "stars_total": "848",
+      "url": "https://github.com/swoole/typephp"
+    },
+    {
+      "repo": "marin-community/marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "lang": "Python",
+      "stars_period": "236",
+      "stars_total": "2930",
+      "url": "https://github.com/marin-community/marin"
+    },
+    {
+      "repo": "tashfeenahmed/freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "lang": "TypeScript",
+      "stars_period": "433",
+      "stars_total": "21752",
+      "url": "https://github.com/tashfeenahmed/freellmapi"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_period": "67",
+      "stars_total": "50026",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "703",
+      "stars_total": "50715",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1396",
+      "stars_total": "115661",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "google/googletest",
+      "desc": "GoogleTest - Google Testing and Mocking Framework",
+      "lang": "C++",
+      "stars_period": "156",
+      "stars_total": "39210",
+      "url": "https://github.com/google/googletest"
+    },
+    {
+      "repo": "livekit/agents",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "lang": "Python",
+      "stars_period": "22",
+      "stars_total": "13407",
+      "url": "https://github.com/livekit/agents"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "rome-os/rome",
+        "desc": "Rome is the agentic OS.",
+        "lang": "TypeScript",
+        "stars_total": 383,
+        "created": "2026-08-23",
+        "topics": [
+          "agent",
+          "agent-os",
+          "claude-code",
+          "codex",
+          "llm"
+        ],
+        "url": "https://github.com/rome-os/rome"
+      },
+      {
+        "repo": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+        "desc": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+        "lang": "",
+        "stars_total": 232,
+        "created": "2026-08-26",
+        "topics": [
+          "agent",
+          "ai-coding",
+          "documentation",
+          "interview",
+          "take-home-assignment"
+        ],
+        "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects"
+      },
+      {
+        "repo": "Merit-Systems/OpenInstinct",
+        "desc": "iMessage personal assistant + password vault",
+        "lang": "TypeScript",
+        "stars_total": 198,
+        "created": "2026-08-25",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "imessage"
+        ],
+        "url": "https://github.com/Merit-Systems/OpenInstinct"
+      },
+      {
+        "repo": "MariusOTB/OpenTrade-Agent",
+        "desc": "The open-source trading harness for agents",
+        "lang": "TypeScript",
+        "stars_total": 89,
+        "created": "2026-08-25",
+        "topics": [
+          "agent",
+          "claude-code",
+          "codex",
+          "robinhood",
+          "robinhood-chain"
+        ],
+        "url": "https://github.com/MariusOTB/OpenTrade-Agent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "Nanako0129/sepia",
+        "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "lang": "Shell",
+        "stars_total": 503,
+        "created": "2026-08-28",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok"
+        ],
+        "url": "https://github.com/Nanako0129/sepia"
+      },
+      {
+        "repo": "rome-os/rome",
+        "desc": "Rome is the agentic OS.",
+        "lang": "TypeScript",
+        "stars_total": 383,
+        "created": "2026-08-23",
+        "topics": [
+          "agent",
+          "agent-os",
+          "claude-code",
+          "codex",
+          "llm"
+        ],
+        "url": "https://github.com/rome-os/rome"
+      },
+      {
+        "repo": "OnlyTerp/opengrok",
+        "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+        "lang": "Python",
+        "stars_total": 301,
+        "created": "2026-08-27",
+        "topics": [
+          "ai-agents",
+          "grok",
+          "llm",
+          "model-router",
+          "openai-compatible",
+          "windows"
+        ],
+        "url": "https://github.com/OnlyTerp/opengrok"
+      },
+      {
+        "repo": "S1N6H/pentest-harness",
+        "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+        "lang": "TypeScript",
+        "stars_total": 236,
+        "created": "2026-08-26",
+        "topics": [
+          "ai-agent",
+          "anthropic-api",
+          "bug-bounty",
+          "infosec",
+          "llm",
+          "offensive-security",
+          "open-source",
+          "openai-api"
+        ],
+        "url": "https://github.com/S1N6H/pentest-harness"
+      },
+      {
+        "repo": "itshen/source-reading-methodology",
+        "desc": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+        "lang": "Python",
+        "stars_total": 127,
+        "created": "2026-08-23",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "ai-coding",
+          "claude-code",
+          "code-review",
+          "documentation",
+          "llm",
+          "methodology"
+        ],
+        "url": "https://github.com/itshen/source-reading-methodology"
+      },
+      {
+        "repo": "UditAkhourii/cdaf",
+        "desc": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+        "lang": "Python",
+        "stars_total": 99,
+        "created": "2026-08-26",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "file-format",
+          "gemini",
+          "llm",
+          "remotion",
+          "sidecar",
+          "token-optimization"
+        ],
+        "url": "https://github.com/UditAkhourii/cdaf"
+      },
+      {
+        "repo": "forcewake/hermes-conductor",
+        "desc": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks — from 18 kanban boards and every incident that tried to ruin them.",
+        "lang": "",
+        "stars_total": 69,
+        "created": "2026-08-23",
+        "topics": [
+          "agent-orchestration",
+          "ai-agents",
+          "claude-code",
+          "codex-cli",
+          "hermes-agent",
+          "kanban",
+          "llm",
+          "multi-agent"
+        ],
+        "url": "https://github.com/forcewake/hermes-conductor"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Tell HN: Man, AI is killing my brain",
+        "points": 54,
+        "comments": 28,
+        "url": "https://news.ycombinator.com/item?id=49468252",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+        "points": 35,
+        "comments": 11,
+        "url": "https://github.com/opslane/opslane",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "I miss the old Claude Code",
+        "points": 38,
+        "comments": 23,
+        "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Ask HN: Why are Claude models so verbose?",
+        "points": 11,
+        "comments": 11,
+        "url": "https://news.ycombinator.com/item?id=49444272",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+        "points": 62,
+        "comments": 25,
+        "url": "https://github.com/dragthelake/ambient-context",
+        "date": "2026-08-25"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
