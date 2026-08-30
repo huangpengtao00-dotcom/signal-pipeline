@@ -1,0 +1,454 @@
+{
+  "date": "2026-08-30",
+  "trending_daily": [
+    {
+      "repo": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "stars_period": "3902",
+      "stars_total": "31656",
+      "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_period": "1855",
+      "stars_total": "12848",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_period": "1587",
+      "stars_total": "38083",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "repo": "tailscale/tailcat",
+      "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "lang": "Go",
+      "stars_period": "789",
+      "stars_total": "3673",
+      "url": "https://github.com/tailscale/tailcat"
+    },
+    {
+      "repo": "THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "lang": "TypeScript",
+      "stars_period": "907",
+      "stars_total": "22513",
+      "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+      "repo": "p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "lang": "Python",
+      "stars_period": "150",
+      "stars_total": "28775",
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "repo": "bigskysoftware/htmx",
+      "desc": "&lt;/&gt; htmx - high power tools for HTML",
+      "lang": "JavaScript",
+      "stars_period": "32",
+      "stars_total": "49163",
+      "url": "https://github.com/bigskysoftware/htmx"
+    },
+    {
+      "repo": "JetBrains/go-modern-guidelines",
+      "desc": "Help AI coding agents write modern Go",
+      "lang": "Go",
+      "stars_period": "303",
+      "stars_total": "2910",
+      "url": "https://github.com/JetBrains/go-modern-guidelines"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_period": "73",
+      "stars_total": "73970",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_period": "806",
+      "stars_total": "54208",
+      "url": "https://github.com/calesthio/OpenMontage"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "lang": "TypeScript",
+      "stars_period": "517",
+      "stars_total": "14731",
+      "url": "https://github.com/every-app/open-seo"
+    },
+    {
+      "repo": "Osmantic/ODS",
+      "desc": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "lang": "Python",
+      "stars_period": "35",
+      "stars_total": "5028",
+      "url": "https://github.com/Osmantic/ODS"
+    },
+    {
+      "repo": "abi/screenshot-to-code",
+      "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "lang": "Python",
+      "stars_period": "550",
+      "stars_total": "76113",
+      "url": "https://github.com/abi/screenshot-to-code"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_period": "358",
+      "stars_total": "35483",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "repo": "google/googletest",
+      "desc": "GoogleTest - Google Testing and Mocking Framework",
+      "lang": "C++",
+      "stars_period": "128",
+      "stars_total": "39337",
+      "url": "https://github.com/google/googletest"
+    },
+    {
+      "repo": "actions/checkout",
+      "desc": "Action for checking out a repo",
+      "lang": "TypeScript",
+      "stars_period": "5",
+      "stars_total": "8811",
+      "url": "https://github.com/actions/checkout"
+    },
+    {
+      "repo": "kaifcodec/user-scanner",
+      "desc": "🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
+      "lang": "Python",
+      "stars_period": "39",
+      "stars_total": "3707",
+      "url": "https://github.com/kaifcodec/user-scanner"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "196",
+      "stars_total": "90783",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "workweave/router",
+      "desc": "Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.",
+      "lang": "Go",
+      "stars_period": "284",
+      "stars_total": "2848",
+      "url": "https://github.com/workweave/router"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+        "desc": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+        "lang": "",
+        "stars_total": 250,
+        "created": "2026-08-26",
+        "topics": [
+          "agent",
+          "ai-coding",
+          "documentation",
+          "interview",
+          "take-home-assignment"
+        ],
+        "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects"
+      },
+      {
+        "repo": "Merit-Systems/OpenInstinct",
+        "desc": "iMessage personal assistant + password vault",
+        "lang": "TypeScript",
+        "stars_total": 206,
+        "created": "2026-08-25",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "imessage"
+        ],
+        "url": "https://github.com/Merit-Systems/OpenInstinct"
+      },
+      {
+        "repo": "MariusOTB/OpenTrade-Agent",
+        "desc": "The open-source trading harness for agents",
+        "lang": "TypeScript",
+        "stars_total": 125,
+        "created": "2026-08-25",
+        "topics": [
+          "agent",
+          "claude-code",
+          "codex",
+          "robinhood",
+          "robinhood-chain"
+        ],
+        "url": "https://github.com/MariusOTB/OpenTrade-Agent"
+      },
+      {
+        "repo": "genoskietv/AdalFlow-Optimizer",
+        "desc": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
+        "lang": "HTML",
+        "stars_total": 55,
+        "created": "2026-08-25",
+        "topics": [
+          "agent",
+          "ai",
+          "auto-prompting",
+          "bm25",
+          "chatbot",
+          "faiss",
+          "framework",
+          "generative-ai"
+        ],
+        "url": "https://github.com/genoskietv/AdalFlow-Optimizer"
+      },
+      {
+        "repo": "reghilkentpilaspilas-stack/plumb-core",
+        "desc": "Pluggable AI Skill Framework for Embedded Linux: 2026 Agentic Automation Guide",
+        "lang": "HTML",
+        "stars_total": 55,
+        "created": "2026-08-25",
+        "topics": [
+          "agent",
+          "ai",
+          "embedded",
+          "horse",
+          "linux",
+          "mcu",
+          "ritual-implement",
+          "rtos"
+        ],
+        "url": "https://github.com/reghilkentpilaspilas-stack/plumb-core"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "Nanako0129/sepia",
+        "desc": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "lang": "",
+        "stars_total": 707,
+        "created": "2026-08-28",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok"
+        ],
+        "url": "https://github.com/Nanako0129/sepia"
+      },
+      {
+        "repo": "OnlyTerp/opengrok",
+        "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+        "lang": "JavaScript",
+        "stars_total": 373,
+        "created": "2026-08-27",
+        "topics": [
+          "ai-agents",
+          "grok",
+          "llm",
+          "model-router",
+          "openai-compatible",
+          "windows"
+        ],
+        "url": "https://github.com/OnlyTerp/opengrok"
+      },
+      {
+        "repo": "S1N6H/pentest-harness",
+        "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+        "lang": "TypeScript",
+        "stars_total": 294,
+        "created": "2026-08-26",
+        "topics": [
+          "ai-agent",
+          "anthropic-api",
+          "bug-bounty",
+          "infosec",
+          "llm",
+          "offensive-security",
+          "open-source",
+          "openai-api"
+        ],
+        "url": "https://github.com/S1N6H/pentest-harness"
+      },
+      {
+        "repo": "JordyZomer/lemmalog",
+        "desc": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+        "lang": "Rust",
+        "stars_total": 154,
+        "created": "2026-08-27",
+        "topics": [
+          "agent-memory",
+          "datalog",
+          "knowledge-graph",
+          "llm",
+          "llm-agents",
+          "mcp",
+          "neurosymbolic"
+        ],
+        "url": "https://github.com/JordyZomer/lemmalog"
+      },
+      {
+        "repo": "UditAkhourii/cdaf",
+        "desc": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+        "lang": "Python",
+        "stars_total": 99,
+        "created": "2026-08-26",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "file-format",
+          "gemini",
+          "llm",
+          "remotion",
+          "sidecar",
+          "token-optimization"
+        ],
+        "url": "https://github.com/UditAkhourii/cdaf"
+      },
+      {
+        "repo": "usedotai/dot-reflex",
+        "desc": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+        "lang": "Python",
+        "stars_total": 97,
+        "created": "2026-08-28",
+        "topics": [
+          "agent-supervision",
+          "ai-agents",
+          "coding-agents",
+          "llm",
+          "open-source",
+          "qlora",
+          "qwen3",
+          "recovery-controller"
+        ],
+        "url": "https://github.com/usedotai/dot-reflex"
+      },
+      {
+        "repo": "useagenthq/useagent",
+        "desc": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+        "lang": "TypeScript",
+        "stars_total": 72,
+        "created": "2026-08-29",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-coworker",
+          "automation",
+          "autonomous-agents",
+          "bun",
+          "claude"
+        ],
+        "url": "https://github.com/useagenthq/useagent"
+      },
+      {
+        "repo": "raamonp/rl-gym-orchestrator",
+        "desc": "Ultimate LLM Gym Trainer Guide 2026: Reinforcement Learning Fine-Tuning Framework",
+        "lang": "HTML",
+        "stars_total": 55,
+        "created": "2026-08-25",
+        "topics": [
+          "ai",
+          "framework",
+          "gym",
+          "llm",
+          "trainer"
+        ],
+        "url": "https://github.com/raamonp/rl-gym-orchestrator"
+      },
+      {
+        "repo": "genoskietv/AdalFlow-Optimizer",
+        "desc": "Build & Auto-Optimize LLM Apps in 2026: The Ultimate AdalFlow Guide",
+        "lang": "HTML",
+        "stars_total": 55,
+        "created": "2026-08-25",
+        "topics": [
+          "agent",
+          "ai",
+          "auto-prompting",
+          "bm25",
+          "chatbot",
+          "faiss",
+          "framework",
+          "generative-ai"
+        ],
+        "url": "https://github.com/genoskietv/AdalFlow-Optimizer"
+      },
+      {
+        "repo": "TTheuPP/NLP-LLM-Orchestrator-FineTuner",
+        "desc": "Master LLM Fine-Tuning Trainer 2026: Advanced NLP Optimization Toolkit",
+        "lang": "HTML",
+        "stars_total": 55,
+        "created": "2026-08-25",
+        "topics": [
+          "fine-tuning",
+          "llm",
+          "nlp",
+          "trainer"
+        ],
+        "url": "https://github.com/TTheuPP/NLP-LLM-Orchestrator-FineTuner"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Ask HN: How to break Claude Code addiction?",
+        "points": 12,
+        "comments": 11,
+        "url": "https://news.ycombinator.com/item?id=49491745",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "Claude Code is going reduce limits by 25% from September 14",
+        "points": 24,
+        "comments": 13,
+        "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+        "date": "2026-08-29"
+      },
+      {
+        "title": "Tell HN: Man, AI is killing my brain",
+        "points": 54,
+        "comments": 28,
+        "url": "https://news.ycombinator.com/item?id=49468252",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+        "points": 38,
+        "comments": 11,
+        "url": "https://github.com/opslane/opslane",
+        "date": "2026-08-27"
+      },
+      {
+        "title": "I miss the old Claude Code",
+        "points": 38,
+        "comments": 23,
+        "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+        "date": "2026-08-26"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
