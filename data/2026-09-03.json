@@ -1,0 +1,451 @@
+{
+  "date": "2026-09-03",
+  "trending_daily": [
+    {
+      "repo": "fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "lang": "C++",
+      "stars_period": "14",
+      "stars_total": "24405",
+      "url": "https://github.com/fmtlib/fmt"
+    },
+    {
+      "repo": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "lang": "Python",
+      "stars_period": "343",
+      "stars_total": "30054",
+      "url": "https://github.com/google-research/timesfm"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1354",
+      "stars_total": "121986",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_period": "832",
+      "stars_total": "15068",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "repo": "sngyai/Sequoia-X",
+      "desc": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "lang": "Python",
+      "stars_period": "63",
+      "stars_total": "6233",
+      "url": "https://github.com/sngyai/Sequoia-X"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_period": "148",
+      "stars_total": "50706",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_period": "533",
+      "stars_total": "240244",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "repo": "superlinked/sie",
+      "desc": "Open-source inference server and production cluster for all the models your agent needs.",
+      "lang": "Python",
+      "stars_period": "60",
+      "stars_total": "3107",
+      "url": "https://github.com/superlinked/sie"
+    },
+    {
+      "repo": "pacifio/atlas",
+      "desc": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "lang": "Rust",
+      "stars_period": "888",
+      "stars_total": "2985",
+      "url": "https://github.com/pacifio/atlas"
+    },
+    {
+      "repo": "zyronon/TypeWords",
+      "desc": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "lang": "Vue",
+      "stars_period": "21",
+      "stars_total": "9410",
+      "url": "https://github.com/zyronon/TypeWords"
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "lang": "Python",
+      "stars_period": "799",
+      "stars_total": "45651",
+      "url": "https://github.com/Imbad0202/academic-research-skills"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "516",
+      "stars_total": "246457",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "protocolbuffers/protobuf",
+      "desc": "Protocol Buffers - Google's data interchange format",
+      "lang": "C++",
+      "stars_period": "18",
+      "stars_total": "71955",
+      "url": "https://github.com/protocolbuffers/protobuf"
+    },
+    {
+      "repo": "vercel-labs/portless",
+      "desc": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "lang": "TypeScript",
+      "stars_period": "73",
+      "stars_total": "11854",
+      "url": "https://github.com/vercel-labs/portless"
+    },
+    {
+      "repo": "blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "lang": "Python",
+      "stars_period": "374",
+      "stars_total": "40602",
+      "url": "https://github.com/blader/humanizer"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "Go",
+      "stars_period": "238",
+      "stars_total": "102722",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1166",
+      "stars_total": "245460",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "Gitlawb/openclaude",
+      "desc": "runs anywhere. uses anything",
+      "lang": "TypeScript",
+      "stars_period": "775",
+      "stars_total": "32048",
+      "url": "https://github.com/Gitlawb/openclaude"
+    },
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_period": "586",
+      "stars_total": "18594",
+      "url": "https://github.com/firecrawl/pdf-inspector"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "ZJU-REAL/Easel",
+        "desc": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+        "lang": "Python",
+        "stars_total": 260,
+        "created": "2026-08-28",
+        "topics": [
+          "agent",
+          "agent-skill",
+          "content-automation",
+          "content-creation",
+          "content-generation",
+          "mcp",
+          "openclaw",
+          "social-media"
+        ],
+        "url": "https://github.com/ZJU-REAL/Easel"
+      },
+      {
+        "repo": "sharith45/atlas-Assistant",
+        "desc": "Tu asistente personal, directamente en tu ordenador. Habla contigo por voz, gestiona WhatsApp, atiende llamadas, consulta la web y recuerda lo importante. Una inteligencia artificial diseñada para trabajar de forma local, privada y autónoma, sin depender de la nube.",
+        "lang": "Python",
+        "stars_total": 58,
+        "created": "2026-08-30",
+        "topics": [
+          "agent",
+          "agent-skill",
+          "agent-skills",
+          "agentic",
+          "agentic-ai",
+          "agentic-workflow",
+          "agents",
+          "asistente"
+        ],
+        "url": "https://github.com/sharith45/atlas-Assistant"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "Nanako0129/sepia",
+        "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "lang": "Python",
+        "stars_total": 1655,
+        "created": "2026-08-28",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "fiction",
+          "grok"
+        ],
+        "url": "https://github.com/Nanako0129/sepia"
+      },
+      {
+        "repo": "Player-YN/PawWork_ZhuaZhua",
+        "desc": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+        "lang": "JavaScript",
+        "stars_total": 606,
+        "created": "2026-08-28",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "byok",
+          "chrome-extension",
+          "llm",
+          "pptx",
+          "tldraw",
+          "univer"
+        ],
+        "url": "https://github.com/Player-YN/PawWork_ZhuaZhua"
+      },
+      {
+        "repo": "useagenthq/useagent",
+        "desc": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+        "lang": "TypeScript",
+        "stars_total": 275,
+        "created": "2026-08-29",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-coworker",
+          "automation",
+          "autonomous-agents",
+          "bun",
+          "claude"
+        ],
+        "url": "https://github.com/useagenthq/useagent"
+      },
+      {
+        "repo": "carloslfu/slotstream",
+        "desc": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+        "lang": "Swift",
+        "stars_total": 255,
+        "created": "2026-08-28",
+        "topics": [
+          "apple-silicon",
+          "llm",
+          "llm-inference",
+          "local-llm",
+          "macos",
+          "mixture-of-experts",
+          "mlx",
+          "ollama"
+        ],
+        "url": "https://github.com/carloslfu/slotstream"
+      },
+      {
+        "repo": "Human-Agent-Society/reef",
+        "desc": "Continual learning infra for self-improving agents",
+        "lang": "Python",
+        "stars_total": 174,
+        "created": "2026-08-31",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agents",
+          "continual-learning",
+          "inference",
+          "llm",
+          "llm-training",
+          "reinforcement-learning",
+          "self-improving-agents"
+        ],
+        "url": "https://github.com/Human-Agent-Society/reef"
+      },
+      {
+        "repo": "Vuk97/forward-implementation-first",
+        "desc": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+        "lang": "Shell",
+        "stars_total": 161,
+        "created": "2026-08-29",
+        "topics": [
+          "agent-skills",
+          "agents",
+          "agentskills",
+          "ai-agents",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "codex"
+        ],
+        "url": "https://github.com/Vuk97/forward-implementation-first"
+      },
+      {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "desc": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+        "lang": "Python",
+        "stars_total": 125,
+        "created": "2026-09-01",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "bot-templates",
+          "catalog",
+          "cursor"
+        ],
+        "url": "https://github.com/kydlikebtc/awesome-grokbot"
+      },
+      {
+        "repo": "ashutoshsinghpr7/wikiskill",
+        "desc": "WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log.",
+        "lang": "Python",
+        "stars_total": 90,
+        "created": "2026-08-29",
+        "topics": [
+          "agent-skills",
+          "agents",
+          "ai-agents",
+          "arxiv",
+          "hermes-agent",
+          "llm",
+          "llm-agents",
+          "persistent-knowledge"
+        ],
+        "url": "https://github.com/ashutoshsinghpr7/wikiskill"
+      },
+      {
+        "repo": "AMAP-ML/LoopArena",
+        "desc": "Benchmarking models as runtime Controllers for Loop Engineering",
+        "lang": "Python",
+        "stars_total": 85,
+        "created": "2026-08-31",
+        "topics": [
+          "benchmark",
+          "coding-agents",
+          "evaluation",
+          "llm",
+          "loop-engineering",
+          "software-engineering"
+        ],
+        "url": "https://github.com/AMAP-ML/LoopArena"
+      },
+      {
+        "repo": "usedotai/dot-reflex",
+        "desc": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+        "lang": "Python",
+        "stars_total": 81,
+        "created": "2026-08-28",
+        "topics": [
+          "agent-supervision",
+          "ai-agents",
+          "coding-agents",
+          "llm",
+          "open-source",
+          "qlora",
+          "qwen3",
+          "recovery-controller"
+        ],
+        "url": "https://github.com/usedotai/dot-reflex"
+      },
+      {
+        "repo": "Continuum-AI-Corp/OrcaReplay",
+        "desc": "OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+        "lang": "TypeScript",
+        "stars_total": 66,
+        "created": "2026-08-29",
+        "topics": [
+          "agent-debugging",
+          "agent-tracing",
+          "ai-agent",
+          "ai-agents",
+          "ai-debugger",
+          "ai-debugging",
+          "anthropic",
+          "llm"
+        ],
+        "url": "https://github.com/Continuum-AI-Corp/OrcaReplay"
+      },
+      {
+        "repo": "alesha-pro/atlas",
+        "desc": "Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distributions, spectra and outlier channels for every weight tensor",
+        "lang": "TypeScript",
+        "stars_total": 58,
+        "created": "2026-08-30",
+        "topics": [
+          "dataviz",
+          "interpretability",
+          "llm",
+          "quantization",
+          "visualization"
+        ],
+        "url": "https://github.com/alesha-pro/atlas"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Kit. Claude Code but Concise",
+        "points": 12,
+        "comments": 1,
+        "url": "https://github.com/speakeasy-api/kit",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
+        "points": 18,
+        "comments": 9,
+        "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
+        "points": 15,
+        "comments": 9,
+        "url": "https://www.supafork.com",
+        "date": "2026-09-01"
+      },
+      {
+        "title": "Show HN: SlideOps – slides from a repo that flag when they drift from the code",
+        "points": 23,
+        "comments": 5,
+        "url": "https://github.com/glukicov/slideops",
+        "date": "2026-08-31"
+      },
+      {
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "points": 397,
+        "comments": 121,
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "date": "2026-08-31"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
