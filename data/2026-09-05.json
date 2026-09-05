@@ -1,0 +1,414 @@
+{
+  "date": "2026-09-05",
+  "trending_daily": [
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "2758",
+      "stars_total": "250656",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1679",
+      "stars_total": "126376",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "lang": "C++",
+      "stars_period": "688",
+      "stars_total": "25489",
+      "url": "https://github.com/fmtlib/fmt"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "1135",
+      "stars_total": "248636",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_period": "511",
+      "stars_total": "174190",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "repo": "blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "lang": "Python",
+      "stars_period": "1130",
+      "stars_total": "42836",
+      "url": "https://github.com/blader/humanizer"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_period": "720",
+      "stars_total": "241573",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "Go",
+      "stars_period": "501",
+      "stars_total": "103622",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "repo": "magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "lang": "TypeScript",
+      "stars_period": "391",
+      "stars_total": "2588",
+      "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+      "repo": "bikini/exploitarium",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "lang": "Python",
+      "stars_period": "74",
+      "stars_total": "4547",
+      "url": "https://github.com/bikini/exploitarium"
+    },
+    {
+      "repo": "bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "lang": "Kotlin",
+      "stars_period": "730",
+      "stars_total": "52842",
+      "url": "https://github.com/bannedbook/fanqiang"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_period": "1345",
+      "stars_total": "18183",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "repo": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "lang": "Python",
+      "stars_period": "342",
+      "stars_total": "31103",
+      "url": "https://github.com/google-research/timesfm"
+    },
+    {
+      "repo": "radixark/miles",
+      "desc": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "lang": "Python",
+      "stars_period": "64",
+      "stars_total": "2584",
+      "url": "https://github.com/radixark/miles"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_period": "345",
+      "stars_total": "204213",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "repo": "clshortfuse/renodx",
+      "desc": "Renovation Engine for DirectX Games",
+      "lang": "HLSL",
+      "stars_period": "261",
+      "stars_total": "3558",
+      "url": "https://github.com/clshortfuse/renodx"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "437",
+      "stars_total": "31060",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "sharith45/atlas-Assistant",
+        "desc": "Tu asistente personal, directamente en tu ordenador. Habla contigo por voz, gestiona WhatsApp, atiende llamadas, consulta la web y recuerda lo importante. Una inteligencia artificial diseñada para trabajar de forma local, privada y autónoma, sin depender de la nube.",
+        "lang": "Python",
+        "stars_total": 70,
+        "created": "2026-08-30",
+        "topics": [
+          "agent",
+          "agent-skill",
+          "agent-skills",
+          "agentic",
+          "agentic-ai",
+          "agentic-workflow",
+          "agents",
+          "asistente"
+        ],
+        "url": "https://github.com/sharith45/atlas-Assistant"
+      },
+      {
+        "repo": "gesta-run/subpool",
+        "desc": "  A lightweight, self-hosted AI subscription pool for teams.",
+        "lang": "Go",
+        "stars_total": 56,
+        "created": "2026-09-02",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "gateway",
+          "pooling"
+        ],
+        "url": "https://github.com/gesta-run/subpool"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "2akouwu/reverify",
+        "desc": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
+        "lang": "Python",
+        "stars_total": 890,
+        "created": "2026-08-31",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "anti-hallucination",
+          "binary-analysis",
+          "context-engineering",
+          "ctf",
+          "developer-tools",
+          "disassembler"
+        ],
+        "url": "https://github.com/2akouwu/reverify"
+      },
+      {
+        "repo": "Human-Agent-Society/reef",
+        "desc": "Continual learning infra for self-improving agents",
+        "lang": "Python",
+        "stars_total": 437,
+        "created": "2026-08-31",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agents",
+          "continual-learning",
+          "inference",
+          "llm",
+          "llm-training",
+          "reinforcement-learning",
+          "self-improving-agents"
+        ],
+        "url": "https://github.com/Human-Agent-Society/reef"
+      },
+      {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "desc": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+        "lang": "Python",
+        "stars_total": 307,
+        "created": "2026-09-01",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "bot-templates",
+          "catalog",
+          "cursor"
+        ],
+        "url": "https://github.com/kydlikebtc/awesome-grokbot"
+      },
+      {
+        "repo": "Agenta-AI/awesome-ai-agent-platforms",
+        "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+        "lang": "Astro",
+        "stars_total": 170,
+        "created": "2026-09-02",
+        "topics": [
+          "agent-frameworks",
+          "ai-agent-platforms",
+          "ai-agents",
+          "ai-coworker",
+          "awesome",
+          "awesome-list",
+          "browser-agents",
+          "coding-agents"
+        ],
+        "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms"
+      },
+      {
+        "repo": "AMAP-ML/LoopArena",
+        "desc": "Benchmarking models as runtime Controllers for Loop Engineering",
+        "lang": "Python",
+        "stars_total": 87,
+        "created": "2026-08-31",
+        "topics": [
+          "benchmark",
+          "coding-agents",
+          "evaluation",
+          "llm",
+          "loop-engineering",
+          "software-engineering"
+        ],
+        "url": "https://github.com/AMAP-ML/LoopArena"
+      },
+      {
+        "repo": "fitchmultz/pi-posthorse",
+        "desc": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes, and history recovery.",
+        "lang": "TypeScript",
+        "stars_total": 85,
+        "created": "2026-08-31",
+        "topics": [
+          "coding-agent",
+          "context-window",
+          "llm",
+          "pi",
+          "pi-extension",
+          "pi-package"
+        ],
+        "url": "https://github.com/fitchmultz/pi-posthorse"
+      },
+      {
+        "repo": "AbuZar-Ansarii/Needle",
+        "desc": "This 14 MB Agentic LLM(Cactus Needle 2) can control your phone completely.",
+        "lang": "Python",
+        "stars_total": 82,
+        "created": "2026-08-30",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "cactus-needle",
+          "llm",
+          "llm-agents",
+          "llm-tools"
+        ],
+        "url": "https://github.com/AbuZar-Ansarii/Needle"
+      },
+      {
+        "repo": "alesha-pro/atlas",
+        "desc": "Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distributions, spectra and outlier channels for every weight tensor",
+        "lang": "TypeScript",
+        "stars_total": 66,
+        "created": "2026-08-30",
+        "topics": [
+          "dataviz",
+          "interpretability",
+          "llm",
+          "quantization",
+          "visualization"
+        ],
+        "url": "https://github.com/alesha-pro/atlas"
+      },
+      {
+        "repo": "stevibe/SparklingKit",
+        "desc": "Local-first AI workbench for OCR, transcription, translation, image generation, mind maps and composable workflows. Built for DGX Spark.",
+        "lang": "TypeScript",
+        "stars_total": 59,
+        "created": "2026-08-31",
+        "topics": [
+          "ai-workflows",
+          "dgx-spark",
+          "llm",
+          "local-ai",
+          "nvidia",
+          "ocr",
+          "react",
+          "self-hosted"
+        ],
+        "url": "https://github.com/stevibe/SparklingKit"
+      },
+      {
+        "repo": "zeroa234/ryza-ai-revive",
+        "desc": "Offline fan-made Ryza AI companion. Bring your own LLM/TTS. 离线同人莱莎 AI 陪伴，自填大模型与语音。",
+        "lang": "JavaScript",
+        "stars_total": 56,
+        "created": "2026-09-02",
+        "topics": [
+          "android",
+          "chatbot",
+          "electron",
+          "html",
+          "javascript",
+          "llm",
+          "nsfw",
+          "offline"
+        ],
+        "url": "https://github.com/zeroa234/ryza-ai-revive"
+      },
+      {
+        "repo": "1Panel-dev/1Panel-Gateway",
+        "desc": "1Panel AI 网关提供从统一接入、智能路由到合规审计的全链条管控，让企业 AI 落地更安全、更高效、更可控。",
+        "lang": "",
+        "stars_total": 54,
+        "created": "2026-08-31",
+        "topics": [
+          "1panel",
+          "ai-gateway",
+          "anthropic",
+          "deepseek",
+          "gateway",
+          "litellm",
+          "llm",
+          "newapi"
+        ],
+        "url": "https://github.com/1Panel-dev/1Panel-Gateway"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+        "points": 60,
+        "comments": 26,
+        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Claude Code skills for advanced context engineering techniques and patterns",
+        "points": 13,
+        "comments": 1,
+        "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Show HN: I built my first MCP to manage Google Ads",
+        "points": 15,
+        "comments": 13,
+        "url": "https://adchestra.com/",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Show HN: Kit. Claude Code but Concise",
+        "points": 12,
+        "comments": 1,
+        "url": "https://github.com/speakeasy-api/kit",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
+        "points": 19,
+        "comments": 10,
+        "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
+        "date": "2026-09-02"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
