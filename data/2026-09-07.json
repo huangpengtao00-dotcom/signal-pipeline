@@ -1,0 +1,304 @@
+{
+  "date": "2026-09-07",
+  "trending_daily": [
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "1485",
+      "stars_total": "251668",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "2207",
+      "stars_total": "254966",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "620",
+      "stars_total": "32609",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_period": "520",
+      "stars_total": "242651",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "repo": "openai/skills",
+      "desc": "Skills Catalog for Codex",
+      "lang": "Python",
+      "stars_period": "46",
+      "stars_total": "25678",
+      "url": "https://github.com/openai/skills"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_period": "551",
+      "stars_total": "205362",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "repo": "blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "lang": "Python",
+      "stars_period": "748",
+      "stars_total": "44461",
+      "url": "https://github.com/blader/humanizer"
+    },
+    {
+      "repo": "llvm/llvm-project",
+      "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "lang": "LLVM",
+      "stars_period": "23",
+      "stars_total": "40254",
+      "url": "https://github.com/llvm/llvm-project"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1539",
+      "stars_total": "129707",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_period": "276",
+      "stars_total": "71075",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "repo": "magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "lang": "TypeScript",
+      "stars_period": "604",
+      "stars_total": "3764",
+      "url": "https://github.com/magnitudedev/magnitude"
+    },
+    {
+      "repo": "BraveOPotato/FckSignups",
+      "desc": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "lang": "TypeScript",
+      "stars_period": "436",
+      "stars_total": "3402",
+      "url": "https://github.com/BraveOPotato/FckSignups"
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_period": "329",
+      "stars_total": "47624",
+      "url": "https://github.com/coreyhaines31/marketingskills"
+    },
+    {
+      "repo": "aipoch/open-science",
+      "desc": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "lang": "TypeScript",
+      "stars_period": "146",
+      "stars_total": "3936",
+      "url": "https://github.com/aipoch/open-science"
+    },
+    {
+      "repo": "OpenWhispr/openwhispr",
+      "desc": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "lang": "JavaScript",
+      "stars_period": "121",
+      "stars_total": "7503",
+      "url": "https://github.com/OpenWhispr/openwhispr"
+    },
+    {
+      "repo": "humanlayer/skills",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "451",
+      "stars_total": "3231",
+      "url": "https://github.com/humanlayer/skills"
+    },
+    {
+      "repo": "The-Swarm-Corporation/AutoHedge",
+      "desc": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "lang": "Python",
+      "stars_period": "142",
+      "stars_total": "4832",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+    },
+    {
+      "repo": "Stremio/stremio-web",
+      "desc": "Stremio - Freedom to Stream",
+      "lang": "JavaScript",
+      "stars_period": "122",
+      "stars_total": "13539",
+      "url": "https://github.com/Stremio/stremio-web"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "gesta-run/subpool",
+        "desc": "  A lightweight, self-hosted AI subscription pool for teams.",
+        "lang": "Go",
+        "stars_total": 67,
+        "created": "2026-09-02",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "gateway",
+          "pooling"
+        ],
+        "url": "https://github.com/gesta-run/subpool"
+      },
+      {
+        "repo": "vaelkeep/hermes-paper-agent",
+        "desc": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+        "lang": "Python",
+        "stars_total": 56,
+        "created": "2026-09-03",
+        "topics": [
+          "agent",
+          "cron",
+          "daily-briefing",
+          "hermes",
+          "llm",
+          "local-llm",
+          "newspaper",
+          "personal-dashboard"
+        ],
+        "url": "https://github.com/vaelkeep/hermes-paper-agent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "kydlikebtc/awesome-grokbot",
+        "desc": "598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+        "lang": "Python",
+        "stars_total": 331,
+        "created": "2026-09-01",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "ai-tools",
+          "awesome",
+          "awesome-list",
+          "bot-templates",
+          "catalog",
+          "cursor"
+        ],
+        "url": "https://github.com/kydlikebtc/awesome-grokbot"
+      },
+      {
+        "repo": "Agenta-AI/awesome-ai-agent-platforms",
+        "desc": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+        "lang": "Astro",
+        "stars_total": 234,
+        "created": "2026-09-02",
+        "topics": [
+          "agent-frameworks",
+          "ai-agent-platforms",
+          "ai-agents",
+          "ai-coworker",
+          "awesome",
+          "awesome-list",
+          "browser-agents",
+          "coding-agents"
+        ],
+        "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms"
+      },
+      {
+        "repo": "zeroa234/ryza-ai-revive",
+        "desc": "Ryza AI companion. Bring your own LLM/TTS. 莱莎 AI 陪伴，自填大模型与语音。",
+        "lang": "JavaScript",
+        "stars_total": 61,
+        "created": "2026-09-02",
+        "topics": [
+          "android",
+          "chatbot",
+          "electron",
+          "html",
+          "javascript",
+          "llm",
+          "spine",
+          "tts"
+        ],
+        "url": "https://github.com/zeroa234/ryza-ai-revive"
+      },
+      {
+        "repo": "vaelkeep/hermes-paper-agent",
+        "desc": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+        "lang": "Python",
+        "stars_total": 56,
+        "created": "2026-09-03",
+        "topics": [
+          "agent",
+          "cron",
+          "daily-briefing",
+          "hermes",
+          "llm",
+          "local-llm",
+          "newspaper",
+          "personal-dashboard"
+        ],
+        "url": "https://github.com/vaelkeep/hermes-paper-agent"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+        "points": 267,
+        "comments": 173,
+        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Claude Code skills for advanced context engineering techniques and patterns",
+        "points": 43,
+        "comments": 4,
+        "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Show HN: I built my first MCP to manage Google Ads",
+        "points": 15,
+        "comments": 13,
+        "url": "https://adchestra.com/",
+        "date": "2026-09-03"
+      },
+      {
+        "title": "Show HN: Kit. Claude Code but Concise",
+        "points": 12,
+        "comments": 1,
+        "url": "https://github.com/speakeasy-api/kit",
+        "date": "2026-09-02"
+      },
+      {
+        "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
+        "points": 19,
+        "comments": 10,
+        "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
+        "date": "2026-09-02"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
