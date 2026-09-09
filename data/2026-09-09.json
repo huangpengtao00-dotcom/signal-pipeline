@@ -1,0 +1,270 @@
+{
+  "date": "2026-09-09",
+  "trending_daily": [
+    {
+      "repo": "ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_period": "656",
+      "stars_total": "31180",
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "710",
+      "stars_total": "35222",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "openai/skills",
+      "desc": "Skills Catalog for Codex",
+      "lang": "Python",
+      "stars_period": "490",
+      "stars_total": "26599",
+      "url": "https://github.com/openai/skills"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "1427",
+      "stars_total": "254459",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "lang": "TypeScript",
+      "stars_period": "2627",
+      "stars_total": "47923",
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_period": "666",
+      "stars_total": "48942",
+      "url": "https://github.com/coreyhaines31/marketingskills"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "452",
+      "stars_total": "283468",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "",
+      "stars_period": "333",
+      "stars_total": "211574",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_period": "2047",
+      "stars_total": "181837",
+      "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "repo": "jo-inc/camofox-browser",
+      "desc": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "lang": "JavaScript",
+      "stars_period": "871",
+      "stars_total": "10625",
+      "url": "https://github.com/jo-inc/camofox-browser"
+    },
+    {
+      "repo": "MoonTechLab/LunaTV",
+      "desc": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "lang": "TypeScript",
+      "stars_period": "505",
+      "stars_total": "10252",
+      "url": "https://github.com/MoonTechLab/LunaTV"
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "desc": "Agents that use the browser.",
+      "lang": "Python",
+      "stars_period": "228",
+      "stars_total": "113655",
+      "url": "https://github.com/browser-use/browser-use"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_period": "651",
+      "stars_total": "21474",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "The-Swarm-Corporation/AutoHedge",
+      "desc": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "lang": "Python",
+      "stars_period": "494",
+      "stars_total": "5779",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+    },
+    {
+      "repo": "viarotel-org/escrcpy",
+      "desc": "📱 Display and control your Android device graphically with scrcpy.",
+      "lang": "JavaScript",
+      "stars_period": "178",
+      "stars_total": "11466",
+      "url": "https://github.com/viarotel-org/escrcpy"
+    },
+    {
+      "repo": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_period": "105",
+      "stars_total": "5894",
+      "url": "https://github.com/openai/plugins"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Innei/lody-ios",
+        "desc": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
+        "lang": "TypeScript",
+        "stars_total": 78,
+        "created": "2026-09-05",
+        "topics": [
+          "agent",
+          "coding-agent",
+          "collaboration",
+          "expo",
+          "ios",
+          "iphone",
+          "local-first",
+          "react-native"
+        ],
+        "url": "https://github.com/Innei/lody-ios"
+      },
+      {
+        "repo": "vaelkeep/hermes-paper-agent",
+        "desc": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-09-03",
+        "topics": [
+          "agent",
+          "cron",
+          "daily-briefing",
+          "hermes",
+          "llm",
+          "local-llm",
+          "newspaper",
+          "personal-dashboard"
+        ],
+        "url": "https://github.com/vaelkeep/hermes-paper-agent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "Albertchamberlain/Awesome-OKF",
+        "desc": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
+        "lang": "Python",
+        "stars_total": 102,
+        "created": "2026-09-07",
+        "topics": [
+          "agent-memory",
+          "agent-skills",
+          "ai-agents",
+          "ai-memory",
+          "awesome",
+          "awesome-list",
+          "claude-code",
+          "knowledge-base"
+        ],
+        "url": "https://github.com/Albertchamberlain/Awesome-OKF"
+      },
+      {
+        "repo": "vaelkeep/hermes-paper-agent",
+        "desc": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-09-03",
+        "topics": [
+          "agent",
+          "cron",
+          "daily-briefing",
+          "hermes",
+          "llm",
+          "local-llm",
+          "newspaper",
+          "personal-dashboard"
+        ],
+        "url": "https://github.com/vaelkeep/hermes-paper-agent"
+      },
+      {
+        "repo": "dengyie/cnb2api",
+        "desc": "Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencies, self-healing fixed domain.",
+        "lang": "JavaScript",
+        "stars_total": 51,
+        "created": "2026-09-04",
+        "topics": [
+          "api-gateway",
+          "cli",
+          "cnb",
+          "llm",
+          "openai",
+          "openai-compatible",
+          "proxy",
+          "quota"
+        ],
+        "url": "https://github.com/dengyie/cnb2api"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+        "points": 71,
+        "comments": 26,
+        "url": "https://rohanadwankar.github.io/posts/platforms.html",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "points": 68,
+        "comments": 16,
+        "url": "https://github.com/trailofbits/coop",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+        "points": 277,
+        "comments": 176,
+        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Claude Code skills for advanced context engineering techniques and patterns",
+        "points": 43,
+        "comments": 4,
+        "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+        "date": "2026-09-04"
+      },
+      {
+        "title": "Show HN: I built my first MCP to manage Google Ads",
+        "points": 15,
+        "comments": 14,
+        "url": "https://adchestra.com/",
+        "date": "2026-09-03"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
