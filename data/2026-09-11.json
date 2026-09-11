@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-11",
+  "trending_daily": [
+    {
+      "repo": "ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_period": "3882",
+      "stars_total": "38861",
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_period": "1762",
+      "stars_total": "24804",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "732",
+      "stars_total": "284818",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "lang": "TypeScript",
+      "stars_period": "277",
+      "stars_total": "1768",
+      "url": "https://github.com/alsk1992/CloddsBot"
+    },
+    {
+      "repo": "Tencent/teamai-cli",
+      "desc": "Make Every Team AI Native",
+      "lang": "TypeScript",
+      "stars_period": "841",
+      "stars_total": "3915",
+      "url": "https://github.com/Tencent/teamai-cli"
+    },
+    {
+      "repo": "AlexsJones/llmfit",
+      "desc": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "lang": "Rust",
+      "stars_period": "258",
+      "stars_total": "35820",
+      "url": "https://github.com/AlexsJones/llmfit"
+    },
+    {
+      "repo": "liquidslr/system-design-notes",
+      "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "lang": "",
+      "stars_period": "900",
+      "stars_total": "18942",
+      "url": "https://github.com/liquidslr/system-design-notes"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "1294",
+      "stars_total": "37946",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "lang": "JavaScript",
+      "stars_period": "962",
+      "stars_total": "31012",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "repo": "armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "lang": "C",
+      "stars_period": "72",
+      "stars_total": "4487",
+      "url": "https://github.com/armory3d/armorpaint"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "lang": "TypeScript",
+      "stars_period": "626",
+      "stars_total": "64377",
+      "url": "https://github.com/diegosouzapw/OmniRoute"
+    },
+    {
+      "repo": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_period": "98",
+      "stars_total": "27527",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "repo": "THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "lang": "TypeScript",
+      "stars_period": "837",
+      "stars_total": "35480",
+      "url": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+      "repo": "nashsu/llm_wiki",
+      "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "lang": "TypeScript",
+      "stars_period": "142",
+      "stars_total": "18221",
+      "url": "https://github.com/nashsu/llm_wiki"
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "desc": "The open agent skills tool - npx skills",
+      "lang": "TypeScript",
+      "stars_period": "122",
+      "stars_total": "31239",
+      "url": "https://github.com/vercel-labs/skills"
+    },
+    {
+      "repo": "vastsa/PI-Desktop",
+      "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "lang": "TypeScript",
+      "stars_period": "624",
+      "stars_total": "2407",
+      "url": "https://github.com/vastsa/PI-Desktop"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Innei/lody-ios",
+        "desc": "Independent iOS client for Lody — native chat, sessions, and coding-agent collaboration on iPhone",
+        "lang": "TypeScript",
+        "stars_total": 89,
+        "created": "2026-09-05",
+        "topics": [
+          "agent",
+          "coding-agent",
+          "collaboration",
+          "expo",
+          "ios",
+          "iphone",
+          "local-first",
+          "react-native"
+        ],
+        "url": "https://github.com/Innei/lody-ios"
+      },
+      {
+        "repo": "tshemsedinov/reslop",
+        "desc": "Interactive terminal code review git diff with intra-line highlighting",
+        "lang": "JavaScript",
+        "stars_total": 57,
+        "created": "2026-09-06",
+        "topics": [
+          "agent",
+          "ai",
+          "code-review",
+          "diff",
+          "llm",
+          "neuroslop",
+          "planning",
+          "refactoring"
+        ],
+        "url": "https://github.com/tshemsedinov/reslop"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "Albertchamberlain/Awesome-OKF",
+        "desc": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
+        "lang": "Python",
+        "stars_total": 101,
+        "created": "2026-09-07",
+        "topics": [
+          "agent-memory",
+          "agent-skills",
+          "ai-agents",
+          "ai-memory",
+          "awesome",
+          "awesome-list",
+          "claude-code",
+          "knowledge-base"
+        ],
+        "url": "https://github.com/Albertchamberlain/Awesome-OKF"
+      },
+      {
+        "repo": "aimeoa/hanshuang-codex",
+        "desc": "针对GPT 6.0,V4flash的破甲实验项目",
+        "lang": "Python",
+        "stars_total": 88,
+        "created": "2026-09-06",
+        "topics": [
+          "ai",
+          "codex",
+          "codex-cli",
+          "desktop-app",
+          "jailbreak",
+          "llm",
+          "openai-codex",
+          "prompt-injection"
+        ],
+        "url": "https://github.com/aimeoa/hanshuang-codex"
+      },
+      {
+        "repo": "xiaYuTian11/maskit",
+        "desc": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+        "lang": "Python",
+        "stars_total": 77,
+        "created": "2026-09-09",
+        "topics": [
+          "anthropic",
+          "claude-code",
+          "cursor",
+          "data-masking",
+          "llm",
+          "mitmproxy",
+          "openai",
+          "pii"
+        ],
+        "url": "https://github.com/xiaYuTian11/maskit"
+      },
+      {
+        "repo": "songs-aaa/shared-memory-vault",
+        "desc": "A memory governance engine for multi-agent cloud knowledge bases — one knowledge base shared by every agent and every device, with consistency guaranteed. Pure Markdown, nine governance automations, zero dependencies.",
+        "lang": "",
+        "stars_total": 64,
+        "created": "2026-09-05",
+        "topics": [
+          "agent-memory",
+          "knowledge-base",
+          "llm",
+          "memory",
+          "multi-agent",
+          "skills",
+          "vault"
+        ],
+        "url": "https://github.com/songs-aaa/shared-memory-vault"
+      },
+      {
+        "repo": "tshemsedinov/reslop",
+        "desc": "Interactive terminal code review git diff with intra-line highlighting",
+        "lang": "JavaScript",
+        "stars_total": 57,
+        "created": "2026-09-06",
+        "topics": [
+          "agent",
+          "ai",
+          "code-review",
+          "diff",
+          "llm",
+          "neuroslop",
+          "planning",
+          "refactoring"
+        ],
+        "url": "https://github.com/tshemsedinov/reslop"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "points": 46,
+        "comments": 14,
+        "url": "https://github.com/OtoDock/oto-dock",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Show HN: Rdltr – Inbox zero for your reading list",
+        "points": 24,
+        "comments": 17,
+        "url": "https://rdltr.app/",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases",
+        "points": 14,
+        "comments": 10,
+        "url": "https://news.ycombinator.com/item?id=49626148",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+        "points": 78,
+        "comments": 29,
+        "url": "https://rohanadwankar.github.io/posts/platforms.html",
+        "date": "2026-09-08"
+      },
+      {
+        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+        "points": 70,
+        "comments": 16,
+        "url": "https://github.com/trailofbits/coop",
+        "date": "2026-09-07"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
