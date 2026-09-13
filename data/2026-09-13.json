@@ -1,0 +1,267 @@
+{
+  "date": "2026-09-13",
+  "trending_daily": [
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_period": "2265",
+      "stars_total": "30264",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "repo": "melgarafael/DeskcommCRM",
+      "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "lang": "TypeScript",
+      "stars_period": "504",
+      "stars_total": "1873",
+      "url": "https://github.com/melgarafael/DeskcommCRM"
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "lang": "JavaScript",
+      "stars_period": "217",
+      "stars_total": "65524",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "repo": "nab138/iloader",
+      "desc": "User friendly sideloader",
+      "lang": "TypeScript",
+      "stars_period": "209",
+      "stars_total": "3118",
+      "url": "https://github.com/nab138/iloader"
+    },
+    {
+      "repo": "Flowseal/zapret-discord-youtube",
+      "desc": "",
+      "lang": "Batchfile",
+      "stars_period": "65",
+      "stars_total": "33219",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube"
+    },
+    {
+      "repo": "jihe520/MathModelAgent",
+      "desc": "🤖📐专为数学建模设计的 Agent &amp; skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "lang": "Python",
+      "stars_period": "262",
+      "stars_total": "5179",
+      "url": "https://github.com/jihe520/MathModelAgent"
+    },
+    {
+      "repo": "Sonarr/Sonarr",
+      "desc": "Smart PVR for newsgroup and bittorrent users.",
+      "lang": "C#",
+      "stars_period": "227",
+      "stars_total": "15958",
+      "url": "https://github.com/Sonarr/Sonarr"
+    },
+    {
+      "repo": "alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "lang": "TypeScript",
+      "stars_period": "376",
+      "stars_total": "2555",
+      "url": "https://github.com/alsk1992/CloddsBot"
+    },
+    {
+      "repo": "yuliskov/SmartTube",
+      "desc": "Browse media content with your own rules on Android TV",
+      "lang": "Java",
+      "stars_period": "136",
+      "stars_total": "33246",
+      "url": "https://github.com/yuliskov/SmartTube"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "lang": "Python",
+      "stars_period": "230",
+      "stars_total": "137699",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "repo": "p1neappleXpress/OpenFlux",
+      "desc": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "lang": "Go",
+      "stars_period": "355",
+      "stars_total": "1424",
+      "url": "https://github.com/p1neappleXpress/OpenFlux"
+    },
+    {
+      "repo": "armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "lang": "C",
+      "stars_period": "237",
+      "stars_total": "4935",
+      "url": "https://github.com/armory3d/armorpaint"
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_period": "113",
+      "stars_total": "3675",
+      "url": "https://github.com/SnailSploit/Claude-Red"
+    },
+    {
+      "repo": "multimodal-art-projection/YuE",
+      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "lang": "Python",
+      "stars_period": "210",
+      "stars_total": "7363",
+      "url": "https://github.com/multimodal-art-projection/YuE"
+    },
+    {
+      "repo": "max-sixty/worktrunk",
+      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "lang": "Rust",
+      "stars_period": "54",
+      "stars_total": "7300",
+      "url": "https://github.com/max-sixty/worktrunk"
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "lang": "Go",
+      "stars_period": "189",
+      "stars_total": "23530",
+      "url": "https://github.com/vxcontrol/pentagi"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "LuxUmbra697/DSH-Desktop",
+        "desc": "把 DeepSeek Harness 装进一个独立窗口：双击即用、免终端、免浏览器，支持插件改造，载荷可裁到 210 MB（便携包 74.8 MB），内置运行环境探测与 DSH 就地更新。",
+        "lang": "C#",
+        "stars_total": 51,
+        "created": "2026-09-11",
+        "topics": [
+          "agent",
+          "cordis",
+          "deepseek",
+          "deepseek-harness",
+          "desktop-app",
+          "dsh",
+          "plugin",
+          "portable"
+        ],
+        "url": "https://github.com/LuxUmbra697/DSH-Desktop"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "xiaYuTian11/maskit",
+        "desc": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+        "lang": "Python",
+        "stars_total": 195,
+        "created": "2026-09-09",
+        "topics": [
+          "anthropic",
+          "claude-code",
+          "cursor",
+          "data-masking",
+          "llm",
+          "mitmproxy",
+          "openai",
+          "pii"
+        ],
+        "url": "https://github.com/xiaYuTian11/maskit"
+      },
+      {
+        "repo": "Albertchamberlain/Awesome-OKF",
+        "desc": "OKF (Open Knowledge Format) — curated catalog of tools, plugins, skills, proposals, and docs for agent-friendly knowledge. YAML-driven, agent-searchable, MCP-ready.",
+        "lang": "Python",
+        "stars_total": 103,
+        "created": "2026-09-07",
+        "topics": [
+          "agent-memory",
+          "agent-skills",
+          "ai-agents",
+          "ai-memory",
+          "awesome",
+          "awesome-list",
+          "claude-code",
+          "knowledge-base"
+        ],
+        "url": "https://github.com/Albertchamberlain/Awesome-OKF"
+      },
+      {
+        "repo": "undefined-ui/second-brain-os",
+        "desc": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+        "lang": "HTML",
+        "stars_total": 59,
+        "created": "2026-09-07",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "knowledge-graph",
+          "knowledge-management",
+          "llm"
+        ],
+        "url": "https://github.com/undefined-ui/second-brain-os"
+      },
+      {
+        "repo": "tudoumashu/ai-memory-skillpack",
+        "desc": "Bounded project-memory skills for Codex CLI and Claude Code.",
+        "lang": "Python",
+        "stars_total": 55,
+        "created": "2026-09-08",
+        "topics": [
+          "agent-memory",
+          "claude-code",
+          "codex",
+          "llm",
+          "skills"
+        ],
+        "url": "https://github.com/tudoumashu/ai-memory-skillpack"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "points": 13,
+        "comments": 15,
+        "url": "https://clawfight.ai/agents.md",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "points": 50,
+        "comments": 15,
+        "url": "https://github.com/OtoDock/oto-dock",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Show HN: Rdltr – Inbox zero for your reading list",
+        "points": 24,
+        "comments": 17,
+        "url": "https://rdltr.app/",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases",
+        "points": 14,
+        "comments": 10,
+        "url": "https://news.ycombinator.com/item?id=49626148",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing",
+        "points": 11,
+        "comments": 8,
+        "url": "https://maxxwell.dev/",
+        "date": "2026-09-09"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
