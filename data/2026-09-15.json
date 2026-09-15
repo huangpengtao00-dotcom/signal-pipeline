@@ -1,0 +1,328 @@
+{
+  "date": "2026-09-15",
+  "trending_daily": [
+    {
+      "repo": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_period": "2173",
+      "stars_total": "32386",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "1571",
+      "stars_total": "26219",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "multimodal-art-projection/YuE",
+      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "lang": "Python",
+      "stars_period": "559",
+      "stars_total": "8552",
+      "url": "https://github.com/multimodal-art-projection/YuE"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_period": "2776",
+      "stars_total": "29616",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "stars_period": "560",
+      "stars_total": "73355",
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_period": "651",
+      "stars_total": "81525",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "lang": "JavaScript",
+      "stars_period": "764",
+      "stars_total": "66924",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks"
+    },
+    {
+      "repo": "rlaope/oh-my-hermes",
+      "desc": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "lang": "Python",
+      "stars_period": "77",
+      "stars_total": "2174",
+      "url": "https://github.com/rlaope/oh-my-hermes"
+    },
+    {
+      "repo": "localsend/localsend",
+      "desc": "An open-source cross-platform alternative to AirDrop",
+      "lang": "Dart",
+      "stars_period": "251",
+      "stars_total": "91434",
+      "url": "https://github.com/localsend/localsend"
+    },
+    {
+      "repo": "dani-garcia/vaultwarden",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "lang": "Rust",
+      "stars_period": "115",
+      "stars_total": "67586",
+      "url": "https://github.com/dani-garcia/vaultwarden"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_period": "745",
+      "stars_total": "106295",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "383",
+      "stars_total": "93949",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "tech-leads-club/agent-skills",
+      "desc": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "lang": "TypeScript",
+      "stars_period": "512",
+      "stars_total": "6148",
+      "url": "https://github.com/tech-leads-club/agent-skills"
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_period": "216",
+      "stars_total": "37449",
+      "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "repo": "huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "lang": "Python",
+      "stars_period": "536",
+      "stars_total": "166074",
+      "url": "https://github.com/huggingface/transformers"
+    },
+    {
+      "repo": "ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "lang": "TypeScript",
+      "stars_period": "1130",
+      "stars_total": "6100",
+      "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "lang": "TypeScript",
+      "stars_period": "40",
+      "stars_total": "36990",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+    },
+    {
+      "repo": "reconurge/flowsint",
+      "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "lang": "TypeScript",
+      "stars_period": "280",
+      "stars_total": "8426",
+      "url": "https://github.com/reconurge/flowsint"
+    },
+    {
+      "repo": "peetzweg/opendisplay",
+      "desc": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "lang": "Swift",
+      "stars_period": "229",
+      "stars_total": "3678",
+      "url": "https://github.com/peetzweg/opendisplay"
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_period": "579",
+      "stars_total": "4879",
+      "url": "https://github.com/SnailSploit/Claude-Red"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "youngyangyang04/llm-master",
+        "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "lang": "",
+        "stars_total": 160,
+        "created": "2026-09-12",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ],
+        "url": "https://github.com/youngyangyang04/llm-master"
+      },
+      {
+        "repo": "LuxUmbra697/DSH-Desktop",
+        "desc": "把 DeepSeek Harness 装进一个独立窗口：双击即用、免终端、免浏览器，支持插件改造，载荷可裁到 210 MB（便携包 74.8 MB），内置运行环境探测与 DSH 就地更新。",
+        "lang": "C#",
+        "stars_total": 61,
+        "created": "2026-09-11",
+        "topics": [
+          "agent",
+          "cordis",
+          "deepseek",
+          "deepseek-harness",
+          "desktop-app",
+          "dsh",
+          "plugin",
+          "portable"
+        ],
+        "url": "https://github.com/LuxUmbra697/DSH-Desktop"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "xiaYuTian11/maskit",
+        "desc": "数据面具 Data Maskit — 专为大模型打造的本地隐私脱敏网关（请求自动打码，回复流式还原；支持 Cursor / Claude Code / Codex / Pi 等任意可配 Base URL 工具）",
+        "lang": "Python",
+        "stars_total": 216,
+        "created": "2026-09-09",
+        "topics": [
+          "anthropic",
+          "claude-code",
+          "cursor",
+          "data-masking",
+          "llm",
+          "mitmproxy",
+          "openai",
+          "pii"
+        ],
+        "url": "https://github.com/xiaYuTian11/maskit"
+      },
+      {
+        "repo": "youngyangyang04/llm-master",
+        "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "lang": "",
+        "stars_total": 160,
+        "created": "2026-09-12",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ],
+        "url": "https://github.com/youngyangyang04/llm-master"
+      },
+      {
+        "repo": "atria-asi/Atria-Dawn-Preview",
+        "desc": "",
+        "lang": "",
+        "stars_total": 129,
+        "created": "2026-09-12",
+        "topics": [
+          "llm",
+          "llm-agent"
+        ],
+        "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+      },
+      {
+        "repo": "oguzhankayan/turkish-native",
+        "desc": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
+        "lang": "Python",
+        "stars_total": 78,
+        "created": "2026-09-11",
+        "topics": [
+          "agent-skill",
+          "chatgpt",
+          "claude",
+          "codex",
+          "copywriting",
+          "llm",
+          "localization",
+          "translation"
+        ],
+        "url": "https://github.com/oguzhankayan/turkish-native"
+      },
+      {
+        "repo": "ivyfan-toowell/IvyClaw",
+        "desc": "A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统",
+        "lang": "Python",
+        "stars_total": 59,
+        "created": "2026-09-13",
+        "topics": [
+          "ai-agents",
+          "deepagents",
+          "deepagents-langgraph",
+          "llm",
+          "llm-agent",
+          "llm-agents",
+          "multi-agent",
+          "multi-agent-systems"
+        ],
+        "url": "https://github.com/ivyfan-toowell/IvyClaw"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+        "points": 102,
+        "comments": 91,
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "points": 13,
+        "comments": 16,
+        "url": "https://clawfight.ai/agents.md",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+        "points": 109,
+        "comments": 24,
+        "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "points": 50,
+        "comments": 15,
+        "url": "https://github.com/OtoDock/oto-dock",
+        "date": "2026-09-09"
+      },
+      {
+        "title": "Show HN: Rdltr – Inbox zero for your reading list",
+        "points": 24,
+        "comments": 17,
+        "url": "https://rdltr.app/",
+        "date": "2026-09-09"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
