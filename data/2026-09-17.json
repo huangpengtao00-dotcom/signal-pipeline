@@ -1,0 +1,398 @@
+{
+  "date": "2026-09-17",
+  "trending_daily": [
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "3231",
+      "stars_total": "32492",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "927",
+      "stars_total": "7737",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_period": "1546",
+      "stars_total": "35155",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "repo": "abue-ammar/tinycast",
+      "desc": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "lang": "Swift",
+      "stars_period": "1179",
+      "stars_total": "5720",
+      "url": "https://github.com/abue-ammar/tinycast"
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_period": "417",
+      "stars_total": "54500",
+      "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "repo": "Lakr233/vphone-cli",
+      "desc": "",
+      "lang": "Swift",
+      "stars_period": "547",
+      "stars_total": "13426",
+      "url": "https://github.com/Lakr233/vphone-cli"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "110",
+      "stars_total": "24345",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "lang": "TypeScript",
+      "stars_period": "778",
+      "stars_total": "7389",
+      "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+      "repo": "ankitects/anki",
+      "desc": "Anki is a smart spaced repetition flashcard program",
+      "lang": "Rust",
+      "stars_period": "58",
+      "stars_total": "30938",
+      "url": "https://github.com/ankitects/anki"
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_period": "1059",
+      "stars_total": "77965",
+      "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_period": "165",
+      "stars_total": "145616",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "repo": "roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_period": "260",
+      "stars_total": "50657",
+      "url": "https://github.com/roboflow/supervision"
+    },
+    {
+      "repo": "alphaXiv/OpenResearch",
+      "desc": "Turn your coding agents into research agents",
+      "lang": "Rust",
+      "stars_period": "1017",
+      "stars_total": "4548",
+      "url": "https://github.com/alphaXiv/OpenResearch"
+    },
+    {
+      "repo": "supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_period": "120",
+      "stars_total": "109823",
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "repo": "rlaope/oh-my-hermes",
+      "desc": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "lang": "Python",
+      "stars_period": "80",
+      "stars_total": "2603",
+      "url": "https://github.com/rlaope/oh-my-hermes"
+    },
+    {
+      "repo": "Tencent/WeKnora",
+      "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "lang": "Go",
+      "stars_period": "1197",
+      "stars_total": "25564",
+      "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_period": "367",
+      "stars_total": "5845",
+      "url": "https://github.com/SnailSploit/Claude-Red"
+    },
+    {
+      "repo": "multimodal-art-projection/YuE",
+      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "lang": "Python",
+      "stars_period": "332",
+      "stars_total": "9446",
+      "url": "https://github.com/multimodal-art-projection/YuE"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "658",
+      "stars_total": "95583",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "cline/cline",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "lang": "TypeScript",
+      "stars_period": "112",
+      "stars_total": "68433",
+      "url": "https://github.com/cline/cline"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "1057",
+      "stars_total": "260468",
+      "url": "https://github.com/affaan-m/ECC"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "youngyangyang04/llm-master",
+        "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "lang": "",
+        "stars_total": 637,
+        "created": "2026-09-12",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ],
+        "url": "https://github.com/youngyangyang04/llm-master"
+      },
+      {
+        "repo": "kkakkkka/awesome-code-as-x",
+        "desc": "A Curated List of Coding-agent that treat a program as the intermediate representation for Policy/World/Editor and beyond",
+        "lang": "",
+        "stars_total": 61,
+        "created": "2026-09-13",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "coding-agents",
+          "editing",
+          "world-models"
+        ],
+        "url": "https://github.com/kkakkkka/awesome-code-as-x"
+      },
+      {
+        "repo": "LuxUmbra697/DSH-Desktop",
+        "desc": "把 DeepSeek Harness 装进一个独立窗口：双击即用、免终端、免浏览器，支持插件改造，载荷可裁到 210 MB（便携包 74.8 MB），内置运行环境探测与 DSH 就地更新。",
+        "lang": "C#",
+        "stars_total": 61,
+        "created": "2026-09-11",
+        "topics": [
+          "agent",
+          "cordis",
+          "deepseek",
+          "deepseek-harness",
+          "desktop-app",
+          "dsh",
+          "plugin",
+          "portable"
+        ],
+        "url": "https://github.com/LuxUmbra697/DSH-Desktop"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "youngyangyang04/llm-master",
+        "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "lang": "",
+        "stars_total": 637,
+        "created": "2026-09-12",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ],
+        "url": "https://github.com/youngyangyang04/llm-master"
+      },
+      {
+        "repo": "atria-asi/Atria-Dawn-Preview",
+        "desc": "",
+        "lang": "",
+        "stars_total": 423,
+        "created": "2026-09-12",
+        "topics": [
+          "llm",
+          "llm-agent"
+        ],
+        "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+      },
+      {
+        "repo": "modelscope/ms-cookbook",
+        "desc": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+        "lang": "HTML",
+        "stars_total": 214,
+        "created": "2026-09-11",
+        "topics": [
+          "ai-agents",
+          "cookbook",
+          "diffusion-models",
+          "fine-tuning",
+          "generative-ai",
+          "llm",
+          "mcp",
+          "model-evaluation"
+        ],
+        "url": "https://github.com/modelscope/ms-cookbook"
+      },
+      {
+        "repo": "pliablepixels/gap-trap",
+        "desc": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+        "lang": "Shell",
+        "stars_total": 158,
+        "created": "2026-09-13",
+        "topics": [
+          "agent-skills",
+          "agentic-coding",
+          "agents-md",
+          "ai-agents",
+          "ai-coding",
+          "ci-cd",
+          "claude-code",
+          "claude-skills"
+        ],
+        "url": "https://github.com/pliablepixels/gap-trap"
+      },
+      {
+        "repo": "oguzhankayan/turkish-native",
+        "desc": "Agent skill for writing native Turkish and removing translationese from AI and localized copy.",
+        "lang": "Python",
+        "stars_total": 83,
+        "created": "2026-09-11",
+        "topics": [
+          "agent-skill",
+          "chatgpt",
+          "claude",
+          "codex",
+          "copywriting",
+          "llm",
+          "localization",
+          "translation"
+        ],
+        "url": "https://github.com/oguzhankayan/turkish-native"
+      },
+      {
+        "repo": "CassiopeiaCode/CosyRedactGateway",
+        "desc": "Lightweight, stateless privacy gateway for LLM APIs — redact secrets before OpenAI/Anthropic upstreams and restore them transparently in SSE and tool calls.",
+        "lang": "JavaScript",
+        "stars_total": 69,
+        "created": "2026-09-11",
+        "topics": [
+          "anthropic",
+          "cloudflare-workers",
+          "data-masking",
+          "deno",
+          "gitleaks",
+          "llm",
+          "llm-proxy",
+          "openai"
+        ],
+        "url": "https://github.com/CassiopeiaCode/CosyRedactGateway"
+      },
+      {
+        "repo": "ivyfan-toowell/IvyClaw",
+        "desc": "A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-09-13",
+        "topics": [
+          "ai-agents",
+          "deepagents",
+          "deepagents-langgraph",
+          "llm",
+          "llm-agent",
+          "llm-agents",
+          "multi-agent",
+          "multi-agent-systems"
+        ],
+        "url": "https://github.com/ivyfan-toowell/IvyClaw"
+      },
+      {
+        "repo": "WestFox-AwA/dsh-prompt-optimizer",
+        "desc": "DSH Web 插件 · 提示词优化器：把用户的一句话补全成完整具体的要求说明（面向 PTC 模式）。0.4 = 需求补全器——只补内容，不写流程/步骤/验收清单/验证纪律/禁令。",
+        "lang": "HTML",
+        "stars_total": 51,
+        "created": "2026-09-11",
+        "topics": [
+          "agent-workflow",
+          "ai-agent",
+          "cordis",
+          "deepseek",
+          "dsh",
+          "dsh-plugin",
+          "llm",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/WestFox-AwA/dsh-prompt-optimizer"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+        "points": 56,
+        "comments": 33,
+        "url": "https://github.com/pizza-bot-app/pizza-bot",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+        "points": 103,
+        "comments": 92,
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "points": 13,
+        "comments": 17,
+        "url": "https://clawfight.ai/agents.md",
+        "date": "2026-09-11"
+      },
+      {
+        "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+        "points": 109,
+        "comments": 24,
+        "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+        "date": "2026-09-11"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
