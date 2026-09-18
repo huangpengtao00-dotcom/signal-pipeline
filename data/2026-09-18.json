@@ -1,0 +1,423 @@
+{
+  "date": "2026-09-18",
+  "trending_daily": [
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "3286",
+      "stars_total": "35307",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "3607",
+      "stars_total": "11011",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "680",
+      "stars_total": "95963",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "Tencent/BrowserSkill",
+      "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "lang": "TypeScript",
+      "stars_period": "1302",
+      "stars_total": "4436",
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "repo": "alphaXiv/OpenResearch",
+      "desc": "Turn your coding agents into research agents",
+      "lang": "Rust",
+      "stars_period": "939",
+      "stars_total": "5066",
+      "url": "https://github.com/alphaXiv/OpenResearch"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_period": "538",
+      "stars_total": "145936",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_period": "912",
+      "stars_total": "78617",
+      "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "287",
+      "stars_total": "24624",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "Tencent/WeKnora",
+      "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "lang": "Go",
+      "stars_period": "1125",
+      "stars_total": "26483",
+      "url": "https://github.com/Tencent/WeKnora"
+    },
+    {
+      "repo": "abue-ammar/tinycast",
+      "desc": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "lang": "Swift",
+      "stars_period": "739",
+      "stars_total": "6221",
+      "url": "https://github.com/abue-ammar/tinycast"
+    },
+    {
+      "repo": "cilium/cilium",
+      "desc": "eBPF-based Networking, Security, and Observability",
+      "lang": "Go",
+      "stars_period": "111",
+      "stars_total": "25296",
+      "url": "https://github.com/cilium/cilium"
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_period": "667",
+      "stars_total": "54928",
+      "url": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "1171",
+      "stars_total": "261299",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_period": "329",
+      "stars_total": "50850",
+      "url": "https://github.com/roboflow/supervision"
+    },
+    {
+      "repo": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_period": "873",
+      "stars_total": "35832",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "repo": "TencentCloud/Octop",
+      "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "lang": "Python",
+      "stars_period": "367",
+      "stars_total": "3588",
+      "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+      "repo": "ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "lang": "TypeScript",
+      "stars_period": "470",
+      "stars_total": "7608",
+      "url": "https://github.com/ever-co/ever-gauzy"
+    },
+    {
+      "repo": "cline/cline",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "lang": "TypeScript",
+      "stars_period": "380",
+      "stars_total": "68599",
+      "url": "https://github.com/cline/cline"
+    },
+    {
+      "repo": "coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "lang": "Go",
+      "stars_period": "145",
+      "stars_total": "14919",
+      "url": "https://github.com/coder/coder"
+    },
+    {
+      "repo": "n8n-io/n8n",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "lang": "TypeScript",
+      "stars_period": "281",
+      "stars_total": "205086",
+      "url": "https://github.com/n8n-io/n8n"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "youngyangyang04/llm-master",
+        "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "lang": "",
+        "stars_total": 697,
+        "created": "2026-09-12",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ],
+        "url": "https://github.com/youngyangyang04/llm-master"
+      },
+      {
+        "repo": "ruc-datalab/EvoOntology",
+        "desc": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+        "lang": "Python",
+        "stars_total": 77,
+        "created": "2026-09-15",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "claude-code",
+          "codex",
+          "data-analysis",
+          "data-science",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/ruc-datalab/EvoOntology"
+      },
+      {
+        "repo": "kkakkkka/awesome-code-as-x",
+        "desc": "A Curated List of Coding-agent that treat a program as the intermediate representation for Policy/World/Editor and beyond",
+        "lang": "",
+        "stars_total": 61,
+        "created": "2026-09-13",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "coding-agents",
+          "editing",
+          "world-models"
+        ],
+        "url": "https://github.com/kkakkkka/awesome-code-as-x"
+      },
+      {
+        "repo": "aibuildai-inc/aibuildai-llm-posttrain-agent",
+        "desc": "AIBuildAI LLM-Post-Train Agent: a recursive self-improving (RSI) agent for autonomous LLM post-training",
+        "lang": "Python",
+        "stars_total": 51,
+        "created": "2026-09-16",
+        "topics": [
+          "agent",
+          "llm-post-training",
+          "recursive-self-improvement",
+          "rsi"
+        ],
+        "url": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "youngyangyang04/llm-master",
+        "desc": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+        "lang": "",
+        "stars_total": 697,
+        "created": "2026-09-12",
+        "topics": [
+          "agent",
+          "large-language-models",
+          "llm",
+          "llm-learning",
+          "llm-tutorial",
+          "rag"
+        ],
+        "url": "https://github.com/youngyangyang04/llm-master"
+      },
+      {
+        "repo": "atria-asi/Atria-Dawn-Preview",
+        "desc": "",
+        "lang": "",
+        "stars_total": 475,
+        "created": "2026-09-12",
+        "topics": [
+          "llm",
+          "llm-agent"
+        ],
+        "url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+      },
+      {
+        "repo": "pliablepixels/gap-trap",
+        "desc": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+        "lang": "JavaScript",
+        "stars_total": 168,
+        "created": "2026-09-13",
+        "topics": [
+          "agent-skills",
+          "agentic-coding",
+          "agents-md",
+          "ai-agents",
+          "ai-coding",
+          "ci-cd",
+          "claude-code",
+          "claude-skills"
+        ],
+        "url": "https://github.com/pliablepixels/gap-trap"
+      },
+      {
+        "repo": "kiyoakii/is-gpt-nerfed",
+        "desc": "Shrinkflation detector for Codex",
+        "lang": "Python",
+        "stars_total": 99,
+        "created": "2026-09-15",
+        "topics": [
+          "codex",
+          "degradation",
+          "gpt",
+          "llm",
+          "nerf",
+          "openai"
+        ],
+        "url": "https://github.com/kiyoakii/is-gpt-nerfed"
+      },
+      {
+        "repo": "AbdelStark/awesome-typesafe",
+        "desc": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+        "lang": "CSS",
+        "stars_total": 78,
+        "created": "2026-09-17",
+        "topics": [
+          "ai-agents",
+          "awesome-list",
+          "jev",
+          "llm",
+          "machine-learning",
+          "structured-output",
+          "system-one-models",
+          "typesafe"
+        ],
+        "url": "https://github.com/AbdelStark/awesome-typesafe"
+      },
+      {
+        "repo": "ruc-datalab/EvoOntology",
+        "desc": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+        "lang": "Python",
+        "stars_total": 77,
+        "created": "2026-09-15",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "claude-code",
+          "codex",
+          "data-analysis",
+          "data-science",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/ruc-datalab/EvoOntology"
+      },
+      {
+        "repo": "ekzhang/openjev-sglang",
+        "desc": "Jev-compatible API endpoint based on open models (prefill-only)",
+        "lang": "Python",
+        "stars_total": 64,
+        "created": "2026-09-17",
+        "topics": [
+          "jev",
+          "llm",
+          "structured-generation",
+          "systemone"
+        ],
+        "url": "https://github.com/ekzhang/openjev-sglang"
+      },
+      {
+        "repo": "ivyfan-toowell/IvyClaw",
+        "desc": "A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统",
+        "lang": "Python",
+        "stars_total": 63,
+        "created": "2026-09-13",
+        "topics": [
+          "ai-agents",
+          "deepagents",
+          "deepagents-langgraph",
+          "llm",
+          "llm-agent",
+          "llm-agents",
+          "multi-agent",
+          "multi-agent-systems"
+        ],
+        "url": "https://github.com/ivyfan-toowell/IvyClaw"
+      },
+      {
+        "repo": "everclear077/awesome-ai-x-accounts",
+        "desc": "A categorized directory of X accounts covering AI, LLMs, agents, and technology, with original profile bios and follower counts. Available in 7 languages.",
+        "lang": "Python",
+        "stars_total": 53,
+        "created": "2026-09-13",
+        "topics": [
+          "ai-agents",
+          "ai-coding",
+          "artificial-intelligence",
+          "awesome",
+          "awesome-list",
+          "llm",
+          "multilingual",
+          "technology"
+        ],
+        "url": "https://github.com/everclear077/awesome-ai-x-accounts"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code from Source",
+        "points": 16,
+        "comments": 4,
+        "url": "https://claude-code-from-source.com/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+        "points": 54,
+        "comments": 52,
+        "url": "https://news.ycombinator.com/item?id=49743049",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+        "points": 59,
+        "comments": 33,
+        "url": "https://github.com/pizza-bot-app/pizza-bot",
+        "date": "2026-09-15"
+      },
+      {
+        "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+        "points": 103,
+        "comments": 92,
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "date": "2026-09-13"
+      },
+      {
+        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "points": 13,
+        "comments": 17,
+        "url": "https://clawfight.ai/agents.md",
+        "date": "2026-09-11"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
