@@ -1,0 +1,441 @@
+{
+  "date": "2026-09-19",
+  "trending_daily": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "3006",
+      "stars_total": "14072",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_period": "444",
+      "stars_total": "146372",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "2704",
+      "stars_total": "36828",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "958",
+      "stars_total": "262173",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "Tencent/BrowserSkill",
+      "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "lang": "TypeScript",
+      "stars_period": "1306",
+      "stars_total": "5407",
+      "url": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "675",
+      "stars_total": "96489",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "TencentCloud/Octop",
+      "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "lang": "Python",
+      "stars_period": "569",
+      "stars_total": "4014",
+      "url": "https://github.com/TencentCloud/Octop"
+    },
+    {
+      "repo": "Fission-AI/OpenSpec",
+      "desc": "Spec-driven development (SDD) for AI coding assistants.",
+      "lang": "TypeScript",
+      "stars_period": "296",
+      "stars_total": "69420",
+      "url": "https://github.com/Fission-AI/OpenSpec"
+    },
+    {
+      "repo": "ankitects/anki",
+      "desc": "Anki is a smart spaced repetition flashcard program",
+      "lang": "Rust",
+      "stars_period": "174",
+      "stars_total": "31236",
+      "url": "https://github.com/ankitects/anki"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "299",
+      "stars_total": "24921",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "supermemoryai/supermemory",
+      "desc": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "lang": "TypeScript",
+      "stars_period": "140",
+      "stars_total": "30356",
+      "url": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+      "repo": "tradesdontlie/tradingview-mcp",
+      "desc": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "lang": "JavaScript",
+      "stars_period": "79",
+      "stars_total": "6503",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp"
+    },
+    {
+      "repo": "rustfs/rustfs",
+      "desc": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "lang": "Rust",
+      "stars_period": "267",
+      "stars_total": "33216",
+      "url": "https://github.com/rustfs/rustfs"
+    },
+    {
+      "repo": "supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_period": "120",
+      "stars_total": "110187",
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "repo": "coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "lang": "Go",
+      "stars_period": "478",
+      "stars_total": "15345",
+      "url": "https://github.com/coder/coder"
+    },
+    {
+      "repo": "ahmedkhaleel2004/gitdiagram",
+      "desc": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "lang": "TypeScript",
+      "stars_period": "152",
+      "stars_total": "16502",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram"
+    },
+    {
+      "repo": "asciimoo/hister",
+      "desc": "Your own search engine",
+      "lang": "Go",
+      "stars_period": "889",
+      "stars_total": "4997",
+      "url": "https://github.com/asciimoo/hister"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "ruc-datalab/EvoOntology",
+        "desc": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+        "lang": "Python",
+        "stars_total": 164,
+        "created": "2026-09-15",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "claude-code",
+          "codex",
+          "data-analysis",
+          "data-science",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/ruc-datalab/EvoOntology"
+      },
+      {
+        "repo": "dashscope-sdk/agentscope-java",
+        "desc": "Build distributed, production-grade, long-running agents.",
+        "lang": "Java",
+        "stars_total": 90,
+        "created": "2026-09-14",
+        "topics": [
+          "adk",
+          "agent",
+          "agent-framework",
+          "agentic",
+          "agentic-ai",
+          "agentscope",
+          "ai",
+          "harness"
+        ],
+        "url": "https://github.com/dashscope-sdk/agentscope-java"
+      },
+      {
+        "repo": "kkakkkka/awesome-code-as-x",
+        "desc": "A Curated List of Coding-agent that treat a program as the intermediate representation for Policy/World/Editor and beyond",
+        "lang": "",
+        "stars_total": 73,
+        "created": "2026-09-13",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "coding-agents",
+          "editing",
+          "world-models"
+        ],
+        "url": "https://github.com/kkakkkka/awesome-code-as-x"
+      },
+      {
+        "repo": "aibuildai-inc/aibuildai-llm-posttrain-agent",
+        "desc": "AIBuildAI LLM-Post-Train Agent: a recursive self-improving (RSI) agent for autonomous LLM post-training",
+        "lang": "Python",
+        "stars_total": 56,
+        "created": "2026-09-16",
+        "topics": [
+          "agent",
+          "llm-post-training",
+          "recursive-self-improvement",
+          "rsi"
+        ],
+        "url": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "AbdelStark/awesome-typesafe",
+        "desc": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+        "lang": "CSS",
+        "stars_total": 246,
+        "created": "2026-09-17",
+        "topics": [
+          "ai-agents",
+          "awesome-list",
+          "jev",
+          "llm",
+          "machine-learning",
+          "structured-output",
+          "system-one-models",
+          "typesafe"
+        ],
+        "url": "https://github.com/AbdelStark/awesome-typesafe"
+      },
+      {
+        "repo": "yibie/awesome-jev",
+        "desc": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+        "lang": "Python",
+        "stars_total": 197,
+        "created": "2026-09-17",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "jev",
+          "llm"
+        ],
+        "url": "https://github.com/yibie/awesome-jev"
+      },
+      {
+        "repo": "pliablepixels/gap-trap",
+        "desc": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without you reviewing every line.",
+        "lang": "JavaScript",
+        "stars_total": 171,
+        "created": "2026-09-13",
+        "topics": [
+          "agent-skills",
+          "agentic-coding",
+          "agents-md",
+          "ai-agents",
+          "ai-coding",
+          "ci-cd",
+          "claude-code",
+          "claude-skills"
+        ],
+        "url": "https://github.com/pliablepixels/gap-trap"
+      },
+      {
+        "repo": "ruc-datalab/EvoOntology",
+        "desc": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+        "lang": "Python",
+        "stars_total": 164,
+        "created": "2026-09-15",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "claude-code",
+          "codex",
+          "data-analysis",
+          "data-science",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/ruc-datalab/EvoOntology"
+      },
+      {
+        "repo": "ekzhang/openjev-sglang",
+        "desc": "Jev-compatible API endpoint based on open models (prefill-only)",
+        "lang": "Python",
+        "stars_total": 163,
+        "created": "2026-09-17",
+        "topics": [
+          "jev",
+          "llm",
+          "structured-generation",
+          "systemone"
+        ],
+        "url": "https://github.com/ekzhang/openjev-sglang"
+      },
+      {
+        "repo": "kiyoakii/is-gpt-nerfed",
+        "desc": "Shrinkflation detector for Codex",
+        "lang": "Python",
+        "stars_total": 138,
+        "created": "2026-09-15",
+        "topics": [
+          "codex",
+          "degradation",
+          "gpt",
+          "llm",
+          "nerf",
+          "openai"
+        ],
+        "url": "https://github.com/kiyoakii/is-gpt-nerfed"
+      },
+      {
+        "repo": "liyupi/ai-model-world",
+        "desc": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+        "lang": "TypeScript",
+        "stars_total": 90,
+        "created": "2026-09-17",
+        "topics": [
+          "ai",
+          "ai-models",
+          "benchmark",
+          "chinese",
+          "data-visualization",
+          "deepseek",
+          "large-language-models",
+          "leaderboard"
+        ],
+        "url": "https://github.com/liyupi/ai-model-world"
+      },
+      {
+        "repo": "dashscope-sdk/agentscope-java",
+        "desc": "Build distributed, production-grade, long-running agents.",
+        "lang": "Java",
+        "stars_total": 90,
+        "created": "2026-09-14",
+        "topics": [
+          "adk",
+          "agent",
+          "agent-framework",
+          "agentic",
+          "agentic-ai",
+          "agentscope",
+          "ai",
+          "harness"
+        ],
+        "url": "https://github.com/dashscope-sdk/agentscope-java"
+      },
+      {
+        "repo": "ivyfan-toowell/IvyClaw",
+        "desc": "A production-oriented multi-agent AI Agent system for software engineering.  |   面向软件研发任务的多智能体 AI Agent 工程系统",
+        "lang": "Python",
+        "stars_total": 64,
+        "created": "2026-09-13",
+        "topics": [
+          "ai-agents",
+          "deepagents",
+          "deepagents-langgraph",
+          "llm",
+          "llm-agent",
+          "llm-agents",
+          "multi-agent",
+          "multi-agent-systems"
+        ],
+        "url": "https://github.com/ivyfan-toowell/IvyClaw"
+      },
+      {
+        "repo": "everclear077/awesome-ai-x-accounts",
+        "desc": "A categorized directory of X accounts covering AI, LLMs, agents, and technology, with original profile bios and follower counts. Available in 7 languages.",
+        "lang": "Python",
+        "stars_total": 61,
+        "created": "2026-09-13",
+        "topics": [
+          "ai-agents",
+          "ai-coding",
+          "artificial-intelligence",
+          "awesome",
+          "awesome-list",
+          "llm",
+          "multilingual",
+          "technology"
+        ],
+        "url": "https://github.com/everclear077/awesome-ai-x-accounts"
+      },
+      {
+        "repo": "ARahim3/cachebeat",
+        "desc": "A tiny Claude Code skill that keeps your prompt cache warm during idle sessions, so your next message reads from cache instead of paying full price.",
+        "lang": "",
+        "stars_total": 51,
+        "created": "2026-09-14",
+        "topics": [
+          "ai",
+          "anthropic",
+          "caching",
+          "claude",
+          "claude-ai",
+          "claude-code",
+          "claude-skills",
+          "cli"
+        ],
+        "url": "https://github.com/ARahim3/cachebeat"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "points": 572,
+        "comments": 204,
+        "url": "https://code.claude.com/docs/en/changelog",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Anthropic finally adds AGENTS.md support to Claude Code",
+        "points": 45,
+        "comments": 10,
+        "url": "https://twitter.com/trq212/status/2101009392611278961",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Claude Code from Source",
+        "points": 20,
+        "comments": 5,
+        "url": "https://claude-code-from-source.com/",
+        "date": "2026-09-18"
+      },
+      {
+        "title": "Show HN: Microsoft Office running with Wine on Linux with no virtualization",
+        "points": 84,
+        "comments": 80,
+        "url": "https://github.com/Tombert/office365_flake",
+        "date": "2026-09-17"
+      },
+      {
+        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+        "points": 63,
+        "comments": 54,
+        "url": "https://news.ycombinator.com/item?id=49743049",
+        "date": "2026-09-17"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
