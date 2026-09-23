@@ -1,0 +1,391 @@
+{
+  "date": "2026-09-23",
+  "trending_daily": [
+    {
+      "repo": "anthropics/financial-services",
+      "desc": "",
+      "lang": "Python",
+      "stars_period": "438",
+      "stars_total": "36482",
+      "url": "https://github.com/anthropics/financial-services"
+    },
+    {
+      "repo": "agent-substrate/substrate",
+      "desc": "Agent Substrate: the core system",
+      "lang": "Go",
+      "stars_period": "245",
+      "stars_total": "3068",
+      "url": "https://github.com/agent-substrate/substrate"
+    },
+    {
+      "repo": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_period": "255",
+      "stars_total": "15687",
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "lang": "Python",
+      "stars_period": "64",
+      "stars_total": "31192",
+      "url": "https://github.com/davila7/claude-code-templates"
+    },
+    {
+      "repo": "google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "lang": "Go",
+      "stars_period": "2305",
+      "stars_total": "7878",
+      "url": "https://github.com/google/ax"
+    },
+    {
+      "repo": "mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "lang": "Python",
+      "stars_period": "441",
+      "stars_total": "14200",
+      "url": "https://github.com/mvt-project/mvt"
+    },
+    {
+      "repo": "superdesigndev/treg",
+      "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "lang": "Python",
+      "stars_period": "230",
+      "stars_total": "2308",
+      "url": "https://github.com/superdesigndev/treg"
+    },
+    {
+      "repo": "browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_period": "191",
+      "stars_total": "25995",
+      "url": "https://github.com/browser-use/video-use"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "hirotomasato/yowes",
+        "desc": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
+        "lang": "Python",
+        "stars_total": 157,
+        "created": "2026-09-19",
+        "topics": [
+          "agent",
+          "document-generator",
+          "mcp",
+          "model-context-protocol",
+          "pillow",
+          "python"
+        ],
+        "url": "https://github.com/hirotomasato/yowes"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "jev-chat/jev-chat-jarvis",
+        "desc": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+        "lang": "Kotlin",
+        "stars_total": 4313,
+        "created": "2026-09-21",
+        "topics": [
+          "accessibility-service",
+          "android",
+          "chat-assistant",
+          "llm",
+          "qq",
+          "wechat"
+        ],
+        "url": "https://github.com/jev-chat/jev-chat-jarvis"
+      },
+      {
+        "repo": "yibie/awesome-jev",
+        "desc": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+        "lang": "Python",
+        "stars_total": 1345,
+        "created": "2026-09-17",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "jev",
+          "llm"
+        ],
+        "url": "https://github.com/yibie/awesome-jev"
+      },
+      {
+        "repo": "v-modal/awesome-jev-tools",
+        "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+        "lang": "",
+        "stars_total": 664,
+        "created": "2026-09-19",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "awesome-lists",
+          "jev",
+          "llm",
+          "robotics",
+          "robotics-algorithms",
+          "robotics-control"
+        ],
+        "url": "https://github.com/v-modal/awesome-jev-tools"
+      },
+      {
+        "repo": "AbdelStark/awesome-typesafe-jev",
+        "desc": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
+        "lang": "HTML",
+        "stars_total": 476,
+        "created": "2026-09-17",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "awesome",
+          "awesome-jev",
+          "awesome-list",
+          "awesome-lists",
+          "curated-list",
+          "developer-tools"
+        ],
+        "url": "https://github.com/AbdelStark/awesome-typesafe-jev"
+      },
+      {
+        "repo": "jev-chat/jev-chat-windows",
+        "desc": "微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+        "lang": "Python",
+        "stars_total": 319,
+        "created": "2026-09-21",
+        "topics": [
+          "chat-assistant",
+          "jev",
+          "llm",
+          "local-first",
+          "ocr",
+          "privacy",
+          "pyqt",
+          "python"
+        ],
+        "url": "https://github.com/jev-chat/jev-chat-windows"
+      },
+      {
+        "repo": "ekzhang/openjev-sglang",
+        "desc": "Jev-compatible API endpoint based on open models (prefill-only)",
+        "lang": "Python",
+        "stars_total": 272,
+        "created": "2026-09-17",
+        "topics": [
+          "jev",
+          "llm",
+          "structured-generation",
+          "systemone"
+        ],
+        "url": "https://github.com/ekzhang/openjev-sglang"
+      },
+      {
+        "repo": "jev-chat/jev-chat-jarvis-mac",
+        "desc": "微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。",
+        "lang": "Python",
+        "stars_total": 242,
+        "created": "2026-09-21",
+        "topics": [
+          "llm",
+          "local-first",
+          "macos",
+          "ocr",
+          "privacy",
+          "pyobjc",
+          "python",
+          "wechat"
+        ],
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-mac"
+      },
+      {
+        "repo": "0xNatoshi/jev-codex-router",
+        "desc": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
+        "lang": "JavaScript",
+        "stars_total": 228,
+        "created": "2026-09-17",
+        "topics": [
+          "ai",
+          "codex",
+          "jev",
+          "llm",
+          "macos",
+          "routing",
+          "typesafe"
+        ],
+        "url": "https://github.com/0xNatoshi/jev-codex-router"
+      },
+      {
+        "repo": "OmniJev/awesome-jev-gallery",
+        "desc": "🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev.",
+        "lang": "JavaScript",
+        "stars_total": 212,
+        "created": "2026-09-17",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "calibrated-probabilities",
+          "calibration",
+          "decision-models",
+          "jev",
+          "llm",
+          "llm-evaluation"
+        ],
+        "url": "https://github.com/OmniJev/awesome-jev-gallery"
+      },
+      {
+        "repo": "liyupi/ai-model-world",
+        "desc": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。",
+        "lang": "TypeScript",
+        "stars_total": 171,
+        "created": "2026-09-17",
+        "topics": [
+          "ai",
+          "ai-models",
+          "benchmark",
+          "chinese",
+          "data-visualization",
+          "deepseek",
+          "large-language-models",
+          "leaderboard"
+        ],
+        "url": "https://github.com/liyupi/ai-model-world"
+      },
+      {
+        "repo": "kydlikebtc/awesome-jev",
+        "desc": "805 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Every cited call site is re-read by CI each week. Bilingual EN/中文, JSON schema, and a cross-platform compatibility table.",
+        "lang": "Python",
+        "stars_total": 168,
+        "created": "2026-09-22",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "calibration",
+          "catalog",
+          "classification",
+          "context-compaction"
+        ],
+        "url": "https://github.com/kydlikebtc/awesome-jev"
+      },
+      {
+        "repo": "lordx64/phantom-kv",
+        "desc": "Refusal removal as a loadable KV-cache graft — zero weight modification, no refusal-direction projection, fully reversible.",
+        "lang": "Python",
+        "stars_total": 127,
+        "created": "2026-09-17",
+        "topics": [
+          "abliteration",
+          "kv-cache",
+          "llm",
+          "mechanistic-interpretability",
+          "model-steering",
+          "pytorch",
+          "qwen",
+          "refusal-removal"
+        ],
+        "url": "https://github.com/lordx64/phantom-kv"
+      },
+      {
+        "repo": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+        "desc": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+        "lang": "",
+        "stars_total": 117,
+        "created": "2026-09-21",
+        "topics": [
+          "academic-writing",
+          "agent-skills",
+          "ai-research",
+          "llm",
+          "llm-reviewer",
+          "paper-writing",
+          "peer-review",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer"
+      },
+      {
+        "repo": "walidboulanouar/awesome-jev-use-cases",
+        "desc": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0, sponsored by AY Automate.",
+        "lang": "",
+        "stars_total": 115,
+        "created": "2026-09-19",
+        "topics": [
+          "ai-guardrails",
+          "ai-router",
+          "awesome",
+          "awesome-list",
+          "classification",
+          "claude-code",
+          "decision-model",
+          "examples"
+        ],
+        "url": "https://github.com/walidboulanouar/awesome-jev-use-cases"
+      },
+      {
+        "repo": "kraayenjon/awesome-jev",
+        "desc": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+        "lang": "",
+        "stars_total": 113,
+        "created": "2026-09-18",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-agents",
+          "api",
+          "artificial-intelligence",
+          "automation",
+          "awesome",
+          "awesome-list"
+        ],
+        "url": "https://github.com/kraayenjon/awesome-jev"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
+        "points": 47,
+        "comments": 94,
+        "url": "https://news.ycombinator.com/item?id=49798257",
+        "date": "2026-09-22"
+      },
+      {
+        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+        "points": 45,
+        "comments": 16,
+        "url": "https://github.com/naw103/foremerge",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "points": 24,
+        "comments": 23,
+        "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+        "date": "2026-09-20"
+      },
+      {
+        "title": "Ask HN: How do you interview devs in a post-AI world?",
+        "points": 46,
+        "comments": 39,
+        "url": "https://news.ycombinator.com/item?id=49768826",
+        "date": "2026-09-19"
+      },
+      {
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "points": 739,
+        "comments": 285,
+        "url": "https://code.claude.com/docs/en/changelog",
+        "date": "2026-09-18"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
