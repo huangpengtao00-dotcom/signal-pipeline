@@ -1,0 +1,452 @@
+{
+  "date": "2026-09-26",
+  "trending_daily": [
+    {
+      "repo": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_period": "2109",
+      "stars_total": "85277",
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_period": "83",
+      "stars_total": "36970",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "lang": "Python",
+      "stars_period": "1653",
+      "stars_total": "30049",
+      "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "468",
+      "stars_total": "291717",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "583",
+      "stars_total": "269806",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_period": "1050",
+      "stars_total": "18762",
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "repo": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_period": "189",
+      "stars_total": "178383",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "repo": "androoAGI/starnet",
+      "desc": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "lang": "JavaScript",
+      "stars_period": "93",
+      "stars_total": "528",
+      "url": "https://github.com/androoAGI/starnet"
+    },
+    {
+      "repo": "derv82/wifit3",
+      "desc": "Wifite but USB-only &amp; cross-platform.",
+      "lang": "Python",
+      "stars_period": "183",
+      "stars_total": "995",
+      "url": "https://github.com/derv82/wifit3"
+    },
+    {
+      "repo": "kelseyhightower/kubernetes-the-hard-way",
+      "desc": "Bootstrap Kubernetes the hard way. No scripts.",
+      "lang": "",
+      "stars_period": "119",
+      "stars_total": "50149",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "1177",
+      "stars_total": "57668",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "shy3130/tick-stock-panel",
+      "desc": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "lang": "Python",
+      "stars_period": "44",
+      "stars_total": "5171",
+      "url": "https://github.com/shy3130/tick-stock-panel"
+    },
+    {
+      "repo": "google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "lang": "Go",
+      "stars_period": "1379",
+      "stars_total": "11596",
+      "url": "https://github.com/google/ax"
+    },
+    {
+      "repo": "NVIDIA/Model-Optimizer",
+      "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "lang": "Python",
+      "stars_period": "359",
+      "stars_total": "4520",
+      "url": "https://github.com/NVIDIA/Model-Optimizer"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_period": "306",
+      "stars_total": "71269",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "repo": "openbao/openbao",
+      "desc": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "lang": "Go",
+      "stars_period": "49",
+      "stars_total": "7784",
+      "url": "https://github.com/openbao/openbao"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "libingzheren/Jev-Mem",
+        "desc": "Jev-Mem: System-One Controlled Agentic Memory",
+        "lang": "Python",
+        "stars_total": 93,
+        "created": "2026-09-20",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "agentic-ai",
+          "agentic-memory",
+          "agents",
+          "jev",
+          "jev-ai",
+          "llm"
+        ],
+        "url": "https://github.com/libingzheren/Jev-Mem"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "jev-chat/jev-chat-jarvis",
+        "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+        "lang": "Kotlin",
+        "stars_total": 6534,
+        "created": "2026-09-21",
+        "topics": [
+          "accessibility-service",
+          "android",
+          "chat-assistant",
+          "llm",
+          "qq"
+        ],
+        "url": "https://github.com/jev-chat/jev-chat-jarvis"
+      },
+      {
+        "repo": "yetone/magpie",
+        "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "lang": "Go",
+        "stars_total": 813,
+        "created": "2026-09-23",
+        "topics": [
+          "claude-code",
+          "codex",
+          "deepseek",
+          "gemini-cli",
+          "llm",
+          "macos"
+        ],
+        "url": "https://github.com/yetone/magpie"
+      },
+      {
+        "repo": "nokia-applied-research/AnyJev",
+        "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)",
+        "lang": "Python",
+        "stars_total": 728,
+        "created": "2026-09-21",
+        "topics": [
+          "calibration",
+          "decision-model",
+          "jev",
+          "jev-model",
+          "llm",
+          "system-one",
+          "transformers",
+          "vllm"
+        ],
+        "url": "https://github.com/nokia-applied-research/AnyJev"
+      },
+      {
+        "repo": "yukitorido/short-video-generator-AI",
+        "desc": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+        "lang": "Python",
+        "stars_total": 683,
+        "created": "2026-09-23",
+        "topics": [
+          "ai",
+          "llm",
+          "llm-tools",
+          "opus-clip",
+          "opus-clip-alternative",
+          "short-video",
+          "short-video-automation",
+          "short-video-generator"
+        ],
+        "url": "https://github.com/yukitorido/short-video-generator-AI"
+      },
+      {
+        "repo": "jev-chat/jev-chat-windows",
+        "desc": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+        "lang": "Python",
+        "stars_total": 562,
+        "created": "2026-09-21",
+        "topics": [
+          "chat-assistant",
+          "jev",
+          "llm",
+          "local-first",
+          "ocr",
+          "privacy",
+          "pyqt",
+          "python"
+        ],
+        "url": "https://github.com/jev-chat/jev-chat-windows"
+      },
+      {
+        "repo": "kydlikebtc/awesome-jev",
+        "desc": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+        "lang": "Python",
+        "stars_total": 437,
+        "created": "2026-09-22",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "calibration",
+          "catalog",
+          "classification",
+          "context-compaction"
+        ],
+        "url": "https://github.com/kydlikebtc/awesome-jev"
+      },
+      {
+        "repo": "jev-chat/jev-chat-jarvis-mac",
+        "desc": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+        "lang": "Python",
+        "stars_total": 399,
+        "created": "2026-09-21",
+        "topics": [
+          "llm",
+          "local-first",
+          "macos",
+          "ocr",
+          "privacy",
+          "pyobjc",
+          "python"
+        ],
+        "url": "https://github.com/jev-chat/jev-chat-jarvis-mac"
+      },
+      {
+        "repo": "Alex314618-create/JevRev",
+        "desc": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+        "lang": "TypeScript",
+        "stars_total": 305,
+        "created": "2026-09-21",
+        "topics": [
+          "jev",
+          "llm",
+          "workflow"
+        ],
+        "url": "https://github.com/Alex314618-create/JevRev"
+      },
+      {
+        "repo": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+        "desc": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+        "lang": "",
+        "stars_total": 183,
+        "created": "2026-09-21",
+        "topics": [
+          "academic-writing",
+          "agent-skills",
+          "ai-research",
+          "llm",
+          "llm-reviewer",
+          "paper-writing",
+          "peer-review",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer"
+      },
+      {
+        "repo": "amitshekhariitbhu/ai-system-design",
+        "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+        "lang": "Markdown",
+        "stars_total": 179,
+        "created": "2026-09-25",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-engineering",
+          "ai-system",
+          "ai-system-design",
+          "ai-systems",
+          "ai-systems-design",
+          "llm"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/ai-system-design"
+      },
+      {
+        "repo": "zouyuxuan122/dsh-our-free-model",
+        "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+        "lang": "JavaScript",
+        "stars_total": 132,
+        "created": "2026-09-24",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "free-model",
+          "llm"
+        ],
+        "url": "https://github.com/zouyuxuan122/dsh-our-free-model"
+      },
+      {
+        "repo": "georgeding/Relate",
+        "desc": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+        "lang": "JavaScript",
+        "stars_total": 110,
+        "created": "2026-09-23",
+        "topics": [
+          "ai-assistant",
+          "llm",
+          "mcp",
+          "memory",
+          "ollama",
+          "openai-compatible",
+          "personal-knowledge",
+          "privacy"
+        ],
+        "url": "https://github.com/georgeding/Relate"
+      },
+      {
+        "repo": "libingzheren/Jev-Mem",
+        "desc": "Jev-Mem: System-One Controlled Agentic Memory",
+        "lang": "Python",
+        "stars_total": 93,
+        "created": "2026-09-20",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "agentic-ai",
+          "agentic-memory",
+          "agents",
+          "jev",
+          "jev-ai",
+          "llm"
+        ],
+        "url": "https://github.com/libingzheren/Jev-Mem"
+      },
+      {
+        "repo": "openlayer-ai/jevals",
+        "desc": "Agent evals and guardrails as Jev decisions: one request per trace, a fraction of a cent, fast enough for the agent loop. Runs locally with Kev or Laya.",
+        "lang": "Python",
+        "stars_total": 88,
+        "created": "2026-09-20",
+        "topics": [
+          "agents",
+          "evals",
+          "guardrails",
+          "jev",
+          "llm",
+          "llm-evaluation",
+          "ragas",
+          "typesafe"
+        ],
+        "url": "https://github.com/openlayer-ai/jevals"
+      },
+      {
+        "repo": "2022hpsk/SpeakerMemR1",
+        "desc": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+        "lang": "Python",
+        "stars_total": 84,
+        "created": "2026-09-20",
+        "topics": [
+          "conversational-memory",
+          "llm",
+          "multi-party-dialogues"
+        ],
+        "url": "https://github.com/2022hpsk/SpeakerMemR1"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "points": 61,
+        "comments": 40,
+        "url": "https://github.com/Avinash-jetwani/jevmem",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "points": 399,
+        "comments": 131,
+        "url": "https://github.com/devdotfast/whiteboard",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done",
+        "points": 16,
+        "comments": 4,
+        "url": "https://news.ycombinator.com/item?id=49831231",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+        "points": 481,
+        "comments": 282,
+        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "date": "2026-09-23"
+      },
+      {
+        "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
+        "points": 50,
+        "comments": 97,
+        "url": "https://news.ycombinator.com/item?id=49798257",
+        "date": "2026-09-22"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
