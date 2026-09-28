@@ -1,0 +1,391 @@
+{
+  "date": "2026-09-28",
+  "trending_daily": [
+    {
+      "repo": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_period": "2401",
+      "stars_total": "90542",
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "lang": "Python",
+      "stars_period": "4520",
+      "stars_total": "38039",
+      "url": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_period": "3086",
+      "stars_total": "40696",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_period": "790",
+      "stars_total": "59603",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "repo": "InfinityLoop1308/PipePipe",
+      "desc": "An open-source Android app to let you browse YouTube and other services freely.",
+      "lang": "Shell",
+      "stars_period": "242",
+      "stars_total": "6663",
+      "url": "https://github.com/InfinityLoop1308/PipePipe"
+    },
+    {
+      "repo": "vercel-labs/scriptc",
+      "desc": "TypeScript-to-Native Compiler",
+      "lang": "TypeScript",
+      "stars_period": "102",
+      "stars_total": "5475",
+      "url": "https://github.com/vercel-labs/scriptc"
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "lang": "TypeScript",
+      "stars_period": "114",
+      "stars_total": "1134",
+      "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+      "repo": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_period": "895",
+      "stars_total": "20737",
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "repo": "willfaust/Madeira",
+      "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "lang": "C",
+      "stars_period": "83",
+      "stars_total": "866",
+      "url": "https://github.com/willfaust/Madeira"
+    }
+  ],
+  "new_repos": {
+    "agent": [],
+    "llm": [
+      {
+        "repo": "yetone/magpie",
+        "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+        "lang": "Go",
+        "stars_total": 1318,
+        "created": "2026-09-23",
+        "topics": [
+          "claude-code",
+          "codex",
+          "deepseek",
+          "gemini-cli",
+          "llm",
+          "macos"
+        ],
+        "url": "https://github.com/yetone/magpie"
+      },
+      {
+        "repo": "yukitorido/short-video-generator-AI",
+        "desc": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+        "lang": "Python",
+        "stars_total": 725,
+        "created": "2026-09-23",
+        "topics": [
+          "ai",
+          "llm",
+          "llm-tools",
+          "opus-clip",
+          "opus-clip-alternative",
+          "short-video",
+          "short-video-automation",
+          "short-video-generator"
+        ],
+        "url": "https://github.com/yukitorido/short-video-generator-AI"
+      },
+      {
+        "repo": "kydlikebtc/awesome-jev",
+        "desc": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+        "lang": "Python",
+        "stars_total": 580,
+        "created": "2026-09-22",
+        "topics": [
+          "agent-tools",
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "calibration",
+          "catalog",
+          "classification",
+          "context-compaction"
+        ],
+        "url": "https://github.com/kydlikebtc/awesome-jev"
+      },
+      {
+        "repo": "amitshekhariitbhu/ai-system-design",
+        "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+        "lang": "Markdown",
+        "stars_total": 451,
+        "created": "2026-09-25",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-engineering",
+          "ai-system",
+          "ai-system-design",
+          "ai-systems",
+          "ai-systems-design",
+          "llm"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/ai-system-design"
+      },
+      {
+        "repo": "zouyuxuan122/dsh-our-free-model",
+        "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+        "lang": "JavaScript",
+        "stars_total": 320,
+        "created": "2026-09-24",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "free-model",
+          "llm"
+        ],
+        "url": "https://github.com/zouyuxuan122/dsh-our-free-model"
+      },
+      {
+        "repo": "tswawa/WechatVibe",
+        "desc": "微信聊天分析工具，支持本地 Laya 与 API 模型，提供意图识别、情绪感知、人物画像、群聊画像、好感度分析和 MBTI 聊天推测。",
+        "lang": "Python",
+        "stars_total": 127,
+        "created": "2026-09-23",
+        "topics": [
+          "chat-analysis",
+          "electron",
+          "emotion-recognition",
+          "intent-recognition",
+          "laya",
+          "llm",
+          "local-ai",
+          "mbti"
+        ],
+        "url": "https://github.com/tswawa/WechatVibe"
+      },
+      {
+        "repo": "georgeding/Relate",
+        "desc": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+        "lang": "JavaScript",
+        "stars_total": 116,
+        "created": "2026-09-23",
+        "topics": [
+          "ai-assistant",
+          "llm",
+          "mcp",
+          "memory",
+          "ollama",
+          "openai-compatible",
+          "personal-knowledge",
+          "privacy"
+        ],
+        "url": "https://github.com/georgeding/Relate"
+      },
+      {
+        "repo": "aaddrick/building-with-typesafe-jev",
+        "desc": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+        "lang": "Python",
+        "stars_total": 93,
+        "created": "2026-09-26",
+        "topics": [
+          "agent-skill",
+          "agent-skills",
+          "ai-agents",
+          "calibration",
+          "classification",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-code-skill"
+        ],
+        "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+      },
+      {
+        "repo": "architectds/collabosm",
+        "desc": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Window",
+        "lang": "Python",
+        "stars_total": 88,
+        "created": "2026-09-25",
+        "topics": [
+          "colab",
+          "exllamav3",
+          "google-colab",
+          "gpu",
+          "llm",
+          "llm-inference",
+          "openai-api",
+          "qwen"
+        ],
+        "url": "https://github.com/architectds/collabosm"
+      },
+      {
+        "repo": "Finderchangchang/brewreel",
+        "desc": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+        "lang": "TypeScript",
+        "stars_total": 82,
+        "created": "2026-09-26",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "deepseek",
+          "deepseek-harness",
+          "dsh-plugin",
+          "llm",
+          "promo-video",
+          "remotion"
+        ],
+        "url": "https://github.com/Finderchangchang/brewreel"
+      },
+      {
+        "repo": "UditAkhourii/quicksilver",
+        "desc": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
+        "lang": "JavaScript",
+        "stars_total": 75,
+        "created": "2026-09-25",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "jev",
+          "llm",
+          "skill",
+          "tokens"
+        ],
+        "url": "https://github.com/UditAkhourii/quicksilver"
+      },
+      {
+        "repo": "sqt2x8cri89r/glm5.3flash-glm-5.3-flash-api",
+        "desc": "glm-5.3-flash API (glm5.3flash / glm 5.3 flash): input $0.06; cached_input $0.012; output $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, ",
+        "lang": "Shell",
+        "stars_total": 56,
+        "created": "2026-09-24",
+        "topics": [
+          "api-docs",
+          "apimart",
+          "glm-5-3-flash",
+          "glm-5-3-flash-api",
+          "glm-5-3-flash-llm",
+          "glm5-3flash",
+          "glm5-3flash-api",
+          "llm"
+        ],
+        "url": "https://github.com/sqt2x8cri89r/glm5.3flash-glm-5.3-flash-api"
+      },
+      {
+        "repo": "u7n3fubt/gemini3pro-gemini-3-pro-api",
+        "desc": "gemini-3-pro API (gemini3pro / gemini 3 pro): input $1.6; output $9.6. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway, $1 minimum top-up.",
+        "lang": "Shell",
+        "stars_total": 55,
+        "created": "2026-09-24",
+        "topics": [
+          "api-docs",
+          "apimart",
+          "gemini-3-pro",
+          "gemini-3-pro-api",
+          "gemini-3-pro-llm",
+          "gemini3pro",
+          "gemini3pro-api",
+          "llm"
+        ],
+        "url": "https://github.com/u7n3fubt/gemini3pro-gemini-3-pro-api"
+      },
+      {
+        "repo": "itsfz98v7ln/gpt5.6luna-gpt-5.6-luna-api",
+        "desc": "gpt-5.6-luna API (gpt5.6luna / gpt 5.6 luna): input $0.16; cached_input $0.016; cache_write $0.2. Model id, llm settings, curl and Python examples over an OpenAI-compatible gateway",
+        "lang": "Shell",
+        "stars_total": 54,
+        "created": "2026-09-24",
+        "topics": [
+          "api-docs",
+          "apimart",
+          "gpt-5-6-luna",
+          "gpt-5-6-luna-api",
+          "gpt-5-6-luna-llm",
+          "gpt5-6luna",
+          "gpt5-6luna-api",
+          "llm"
+        ],
+        "url": "https://github.com/itsfz98v7ln/gpt5.6luna-gpt-5.6-luna-api"
+      },
+      {
+        "repo": "pye8505i0c5cw9/claudesonnet5-claude-sonnet-5-api",
+        "desc": "claude-sonnet-5 API (claudesonnet5 / claude sonnet 5): input $1.6; cached_input $0.16; cache_write_5m $2. Model id, llm settings, curl and Python examples over an OpenAI-compatible",
+        "lang": "Shell",
+        "stars_total": 54,
+        "created": "2026-09-24",
+        "topics": [
+          "api-docs",
+          "apimart",
+          "claude-sonnet-5",
+          "claude-sonnet-5-api",
+          "claude-sonnet-5-llm",
+          "claudesonnet5",
+          "claudesonnet5-api",
+          "llm"
+        ],
+        "url": "https://github.com/pye8505i0c5cw9/claudesonnet5-claude-sonnet-5-api"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "points": 75,
+        "comments": 55,
+        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "points": 61,
+        "comments": 40,
+        "url": "https://github.com/Avinash-jetwani/jevmem",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "points": 417,
+        "comments": 141,
+        "url": "https://github.com/devdotfast/whiteboard",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done",
+        "points": 16,
+        "comments": 4,
+        "url": "https://news.ycombinator.com/item?id=49831231",
+        "date": "2026-09-24"
+      },
+      {
+        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+        "points": 485,
+        "comments": 284,
+        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "date": "2026-09-23"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
