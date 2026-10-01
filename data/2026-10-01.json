@@ -1,0 +1,449 @@
+{
+  "date": "2026-10-01",
+  "trending_daily": [
+    {
+      "repo": "NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_period": "1281",
+      "stars_total": "13087",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_period": "3483",
+      "stars_total": "50701",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "lang": "TypeScript",
+      "stars_period": "624",
+      "stars_total": "3158",
+      "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_period": "90",
+      "stars_total": "24552",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "743",
+      "stars_total": "149414",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "stars_period": "431",
+      "stars_total": "127660",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "stars_period": "136",
+      "stars_total": "391040",
+      "url": "https://github.com/openclaw/openclaw"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_period": "123",
+      "stars_total": "76203",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "876",
+      "stars_total": "273167",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "lang": "TypeScript",
+      "stars_period": "349",
+      "stars_total": "54855",
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "repo": "firebase/firebase-ios-sdk",
+      "desc": "Firebase SDK for Apple App Development",
+      "lang": "C++",
+      "stars_period": "8",
+      "stars_total": "6782",
+      "url": "https://github.com/firebase/firebase-ios-sdk"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "desc": "Model Context Protocol Servers",
+      "lang": "TypeScript",
+      "stars_period": "50",
+      "stars_total": "90856",
+      "url": "https://github.com/modelcontextprotocol/servers"
+    },
+    {
+      "repo": "byoungd/up",
+      "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "lang": "JavaScript",
+      "stars_period": "743",
+      "stars_total": "66490",
+      "url": "https://github.com/byoungd/up"
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "lang": "C",
+      "stars_period": "118",
+      "stars_total": "72657",
+      "url": "https://github.com/colbymchenry/codegraph"
+    },
+    {
+      "repo": "t8y2/dbx",
+      "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "lang": "Rust",
+      "stars_period": "1138",
+      "stars_total": "23380",
+      "url": "https://github.com/t8y2/dbx"
+    },
+    {
+      "repo": "NawfalMotii79/PLFM_RADAR",
+      "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "lang": "PLSQL",
+      "stars_period": "263",
+      "stars_total": "26462",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+    },
+    {
+      "repo": "VectifyAI/PageIndex",
+      "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "lang": "Python",
+      "stars_period": "1097",
+      "stars_total": "38226",
+      "url": "https://github.com/VectifyAI/PageIndex"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "AFK-surf/Comma",
+        "desc": "The sessionless, relentless personal agent.",
+        "lang": "Elixir",
+        "stars_total": 55,
+        "created": "2026-09-30",
+        "topics": [
+          "agent",
+          "ai",
+          "elixir",
+          "lean"
+        ],
+        "url": "https://github.com/AFK-surf/Comma"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "KKKKhazix/AIHOT",
+        "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+        "lang": "TypeScript",
+        "stars_total": 4190,
+        "created": "2026-09-28",
+        "topics": [
+          "ai",
+          "content-curation",
+          "llm",
+          "mcp",
+          "news-aggregator",
+          "rss",
+          "self-hosted",
+          "typescript"
+        ],
+        "url": "https://github.com/KKKKhazix/AIHOT"
+      },
+      {
+        "repo": "nanaism/yomiyasu",
+        "desc": "AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
+        "lang": "Python",
+        "stars_total": 578,
+        "created": "2026-09-30",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "claude-code",
+          "codex",
+          "cursor",
+          "japanese",
+          "linter",
+          "llm"
+        ],
+        "url": "https://github.com/nanaism/yomiyasu"
+      },
+      {
+        "repo": "amitshekhariitbhu/ai-system-design",
+        "desc": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+        "lang": "Markdown",
+        "stars_total": 479,
+        "created": "2026-09-25",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-engineering",
+          "ai-system",
+          "ai-system-design",
+          "ai-systems",
+          "ai-systems-design",
+          "llm"
+        ],
+        "url": "https://github.com/amitshekhariitbhu/ai-system-design"
+      },
+      {
+        "repo": "scarletkc/seiso",
+        "desc": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+        "lang": "Rust",
+        "stars_total": 156,
+        "created": "2026-09-27",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "coding-agents",
+          "commonmark",
+          "conventions",
+          "developer-tools"
+        ],
+        "url": "https://github.com/scarletkc/seiso"
+      },
+      {
+        "repo": "Xuanwo/cida",
+        "desc": "辞达：用你选择的大模型，在 Mac 的任何地方翻译和润色文字。Translate and polish text anywhere on your Mac.",
+        "lang": "Swift",
+        "stars_total": 127,
+        "created": "2026-09-25",
+        "topics": [
+          "llm",
+          "macos",
+          "menubar-app",
+          "swiftui",
+          "translation"
+        ],
+        "url": "https://github.com/Xuanwo/cida"
+      },
+      {
+        "repo": "aaddrick/building-with-typesafe-jev",
+        "desc": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+        "lang": "Python",
+        "stars_total": 126,
+        "created": "2026-09-26",
+        "topics": [
+          "agent-skill",
+          "agent-skills",
+          "ai-agents",
+          "calibration",
+          "classification",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-code-skill"
+        ],
+        "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+      },
+      {
+        "repo": "Finderchangchang/brewreel",
+        "desc": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+        "lang": "TypeScript",
+        "stars_total": 113,
+        "created": "2026-09-26",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "deepseek",
+          "deepseek-harness",
+          "dsh-plugin",
+          "llm",
+          "promo-video",
+          "remotion"
+        ],
+        "url": "https://github.com/Finderchangchang/brewreel"
+      },
+      {
+        "repo": "matank001/clodfarm",
+        "desc": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+        "lang": "Python",
+        "stars_total": 99,
+        "created": "2026-09-25",
+        "topics": [
+          "agent-orchestration",
+          "ai",
+          "ai-agents",
+          "anthropic",
+          "automation",
+          "autonomous-agents",
+          "aws",
+          "claude"
+        ],
+        "url": "https://github.com/matank001/clodfarm"
+      },
+      {
+        "repo": "architectds/collabosm",
+        "desc": "A local app that rents a GPU in your own Colab account and serves Qwen3.8 on it: 27B on an A100-40G, or Flash-Next (125B-A6B MoE) on an A100-80G. The cost is shown before it starts; chat with images; Codex or any OpenAI client uses a fixed local /v1. Auto-stop, CU ledger, live prefill/decode. Window",
+        "lang": "Python",
+        "stars_total": 94,
+        "created": "2026-09-25",
+        "topics": [
+          "colab",
+          "exllamav3",
+          "google-colab",
+          "gpu",
+          "llm",
+          "llm-inference",
+          "openai-api",
+          "qwen"
+        ],
+        "url": "https://github.com/architectds/collabosm"
+      },
+      {
+        "repo": "UditAkhourii/quicksilver",
+        "desc": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
+        "lang": "JavaScript",
+        "stars_total": 91,
+        "created": "2026-09-25",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "developer-tools",
+          "jev",
+          "llm",
+          "skill",
+          "tokens"
+        ],
+        "url": "https://github.com/UditAkhourii/quicksilver"
+      },
+      {
+        "repo": "OmniJev/OneJev",
+        "desc": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
+        "lang": "Python",
+        "stars_total": 91,
+        "created": "2026-09-27",
+        "topics": [
+          "calibration",
+          "computer-use",
+          "decision-model",
+          "gui-agent",
+          "huggingface",
+          "jev",
+          "llm",
+          "multimodal"
+        ],
+        "url": "https://github.com/OmniJev/OneJev"
+      },
+      {
+        "repo": "ufo-ai/ufo-core",
+        "desc": "Business agent operating system",
+        "lang": "Python",
+        "stars_total": 86,
+        "created": "2026-09-27",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-tools",
+          "anthropic",
+          "chatgpt",
+          "claude",
+          "claude-code"
+        ],
+        "url": "https://github.com/ufo-ai/ufo-core"
+      },
+      {
+        "repo": "kostja94/bricks",
+        "desc": "Component layer for AI agents: implementation-aware contracts for building project-native interface components.",
+        "lang": "JavaScript",
+        "stars_total": 67,
+        "created": "2026-09-25",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "cursor",
+          "design-systems",
+          "developer-tools"
+        ],
+        "url": "https://github.com/kostja94/bricks"
+      },
+      {
+        "repo": "ArtificialAnalysis/aa-agentperf-local",
+        "desc": "Benchmark local LLM serving by replaying real agent trajectories",
+        "lang": "Python",
+        "stars_total": 62,
+        "created": "2026-09-26",
+        "topics": [
+          "ai-agents",
+          "artificial-analysis",
+          "benchmark",
+          "inference",
+          "llm",
+          "local-llm"
+        ],
+        "url": "https://github.com/ArtificialAnalysis/aa-agentperf-local"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Corral – Kill every command your agent starts",
+        "points": 19,
+        "comments": 5,
+        "url": "https://github.com/Cardinal44/corral",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+        "points": 24,
+        "comments": 12,
+        "url": "https://www.openappa.com/",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+        "points": 149,
+        "comments": 62,
+        "url": "https://github.com/seamusc/papermono-shopping-list",
+        "date": "2026-09-28"
+      },
+      {
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "points": 75,
+        "comments": 56,
+        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "points": 62,
+        "comments": 49,
+        "url": "https://github.com/Avinash-jetwani/jevmem",
+        "date": "2026-09-25"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
