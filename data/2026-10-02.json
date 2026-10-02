@@ -1,0 +1,373 @@
+{
+  "date": "2026-10-02",
+  "trending_daily": [
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1194",
+      "stars_total": "150787",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "883",
+      "stars_total": "274078",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_period": "2456",
+      "stars_total": "14111",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "repo": "firebase/firebase-ios-sdk",
+      "desc": "Firebase SDK for Apple App Development",
+      "lang": "C++",
+      "stars_period": "112",
+      "stars_total": "6884",
+      "url": "https://github.com/firebase/firebase-ios-sdk"
+    },
+    {
+      "repo": "mvschwarz/openrig",
+      "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "lang": "TypeScript",
+      "stars_period": "642",
+      "stars_total": "3837",
+      "url": "https://github.com/mvschwarz/openrig"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "150",
+      "stars_total": "9351",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "455",
+      "stars_total": "294070",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_period": "362",
+      "stars_total": "24841",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "lang": "TypeScript",
+      "stars_period": "627",
+      "stars_total": "55451",
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "repo": "earendil-works/pi",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "lang": "TypeScript",
+      "stars_period": "298",
+      "stars_total": "111360",
+      "url": "https://github.com/earendil-works/pi"
+    },
+    {
+      "repo": "tile-ai/tilelang",
+      "desc": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "lang": "Python",
+      "stars_period": "163",
+      "stars_total": "8159",
+      "url": "https://github.com/tile-ai/tilelang"
+    },
+    {
+      "repo": "pablostanley/yoinks",
+      "desc": "yoink any video from your terminal. no shady ads.",
+      "lang": "TypeScript",
+      "stars_period": "361",
+      "stars_total": "3049",
+      "url": "https://github.com/pablostanley/yoinks"
+    },
+    {
+      "repo": "HunxByts/GhostTrack",
+      "desc": "Useful tool to track location or mobile number",
+      "lang": "Python",
+      "stars_period": "368",
+      "stars_total": "16497",
+      "url": "https://github.com/HunxByts/GhostTrack"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_period": "495",
+      "stars_total": "73814",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "repo": "Friedrich-M/UniMate",
+      "desc": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "lang": "Python",
+      "stars_period": "217",
+      "stars_total": "1125",
+      "url": "https://github.com/Friedrich-M/UniMate"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "AFK-surf/Comma",
+        "desc": "The sessionless, relentless personal agent. Open source alternative to Muse, Dots, Instinct and Town.",
+        "lang": "Elixir",
+        "stars_total": 148,
+        "created": "2026-09-30",
+        "topics": [
+          "agent",
+          "elixir-lang",
+          "golang",
+          "personal-ai"
+        ],
+        "url": "https://github.com/AFK-surf/Comma"
+      },
+      {
+        "repo": "Remocn/remocn-studio",
+        "desc": "Agent-native video editor",
+        "lang": "TypeScript",
+        "stars_total": 57,
+        "created": "2026-10-01",
+        "topics": [
+          "agent",
+          "remotion",
+          "remotion-video"
+        ],
+        "url": "https://github.com/Remocn/remocn-studio"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "KKKKhazix/AIHOT",
+        "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+        "lang": "TypeScript",
+        "stars_total": 4751,
+        "created": "2026-09-28",
+        "topics": [
+          "ai",
+          "content-curation",
+          "llm",
+          "mcp",
+          "news-aggregator",
+          "rss",
+          "self-hosted",
+          "typescript"
+        ],
+        "url": "https://github.com/KKKKhazix/AIHOT"
+      },
+      {
+        "repo": "nanaism/yomiyasu",
+        "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "lang": "Python",
+        "stars_total": 1035,
+        "created": "2026-09-30",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gemini",
+          "japanese"
+        ],
+        "url": "https://github.com/nanaism/yomiyasu"
+      },
+      {
+        "repo": "Edwardxlai/easyread",
+        "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+        "lang": "JavaScript",
+        "stars_total": 532,
+        "created": "2026-09-30",
+        "topics": [
+          "academic",
+          "arxiv",
+          "chinese",
+          "claude-code",
+          "codex",
+          "electron",
+          "llm",
+          "paper-reading"
+        ],
+        "url": "https://github.com/Edwardxlai/easyread"
+      },
+      {
+        "repo": "scarletkc/seiso",
+        "desc": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+        "lang": "Rust",
+        "stars_total": 165,
+        "created": "2026-09-27",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "coding-agents",
+          "commonmark",
+          "conventions",
+          "developer-tools"
+        ],
+        "url": "https://github.com/scarletkc/seiso"
+      },
+      {
+        "repo": "aaddrick/building-with-typesafe-jev",
+        "desc": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+        "lang": "Python",
+        "stars_total": 127,
+        "created": "2026-09-26",
+        "topics": [
+          "agent-skill",
+          "agent-skills",
+          "ai-agents",
+          "calibration",
+          "classification",
+          "claude-code",
+          "claude-code-plugin",
+          "claude-code-skill"
+        ],
+        "url": "https://github.com/aaddrick/building-with-typesafe-jev"
+      },
+      {
+        "repo": "Finderchangchang/brewreel",
+        "desc": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+        "lang": "TypeScript",
+        "stars_total": 113,
+        "created": "2026-09-26",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "deepseek",
+          "deepseek-harness",
+          "dsh-plugin",
+          "llm",
+          "promo-video",
+          "remotion"
+        ],
+        "url": "https://github.com/Finderchangchang/brewreel"
+      },
+      {
+        "repo": "OmniJev/OneJev",
+        "desc": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
+        "lang": "Python",
+        "stars_total": 108,
+        "created": "2026-09-27",
+        "topics": [
+          "calibration",
+          "computer-use",
+          "decision-model",
+          "gui-agent",
+          "huggingface",
+          "jev",
+          "llm",
+          "multimodal"
+        ],
+        "url": "https://github.com/OmniJev/OneJev"
+      },
+      {
+        "repo": "ufo-ai/ufo-core",
+        "desc": "Agent operating system",
+        "lang": "Python",
+        "stars_total": 87,
+        "created": "2026-09-27",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-tools",
+          "anthropic",
+          "chatgpt",
+          "claude",
+          "claude-code"
+        ],
+        "url": "https://github.com/ufo-ai/ufo-core"
+      },
+      {
+        "repo": "ArtificialAnalysis/aa-agentperf-local",
+        "desc": "Benchmark local LLM serving by replaying real agent trajectories",
+        "lang": "Python",
+        "stars_total": 72,
+        "created": "2026-09-26",
+        "topics": [
+          "ai-agents",
+          "artificial-analysis",
+          "benchmark",
+          "inference",
+          "llm",
+          "local-llm"
+        ],
+        "url": "https://github.com/ArtificialAnalysis/aa-agentperf-local"
+      },
+      {
+        "repo": "Dreamer-Toby/STEPQuant",
+        "desc": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+        "lang": "Python",
+        "stars_total": 51,
+        "created": "2026-09-29",
+        "topics": [
+          "large-language-models",
+          "llm",
+          "post-training-quantization",
+          "quantization"
+        ],
+        "url": "https://github.com/Dreamer-Toby/STEPQuant"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Rhun, an open-source code editor written in assembly",
+        "points": 43,
+        "comments": 23,
+        "url": "https://rhun.app/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+        "points": 18,
+        "comments": 2,
+        "url": "https://innerloop.works/breadcrumb",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Show HN: Perspica – A semantic diff for reviewing code",
+        "points": 14,
+        "comments": 6,
+        "url": "https://github.com/sshah03/perspica",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+        "points": 99,
+        "comments": 32,
+        "url": "https://news.ycombinator.com/item?id=49911500",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Show HN: Corral – Kill every command your agent starts",
+        "points": 19,
+        "comments": 6,
+        "url": "https://github.com/Cardinal44/corral",
+        "date": "2026-09-29"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
