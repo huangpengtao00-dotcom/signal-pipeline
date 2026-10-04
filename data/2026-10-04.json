@@ -1,0 +1,407 @@
+{
+  "date": "2026-10-04",
+  "trending_daily": [
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1281",
+      "stars_total": "153713",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_period": "699",
+      "stars_total": "75499",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "897",
+      "stars_total": "272389",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "Effect-TS/effect",
+      "desc": "Build production-ready applications in TypeScript",
+      "lang": "TypeScript",
+      "stars_period": "302",
+      "stars_total": "16872",
+      "url": "https://github.com/Effect-TS/effect"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "lang": "Go",
+      "stars_period": "507",
+      "stars_total": "109607",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_period": "1696",
+      "stars_total": "90014",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "252",
+      "stars_total": "24783",
+      "url": "https://github.com/pingdotgg/t3code"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_period": "79",
+      "stars_total": "95694",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "repo": "cloudflare/cloudflare-os",
+      "desc": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "lang": "TypeScript",
+      "stars_period": "85",
+      "stars_total": "10628",
+      "url": "https://github.com/cloudflare/cloudflare-os"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "252",
+      "stars_total": "100907",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "577",
+      "stars_total": "294976",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "751",
+      "stars_total": "275480",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_period": "256",
+      "stars_total": "25291",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "earendil-works/pi",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "lang": "TypeScript",
+      "stars_period": "408",
+      "stars_total": "112232",
+      "url": "https://github.com/earendil-works/pi"
+    },
+    {
+      "repo": "getsentry/sentry",
+      "desc": "Developer-first error tracking and performance monitoring",
+      "lang": "Python",
+      "stars_period": "214",
+      "stars_total": "45228",
+      "url": "https://github.com/getsentry/sentry"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_period": "128",
+      "stars_total": "149278",
+      "url": "https://github.com/anthropics/claude-code"
+    },
+    {
+      "repo": "jamwithai/production-agentic-rag-course",
+      "desc": "",
+      "lang": "Python",
+      "stars_period": "193",
+      "stars_total": "9435",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course"
+    },
+    {
+      "repo": "meituan-longcat/LongCat-Video",
+      "desc": "",
+      "lang": "Python",
+      "stars_period": "44",
+      "stars_total": "8822",
+      "url": "https://github.com/meituan-longcat/LongCat-Video"
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_period": "232",
+      "stars_total": "91701",
+      "url": "https://github.com/OpenCut-app/OpenCut"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Jakeschincariol/replica-skill",
+        "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "lang": "Python",
+        "stars_total": 169,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "app-clone",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "indie-hacker",
+          "reverse-engineering"
+        ],
+        "url": "https://github.com/Jakeschincariol/replica-skill"
+      },
+      {
+        "repo": "AFK-surf/Comma",
+        "desc": "The sessionless, relentless personal agent. Open source alternative to Muse, Dots, Instinct and Town.",
+        "lang": "Elixir",
+        "stars_total": 163,
+        "created": "2026-09-30",
+        "topics": [
+          "agent",
+          "elixir-lang",
+          "golang",
+          "personal-ai"
+        ],
+        "url": "https://github.com/AFK-surf/Comma"
+      },
+      {
+        "repo": "Remocn/remocn-studio",
+        "desc": "Agent-native video editor",
+        "lang": "TypeScript",
+        "stars_total": 111,
+        "created": "2026-10-01",
+        "topics": [
+          "agent",
+          "remotion",
+          "remotion-video"
+        ],
+        "url": "https://github.com/Remocn/remocn-studio"
+      },
+      {
+        "repo": "callstackincubator/codex-mobile-dev-plugin",
+        "desc": "A Codex plugin for a better mobile development experience for android and iOS",
+        "lang": "C++",
+        "stars_total": 99,
+        "created": "2026-09-30",
+        "topics": [
+          "agent",
+          "android",
+          "codex",
+          "codex-plugin",
+          "dev-tools",
+          "ios",
+          "mobile-dev",
+          "native"
+        ],
+        "url": "https://github.com/callstackincubator/codex-mobile-dev-plugin"
+      },
+      {
+        "repo": "Zhou-Yujing114514/deepseek-harness-linux",
+        "desc": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+        "lang": "TypeScript",
+        "stars_total": 59,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "appimage",
+          "arm64",
+          "deb",
+          "deepseek",
+          "desktop",
+          "electron"
+        ],
+        "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "KKKKhazix/AIHOT",
+        "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+        "lang": "TypeScript",
+        "stars_total": 5516,
+        "created": "2026-09-28",
+        "topics": [
+          "ai",
+          "content-curation",
+          "llm",
+          "mcp",
+          "news-aggregator",
+          "rss",
+          "self-hosted",
+          "typescript"
+        ],
+        "url": "https://github.com/KKKKhazix/AIHOT"
+      },
+      {
+        "repo": "nanaism/yomiyasu",
+        "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+        "lang": "Python",
+        "stars_total": 1342,
+        "created": "2026-09-30",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "gemini",
+          "japanese"
+        ],
+        "url": "https://github.com/nanaism/yomiyasu"
+      },
+      {
+        "repo": "Edwardxlai/easyread",
+        "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+        "lang": "Python",
+        "stars_total": 683,
+        "created": "2026-09-30",
+        "topics": [
+          "academic",
+          "arxiv",
+          "chinese",
+          "claude-code",
+          "codex",
+          "electron",
+          "llm",
+          "paper-reading"
+        ],
+        "url": "https://github.com/Edwardxlai/easyread"
+      },
+      {
+        "repo": "QingYunA/answer-me-with-html",
+        "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "lang": "JavaScript",
+        "stars_total": 528,
+        "created": "2026-10-02",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "cli",
+          "diagram",
+          "explainer",
+          "html",
+          "llm"
+        ],
+        "url": "https://github.com/QingYunA/answer-me-with-html"
+      },
+      {
+        "repo": "whirlchat/whirl",
+        "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+        "lang": "TypeScript",
+        "stars_total": 337,
+        "created": "2026-10-02",
+        "topics": [
+          "ai",
+          "ai-chat",
+          "chat",
+          "convex",
+          "llm",
+          "nextjs",
+          "openrouter",
+          "react"
+        ],
+        "url": "https://github.com/whirlchat/whirl"
+      },
+      {
+        "repo": "Dreamer-Toby/STEPQuant",
+        "desc": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+        "lang": "Python",
+        "stars_total": 59,
+        "created": "2026-09-29",
+        "topics": [
+          "large-language-models",
+          "llm",
+          "post-training-quantization",
+          "quantization"
+        ],
+        "url": "https://github.com/Dreamer-Toby/STEPQuant"
+      },
+      {
+        "repo": "facebookresearch/swe-sweep",
+        "desc": "How many bugs can LMs find & fix in large codebases?",
+        "lang": "Python",
+        "stars_total": 51,
+        "created": "2026-10-01",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "benchmark",
+          "benchmarking",
+          "harbor",
+          "harbor-framework",
+          "llm",
+          "llm-benchmark"
+        ],
+        "url": "https://github.com/facebookresearch/swe-sweep"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "points": 199,
+        "comments": 138,
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "points": 74,
+        "comments": 61,
+        "url": "https://offrun.dev/",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+        "points": 87,
+        "comments": 31,
+        "url": "https://pipod.dev/",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "Show HN: Rhun, an open-source code editor written in assembly",
+        "points": 62,
+        "comments": 49,
+        "url": "https://rhun.app/",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+        "points": 47,
+        "comments": 8,
+        "url": "https://innerloop.works/breadcrumb",
+        "date": "2026-10-01"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
