@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-08",
+  "trending_daily": [
+    {
+      "repo": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_period": "4655",
+      "stars_total": "17039",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1403",
+      "stars_total": "279999",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_period": "2716",
+      "stars_total": "11443",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_period": "619",
+      "stars_total": "55343",
+      "url": "https://github.com/ayghri/i-have-adhd"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "825",
+      "stars_total": "45246",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "677",
+      "stars_total": "102978",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "EpicGames/raddebugger",
+      "desc": "A native, user-mode, multi-process, graphical debugger.",
+      "lang": "C",
+      "stars_period": "90",
+      "stars_total": "7928",
+      "url": "https://github.com/EpicGames/raddebugger"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_period": "578",
+      "stars_total": "97894",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "repo": "manaflow-ai/cmux",
+      "desc": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "lang": "Swift",
+      "stars_period": "44",
+      "stars_total": "27932",
+      "url": "https://github.com/manaflow-ai/cmux"
+    },
+    {
+      "repo": "trycua/cua",
+      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "lang": "Rust",
+      "stars_period": "228",
+      "stars_total": "28863",
+      "url": "https://github.com/trycua/cua"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "576",
+      "stars_total": "26215",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "tester-army/e2e",
+      "desc": "Next generation e2e testing framework for web and mobile apps.",
+      "lang": "TypeScript",
+      "stars_period": "1390",
+      "stars_total": "7732",
+      "url": "https://github.com/tester-army/e2e"
+    },
+    {
+      "repo": "DuarteSantos8/openGym",
+      "desc": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "lang": "JavaScript",
+      "stars_period": "1493",
+      "stars_total": "7290",
+      "url": "https://github.com/DuarteSantos8/openGym"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Jakeschincariol/replica-skill",
+        "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "lang": "Python",
+        "stars_total": 912,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "app-clone",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "indie-hacker",
+          "reverse-engineering"
+        ],
+        "url": "https://github.com/Jakeschincariol/replica-skill"
+      },
+      {
+        "repo": "Zhou-Yujing114514/deepseek-harness-linux",
+        "desc": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+        "lang": "TypeScript",
+        "stars_total": 118,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "appimage",
+          "arm64",
+          "chatbot",
+          "deb",
+          "deepseek"
+        ],
+        "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux"
+      },
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS Tradingview with your own AI, free and unlimited.",
+        "lang": "TypeScript",
+        "stars_total": 115,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "QingYunA/answer-me-with-html",
+        "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+        "lang": "JavaScript",
+        "stars_total": 2166,
+        "created": "2026-10-02",
+        "topics": [
+          "agent-skill",
+          "ai-agent",
+          "claude-code",
+          "claude-code-skill",
+          "claude-skill",
+          "claude-skills",
+          "cli",
+          "diagram"
+        ],
+        "url": "https://github.com/QingYunA/answer-me-with-html"
+      },
+      {
+        "repo": "whirlchat/whirl",
+        "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+        "lang": "TypeScript",
+        "stars_total": 497,
+        "created": "2026-10-02",
+        "topics": [
+          "ai",
+          "ai-chat",
+          "chat",
+          "convex",
+          "llm",
+          "nextjs",
+          "openrouter",
+          "react"
+        ],
+        "url": "https://github.com/whirlchat/whirl"
+      },
+      {
+        "repo": "jiwoochris/artex-ko",
+        "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "lang": "Go",
+        "stars_total": 334,
+        "created": "2026-10-03",
+        "topics": [
+          "ai-agent",
+          "autonomous-agents",
+          "blue-team",
+          "cybersecurity",
+          "detection-engineering",
+          "i18n",
+          "korean",
+          "llm"
+        ],
+        "url": "https://github.com/jiwoochris/artex-ko"
+      },
+      {
+        "repo": "strands-agents/box",
+        "desc": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support pla",
+        "lang": "Rust",
+        "stars_total": 129,
+        "created": "2026-10-02",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-agents",
+          "ai-safety",
+          "containment",
+          "egress",
+          "harness"
+        ],
+        "url": "https://github.com/strands-agents/box"
+      },
+      {
+        "repo": "Zhou-Yujing114514/deepseek-harness-linux",
+        "desc": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+        "lang": "TypeScript",
+        "stars_total": 118,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "appimage",
+          "arm64",
+          "chatbot",
+          "deb",
+          "deepseek"
+        ],
+        "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux"
+      },
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS Tradingview with your own AI, free and unlimited.",
+        "lang": "TypeScript",
+        "stars_total": 115,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      },
+      {
+        "repo": "chenxiachan/paperfold",
+        "desc": "Zoom any paper for your better understanding",
+        "lang": "Python",
+        "stars_total": 86,
+        "created": "2026-10-04",
+        "topics": [
+          "arxiv",
+          "llm",
+          "local-first",
+          "open-source",
+          "paper-reader",
+          "research-papers",
+          "semantic-zoom",
+          "translation"
+        ],
+        "url": "https://github.com/chenxiachan/paperfold"
+      },
+      {
+        "repo": "Yamz-Labs/kyojin",
+        "desc": "Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.",
+        "lang": "Python",
+        "stars_total": 69,
+        "created": "2026-10-02",
+        "topics": [
+          "amd",
+          "exl3",
+          "inference",
+          "llm",
+          "quantization",
+          "rocm",
+          "strix-halo"
+        ],
+        "url": "https://github.com/Yamz-Labs/kyojin"
+      },
+      {
+        "repo": "Btluo1/ccb",
+        "desc": "CCB · AI 编程助手一键配置 —— 把 Trae / Qoder / CodeBuddy / WorkBuddy / Cursor / ZCode 等客户端一键接入 CCB：全部模型自动写入、自动设为默认、自动启动（仅桌面客户端开源）",
+        "lang": "JavaScript",
+        "stars_total": 61,
+        "created": "2026-10-02",
+        "topics": [
+          "ai-coding",
+          "codebuddy",
+          "coding-assistant",
+          "cursor",
+          "developer-tools",
+          "electron",
+          "llm",
+          "openai-compatible"
+        ],
+        "url": "https://github.com/Btluo1/ccb"
+      },
+      {
+        "repo": "efim0v/brow",
+        "desc": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
+        "lang": "Swift",
+        "stars_total": 52,
+        "created": "2026-10-04",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-code-usage",
+          "coding-agents"
+        ],
+        "url": "https://github.com/efim0v/brow"
+      },
+      {
+        "repo": "omarqaterge/hermes-mobile-app",
+        "desc": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
+        "lang": "TypeScript",
+        "stars_total": 52,
+        "created": "2026-10-04",
+        "topics": [
+          "ai-agent",
+          "android",
+          "hermes-agent",
+          "llm",
+          "termux"
+        ],
+        "url": "https://github.com/omarqaterge/hermes-mobile-app"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
+        "points": 16,
+        "comments": 0,
+        "url": "https://github.com/lowenbjer/claude-terse",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "points": 54,
+        "comments": 44,
+        "url": "https://agent.reviews/",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "points": 264,
+        "comments": 152,
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+        "points": 61,
+        "comments": 89,
+        "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+        "date": "2026-10-05"
+      },
+      {
+        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "points": 247,
+        "comments": 161,
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+        "date": "2026-10-03"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
