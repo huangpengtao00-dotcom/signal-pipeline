@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-09",
+  "trending_daily": [
+    {
+      "repo": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_period": "4669",
+      "stars_total": "16837",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "1160",
+      "stars_total": "46782",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_period": "7738",
+      "stars_total": "30356",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1774",
+      "stars_total": "281450",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_period": "670",
+      "stars_total": "98672",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "repo": "EpicGames/raddebugger",
+      "desc": "A native, user-mode, multi-process, graphical debugger.",
+      "lang": "C",
+      "stars_period": "279",
+      "stars_total": "8170",
+      "url": "https://github.com/EpicGames/raddebugger"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "392",
+      "stars_total": "27810",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_period": "2103",
+      "stars_total": "8754",
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "repo": "liquidslr/system-design-notes",
+      "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "lang": "",
+      "stars_period": "393",
+      "stars_total": "24885",
+      "url": "https://github.com/liquidslr/system-design-notes"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Jakeschincariol/replica-skill",
+        "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+        "lang": "Python",
+        "stars_total": 1142,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "app-clone",
+          "claude",
+          "claude-code",
+          "claude-skills",
+          "indie-hacker",
+          "reverse-engineering"
+        ],
+        "url": "https://github.com/Jakeschincariol/replica-skill"
+      },
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS trading workspace with agents",
+        "lang": "TypeScript",
+        "stars_total": 136,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      },
+      {
+        "repo": "Zhou-Yujing114514/deepseek-harness-linux",
+        "desc": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+        "lang": "TypeScript",
+        "stars_total": 119,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "appimage",
+          "arm64",
+          "chatbot",
+          "deb",
+          "deepseek"
+        ],
+        "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux"
+      },
+      {
+        "repo": "MirroS-Lab/AgentGarten",
+        "desc": "AgentGarten: Code Worlds for Evolving Agents",
+        "lang": "Python",
+        "stars_total": 72,
+        "created": "2026-10-08",
+        "topics": [
+          "agent",
+          "diffusion",
+          "multimodal",
+          "self-evolving"
+        ],
+        "url": "https://github.com/MirroS-Lab/AgentGarten"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "jiwoochris/artex-ko",
+        "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+        "lang": "Go",
+        "stars_total": 756,
+        "created": "2026-10-03",
+        "topics": [
+          "ai-agent",
+          "autonomous-agents",
+          "blue-team",
+          "cybersecurity",
+          "detection-engineering",
+          "i18n",
+          "korean",
+          "llm"
+        ],
+        "url": "https://github.com/jiwoochris/artex-ko"
+      },
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS trading workspace with agents",
+        "lang": "TypeScript",
+        "stars_total": 136,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      },
+      {
+        "repo": "Zhou-Yujing114514/deepseek-harness-linux",
+        "desc": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+        "lang": "TypeScript",
+        "stars_total": 119,
+        "created": "2026-10-03",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "appimage",
+          "arm64",
+          "chatbot",
+          "deb",
+          "deepseek"
+        ],
+        "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux"
+      },
+      {
+        "repo": "THUROI0787/absent-author",
+        "desc": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
+        "lang": "Python",
+        "stars_total": 106,
+        "created": "2026-10-05",
+        "topics": [
+          "agent-skills",
+          "ai-generated-content-detection",
+          "claude-code",
+          "codex",
+          "llm",
+          "peer-review",
+          "research-integrity"
+        ],
+        "url": "https://github.com/THUROI0787/absent-author"
+      },
+      {
+        "repo": "chenxiachan/paperfold",
+        "desc": "Zoom any paper for your better understanding",
+        "lang": "Python",
+        "stars_total": 98,
+        "created": "2026-10-04",
+        "topics": [
+          "arxiv",
+          "llm",
+          "local-first",
+          "open-source",
+          "paper-reader",
+          "research-papers",
+          "semantic-zoom",
+          "translation"
+        ],
+        "url": "https://github.com/chenxiachan/paperfold"
+      },
+      {
+        "repo": "omarqaterge/hermes-mobile-app",
+        "desc": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
+        "lang": "TypeScript",
+        "stars_total": 55,
+        "created": "2026-10-04",
+        "topics": [
+          "ai-agent",
+          "android",
+          "hermes-agent",
+          "llm",
+          "termux"
+        ],
+        "url": "https://github.com/omarqaterge/hermes-mobile-app"
+      },
+      {
+        "repo": "Sev7eEn7/dsh-sieve",
+        "desc": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+        "lang": "TypeScript",
+        "stars_total": 54,
+        "created": "2026-10-04",
+        "topics": [
+          "agent-tools",
+          "ai-agent",
+          "ai-coding",
+          "coding-agent",
+          "context-engineering",
+          "context-management",
+          "context-pruning",
+          "context-window"
+        ],
+        "url": "https://github.com/Sev7eEn7/dsh-sieve"
+      },
+      {
+        "repo": "efim0v/brow",
+        "desc": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
+        "lang": "Swift",
+        "stars_total": 51,
+        "created": "2026-10-04",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-code-usage",
+          "coding-agents"
+        ],
+        "url": "https://github.com/efim0v/brow"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "points": 133,
+        "comments": 58,
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
+        "points": 24,
+        "comments": 16,
+        "url": "https://github.com/lowenbjer/claude-terse",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "points": 68,
+        "comments": 48,
+        "url": "https://agent.reviews/",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "points": 266,
+        "comments": 153,
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+        "points": 61,
+        "comments": 90,
+        "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+        "date": "2026-10-05"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
