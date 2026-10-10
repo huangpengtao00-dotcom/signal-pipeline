@@ -1,0 +1,312 @@
+{
+  "date": "2026-10-10",
+  "trending_daily": [
+    {
+      "repo": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_period": "14927",
+      "stars_total": "52663",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_period": "5868",
+      "stars_total": "23167",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1687",
+      "stars_total": "283094",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "1739",
+      "stars_total": "48149",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "326",
+      "stars_total": "45452",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "709",
+      "stars_total": "28395",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "lang": "Python",
+      "stars_period": "95",
+      "stars_total": "60771",
+      "url": "https://github.com/BerriAI/litellm"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "436",
+      "stars_total": "104148",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_period": "3752",
+      "stars_total": "12088",
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "desc": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "lang": "Python",
+      "stars_period": "110",
+      "stars_total": "17798",
+      "url": "https://github.com/Robbyant/lingbot-map"
+    },
+    {
+      "repo": "twostraws/SwiftUI-Agent-Skill",
+      "desc": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "lang": "",
+      "stars_period": "65",
+      "stars_total": "5558",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS trading workspace with agents",
+        "lang": "TypeScript",
+        "stars_total": 146,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      },
+      {
+        "repo": "MirroS-Lab/AgentGarten",
+        "desc": "AgentGarten: Code Worlds for Evolving Agents",
+        "lang": "Python",
+        "stars_total": 120,
+        "created": "2026-10-08",
+        "topics": [
+          "agent",
+          "diffusion",
+          "multimodal",
+          "self-evolving"
+        ],
+        "url": "https://github.com/MirroS-Lab/AgentGarten"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "LosaLosSantos/aurelio-finance",
+        "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "lang": "Python",
+        "stars_total": 1556,
+        "created": "2026-10-06",
+        "topics": [
+          "ai",
+          "dividends",
+          "etf",
+          "finance",
+          "financial-planning",
+          "fintech",
+          "investing",
+          "llm"
+        ],
+        "url": "https://github.com/LosaLosSantos/aurelio-finance"
+      },
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS trading workspace with agents",
+        "lang": "TypeScript",
+        "stars_total": 146,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      },
+      {
+        "repo": "THUROI0787/absent-author",
+        "desc": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
+        "lang": "Python",
+        "stars_total": 113,
+        "created": "2026-10-05",
+        "topics": [
+          "agent-skills",
+          "ai-generated-content-detection",
+          "claude-code",
+          "codex",
+          "llm",
+          "peer-review",
+          "research-integrity"
+        ],
+        "url": "https://github.com/THUROI0787/absent-author"
+      },
+      {
+        "repo": "chenxiachan/paperfold",
+        "desc": "Zoom any paper for your better understanding",
+        "lang": "Python",
+        "stars_total": 113,
+        "created": "2026-10-04",
+        "topics": [
+          "arxiv",
+          "llm",
+          "local-first",
+          "open-source",
+          "paper-reader",
+          "research-papers",
+          "semantic-zoom",
+          "translation"
+        ],
+        "url": "https://github.com/chenxiachan/paperfold"
+      },
+      {
+        "repo": "Sev7eEn7/dsh-sieve",
+        "desc": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+        "lang": "TypeScript",
+        "stars_total": 64,
+        "created": "2026-10-04",
+        "topics": [
+          "agent-tools",
+          "ai-agent",
+          "ai-coding",
+          "coding-agent",
+          "context-engineering",
+          "context-management",
+          "context-pruning",
+          "context-window"
+        ],
+        "url": "https://github.com/Sev7eEn7/dsh-sieve"
+      },
+      {
+        "repo": "Microqian2th/dsh-codex-effort-slider",
+        "desc": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+        "lang": "JavaScript",
+        "stars_total": 62,
+        "created": "2026-10-04",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "codex",
+          "deepseek",
+          "deepseek-ai",
+          "deepseek-harness",
+          "deepseek-plugin",
+          "deepseek-v4"
+        ],
+        "url": "https://github.com/Microqian2th/dsh-codex-effort-slider"
+      },
+      {
+        "repo": "omarqaterge/hermes-mobile-app",
+        "desc": "Your agent, on your phone. A native Android app for Hermes Agent, running entirely on-device (Termux).",
+        "lang": "TypeScript",
+        "stars_total": 58,
+        "created": "2026-10-04",
+        "topics": [
+          "ai-agent",
+          "android",
+          "hermes-agent",
+          "llm",
+          "termux"
+        ],
+        "url": "https://github.com/omarqaterge/hermes-mobile-app"
+      },
+      {
+        "repo": "efim0v/brow",
+        "desc": "Claude Code usage and rate limits in the MacBook notch. Track the 5-hour and weekly limits of multiple Claude accounts at once, see when each resets, and sign in to each account in its own browser profile. macOS app for AI coding.",
+        "lang": "Swift",
+        "stars_total": 51,
+        "created": "2026-10-04",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-coding",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-code-usage",
+          "coding-agents"
+        ],
+        "url": "https://github.com/efim0v/brow"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "points": 270,
+        "comments": 126,
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
+        "points": 24,
+        "comments": 16,
+        "url": "https://github.com/lowenbjer/claude-terse",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "points": 71,
+        "comments": 49,
+        "url": "https://agent.reviews/",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "points": 269,
+        "comments": 153,
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "date": "2026-10-06"
+      },
+      {
+        "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+        "points": 61,
+        "comments": 90,
+        "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+        "date": "2026-10-05"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
