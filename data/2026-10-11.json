@@ -1,0 +1,313 @@
+{
+  "date": "2026-10-11",
+  "trending_daily": [
+    {
+      "repo": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_period": "25793",
+      "stars_total": "78085",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_period": "5805",
+      "stars_total": "27417",
+      "url": "https://github.com/boykopovar/AnyPS5"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_period": "3222",
+      "stars_total": "15008",
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "1190",
+      "stars_total": "49187",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_period": "178",
+      "stars_total": "26420",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1736",
+      "stars_total": "284809",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "flutter/flutter",
+      "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "lang": "Dart",
+      "stars_period": "88",
+      "stars_total": "179618",
+      "url": "https://github.com/flutter/flutter"
+    },
+    {
+      "repo": "tensorflow/tensorflow",
+      "desc": "An Open Source Machine Learning Framework for Everyone",
+      "lang": "C++",
+      "stars_period": "26",
+      "stars_total": "200775",
+      "url": "https://github.com/tensorflow/tensorflow"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "lang": "Python",
+      "stars_period": "461",
+      "stars_total": "59694",
+      "url": "https://github.com/hugohe3/ppt-master"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "lang": "Python",
+      "stars_period": "84",
+      "stars_total": "104190",
+      "url": "https://github.com/pytorch/pytorch"
+    },
+    {
+      "repo": "huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "lang": "Python",
+      "stars_period": "96",
+      "stars_total": "167364",
+      "url": "https://github.com/huggingface/transformers"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "625",
+      "stars_total": "28903",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "",
+      "stars_period": "278",
+      "stars_total": "218431",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS trading workspace with agents",
+        "lang": "TypeScript",
+        "stars_total": 155,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      },
+      {
+        "repo": "MirroS-Lab/AgentGarten",
+        "desc": "AgentGarten: Code Worlds for Evolving Agents",
+        "lang": "Python",
+        "stars_total": 148,
+        "created": "2026-10-08",
+        "topics": [
+          "agent",
+          "diffusion",
+          "multimodal",
+          "self-evolving"
+        ],
+        "url": "https://github.com/MirroS-Lab/AgentGarten"
+      },
+      {
+        "repo": "Ayzzz123/mcd-coupon-strategist",
+        "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+        "lang": "Python",
+        "stars_total": 93,
+        "created": "2026-10-10",
+        "topics": [
+          "agent",
+          "cost-optimization",
+          "coupon",
+          "llm",
+          "mcd-mcp",
+          "mcdonalds",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/Ayzzz123/mcd-coupon-strategist"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "LosaLosSantos/aurelio-finance",
+        "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+        "lang": "Python",
+        "stars_total": 2095,
+        "created": "2026-10-06",
+        "topics": [
+          "ai",
+          "dividends",
+          "etf",
+          "finance",
+          "financial-planning",
+          "fintech",
+          "investing",
+          "llm"
+        ],
+        "url": "https://github.com/LosaLosSantos/aurelio-finance"
+      },
+      {
+        "repo": "longsurf-ai/openchart",
+        "desc": "OSS trading workspace with agents",
+        "lang": "TypeScript",
+        "stars_total": 155,
+        "created": "2026-10-05",
+        "topics": [
+          "agent",
+          "agentic-trader",
+          "ai",
+          "charting",
+          "charts",
+          "charts-js",
+          "harness",
+          "llm"
+        ],
+        "url": "https://github.com/longsurf-ai/openchart"
+      },
+      {
+        "repo": "THUROI0787/absent-author",
+        "desc": "Research and writing can be automated. Authorship cannot. Evidence list + agent skills for spotting AI-produced papers no human stood behind.",
+        "lang": "Python",
+        "stars_total": 126,
+        "created": "2026-10-05",
+        "topics": [
+          "agent-skills",
+          "ai-generated-content-detection",
+          "claude-code",
+          "codex",
+          "llm",
+          "peer-review",
+          "research-integrity"
+        ],
+        "url": "https://github.com/THUROI0787/absent-author"
+      },
+      {
+        "repo": "Ayzzz123/mcd-coupon-strategist",
+        "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+        "lang": "Python",
+        "stars_total": 93,
+        "created": "2026-10-10",
+        "topics": [
+          "agent",
+          "cost-optimization",
+          "coupon",
+          "llm",
+          "mcd-mcp",
+          "mcdonalds",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/Ayzzz123/mcd-coupon-strategist"
+      },
+      {
+        "repo": "VecSzn/PolyStrata",
+        "desc": "Run large AI models on your own PC: Qwen3.8-Flash-Next, GLM 5.3 Flash, Qwen3.6, Ornith 1.5 and Gemma 4. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost, image input. Built on Strata.",
+        "lang": "C++",
+        "stars_total": 55,
+        "created": "2026-10-06",
+        "topics": [
+          "anthropic-api",
+          "cuda",
+          "gemma",
+          "gguf",
+          "glm",
+          "inference-engine",
+          "llm",
+          "local-llm"
+        ],
+        "url": "https://github.com/VecSzn/PolyStrata"
+      },
+      {
+        "repo": "fidipro/gluon",
+        "desc": "Control platform for coding agents",
+        "lang": "TypeScript",
+        "stars_total": 52,
+        "created": "2026-10-07",
+        "topics": [
+          "ai",
+          "bun",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/fidipro/gluon"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+        "points": 15,
+        "comments": 0,
+        "url": "https://littleguys.hervalicio.us",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "points": 293,
+        "comments": 129,
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "date": "2026-10-08"
+      },
+      {
+        "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
+        "points": 24,
+        "comments": 18,
+        "url": "https://github.com/lowenbjer/claude-terse",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "points": 72,
+        "comments": 49,
+        "url": "https://agent.reviews/",
+        "date": "2026-10-07"
+      },
+      {
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "points": 269,
+        "comments": 153,
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "date": "2026-10-06"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
