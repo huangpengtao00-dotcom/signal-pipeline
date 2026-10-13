@@ -1,0 +1,365 @@
+{
+  "date": "2026-10-13",
+  "trending_daily": [
+    {
+      "repo": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_period": "45327",
+      "stars_total": "173373",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "repo": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_period": "1895",
+      "stars_total": "54151",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_period": "246",
+      "stars_total": "27543",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_period": "4095",
+      "stars_total": "23061",
+      "url": "https://github.com/storytold/artcraft"
+    },
+    {
+      "repo": "open-webui/open-webui",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "lang": "Python",
+      "stars_period": "157",
+      "stars_total": "155310",
+      "url": "https://github.com/open-webui/open-webui"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "2081",
+      "stars_total": "53047",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_period": "879",
+      "stars_total": "37757",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "repo": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "lang": "C++",
+      "stars_period": "97",
+      "stars_total": "41020",
+      "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_period": "626",
+      "stars_total": "59502",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Ayzzz123/mcd-coupon-strategist",
+        "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+        "lang": "Python",
+        "stars_total": 252,
+        "created": "2026-10-10",
+        "topics": [
+          "agent",
+          "cost-optimization",
+          "coupon",
+          "llm",
+          "mcd-mcp",
+          "mcdonalds",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/Ayzzz123/mcd-coupon-strategist"
+      },
+      {
+        "repo": "MirroS-Lab/AgentGarten",
+        "desc": "AgentGarten: Code Worlds for Evolving Agents",
+        "lang": "Python",
+        "stars_total": 176,
+        "created": "2026-10-08",
+        "topics": [
+          "agent",
+          "diffusion",
+          "multimodal",
+          "self-evolving"
+        ],
+        "url": "https://github.com/MirroS-Lab/AgentGarten"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "onehumanbeing/esp32-iphone-agent",
+        "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "lang": "Python",
+        "stars_total": 957,
+        "created": "2026-10-11",
+        "topics": [
+          "ai-agent",
+          "airplay",
+          "automation",
+          "computer-use",
+          "esp32",
+          "esp32-s3",
+          "iphone",
+          "llm"
+        ],
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+      },
+      {
+        "repo": "NousResearch/hermes-official-plugins",
+        "desc": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+        "lang": "Python",
+        "stars_total": 256,
+        "created": "2026-10-10",
+        "topics": [
+          "agent-plugins",
+          "ai-agents",
+          "claude",
+          "hermes",
+          "hermes-agent",
+          "home-assistant",
+          "llm",
+          "model-provider"
+        ],
+        "url": "https://github.com/NousResearch/hermes-official-plugins"
+      },
+      {
+        "repo": "Ayzzz123/mcd-coupon-strategist",
+        "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+        "lang": "Python",
+        "stars_total": 252,
+        "created": "2026-10-10",
+        "topics": [
+          "agent",
+          "cost-optimization",
+          "coupon",
+          "llm",
+          "mcd-mcp",
+          "mcdonalds",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/Ayzzz123/mcd-coupon-strategist"
+      },
+      {
+        "repo": "deeplethe/solid-glass",
+        "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+        "lang": "TypeScript",
+        "stars_total": 232,
+        "created": "2026-10-12",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "chat-ui",
+          "design-system",
+          "llm",
+          "react",
+          "shadcn"
+        ],
+        "url": "https://github.com/deeplethe/solid-glass"
+      },
+      {
+        "repo": "lawrencewzen/wx-bot",
+        "desc": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
+        "lang": "TypeScript",
+        "stars_total": 130,
+        "created": "2026-10-09",
+        "topics": [
+          "ai-agent",
+          "bun",
+          "claude-code",
+          "llm",
+          "typescript",
+          "wechat",
+          "wechat-bot"
+        ],
+        "url": "https://github.com/lawrencewzen/wx-bot"
+      },
+      {
+        "repo": "HRuiCcc/RuiC-oc-ferry",
+        "desc": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+        "lang": "JavaScript",
+        "stars_total": 104,
+        "created": "2026-10-10",
+        "topics": [
+          "electron",
+          "free-models",
+          "llm",
+          "macos",
+          "openai-compatible",
+          "opencode",
+          "tray-app",
+          "windows"
+        ],
+        "url": "https://github.com/HRuiCcc/RuiC-oc-ferry"
+      },
+      {
+        "repo": "init-co-jp/diff-tour",
+        "desc": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+        "lang": "Go",
+        "stars_total": 98,
+        "created": "2026-10-10",
+        "topics": [
+          "cli",
+          "code-review",
+          "git",
+          "go",
+          "learning",
+          "llm",
+          "onboarding",
+          "tui"
+        ],
+        "url": "https://github.com/init-co-jp/diff-tour"
+      },
+      {
+        "repo": "SouravBeraAkaSpeed/xiryn",
+        "desc": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+        "lang": "TypeScript",
+        "stars_total": 94,
+        "created": "2026-10-11",
+        "topics": [
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "byok",
+          "computer-use",
+          "docker",
+          "firecrawl",
+          "llm"
+        ],
+        "url": "https://github.com/SouravBeraAkaSpeed/xiryn"
+      },
+      {
+        "repo": "sepehr071/awesome-iran-mcp",
+        "desc": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
+        "lang": "Python",
+        "stars_total": 70,
+        "created": "2026-10-11",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "awesome",
+          "claude",
+          "claude-code-plugin",
+          "digikala",
+          "iran",
+          "llm"
+        ],
+        "url": "https://github.com/sepehr071/awesome-iran-mcp"
+      },
+      {
+        "repo": "robertkarl/UnbiasedStrata",
+        "desc": "Strata minus the bullshit. clone, rsync to prod, compile and go",
+        "lang": "C++",
+        "stars_total": 70,
+        "created": "2026-10-07",
+        "topics": [
+          "llm",
+          "qwen3-8-flash-next",
+          "strata"
+        ],
+        "url": "https://github.com/robertkarl/UnbiasedStrata"
+      },
+      {
+        "repo": "fidipro/gluon",
+        "desc": "Control platform for coding agents",
+        "lang": "TypeScript",
+        "stars_total": 53,
+        "created": "2026-10-07",
+        "topics": [
+          "ai",
+          "bun",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/fidipro/gluon"
+      },
+      {
+        "repo": "FeedHive/ai-slop-detector",
+        "desc": "120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.",
+        "lang": "JavaScript",
+        "stars_total": 52,
+        "created": "2026-10-12",
+        "topics": [
+          "agent-skills",
+          "ai-slop",
+          "ai-writing",
+          "claude-code",
+          "copywriting",
+          "llm",
+          "writing"
+        ],
+        "url": "https://github.com/FeedHive/ai-slop-detector"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
+        "points": 16,
+        "comments": 3,
+        "url": "https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files/",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "points": 127,
+        "comments": 87,
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
+        "points": 29,
+        "comments": 1,
+        "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+        "points": 15,
+        "comments": 0,
+        "url": "https://littleguys.hervalicio.us",
+        "date": "2026-10-11"
+      },
+      {
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "points": 301,
+        "comments": 132,
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "date": "2026-10-08"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
