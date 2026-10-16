@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-16",
+  "trending_daily": [
+    {
+      "repo": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_period": "32314",
+      "stars_total": "275025",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_period": "307",
+      "stars_total": "39302",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_period": "1091",
+      "stars_total": "50679",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "lang": "Go",
+      "stars_period": "433",
+      "stars_total": "112700",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_period": "3024",
+      "stars_total": "69426",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "582",
+      "stars_total": "300067",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_period": "147",
+      "stars_total": "75234",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_period": "904",
+      "stars_total": "29876",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_period": "1369",
+      "stars_total": "88952",
+      "url": "https://github.com/NationalSecurityAgency/ghidra"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_period": "1013",
+      "stars_total": "280560",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "repo": "lightseekorg/tokenspeed",
+      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "lang": "Python",
+      "stars_period": "30",
+      "stars_total": "2543",
+      "url": "https://github.com/lightseekorg/tokenspeed"
+    },
+    {
+      "repo": "xerj-org/xerj",
+      "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "lang": "Rust",
+      "stars_period": "715",
+      "stars_total": "5857",
+      "url": "https://github.com/xerj-org/xerj"
+    },
+    {
+      "repo": "LibreSpark/LibreTV",
+      "desc": "一分钟搭建影视站，支持Docker等部署方式",
+      "lang": "TypeScript",
+      "stars_period": "978",
+      "stars_total": "18176",
+      "url": "https://github.com/LibreSpark/LibreTV"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "Ayzzz123/mcd-coupon-strategist",
+        "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+        "lang": "Python",
+        "stars_total": 357,
+        "created": "2026-10-10",
+        "topics": [
+          "agent",
+          "cost-optimization",
+          "coupon",
+          "llm",
+          "mcd-mcp",
+          "mcdonalds",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/Ayzzz123/mcd-coupon-strategist"
+      },
+      {
+        "repo": "LSPosed/dexsql-release",
+        "desc": "SQL for Android apk and dex files",
+        "lang": "Python",
+        "stars_total": 148,
+        "created": "2026-10-14",
+        "topics": [
+          "agent",
+          "android",
+          "decompiler",
+          "dex",
+          "mcp-server",
+          "reverse-engineering"
+        ],
+        "url": "https://github.com/LSPosed/dexsql-release"
+      },
+      {
+        "repo": "Kai-Jungsthoefel/SOMA",
+        "desc": "Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice",
+        "lang": "TypeScript",
+        "stars_total": 97,
+        "created": "2026-10-10",
+        "topics": [
+          "3d-printing",
+          "agent",
+          "agentic-ai",
+          "cad",
+          "cadquery",
+          "claude-code",
+          "codex",
+          "fem"
+        ],
+        "url": "https://github.com/Kai-Jungsthoefel/SOMA"
+      },
+      {
+        "repo": "YuyaoGe/doc2harness",
+        "desc": "Official Code for the paper \"Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents \"",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-10-11",
+        "topics": [
+          "agent",
+          "benchmark",
+          "harness",
+          "llm",
+          "llm-agents"
+        ],
+        "url": "https://github.com/YuyaoGe/doc2harness"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "onehumanbeing/esp32-iphone-agent",
+        "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "lang": "C",
+        "stars_total": 2584,
+        "created": "2026-10-11",
+        "topics": [
+          "ai-agent",
+          "airplay",
+          "automation",
+          "computer-use",
+          "esp32",
+          "esp32-s3",
+          "iphone",
+          "llm"
+        ],
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+      },
+      {
+        "repo": "deeplethe/solid-glass",
+        "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+        "lang": "TypeScript",
+        "stars_total": 1087,
+        "created": "2026-10-12",
+        "topics": [
+          "agent-ui",
+          "ai",
+          "ai-agents",
+          "chat-ui",
+          "design-system",
+          "llm",
+          "react",
+          "shadcn"
+        ],
+        "url": "https://github.com/deeplethe/solid-glass"
+      },
+      {
+        "repo": "outcrawlai/scout",
+        "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "lang": "TypeScript",
+        "stars_total": 840,
+        "created": "2026-10-13",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "browser-automation",
+          "cdp",
+          "llm",
+          "typescript",
+          "web-automation"
+        ],
+        "url": "https://github.com/outcrawlai/scout"
+      },
+      {
+        "repo": "Ayzzz123/mcd-coupon-strategist",
+        "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+        "lang": "Python",
+        "stars_total": 357,
+        "created": "2026-10-10",
+        "topics": [
+          "agent",
+          "cost-optimization",
+          "coupon",
+          "llm",
+          "mcd-mcp",
+          "mcdonalds",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/Ayzzz123/mcd-coupon-strategist"
+      },
+      {
+        "repo": "NousResearch/hermes-official-plugins",
+        "desc": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+        "lang": "Python",
+        "stars_total": 295,
+        "created": "2026-10-10",
+        "topics": [
+          "agent-plugins",
+          "ai-agents",
+          "claude",
+          "hermes",
+          "hermes-agent",
+          "home-assistant",
+          "llm",
+          "model-provider"
+        ],
+        "url": "https://github.com/NousResearch/hermes-official-plugins"
+      },
+      {
+        "repo": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "desc": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+        "lang": "Python",
+        "stars_total": 231,
+        "created": "2026-10-13",
+        "topics": [
+          "ai-agents",
+          "cross-border-ecommerce",
+          "ecommerce",
+          "llm",
+          "mercado-livre",
+          "prompt-engineering",
+          "shopee",
+          "sop"
+        ],
+        "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit"
+      },
+      {
+        "repo": "SouravBeraAkaSpeed/xiryn",
+        "desc": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+        "lang": "TypeScript",
+        "stars_total": 181,
+        "created": "2026-10-11",
+        "topics": [
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "byok",
+          "computer-use",
+          "docker",
+          "firecrawl",
+          "llm"
+        ],
+        "url": "https://github.com/SouravBeraAkaSpeed/xiryn"
+      },
+      {
+        "repo": "HRuiCcc/RuiC-oc-ferry",
+        "desc": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+        "lang": "JavaScript",
+        "stars_total": 176,
+        "created": "2026-10-10",
+        "topics": [
+          "electron",
+          "free-models",
+          "llm",
+          "macos",
+          "openai-compatible",
+          "opencode",
+          "tray-app",
+          "windows"
+        ],
+        "url": "https://github.com/HRuiCcc/RuiC-oc-ferry"
+      },
+      {
+        "repo": "init-co-jp/diff-tour",
+        "desc": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+        "lang": "Go",
+        "stars_total": 165,
+        "created": "2026-10-10",
+        "topics": [
+          "cli",
+          "code-review",
+          "git",
+          "go",
+          "learning",
+          "llm",
+          "onboarding",
+          "tui"
+        ],
+        "url": "https://github.com/init-co-jp/diff-tour"
+      },
+      {
+        "repo": "sitor-ai/frametell",
+        "desc": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
+        "lang": "TypeScript",
+        "stars_total": 120,
+        "created": "2026-10-10",
+        "topics": [
+          "ai-agent",
+          "ai-video",
+          "edtech",
+          "education",
+          "electron",
+          "explainer-video",
+          "llm",
+          "local-first"
+        ],
+        "url": "https://github.com/sitor-ai/frametell"
+      },
+      {
+        "repo": "sepehr071/awesome-iran-mcp",
+        "desc": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
+        "lang": "Python",
+        "stars_total": 103,
+        "created": "2026-10-11",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "awesome",
+          "claude",
+          "claude-code-plugin",
+          "digikala",
+          "iran",
+          "llm"
+        ],
+        "url": "https://github.com/sepehr071/awesome-iran-mcp"
+      },
+      {
+        "repo": "FeedHive/ai-slop-detector",
+        "desc": "120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex.",
+        "lang": "JavaScript",
+        "stars_total": 78,
+        "created": "2026-10-12",
+        "topics": [
+          "agent-skills",
+          "ai-slop",
+          "ai-writing",
+          "claude-code",
+          "copywriting",
+          "llm",
+          "writing"
+        ],
+        "url": "https://github.com/FeedHive/ai-slop-detector"
+      },
+      {
+        "repo": "vakandi/opencode-rust",
+        "desc": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+        "lang": "Rust",
+        "stars_total": 71,
+        "created": "2026-10-13",
+        "topics": [
+          "ai",
+          "cli",
+          "coding-agent",
+          "llm",
+          "lsp",
+          "mcp",
+          "opencode",
+          "rust"
+        ],
+        "url": "https://github.com/vakandi/opencode-rust"
+      },
+      {
+        "repo": "composo-ai/DishwasherBench",
+        "desc": "A dishwasher-loading game on a physical simulation of one real machine, built to benchmark language models and playable in a browser. The game inside is called Spotless.",
+        "lang": "TypeScript",
+        "stars_total": 69,
+        "created": "2026-10-12",
+        "topics": [
+          "ai-agents",
+          "benchmark",
+          "evaluation",
+          "game",
+          "llm",
+          "llm-benchmark",
+          "mcp",
+          "physics-simulation"
+        ],
+        "url": "https://github.com/composo-ai/DishwasherBench"
+      },
+      {
+        "repo": "RayenMlayeh/jevcrawl",
+        "desc": "MCP server and CLI that crawls websites for AI agents: finds the answer page 2x more often than Crawl4AI, 10x cheaper per answer than letting Claude crawl.",
+        "lang": "Python",
+        "stars_total": 67,
+        "created": "2026-10-11",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "crawler",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "python",
+          "rag"
+        ],
+        "url": "https://github.com/RayenMlayeh/jevcrawl"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
+        "points": 15,
+        "comments": 0,
+        "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "How to engineer an AI harness for game development",
+        "points": 172,
+        "comments": 89,
+        "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+        "points": 91,
+        "comments": 18,
+        "url": "https://github.com/LargeModGames/spotatui",
+        "date": "2026-10-13"
+      },
+      {
+        "title": "Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
+        "points": 17,
+        "comments": 12,
+        "url": "https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files/",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "points": 160,
+        "comments": 124,
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "date": "2026-10-12"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
