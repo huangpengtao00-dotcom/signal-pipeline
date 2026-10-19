@@ -1,0 +1,431 @@
+{
+  "date": "2026-10-19",
+  "trending_daily": [
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_period": "2232",
+      "stars_total": "53906",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_period": "1175",
+      "stars_total": "42825",
+      "url": "https://github.com/anthropics/claude-plugins-official"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_period": "1414",
+      "stars_total": "216797",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "350",
+      "stars_total": "12815",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_period": "513",
+      "stars_total": "76645",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars_period": "512",
+      "stars_total": "10641",
+      "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+      "repo": "stablyai/orca",
+      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "lang": "TypeScript",
+      "stars_period": "1146",
+      "stars_total": "96975",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_period": "589",
+      "stars_total": "54724",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_period": "2082",
+      "stars_total": "75856",
+      "url": "https://github.com/debpalash/VoiceStudio"
+    },
+    {
+      "repo": "android/skills",
+      "desc": "",
+      "lang": "Kotlin",
+      "stars_period": "375",
+      "stars_total": "8858",
+      "url": "https://github.com/android/skills"
+    },
+    {
+      "repo": "mlabonne/llm-course",
+      "desc": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "lang": "",
+      "stars_period": "81",
+      "stars_total": "84155",
+      "url": "https://github.com/mlabonne/llm-course"
+    },
+    {
+      "repo": "Kruk2/jasna",
+      "desc": "Video restoration tool",
+      "lang": "Python",
+      "stars_period": "115",
+      "stars_total": "2525",
+      "url": "https://github.com/Kruk2/jasna"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "lang": "Python",
+      "stars_period": "154",
+      "stars_total": "138804",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "LSPosed/dexsql-release",
+        "desc": "SQL for Android apk and dex files",
+        "lang": "Python",
+        "stars_total": 189,
+        "created": "2026-10-14",
+        "topics": [
+          "agent",
+          "android",
+          "decompiler",
+          "dex",
+          "mcp-server",
+          "reverse-engineering"
+        ],
+        "url": "https://github.com/LSPosed/dexsql-release"
+      },
+      {
+        "repo": "shuyu-labs/transwork",
+        "desc": "企业级桌面 AI Agent 工作台，让技能、知识与任务在同一处协作。",
+        "lang": "",
+        "stars_total": 112,
+        "created": "2026-10-14",
+        "topics": [
+          "agent",
+          "agent-desktop",
+          "harness",
+          "harness-ai"
+        ],
+        "url": "https://github.com/shuyu-labs/transwork"
+      },
+      {
+        "repo": "longsurf-ai/endo",
+        "desc": "The Higher Order Harness (HOH \"/oʊ/\" ), projected as a unified chat interface.",
+        "lang": "TypeScript",
+        "stars_total": 98,
+        "created": "2026-10-14",
+        "topics": [
+          "agent",
+          "harness"
+        ],
+        "url": "https://github.com/longsurf-ai/endo"
+      },
+      {
+        "repo": "ztt0216/MyAgent",
+        "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
+        "lang": "Python",
+        "stars_total": 78,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "agent-runtime",
+          "llm",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/ztt0216/MyAgent"
+      },
+      {
+        "repo": "adexbn/walk-kcal",
+        "desc": "你今天还能吃多少卡，取决于你愿意走多远 —— 用步行距离换卡路里额度的吃饭决策。麦当劳官方营养值 × 周边餐厅，算你这顿还吃得下什么。",
+        "lang": "Python",
+        "stars_total": 78,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "ai-agent-skill",
+          "calorie",
+          "calorie-counter",
+          "claude-skill",
+          "dining",
+          "fast-food",
+          "food"
+        ],
+        "url": "https://github.com/adexbn/walk-kcal"
+      },
+      {
+        "repo": "2430816465/campus-knowledge-agent",
+        "desc": "校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。",
+        "lang": "Python",
+        "stars_total": 53,
+        "created": "2026-10-14",
+        "topics": [
+          "agent",
+          "document-processing",
+          "fastapi",
+          "human-in-the-loop",
+          "knowledge-base",
+          "ollama",
+          "python",
+          "rag"
+        ],
+        "url": "https://github.com/2430816465/campus-knowledge-agent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "outcrawlai/scout",
+        "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+        "lang": "TypeScript",
+        "stars_total": 946,
+        "created": "2026-10-13",
+        "topics": [
+          "ai-agent",
+          "browser-agent",
+          "browser-automation",
+          "cdp",
+          "llm",
+          "typescript",
+          "web-automation"
+        ],
+        "url": "https://github.com/outcrawlai/scout"
+      },
+      {
+        "repo": "LiCinCan/blender-ai-mcp-addon",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+        "lang": "Python",
+        "stars_total": 788,
+        "created": "2026-10-15",
+        "topics": [
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-extension",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "url": "https://github.com/LiCinCan/blender-ai-mcp-addon"
+      },
+      {
+        "repo": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+        "desc": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+        "lang": "Python",
+        "stars_total": 396,
+        "created": "2026-10-13",
+        "topics": [
+          "ai-agents",
+          "cross-border-ecommerce",
+          "ecommerce",
+          "llm",
+          "mercado-livre",
+          "prompt-engineering",
+          "shopee",
+          "sop"
+        ],
+        "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit"
+      },
+      {
+        "repo": "christos-antono/NPCTalk",
+        "desc": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+        "lang": "Python",
+        "stars_total": 170,
+        "created": "2026-10-15",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "fish-audio",
+          "game-modding",
+          "gta5",
+          "llm",
+          "npc",
+          "text-to-speech"
+        ],
+        "url": "https://github.com/christos-antono/NPCTalk"
+      },
+      {
+        "repo": "justxor/deepseek-local-guide-ru",
+        "desc": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
+        "lang": "Shell",
+        "stars_total": 95,
+        "created": "2026-10-17",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "deepseek-r1",
+          "deepseek-v4",
+          "gguf",
+          "guide",
+          "llama-cpp",
+          "llm"
+        ],
+        "url": "https://github.com/justxor/deepseek-local-guide-ru"
+      },
+      {
+        "repo": "azrinaldi/gemini-stealth-bridge",
+        "desc": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+        "lang": "Go",
+        "stars_total": 90,
+        "created": "2026-10-16",
+        "topics": [
+          "bridge",
+          "gemini",
+          "gemini-api",
+          "golang",
+          "http2",
+          "llm",
+          "openai-compatible",
+          "reverse-proxy"
+        ],
+        "url": "https://github.com/azrinaldi/gemini-stealth-bridge"
+      },
+      {
+        "repo": "ztt0216/MyAgent",
+        "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
+        "lang": "Python",
+        "stars_total": 78,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "agent-runtime",
+          "llm",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/ztt0216/MyAgent"
+      },
+      {
+        "repo": "vakandi/opencode-rust",
+        "desc": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+        "lang": "Rust",
+        "stars_total": 73,
+        "created": "2026-10-13",
+        "topics": [
+          "ai",
+          "cli",
+          "coding-agent",
+          "llm",
+          "lsp",
+          "mcp",
+          "opencode",
+          "rust"
+        ],
+        "url": "https://github.com/vakandi/opencode-rust"
+      },
+      {
+        "repo": "mmm1712/Local_AI_esp32",
+        "desc": "A language model trained from scratch and running offline on an ESP32-S3 with a touchscreen chat interface.",
+        "lang": "C",
+        "stars_total": 64,
+        "created": "2026-10-14",
+        "topics": [
+          "embedded-ai",
+          "esp32",
+          "esp32-s3",
+          "llm",
+          "transformer",
+          "xiao"
+        ],
+        "url": "https://github.com/mmm1712/Local_AI_esp32"
+      },
+      {
+        "repo": "azrinaldi/opencode-free-bridge",
+        "desc": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
+        "lang": "JavaScript",
+        "stars_total": 55,
+        "created": "2026-10-13",
+        "topics": [
+          "ai",
+          "bridge",
+          "deepseek",
+          "free",
+          "llm",
+          "muse-spark",
+          "nodejs",
+          "openai"
+        ],
+        "url": "https://github.com/azrinaldi/opencode-free-bridge"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Torvalds use Claude for bottleneck fix, but race discovered",
+        "points": 15,
+        "comments": 1,
+        "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+        "date": "2026-10-18"
+      },
+      {
+        "title": "How the Claude Code team does code review",
+        "points": 472,
+        "comments": 468,
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "date": "2026-10-16"
+      },
+      {
+        "title": "Show HN: Just gave Claude Code the website and ad budget to see what it would do",
+        "points": 11,
+        "comments": 8,
+        "url": "https://snitch.alphaventure.com/gate.php",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
+        "points": 16,
+        "comments": 0,
+        "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
+        "date": "2026-10-15"
+      },
+      {
+        "title": "How to engineer an AI harness for game development",
+        "points": 175,
+        "comments": 90,
+        "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+        "date": "2026-10-13"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": [
+      {
+        "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+        "points": 16,
+        "comments": 17,
+        "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+        "date": "2026-10-17"
+      }
+    ]
+  }
+}
