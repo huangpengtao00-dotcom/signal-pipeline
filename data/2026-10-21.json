@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-21",
+  "trending_daily": [
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_period": "3861",
+      "stars_total": "61130",
+      "url": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "1712",
+      "stars_total": "34549",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "stablyai/orca",
+      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "lang": "TypeScript",
+      "stars_period": "1565",
+      "stars_total": "100011",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1208",
+      "stars_total": "170071",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "lang": "Python",
+      "stars_period": "1206",
+      "stars_total": "140932",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_period": "684",
+      "stars_total": "77941",
+      "url": "https://github.com/ruvnet/ruflo"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "lang": "Python",
+      "stars_period": "802",
+      "stars_total": "130482",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "repo": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_period": "1240",
+      "stars_total": "219119",
+      "url": "https://github.com/anomalyco/opencode"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_period": "562",
+      "stars_total": "162505",
+      "url": "https://github.com/msitarzewski/agency-agents"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_period": "549",
+      "stars_total": "76849",
+      "url": "https://github.com/headroomlabs-ai/headroom"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "267",
+      "stars_total": "30870",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "wshobson/agents",
+      "desc": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "lang": "Python",
+      "stars_period": "93",
+      "stars_total": "41318",
+      "url": "https://github.com/wshobson/agents"
+    },
+    {
+      "repo": "sickn33/agentic-awesome-skills",
+      "desc": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "lang": "Python",
+      "stars_period": "83",
+      "stars_total": "48180",
+      "url": "https://github.com/sickn33/agentic-awesome-skills"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "733",
+      "stars_total": "42434",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "lang": "Python",
+      "stars_period": "128",
+      "stars_total": "94514",
+      "url": "https://github.com/vllm-project/vllm"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "adexbn/walk-kcal",
+        "desc": "你今天还能吃多少卡，取决于你愿意走多远 —— 用步行距离换卡路里额度的吃饭决策。麦当劳官方营养值 × 周边餐厅，算你这顿还吃得下什么。",
+        "lang": "Python",
+        "stars_total": 117,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "ai-agent-skill",
+          "calorie",
+          "calorie-counter",
+          "claude-skill",
+          "dining",
+          "fast-food",
+          "food"
+        ],
+        "url": "https://github.com/adexbn/walk-kcal"
+      },
+      {
+        "repo": "ztt0216/MyAgent",
+        "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
+        "lang": "Python",
+        "stars_total": 71,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "agent-runtime",
+          "llm",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/ztt0216/MyAgent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "LiCinCan/blender-ai-mcp-addon",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+        "lang": "Python",
+        "stars_total": 941,
+        "created": "2026-10-15",
+        "topics": [
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-extension",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "url": "https://github.com/LiCinCan/blender-ai-mcp-addon"
+      },
+      {
+        "repo": "MemTensor/MemT-1.0",
+        "desc": "Official repository for MemT-1.0",
+        "lang": "Python",
+        "stars_total": 222,
+        "created": "2026-10-19",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "llm",
+          "long-context",
+          "long-term-memory",
+          "memory",
+          "memory-augmented-models",
+          "native-memory"
+        ],
+        "url": "https://github.com/MemTensor/MemT-1.0"
+      },
+      {
+        "repo": "christos-antono/NPCTalk",
+        "desc": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
+        "lang": "Python",
+        "stars_total": 186,
+        "created": "2026-10-15",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "fish-audio",
+          "game-modding",
+          "gta5",
+          "llm",
+          "npc",
+          "text-to-speech"
+        ],
+        "url": "https://github.com/christos-antono/NPCTalk"
+      },
+      {
+        "repo": "eliasbiondo/antirion",
+        "desc": "⚡ The fastest open-source AI gateway — one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+        "lang": "Rust",
+        "stars_total": 146,
+        "created": "2026-10-17",
+        "topics": [
+          "a2a",
+          "ai-gateway",
+          "anthropic",
+          "api-gateway",
+          "bifrost-alternative",
+          "guardrails",
+          "litellm-alternative",
+          "llm"
+        ],
+        "url": "https://github.com/eliasbiondo/antirion"
+      },
+      {
+        "repo": "justxor/deepseek-local-guide-ru",
+        "desc": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
+        "lang": "Shell",
+        "stars_total": 125,
+        "created": "2026-10-17",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "deepseek-r1",
+          "deepseek-v4",
+          "gguf",
+          "guide",
+          "llama-cpp",
+          "llm"
+        ],
+        "url": "https://github.com/justxor/deepseek-local-guide-ru"
+      },
+      {
+        "repo": "liuda30201/AI-Coding",
+        "desc": "AI 编程福利导航：汇总 Claude Code、Codex、Cursor 中转站与公益站，整理免费额度、注册福利、签到活动和评测记录，提供可视化看板与 Python 数据采集工具。",
+        "lang": "HTML",
+        "stars_total": 108,
+        "created": "2026-10-15",
+        "topics": [
+          "ai-coding",
+          "api-relay",
+          "claude-code",
+          "codex",
+          "cursor",
+          "dashboard",
+          "deepseek",
+          "deepseek-harness"
+        ],
+        "url": "https://github.com/liuda30201/AI-Coding"
+      },
+      {
+        "repo": "azrinaldi/gemini-stealth-bridge",
+        "desc": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+        "lang": "Go",
+        "stars_total": 98,
+        "created": "2026-10-16",
+        "topics": [
+          "bridge",
+          "gemini",
+          "gemini-api",
+          "golang",
+          "http2",
+          "llm",
+          "openai-compatible",
+          "reverse-proxy"
+        ],
+        "url": "https://github.com/azrinaldi/gemini-stealth-bridge"
+      },
+      {
+        "repo": "ztt0216/MyAgent",
+        "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
+        "lang": "Python",
+        "stars_total": 71,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "agent-runtime",
+          "llm",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/ztt0216/MyAgent"
+      },
+      {
+        "repo": "Baimuking/AI-Jailbreak",
+        "desc": "全网最全的 AI 破甲合集：一个仓库破甲所有模型。收录 1733 个上游破甲项目，9 条可一键安装的破甲卡覆盖 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen 与本地模型，内置 llms.txt 让 Claude Code/Codex/Cursor 自己装  有用的话可以点个收藏星星，会持续收录",
+        "lang": "Python",
+        "stars_total": 64,
+        "created": "2026-10-16",
+        "topics": [
+          "ai-safety",
+          "awesome-list",
+          "jailbreak",
+          "llm",
+          "prompt-engineering",
+          "prompt-injection",
+          "red-team",
+          "uncensored"
+        ],
+        "url": "https://github.com/Baimuking/AI-Jailbreak"
+      },
+      {
+        "repo": "VolcanoDomainTriumph/kahoot-tools-ai-resocket-answer-tool",
+        "desc": "Kahoot Tools is a collection of useful utilities designed to enhance the Kahoot experience, simplify game management, and provide convenient tools for quizzes, learning, and interactive activities.",
+        "lang": "HTML",
+        "stars_total": 55,
+        "created": "2026-10-20",
+        "topics": [
+          "claude",
+          "cross-platform",
+          "desktop-app",
+          "electron",
+          "free-kahoot-bot",
+          "gemini",
+          "javascript-vanilla",
+          "js"
+        ],
+        "url": "https://github.com/VolcanoDomainTriumph/kahoot-tools-ai-resocket-answer-tool"
+      },
+      {
+        "repo": "satriyaa67/qwen2api-MultiLANG",
+        "desc": "qwen2API çok dilli (i18n) fork'u • Multi-language (i18n) fork of qwen2API — WebUI artık Çince, İngilizce ve Türkçe / UI now in Chinese, English & Turkish. Orijinal / Original: YuJunZhiXue/qwen2API",
+        "lang": "Go",
+        "stars_total": 51,
+        "created": "2026-10-19",
+        "topics": [
+          "api-gateway",
+          "go",
+          "i18n",
+          "llm",
+          "multilingual",
+          "qwen",
+          "qwen2",
+          "react"
+        ],
+        "url": "https://github.com/satriyaa67/qwen2api-MultiLANG"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "points": 58,
+        "comments": 48,
+        "url": "https://jevcards.com",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+        "points": 95,
+        "comments": 63,
+        "url": "https://deathplanswitch.com/",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
+        "points": 17,
+        "comments": 8,
+        "url": "https://github.com/gojko/lights-on-software-factory",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "points": 168,
+        "comments": 127,
+        "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+        "date": "2026-10-19"
+      },
+      {
+        "title": "Torvalds use Claude for bottleneck fix, but race discovered",
+        "points": 17,
+        "comments": 1,
+        "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+        "date": "2026-10-18"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": [
+      {
+        "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+        "points": 16,
+        "comments": 17,
+        "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+        "date": "2026-10-17"
+      }
+    ]
+  }
+}
