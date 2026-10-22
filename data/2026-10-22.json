@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-22",
+  "trending_daily": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "2012",
+      "stars_total": "37045",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "lang": "Python",
+      "stars_period": "441",
+      "stars_total": "94961",
+      "url": "https://github.com/vllm-project/vllm"
+    },
+    {
+      "repo": "stablyai/orca",
+      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "lang": "TypeScript",
+      "stars_period": "1541",
+      "stars_total": "101616",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_period": "474",
+      "stars_total": "77352",
+      "url": "https://github.com/headroomlabs-ai/headroom"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "2079",
+      "stars_total": "171970",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "lang": "Python",
+      "stars_period": "939",
+      "stars_total": "141651",
+      "url": "https://github.com/Comfy-Org/ComfyUI"
+    },
+    {
+      "repo": "supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_period": "504",
+      "stars_total": "113116",
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "repo": "twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "lang": "TypeScript",
+      "stars_period": "112",
+      "stars_total": "59305",
+      "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "575",
+      "stars_total": "42923",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars_period": "286",
+      "stars_total": "12456",
+      "url": "https://github.com/akitaonrails/ai-memory"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "lang": "Python",
+      "stars_period": "1433",
+      "stars_total": "131869",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "adexbn/walk-kcal",
+        "desc": "你今天还能吃多少卡，取决于你愿意走多远 —— 用步行距离换卡路里额度的吃饭决策。麦当劳官方营养值 × 周边餐厅，算你这顿还吃得下什么。",
+        "lang": "Python",
+        "stars_total": 153,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "ai-agent-skill",
+          "calorie",
+          "calorie-counter",
+          "claude-skill",
+          "dining",
+          "fast-food",
+          "food"
+        ],
+        "url": "https://github.com/adexbn/walk-kcal"
+      },
+      {
+        "repo": "ztt0216/MyAgent",
+        "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
+        "lang": "Python",
+        "stars_total": 144,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "agent-runtime",
+          "llm",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/ztt0216/MyAgent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "MemTensor/MemT-1.0",
+        "desc": "Official repository for MemT-1.0",
+        "lang": "Python",
+        "stars_total": 290,
+        "created": "2026-10-19",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "llm",
+          "long-context",
+          "long-term-memory",
+          "memory",
+          "memory-augmented-models",
+          "native-memory"
+        ],
+        "url": "https://github.com/MemTensor/MemT-1.0"
+      },
+      {
+        "repo": "eliasbiondo/antirion",
+        "desc": "⚡ The fastest open-source AI gateway — one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+        "lang": "Rust",
+        "stars_total": 155,
+        "created": "2026-10-17",
+        "topics": [
+          "a2a",
+          "ai-gateway",
+          "anthropic",
+          "api-gateway",
+          "bifrost-alternative",
+          "guardrails",
+          "litellm-alternative",
+          "llm"
+        ],
+        "url": "https://github.com/eliasbiondo/antirion"
+      },
+      {
+        "repo": "ztt0216/MyAgent",
+        "desc": "从零实现的通用 Agent Runtime：Agent Loop、权限、MCP、子 Agent、上下文折叠与 Skills 自进化",
+        "lang": "Python",
+        "stars_total": 144,
+        "created": "2026-10-16",
+        "topics": [
+          "agent",
+          "agent-runtime",
+          "llm",
+          "mcp",
+          "python"
+        ],
+        "url": "https://github.com/ztt0216/MyAgent"
+      },
+      {
+        "repo": "justxor/deepseek-local-guide-ru",
+        "desc": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
+        "lang": "Shell",
+        "stars_total": 133,
+        "created": "2026-10-17",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "deepseek-r1",
+          "deepseek-v4",
+          "gguf",
+          "guide",
+          "llama-cpp",
+          "llm"
+        ],
+        "url": "https://github.com/justxor/deepseek-local-guide-ru"
+      },
+      {
+        "repo": "azrinaldi/gemini-stealth-bridge",
+        "desc": "Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/completions & /v1/responses)",
+        "lang": "Go",
+        "stars_total": 99,
+        "created": "2026-10-16",
+        "topics": [
+          "bridge",
+          "gemini",
+          "gemini-api",
+          "golang",
+          "http2",
+          "llm",
+          "openai-compatible",
+          "reverse-proxy"
+        ],
+        "url": "https://github.com/azrinaldi/gemini-stealth-bridge"
+      },
+      {
+        "repo": "Umair/stalemap",
+        "desc": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+        "lang": "TypeScript",
+        "stars_total": 97,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-md",
+          "ai-agents",
+          "breaking-changes",
+          "changelog",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "coding-agents"
+        ],
+        "url": "https://github.com/Umair/stalemap"
+      },
+      {
+        "repo": "Baimuking/AI-Jailbreak",
+        "desc": "全网最全的 AI 破甲合集：一个仓库破甲所有模型。收录 1733 个上游破甲项目，9 条可一键安装的破甲卡覆盖 GPT/Claude/Gemini/DeepSeek/GLM/Kimi/Grok/Qwen 与本地模型，内置 llms.txt 让 Claude Code/Codex/Cursor 自己装  有用的话可以点个收藏星星，会持续收录",
+        "lang": "Python",
+        "stars_total": 80,
+        "created": "2026-10-16",
+        "topics": [
+          "ai-safety",
+          "awesome-list",
+          "jailbreak",
+          "llm",
+          "prompt-engineering",
+          "prompt-injection",
+          "red-team",
+          "uncensored"
+        ],
+        "url": "https://github.com/Baimuking/AI-Jailbreak"
+      },
+      {
+        "repo": "h9-tec/ai-roadmap-2026",
+        "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+        "lang": "",
+        "stars_total": 80,
+        "created": "2026-10-21",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-engineering",
+          "evaluation",
+          "learning-path",
+          "llm",
+          "rag",
+          "roadmap"
+        ],
+        "url": "https://github.com/h9-tec/ai-roadmap-2026"
+      },
+      {
+        "repo": "C4rohan/Lampline",
+        "desc": "Self-hosted voice agent platform: import your Dialogflow CX and CX Agent Studio agents, build and test them, and take calls on your own hardware. 20 model providers, phone and SIP through jambonz.",
+        "lang": "Python",
+        "stars_total": 70,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-as-code",
+          "contact-center",
+          "conversational-ai",
+          "cx-agent-studio",
+          "dialogflow-cx",
+          "ivr",
+          "llm",
+          "pipecat"
+        ],
+        "url": "https://github.com/C4rohan/Lampline"
+      },
+      {
+        "repo": "satriyaa67/qwen2api-MultiLANG",
+        "desc": "qwen2API çok dilli (i18n) fork'u • Multi-language (i18n) fork of qwen2API — WebUI artık Çince, İngilizce ve Türkçe / UI now in Chinese, English & Turkish. Orijinal / Original: YuJunZhiXue/qwen2API",
+        "lang": "Go",
+        "stars_total": 51,
+        "created": "2026-10-19",
+        "topics": [
+          "api-gateway",
+          "go",
+          "i18n",
+          "llm",
+          "multilingual",
+          "qwen",
+          "qwen2",
+          "react"
+        ],
+        "url": "https://github.com/satriyaa67/qwen2api-MultiLANG"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+        "points": 46,
+        "comments": 13,
+        "url": "https://github.com/omnara-ai/omnara",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Open-source, cross-harness memory for AI agents",
+        "points": 15,
+        "comments": 11,
+        "url": "https://news.ycombinator.com/item?id=50182883",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "points": 15,
+        "comments": 4,
+        "url": "https://github.com/xamrayev/nexus-cli",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "points": 71,
+        "comments": 51,
+        "url": "https://jevcards.com",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+        "points": 104,
+        "comments": 65,
+        "url": "https://deathplanswitch.com/",
+        "date": "2026-10-20"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": [
+      {
+        "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+        "points": 16,
+        "comments": 18,
+        "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+        "date": "2026-10-17"
+      }
+    ]
+  }
+}
