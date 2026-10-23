@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-23",
+  "trending_daily": [
+    {
+      "repo": "php/php-src",
+      "desc": "The PHP Interpreter",
+      "lang": "C",
+      "stars_period": "287",
+      "stars_total": "41262",
+      "url": "https://github.com/php/php-src"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "303",
+      "stars_total": "31727",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_period": "1948",
+      "stars_total": "173785",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "2979",
+      "stars_total": "39927",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "lang": "Python",
+      "stars_period": "1408",
+      "stars_total": "133175",
+      "url": "https://github.com/Graphify-Labs/graphify"
+    },
+    {
+      "repo": "supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_period": "693",
+      "stars_total": "113559",
+      "url": "https://github.com/supabase/supabase"
+    },
+    {
+      "repo": "fastapi/fastapi",
+      "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "lang": "Python",
+      "stars_period": "101",
+      "stars_total": "103869",
+      "url": "https://github.com/fastapi/fastapi"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars_period": "177",
+      "stars_total": "43416",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "repo": "Meloong-Git/PCL",
+      "desc": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "lang": "Visual Basic .NET",
+      "stars_period": "119",
+      "stars_total": "8756",
+      "url": "https://github.com/Meloong-Git/PCL"
+    }
+  ],
+  "new_repos": {
+    "agent": [],
+    "llm": [
+      {
+        "repo": "MemTensor/MemT-1.0",
+        "desc": "Official repository for MemT-1.0",
+        "lang": "Python",
+        "stars_total": 353,
+        "created": "2026-10-19",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "llm",
+          "long-context",
+          "long-term-memory",
+          "memory",
+          "memory-augmented-models",
+          "native-memory"
+        ],
+        "url": "https://github.com/MemTensor/MemT-1.0"
+      },
+      {
+        "repo": "C4rohan/Lampline",
+        "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+        "lang": "Python",
+        "stars_total": 164,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-as-code",
+          "contact-center",
+          "conversational-ai",
+          "cx-agent-studio",
+          "dialogflow-cx",
+          "ivr",
+          "llm",
+          "pipecat"
+        ],
+        "url": "https://github.com/C4rohan/Lampline"
+      },
+      {
+        "repo": "eliasbiondo/antirion",
+        "desc": "⚡ The fastest open-source AI gateway — one Rust binary with a built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
+        "lang": "Rust",
+        "stars_total": 145,
+        "created": "2026-10-17",
+        "topics": [
+          "a2a",
+          "ai-gateway",
+          "anthropic",
+          "api-gateway",
+          "bifrost-alternative",
+          "guardrails",
+          "litellm-alternative",
+          "llm"
+        ],
+        "url": "https://github.com/eliasbiondo/antirion"
+      },
+      {
+        "repo": "justxor/deepseek-local-guide-ru",
+        "desc": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
+        "lang": "Shell",
+        "stars_total": 133,
+        "created": "2026-10-17",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "deepseek-r1",
+          "deepseek-v4",
+          "gguf",
+          "guide",
+          "llama-cpp",
+          "llm"
+        ],
+        "url": "https://github.com/justxor/deepseek-local-guide-ru"
+      },
+      {
+        "repo": "h9-tec/ai-roadmap-2026",
+        "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+        "lang": "",
+        "stars_total": 121,
+        "created": "2026-10-21",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-engineering",
+          "evaluation",
+          "learning-path",
+          "llm",
+          "rag",
+          "roadmap"
+        ],
+        "url": "https://github.com/h9-tec/ai-roadmap-2026"
+      },
+      {
+        "repo": "Umair/stalemap",
+        "desc": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+        "lang": "TypeScript",
+        "stars_total": 98,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-md",
+          "ai-agents",
+          "breaking-changes",
+          "changelog",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "coding-agents"
+        ],
+        "url": "https://github.com/Umair/stalemap"
+      },
+      {
+        "repo": "stkoecn/im-mcp",
+        "desc": "Fast, local, read-only MCP Server for WeChat (4.x/3.x) & DingTalk (7.x V2/V3) chat history with FTS5 search",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-10-17",
+        "topics": [
+          "ai-agent",
+          "claude-desktop",
+          "cursor",
+          "dingtalk",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "wechat"
+        ],
+        "url": "https://github.com/stkoecn/im-mcp"
+      },
+      {
+        "repo": "satriyaa67/qwen2api-MultiLANG",
+        "desc": "qwen2API çok dilli (i18n) fork'u • Multi-language (i18n) fork of qwen2API — WebUI artık Çince, İngilizce ve Türkçe / UI now in Chinese, English & Turkish. Orijinal / Original: YuJunZhiXue/qwen2API",
+        "lang": "Go",
+        "stars_total": 52,
+        "created": "2026-10-19",
+        "topics": [
+          "api-gateway",
+          "go",
+          "i18n",
+          "llm",
+          "multilingual",
+          "qwen",
+          "qwen2",
+          "react"
+        ],
+        "url": "https://github.com/satriyaa67/qwen2api-MultiLANG"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+        "points": 22,
+        "comments": 9,
+        "url": "https://github.com/rbartoli/agent-usage-guard",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+        "points": 110,
+        "comments": 34,
+        "url": "https://github.com/omnara-ai/omnara",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Open-source, cross-harness memory for AI agents",
+        "points": 17,
+        "comments": 14,
+        "url": "https://news.ycombinator.com/item?id=50182883",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+        "points": 15,
+        "comments": 4,
+        "url": "https://github.com/xamrayev/nexus-cli",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "points": 71,
+        "comments": 53,
+        "url": "https://jevcards.com",
+        "date": "2026-10-20"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": [
+      {
+        "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+        "points": 16,
+        "comments": 18,
+        "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+        "date": "2026-10-17"
+      }
+    ]
+  }
+}

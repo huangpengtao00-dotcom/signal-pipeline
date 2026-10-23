@@ -108,3 +108,4 @@
 {"ts": "2026-10-20T12:51:03+08:00", "step": "collect", "ok": true, "detail": "[ok] 2026-10-20.json: trending=12 new-agent=6 new-llm=10 hn-mentions=6", "output": "/home/runner/work/signal-pipeline/signal-pipeline/data/2026-10-20.json"}
 {"ts": "2026-10-21T12:47:04+08:00", "step": "collect", "ok": true, "detail": "[ok] 2026-10-21.json: trending=15 new-agent=2 new-llm=11 hn-mentions=6", "output": "/home/runner/work/signal-pipeline/signal-pipeline/data/2026-10-21.json"}
 {"ts": "2026-10-22T12:45:29+08:00", "step": "collect", "ok": true, "detail": "[ok] 2026-10-22.json: trending=11 new-agent=2 new-llm=10 hn-mentions=6", "output": "/home/runner/work/signal-pipeline/signal-pipeline/data/2026-10-22.json"}
+{"ts": "2026-10-23T12:49:14+08:00", "step": "collect", "ok": true, "detail": "[ok] 2026-10-23.json: trending=9 new-agent=0 new-llm=8 hn-mentions=6", "output": "/home/runner/work/signal-pipeline/signal-pipeline/data/2026-10-23.json"}
