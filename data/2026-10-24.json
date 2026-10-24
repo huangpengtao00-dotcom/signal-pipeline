@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-24",
+  "trending_daily": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "2716",
+      "stars_total": "42425",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "php/php-src",
+      "desc": "The PHP Interpreter",
+      "lang": "C",
+      "stars_period": "716",
+      "stars_total": "41594",
+      "url": "https://github.com/php/php-src"
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_period": "635",
+      "stars_total": "32316",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_period": "1119",
+      "stars_total": "18907",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "repo": "Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "lang": "TypeScript",
+      "stars_period": "546",
+      "stars_total": "6989",
+      "url": "https://github.com/Renhuai123/ziwei-doushu"
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_period": "226",
+      "stars_total": "8597",
+      "url": "https://github.com/SnailSploit/Claude-Red"
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_period": "150",
+      "stars_total": "40339",
+      "url": "https://github.com/OpenBMB/VoxCPM"
+    },
+    {
+      "repo": "nodejs/node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "lang": "JavaScript",
+      "stars_period": "66",
+      "stars_total": "122932",
+      "url": "https://github.com/nodejs/node"
+    }
+  ],
+  "new_repos": {
+    "agent": [],
+    "llm": [
+      {
+        "repo": "MemTensor/MemT-1.0",
+        "desc": "Official repository for MemT-1.0",
+        "lang": "Python",
+        "stars_total": 374,
+        "created": "2026-10-19",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "llm",
+          "long-context",
+          "long-term-memory",
+          "memory",
+          "memory-augmented-models",
+          "native-memory"
+        ],
+        "url": "https://github.com/MemTensor/MemT-1.0"
+      },
+      {
+        "repo": "C4rohan/Lampline",
+        "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+        "lang": "Python",
+        "stars_total": 170,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-as-code",
+          "contact-center",
+          "conversational-ai",
+          "cx-agent-studio",
+          "dialogflow-cx",
+          "ivr",
+          "llm",
+          "pipecat"
+        ],
+        "url": "https://github.com/C4rohan/Lampline"
+      },
+      {
+        "repo": "h9-tec/ai-roadmap-2026",
+        "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+        "lang": "",
+        "stars_total": 147,
+        "created": "2026-10-21",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-engineering",
+          "evaluation",
+          "learning-path",
+          "llm",
+          "rag",
+          "roadmap"
+        ],
+        "url": "https://github.com/h9-tec/ai-roadmap-2026"
+      },
+      {
+        "repo": "rextail-ai/lessloc",
+        "desc": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
+        "lang": "JavaScript",
+        "stars_total": 102,
+        "created": "2026-10-19",
+        "topics": [
+          "agent-hooks",
+          "ai-coding-agent",
+          "amp",
+          "claude-code",
+          "claude-code-plugin",
+          "cline",
+          "code-quality",
+          "code-review"
+        ],
+        "url": "https://github.com/rextail-ai/lessloc"
+      },
+      {
+        "repo": "Umair/stalemap",
+        "desc": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+        "lang": "TypeScript",
+        "stars_total": 100,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-md",
+          "ai-agents",
+          "breaking-changes",
+          "changelog",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "coding-agents"
+        ],
+        "url": "https://github.com/Umair/stalemap"
+      },
+      {
+        "repo": "satriyaa67/qwen2api-MultiLANG",
+        "desc": "qwen2API çok dilli (i18n) fork'u • Multi-language (i18n) fork of qwen2API — WebUI artık Çince, İngilizce ve Türkçe / UI now in Chinese, English & Turkish. Orijinal / Original: YuJunZhiXue/qwen2API",
+        "lang": "Go",
+        "stars_total": 52,
+        "created": "2026-10-19",
+        "topics": [
+          "api-gateway",
+          "go",
+          "i18n",
+          "llm",
+          "multilingual",
+          "qwen",
+          "qwen2",
+          "react"
+        ],
+        "url": "https://github.com/satriyaa67/qwen2api-MultiLANG"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "points": 56,
+        "comments": 13,
+        "url": "https://corgi.computer/",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+        "points": 26,
+        "comments": 11,
+        "url": "https://github.com/rbartoli/agent-usage-guard",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+        "points": 217,
+        "comments": 91,
+        "url": "https://github.com/dsmurrell/onkey",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+        "points": 112,
+        "comments": 34,
+        "url": "https://github.com/omnara-ai/omnara",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Open-source, cross-harness memory for AI agents",
+        "points": 17,
+        "comments": 14,
+        "url": "https://news.ycombinator.com/item?id=50182883",
+        "date": "2026-10-21"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": [
+      {
+        "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+        "points": 16,
+        "comments": 18,
+        "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+        "date": "2026-10-17"
+      }
+    ]
+  }
+}
