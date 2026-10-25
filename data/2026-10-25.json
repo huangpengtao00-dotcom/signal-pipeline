@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-25",
+  "trending_daily": [
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "2264",
+      "stars_total": "44945",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_period": "896",
+      "stars_total": "19565",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "repo": "aws/agent-toolkit-for-aws",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "lang": "Python",
+      "stars_period": "13",
+      "stars_total": "3176",
+      "url": "https://github.com/aws/agent-toolkit-for-aws"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_period": "455",
+      "stars_total": "32330",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars_period": "392",
+      "stars_total": "44663",
+      "url": "https://github.com/luongnv89/claude-howto"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "Rust",
+      "stars_period": "619",
+      "stars_total": "86568",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "repo": "pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "lang": "Rust",
+      "stars_period": "319",
+      "stars_total": "11083",
+      "url": "https://github.com/pollen-robotics/microduck"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "lang": "TypeScript",
+      "stars_period": "44",
+      "stars_total": "108163",
+      "url": "https://github.com/google-gemini/gemini-cli"
+    },
+    {
+      "repo": "jbiaojerry/ebook-treasure-chest",
+      "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "lang": "Python",
+      "stars_period": "227",
+      "stars_total": "22770",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "stars_period": "477",
+      "stars_total": "4195",
+      "url": "https://github.com/makecindy/cindy"
+    }
+  ],
+  "new_repos": {
+    "agent": [],
+    "llm": [
+      {
+        "repo": "MemTensor/MemT-1.0",
+        "desc": "Official repository for MemT-1.0",
+        "lang": "Python",
+        "stars_total": 391,
+        "created": "2026-10-19",
+        "topics": [
+          "ai-agents",
+          "deepseek",
+          "llm",
+          "long-context",
+          "long-term-memory",
+          "memory",
+          "memory-augmented-models",
+          "native-memory"
+        ],
+        "url": "https://github.com/MemTensor/MemT-1.0"
+      },
+      {
+        "repo": "C4rohan/Lampline",
+        "desc": "Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.",
+        "lang": "Python",
+        "stars_total": 176,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-as-code",
+          "contact-center",
+          "conversational-ai",
+          "cx-agent-studio",
+          "dialogflow-cx",
+          "ivr",
+          "llm",
+          "pipecat"
+        ],
+        "url": "https://github.com/C4rohan/Lampline"
+      },
+      {
+        "repo": "h9-tec/ai-roadmap-2026",
+        "desc": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
+        "lang": "",
+        "stars_total": 157,
+        "created": "2026-10-21",
+        "topics": [
+          "agents",
+          "ai",
+          "ai-engineering",
+          "evaluation",
+          "learning-path",
+          "llm",
+          "rag",
+          "roadmap"
+        ],
+        "url": "https://github.com/h9-tec/ai-roadmap-2026"
+      },
+      {
+        "repo": "Umair/stalemap",
+        "desc": "Tell your coding agent which dependencies changed after its training cutoff. Diffs types and changelogs, writes a short block into AGENTS.md / CLAUDE.md.",
+        "lang": "TypeScript",
+        "stars_total": 102,
+        "created": "2026-10-19",
+        "topics": [
+          "agents-md",
+          "ai-agents",
+          "breaking-changes",
+          "changelog",
+          "claude-code",
+          "claude-code-plugin",
+          "codex",
+          "coding-agents"
+        ],
+        "url": "https://github.com/Umair/stalemap"
+      },
+      {
+        "repo": "rextail-ai/lessloc",
+        "desc": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
+        "lang": "JavaScript",
+        "stars_total": 101,
+        "created": "2026-10-19",
+        "topics": [
+          "agent-hooks",
+          "ai-coding-agent",
+          "amp",
+          "claude-code",
+          "claude-code-plugin",
+          "cline",
+          "code-quality",
+          "code-review"
+        ],
+        "url": "https://github.com/rextail-ai/lessloc"
+      },
+      {
+        "repo": "heterodoxin/AbliteratedOutTheBox",
+        "desc": "llama.cpp fork that abliterates at inference",
+        "lang": "C++",
+        "stars_total": 95,
+        "created": "2026-10-21",
+        "topics": [
+          "abliteration",
+          "ai",
+          "inference",
+          "llama-cpp",
+          "llm",
+          "llms"
+        ],
+        "url": "https://github.com/heterodoxin/AbliteratedOutTheBox"
+      },
+      {
+        "repo": "liyupi/dafeiyu-cleaner",
+        "desc": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
+        "lang": "JavaScript",
+        "stars_total": 72,
+        "created": "2026-10-23",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-content-detection",
+          "ai-detection",
+          "aigc",
+          "anti-spam",
+          "bilibili",
+          "bilibili-comments"
+        ],
+        "url": "https://github.com/liyupi/dafeiyu-cleaner"
+      },
+      {
+        "repo": "jwuthri-cloud/SelfJev",
+        "desc": "Self-hosted decision model (selfjev-4b) with a Jev-compatible API: Python SDK, server, fine-tuning and RLCD.",
+        "lang": "Python",
+        "stars_total": 53,
+        "created": "2026-10-21",
+        "topics": [
+          "classification",
+          "decisions",
+          "fine-tuning",
+          "guardrails",
+          "llm",
+          "llm-evaluation",
+          "lora",
+          "python-sdk"
+        ],
+        "url": "https://github.com/jwuthri-cloud/SelfJev"
+      },
+      {
+        "repo": "satriyaa67/qwen2api-MultiLANG",
+        "desc": "qwen2API çok dilli (i18n) fork'u • Multi-language (i18n) fork of qwen2API — WebUI artık Çince, İngilizce ve Türkçe / UI now in Chinese, English & Turkish. Orijinal / Original: YuJunZhiXue/qwen2API",
+        "lang": "Go",
+        "stars_total": 52,
+        "created": "2026-10-19",
+        "topics": [
+          "api-gateway",
+          "go",
+          "i18n",
+          "llm",
+          "multilingual",
+          "qwen",
+          "qwen2",
+          "react"
+        ],
+        "url": "https://github.com/satriyaa67/qwen2api-MultiLANG"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code slyly adding users' emails to outbound HTTP",
+        "points": 21,
+        "comments": 4,
+        "url": "https://twitter.com/chrislakin/status/2113358733548081528",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "points": 126,
+        "comments": 42,
+        "url": "https://corgi.computer/",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+        "points": 27,
+        "comments": 12,
+        "url": "https://github.com/rbartoli/agent-usage-guard",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+        "points": 229,
+        "comments": 91,
+        "url": "https://github.com/dsmurrell/onkey",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+        "points": 112,
+        "comments": 34,
+        "url": "https://github.com/omnara-ai/omnara",
+        "date": "2026-10-21"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
