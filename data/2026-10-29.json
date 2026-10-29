@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-29",
+  "trending_daily": [
+    {
+      "repo": "JetBrains/thinkrail",
+      "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "lang": "TypeScript",
+      "stars_period": "1068",
+      "stars_total": "5315",
+      "url": "https://github.com/JetBrains/thinkrail"
+    },
+    {
+      "repo": "elayadesign/ai-design-skills",
+      "desc": "",
+      "lang": "",
+      "stars_period": "2139",
+      "stars_total": "11373",
+      "url": "https://github.com/elayadesign/ai-design-skills"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "1095",
+      "stars_total": "307637",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars_period": "2371",
+      "stars_total": "48464",
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
+      "repo": "macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars_period": "117",
+      "stars_total": "5525",
+      "url": "https://github.com/macro-inc/macro"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_period": "2110",
+      "stars_total": "40997",
+      "url": "https://github.com/Nutlope/hallmark"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "lang": "Rust",
+      "stars_period": "1472",
+      "stars_total": "93307",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "repo": "makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "stars_period": "728",
+      "stars_total": "8262",
+      "url": "https://github.com/makecindy/cindy"
+    },
+    {
+      "repo": "nightly-labs/openbot",
+      "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "lang": "TypeScript",
+      "stars_period": "1054",
+      "stars_total": "3416",
+      "url": "https://github.com/nightly-labs/openbot"
+    },
+    {
+      "repo": "togg53192-cmd/jailbreaks",
+      "desc": "LIST OF ALL MY JAILBREAKS",
+      "lang": "",
+      "stars_period": "1477",
+      "stars_total": "7467",
+      "url": "https://github.com/togg53192-cmd/jailbreaks"
+    },
+    {
+      "repo": "hmjz100/LinkSwift",
+      "desc": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "lang": "JavaScript",
+      "stars_period": "1616",
+      "stars_total": "35380",
+      "url": "https://github.com/hmjz100/LinkSwift"
+    },
+    {
+      "repo": "expo/skills",
+      "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "lang": "Shell",
+      "stars_period": "90",
+      "stars_total": "3657",
+      "url": "https://github.com/expo/skills"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "557",
+      "stars_total": "101234",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "desc": "One has no future if one couldn't teach themself.",
+      "lang": "Jupyter Notebook",
+      "stars_period": "148",
+      "stars_total": "18656",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "ssamurias/dsh-fish",
+        "desc": "DSH插件：养一个会自己刷b站会成长的agent：不通过面板配置，通过学习诞生人格。",
+        "lang": "JavaScript",
+        "stars_total": 57,
+        "created": "2026-10-24",
+        "topics": [
+          "agent",
+          "deepseek-harness",
+          "dsh-plugin",
+          "pet",
+          "typescript"
+        ],
+        "url": "https://github.com/ssamurias/dsh-fish"
+      },
+      {
+        "repo": "Video-Rebirth/hyperflow-infinity",
+        "desc": "HyperFlow-Infinity is Video Rebirth's minimal agent harness that empowers H3 HyperFlow for infinite video generation.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-10-23",
+        "topics": [
+          "agent",
+          "memory",
+          "video-generation"
+        ],
+        "url": "https://github.com/Video-Rebirth/hyperflow-infinity"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "ChannelCooperStart/capri-ai",
+        "desc": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+        "lang": "",
+        "stars_total": 386,
+        "created": "2026-10-27",
+        "topics": [
+          "ai-agent",
+          "ai-agents",
+          "ai-assistants",
+          "antigravity",
+          "autamation",
+          "claude",
+          "claude-ai",
+          "claude-code"
+        ],
+        "url": "https://github.com/ChannelCooperStart/capri-ai"
+      },
+      {
+        "repo": "JunWan666/astrbot-for-android",
+        "desc": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+        "lang": "Kotlin",
+        "stars_total": 243,
+        "created": "2026-10-26",
+        "topics": [
+          "ai",
+          "android",
+          "astrbot",
+          "chatbot",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "napcat"
+        ],
+        "url": "https://github.com/JunWan666/astrbot-for-android"
+      },
+      {
+        "repo": "Cattmonkey/ChaosIntelligence",
+        "desc": "把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.",
+        "lang": "Python",
+        "stars_total": 204,
+        "created": "2026-10-23",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "cli",
+          "developer-tools",
+          "functional-programming",
+          "generative-ui",
+          "llm",
+          "multi-agent"
+        ],
+        "url": "https://github.com/Cattmonkey/ChaosIntelligence"
+      },
+      {
+        "repo": "ccch1mneyyy/dsh-go",
+        "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。Android · Unofficial.",
+        "lang": "",
+        "stars_total": 125,
+        "created": "2026-10-25",
+        "topics": [
+          "ai-agent",
+          "android",
+          "android-app",
+          "coding-agent",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-tui"
+        ],
+        "url": "https://github.com/ccch1mneyyy/dsh-go"
+      },
+      {
+        "repo": "liyupi/dafeiyu-cleaner",
+        "desc": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.",
+        "lang": "JavaScript",
+        "stars_total": 119,
+        "created": "2026-10-23",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-content-detection",
+          "ai-detection",
+          "aigc",
+          "anti-spam",
+          "bilibili",
+          "bilibili-comments"
+        ],
+        "url": "https://github.com/liyupi/dafeiyu-cleaner"
+      },
+      {
+        "repo": "lwh0630/TokenBar",
+        "desc": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.",
+        "lang": "Dart",
+        "stars_total": 117,
+        "created": "2026-10-24",
+        "topics": [
+          "ai",
+          "android",
+          "claude",
+          "codex",
+          "cursor",
+          "dart",
+          "flutter",
+          "ios"
+        ],
+        "url": "https://github.com/lwh0630/TokenBar"
+      },
+      {
+        "repo": "aa1143/NamiGPT",
+        "desc": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
+        "lang": "Python",
+        "stars_total": 117,
+        "created": "2026-10-28",
+        "topics": [
+          "attention",
+          "chinese",
+          "deep-learning",
+          "from-scratch",
+          "gpt-2",
+          "large-language-models",
+          "llm",
+          "pytorch"
+        ],
+        "url": "https://github.com/aa1143/NamiGPT"
+      },
+      {
+        "repo": "NerverDevs/nervecenter",
+        "desc": "new-api / sub2api 中转站账号管理中心：余额、API Key、用量、倍率、模型比价 | https://nvcenter.cc",
+        "lang": "TypeScript",
+        "stars_total": 105,
+        "created": "2026-10-23",
+        "topics": [
+          "api-key-management",
+          "api-relay",
+          "claude",
+          "dashboard",
+          "llm",
+          "new-api",
+          "openai",
+          "sub2api"
+        ],
+        "url": "https://github.com/NerverDevs/nervecenter"
+      },
+      {
+        "repo": "jmanico/grim-prompter",
+        "desc": "Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+        "lang": "",
+        "stars_total": 88,
+        "created": "2026-10-28",
+        "topics": [
+          "ai-agents",
+          "appsec",
+          "claude-code",
+          "codex",
+          "linddun",
+          "llm",
+          "pasta",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/jmanico/grim-prompter"
+      },
+      {
+        "repo": "KhulekanisiyandaMchunu/llm-trading-arena",
+        "desc": "Live trading arena for LLM agents: public reasoning, real market data, virtual capital",
+        "lang": "JavaScript",
+        "stars_total": 65,
+        "created": "2026-10-23",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "backtesting",
+          "crypto",
+          "java",
+          "langgraph",
+          "llm",
+          "llm-agents"
+        ],
+        "url": "https://github.com/KhulekanisiyandaMchunu/llm-trading-arena"
+      },
+      {
+        "repo": "gabe-santana/arkdraw",
+        "desc": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.",
+        "lang": "TypeScript",
+        "stars_total": 54,
+        "created": "2026-10-23",
+        "topics": [
+          "ai",
+          "architecture-diagrams",
+          "aws",
+          "azure",
+          "diagram",
+          "diagram-editor",
+          "diagrams",
+          "flowchart"
+        ],
+        "url": "https://github.com/gabe-santana/arkdraw"
+      },
+      {
+        "repo": "Hellko63421/rpocket-team-elden-ring",
+        "desc": "Top Elden Ring Gameplay Enhancement Suite 2026: ESP & No Recoil",
+        "lang": "HTML",
+        "stars_total": 53,
+        "created": "2026-10-23",
+        "topics": [
+          "angular",
+          "bungie",
+          "bungie-api",
+          "chatbot",
+          "combinations",
+          "destiny-2",
+          "destiny-item-manager",
+          "destiny2"
+        ],
+        "url": "https://github.com/Hellko63421/rpocket-team-elden-ring"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+        "points": 182,
+        "comments": 39,
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Claude Code found 14,219 photos of my face on my Android that I never took",
+        "points": 14,
+        "comments": 1,
+        "url": "https://twitter.com/coolerwave/status/2115393243458207755",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Claude Code slyly adding users' emails to outbound HTTP",
+        "points": 22,
+        "comments": 7,
+        "url": "https://twitter.com/chrislakin/status/2113358733548081528",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
+        "points": 11,
+        "comments": 0,
+        "url": "https://news.ycombinator.com/item?id=50219641",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "points": 141,
+        "comments": 47,
+        "url": "https://corgi.computer/",
+        "date": "2026-10-23"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
