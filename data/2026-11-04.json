@@ -1,0 +1,435 @@
+{
+  "date": "2026-11-04",
+  "trending_daily": [
+    {
+      "repo": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_period": "1139",
+      "stars_total": "112166",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "repo": "vercel-labs/agent-desktop",
+      "desc": "Computer use CLI for AI agents",
+      "lang": "Rust",
+      "stars_period": "3791",
+      "stars_total": "13341",
+      "url": "https://github.com/vercel-labs/agent-desktop"
+    },
+    {
+      "repo": "max-sixty/worktrunk",
+      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "lang": "Rust",
+      "stars_period": "438",
+      "stars_total": "10636",
+      "url": "https://github.com/max-sixty/worktrunk"
+    },
+    {
+      "repo": "JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "lang": "C",
+      "stars_period": "802",
+      "stars_total": "47394",
+      "url": "https://github.com/JustVugg/colibri"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1164",
+      "stars_total": "311750",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "p-e-w/heretic",
+      "desc": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "lang": "Python",
+      "stars_period": "701",
+      "stars_total": "38976",
+      "url": "https://github.com/p-e-w/heretic"
+    },
+    {
+      "repo": "spotify/portal-ai-plugins",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "91",
+      "stars_total": "3093",
+      "url": "https://github.com/spotify/portal-ai-plugins"
+    },
+    {
+      "repo": "floci-io/floci",
+      "desc": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "lang": "Java",
+      "stars_period": "482",
+      "stars_total": "29020",
+      "url": "https://github.com/floci-io/floci"
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "desc": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "lang": "Python",
+      "stars_period": "228",
+      "stars_total": "16755",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+    },
+    {
+      "repo": "anomalyco/hex",
+      "desc": "Local voice dictation for mac, windows and linux",
+      "lang": "Rust",
+      "stars_period": "410",
+      "stars_total": "4738",
+      "url": "https://github.com/anomalyco/hex"
+    },
+    {
+      "repo": "D4Vinci/Scrapling",
+      "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "lang": "Python",
+      "stars_period": "1658",
+      "stars_total": "95260",
+      "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_period": "503",
+      "stars_total": "46617",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "lang": "Shell",
+      "stars_period": "1182",
+      "stars_total": "34878",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "aa1143/NamiAgent",
+        "desc": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+        "lang": "Python",
+        "stars_total": 299,
+        "created": "2026-10-30",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "chinese",
+          "claude-code",
+          "deepseek",
+          "from-scratch",
+          "llm",
+          "mcp"
+        ],
+        "url": "https://github.com/aa1143/NamiAgent"
+      },
+      {
+        "repo": "RUC-NLPIR/CoworkOS",
+        "desc": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
+        "lang": "JavaScript",
+        "stars_total": 100,
+        "created": "2026-11-03",
+        "topics": [
+          "agent",
+          "cowork",
+          "harness"
+        ],
+        "url": "https://github.com/RUC-NLPIR/CoworkOS"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "wangzan101/Mika",
+        "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "lang": "Kotlin",
+        "stars_total": 6196,
+        "created": "2026-10-29",
+        "topics": [
+          "accessibility",
+          "ai-agent",
+          "android",
+          "automation",
+          "jetpack-compose",
+          "kotlin",
+          "llm",
+          "mobile-agent"
+        ],
+        "url": "https://github.com/wangzan101/Mika"
+      },
+      {
+        "repo": "N1nEmAn/sapper-v2",
+        "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+        "lang": "Python",
+        "stars_total": 675,
+        "created": "2026-10-30",
+        "topics": [
+          "ai-agents",
+          "autonomous-agents",
+          "claude-code",
+          "ctf",
+          "llm",
+          "multi-agent",
+          "pentest"
+        ],
+        "url": "https://github.com/N1nEmAn/sapper-v2"
+      },
+      {
+        "repo": "Balanov/uncut",
+        "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+        "lang": "Go",
+        "stars_total": 598,
+        "created": "2026-11-01",
+        "topics": [
+          "agent-harness",
+          "cli",
+          "coding-agent",
+          "go",
+          "headless",
+          "llm",
+          "local-models"
+        ],
+        "url": "https://github.com/Balanov/uncut"
+      },
+      {
+        "repo": "aa1143/NamiAgent",
+        "desc": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+        "lang": "Python",
+        "stars_total": 299,
+        "created": "2026-10-30",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "chinese",
+          "claude-code",
+          "deepseek",
+          "from-scratch",
+          "llm",
+          "mcp"
+        ],
+        "url": "https://github.com/aa1143/NamiAgent"
+      },
+      {
+        "repo": "SAOS-3624/dsh-see-now",
+        "desc": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+        "lang": "JavaScript",
+        "stars_total": 284,
+        "created": "2026-11-01",
+        "topics": [
+          "ai-agent",
+          "dsh",
+          "dsh-plugin",
+          "ffmpeg",
+          "llm",
+          "realtime",
+          "screen-capture",
+          "token-efficient"
+        ],
+        "url": "https://github.com/SAOS-3624/dsh-see-now"
+      },
+      {
+        "repo": "Interactive-Active-AI/NextTransformer",
+        "desc": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research.",
+        "lang": "Python",
+        "stars_total": 233,
+        "created": "2026-10-31",
+        "topics": [
+          "auto-research",
+          "benchmark",
+          "deep-learning",
+          "language-models",
+          "linear-attention",
+          "llm",
+          "looped-transformer",
+          "pytorch"
+        ],
+        "url": "https://github.com/Interactive-Active-AI/NextTransformer"
+      },
+      {
+        "repo": "tavern-labs-ai/persona-ai-sdk",
+        "desc": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+        "lang": "TypeScript",
+        "stars_total": 197,
+        "created": "2026-10-31",
+        "topics": [
+          "ai",
+          "bedrock",
+          "characters",
+          "llm",
+          "memory",
+          "persona",
+          "personality",
+          "sdk"
+        ],
+        "url": "https://github.com/tavern-labs-ai/persona-ai-sdk"
+      },
+      {
+        "repo": "gh9ko8y/graphmemory",
+        "desc": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
+        "lang": "Python",
+        "stars_total": 184,
+        "created": "2026-10-30",
+        "topics": [
+          "agent-memory",
+          "ai",
+          "bitemporal",
+          "graphiti",
+          "knowledge-graph",
+          "llm",
+          "memory",
+          "neo4j"
+        ],
+        "url": "https://github.com/gh9ko8y/graphmemory"
+      },
+      {
+        "repo": "yc-software/minecraft-agent-harness",
+        "desc": "Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+        "lang": "JavaScript",
+        "stars_total": 129,
+        "created": "2026-10-29",
+        "topics": [
+          "agent-harness",
+          "ai-agents",
+          "llm",
+          "minecraft",
+          "mineflayer",
+          "multi-agent"
+        ],
+        "url": "https://github.com/yc-software/minecraft-agent-harness"
+      },
+      {
+        "repo": "Aevonix/FlashAlign",
+        "desc": "ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Always On. Use directly or with Hermes, OpenClaw and custom harnesses.",
+        "lang": "Python",
+        "stars_total": 122,
+        "created": "2026-10-31",
+        "topics": [
+          "abliteration",
+          "hermes",
+          "inference",
+          "llama-cpp",
+          "llm",
+          "model-alignment",
+          "openclaw",
+          "sglang"
+        ],
+        "url": "https://github.com/Aevonix/FlashAlign"
+      },
+      {
+        "repo": "glincker/awesome-selfhosted-ai",
+        "desc": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
+        "lang": "JavaScript",
+        "stars_total": 101,
+        "created": "2026-10-31",
+        "topics": [
+          "ai-agents",
+          "awesome",
+          "awesome-list",
+          "homelab",
+          "llm",
+          "local-ai",
+          "local-llm",
+          "mcp-server"
+        ],
+        "url": "https://github.com/glincker/awesome-selfhosted-ai"
+      },
+      {
+        "repo": "capri-com/Capri-AI",
+        "desc": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
+        "lang": "C#",
+        "stars_total": 83,
+        "created": "2026-11-03",
+        "topics": [
+          "ai-agent",
+          "ai-agents",
+          "ai-assistants",
+          "antigravity",
+          "automation",
+          "claude",
+          "claude-code",
+          "claude-code-plugin"
+        ],
+        "url": "https://github.com/capri-com/Capri-AI"
+      },
+      {
+        "repo": "Juneo-Lab/decision-forge",
+        "desc": "Compile organizational policy into verifiable decision training data.",
+        "lang": "Python",
+        "stars_total": 65,
+        "created": "2026-10-30",
+        "topics": [
+          "ai-agents",
+          "data-provenance",
+          "decision-data",
+          "fine-tuning",
+          "llm",
+          "policy-as-code",
+          "python",
+          "synthetic-data"
+        ],
+        "url": "https://github.com/Juneo-Lab/decision-forge"
+      },
+      {
+        "repo": "Jumbomuffin777/Frontier-UI",
+        "desc": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoint exports via ArtCraft. One file, no API keys.",
+        "lang": "Python",
+        "stars_total": 59,
+        "created": "2026-11-01",
+        "topics": [
+          "ai-tools",
+          "artcraft",
+          "artificial-intelligence",
+          "generative-ai",
+          "llm",
+          "local-ai",
+          "local-llm",
+          "open-webui"
+        ],
+        "url": "https://github.com/Jumbomuffin777/Frontier-UI"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Running 17 Claude Code bots in a real company for $100/month",
+        "points": 12,
+        "comments": 4,
+        "url": "https://botsinproduction.com/blog/what-10-claude-code-bots-cost-per-month/",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+        "points": 83,
+        "comments": 17,
+        "url": "https://github.com/finic-ai/kairos",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+        "points": 11,
+        "comments": 1,
+        "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+        "points": 464,
+        "comments": 144,
+        "url": "https://news.ycombinator.com/item?id=50352757",
+        "date": "2026-11-03"
+      },
+      {
+        "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+        "points": 264,
+        "comments": 54,
+        "url": "https://hackertv.org",
+        "date": "2026-11-03"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
