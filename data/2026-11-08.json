@@ -1,0 +1,515 @@
+{
+  "date": "2026-11-08",
+  "trending_daily": [
+    {
+      "repo": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_period": "190",
+      "stars_total": "46987",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "repo": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_period": "2085",
+      "stars_total": "66014",
+      "url": "https://github.com/cloudflare/security-audit-skill"
+    },
+    {
+      "repo": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_period": "443",
+      "stars_total": "23511",
+      "url": "https://github.com/google/skills"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1100",
+      "stars_total": "317905",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_period": "390",
+      "stars_total": "188923",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "repo": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_period": "96",
+      "stars_total": "14732",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "repo": "prometheus/prometheus",
+      "desc": "The Prometheus monitoring system and time series database.",
+      "lang": "Go",
+      "stars_period": "322",
+      "stars_total": "67483",
+      "url": "https://github.com/prometheus/prometheus"
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars_period": "1766",
+      "stars_total": "101025",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars_period": "1955",
+      "stars_total": "17264",
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+      "lang": "Rust",
+      "stars_period": "350",
+      "stars_total": "51023",
+      "url": "https://github.com/astral-sh/ruff"
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "lang": "TypeScript",
+      "stars_period": "122",
+      "stars_total": "98553",
+      "url": "https://github.com/tailwindlabs/tailwindcss"
+    },
+    {
+      "repo": "mbillow/localthings",
+      "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "lang": "Python",
+      "stars_period": "186",
+      "stars_total": "1096",
+      "url": "https://github.com/mbillow/localthings"
+    },
+    {
+      "repo": "zed-industries/zed",
+      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "lang": "Rust",
+      "stars_period": "1114",
+      "stars_total": "94345",
+      "url": "https://github.com/zed-industries/zed"
+    },
+    {
+      "repo": "ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "stars_period": "191",
+      "stars_total": "4704",
+      "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+      "repo": "dsx-ai-factory/nvke",
+      "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "lang": "Go",
+      "stars_period": "123",
+      "stars_total": "610",
+      "url": "https://github.com/dsx-ai-factory/nvke"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "aa1143/NamiDSH",
+        "desc": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+        "lang": "TypeScript",
+        "stars_total": 171,
+        "created": "2026-11-05",
+        "topics": [
+          "agent",
+          "cordis",
+          "deepseek-harness",
+          "plugin-architecture",
+          "typescript"
+        ],
+        "url": "https://github.com/aa1143/NamiDSH"
+      },
+      {
+        "repo": "RUC-NLPIR/CoworkOS",
+        "desc": "CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution",
+        "lang": "JavaScript",
+        "stars_total": 141,
+        "created": "2026-11-03",
+        "topics": [
+          "agent",
+          "cowork",
+          "harness"
+        ],
+        "url": "https://github.com/RUC-NLPIR/CoworkOS"
+      },
+      {
+        "repo": "didilili/mianstack",
+        "desc": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
+        "lang": "JavaScript",
+        "stars_total": 129,
+        "created": "2026-11-02",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai-agent",
+          "ai-engineering",
+          "ai-interview",
+          "artificial-intelligence",
+          "chinese",
+          "coding-interview"
+        ],
+        "url": "https://github.com/didilili/mianstack"
+      },
+      {
+        "repo": "YT-Proteus-bot/MineAgent",
+        "desc": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
+        "lang": "Python",
+        "stars_total": 111,
+        "created": "2026-11-05",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "agentic-workflow",
+          "agents"
+        ],
+        "url": "https://github.com/YT-Proteus-bot/MineAgent"
+      },
+      {
+        "repo": "0x45dd/pwner",
+        "desc": "Autonomous agentic network penetration-testing tool (authorized use only)",
+        "lang": "Python",
+        "stars_total": 81,
+        "created": "2026-11-02",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "cli",
+          "infosec",
+          "llm",
+          "nmap",
+          "offensive-security",
+          "pentest"
+        ],
+        "url": "https://github.com/0x45dd/pwner"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "Sandflow-ai/sand3d",
+        "desc": "3D modeling in Python, built for LLMs.",
+        "lang": "HTML",
+        "stars_total": 1096,
+        "created": "2026-11-03",
+        "topics": [
+          "3d",
+          "blender",
+          "cad",
+          "llm",
+          "procedural-modeling",
+          "python",
+          "usd"
+        ],
+        "url": "https://github.com/Sandflow-ai/sand3d"
+      },
+      {
+        "repo": "yucezerey/turkish-anti-ai-skill",
+        "desc": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+        "lang": "Python",
+        "stars_total": 258,
+        "created": "2026-11-05",
+        "topics": [
+          "agent-skills",
+          "ai-skills",
+          "ai-writing",
+          "claude-code",
+          "codex",
+          "cursor-rules",
+          "de-slop",
+          "gemini-cli"
+        ],
+        "url": "https://github.com/yucezerey/turkish-anti-ai-skill"
+      },
+      {
+        "repo": "TIGER-AI-Lab/WebsiteBench",
+        "desc": "Can AI agents rebuild websites through browser exploration?",
+        "lang": "Python",
+        "stars_total": 106,
+        "created": "2026-11-04",
+        "topics": [
+          "agent-evaluation",
+          "ai",
+          "ai-agents",
+          "benchmark",
+          "benchmarking",
+          "browser-automation",
+          "browser-use",
+          "full-stack"
+        ],
+        "url": "https://github.com/TIGER-AI-Lab/WebsiteBench"
+      },
+      {
+        "repo": "quyetcao/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 93,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/quyetcao/ai-manus"
+      },
+      {
+        "repo": "vixhal-baraiya/qwenFS",
+        "desc": "Qwen3.5-2B with a filesystem compiled and inserted directly into its weights.",
+        "lang": "Python",
+        "stars_total": 93,
+        "created": "2026-11-02",
+        "topics": [
+          "artificial-intelligence",
+          "filesystem",
+          "llm",
+          "qwen3-5"
+        ],
+        "url": "https://github.com/vixhal-baraiya/qwenFS"
+      },
+      {
+        "repo": "hussein1labtop-jpg/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 92,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/hussein1labtop-jpg/ai-manus"
+      },
+      {
+        "repo": "TaytopazAbyssal26005/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/TaytopazAbyssal26005/ai--manus"
+      },
+      {
+        "repo": "SableMysticit32531/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/SableMysticit32531/ai--manus"
+      },
+      {
+        "repo": "BehindBasilisk42972/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/BehindBasilisk42972/ai--manus"
+      },
+      {
+        "repo": "OrbitForge40815/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/OrbitForge40815/ai--manus"
+      },
+      {
+        "repo": "CloudAssassin30642/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/CloudAssassin30642/ai--manus"
+      },
+      {
+        "repo": "XanegshredFalcon55771/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/XanegshredFalcon55771/ai--manus"
+      },
+      {
+        "repo": "LordobsidianFierce32779/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/LordobsidianFierce32779/ai--manus"
+      },
+      {
+        "repo": "OmegaElfda86686/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/OmegaElfda86686/ai--manus"
+      },
+      {
+        "repo": "LaserOrlayr58754/ai--manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 92,
+        "created": "2026-11-07",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/LaserOrlayr58754/ai--manus"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "points": 298,
+        "comments": 205,
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Claude Code, but for SEO",
+        "points": 14,
+        "comments": 2,
+        "url": "https://twitter.com/brodieseo/status/2118299596292305356",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Claude Code sends your email address to websites",
+        "points": 1593,
+        "comments": 519,
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "date": "2026-11-05"
+      },
+      {
+        "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+        "points": 43,
+        "comments": 10,
+        "url": "https://github.com/gauge-sh/gauge-cli",
+        "date": "2026-11-04"
+      },
+      {
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "points": 111,
+        "comments": 36,
+        "url": "https://news.ycombinator.com/item?id=50368804",
+        "date": "2026-11-04"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
