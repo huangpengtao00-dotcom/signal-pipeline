@@ -1,0 +1,434 @@
+{
+  "date": "2026-11-10",
+  "trending_daily": [
+    {
+      "repo": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_period": "1038",
+      "stars_total": "191432",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "repo": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_period": "3278",
+      "stars_total": "20886",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars_period": "4267",
+      "stars_total": "107777",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "repo": "google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "lang": "C++",
+      "stars_period": "574",
+      "stars_total": "17060",
+      "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "lang": "Python",
+      "stars_period": "551",
+      "stars_total": "20165",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "lang": "TypeScript",
+      "stars_period": "216",
+      "stars_total": "32315",
+      "url": "https://github.com/garrytan/gbrain"
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_period": "916",
+      "stars_total": "48723",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_period": "172",
+      "stars_total": "103669",
+      "url": "https://github.com/ruvnet/RuView"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_period": "506",
+      "stars_total": "69247",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "lang": "Python",
+      "stars_period": "31",
+      "stars_total": "6181",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "repo": "milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars_period": "1587",
+      "stars_total": "20099",
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "aa1143/NamiDSH",
+        "desc": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+        "lang": "TypeScript",
+        "stars_total": 190,
+        "created": "2026-11-05",
+        "topics": [
+          "agent",
+          "cordis",
+          "deepseek-harness",
+          "plugin-architecture",
+          "typescript"
+        ],
+        "url": "https://github.com/aa1143/NamiDSH"
+      },
+      {
+        "repo": "YT-Proteus-bot/MineAgent",
+        "desc": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
+        "lang": "Python",
+        "stars_total": 112,
+        "created": "2026-11-05",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "agentic-workflow",
+          "agents"
+        ],
+        "url": "https://github.com/YT-Proteus-bot/MineAgent"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "yucezerey/turkish-anti-ai-skill",
+        "desc": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+        "lang": "Python",
+        "stars_total": 290,
+        "created": "2026-11-05",
+        "topics": [
+          "agent-skills",
+          "ai-skills",
+          "ai-writing",
+          "claude-code",
+          "codex",
+          "cursor-rules",
+          "de-slop",
+          "gemini-cli"
+        ],
+        "url": "https://github.com/yucezerey/turkish-anti-ai-skill"
+      },
+      {
+        "repo": "TIGER-AI-Lab/WebsiteBench",
+        "desc": "Can AI agents rebuild websites through browser exploration?",
+        "lang": "Python",
+        "stars_total": 177,
+        "created": "2026-11-04",
+        "topics": [
+          "agent-evaluation",
+          "ai",
+          "ai-agents",
+          "benchmark",
+          "benchmarking",
+          "browser-automation",
+          "browser-use",
+          "full-stack"
+        ],
+        "url": "https://github.com/TIGER-AI-Lab/WebsiteBench"
+      },
+      {
+        "repo": "Dodaios/ste80-humanizer",
+        "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+        "lang": "Python",
+        "stars_total": 176,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "asd-ste100",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "cursor",
+          "humanize-ai-text"
+        ],
+        "url": "https://github.com/Dodaios/ste80-humanizer"
+      },
+      {
+        "repo": "RapidSailorFreeze/studsmith",
+        "desc": "Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. 免费的 Roblox Studio AI 智能体。",
+        "lang": "",
+        "stars_total": 95,
+        "created": "2026-11-08",
+        "topics": [
+          "ai-agent",
+          "ai-assistant",
+          "game-development",
+          "gamedev",
+          "llm",
+          "luau",
+          "ollama",
+          "roblox"
+        ],
+        "url": "https://github.com/RapidSailorFreeze/studsmith"
+      },
+      {
+        "repo": "HimanshuMohanty-Git24/gitaviswa",
+        "desc": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free API key, and keep a private journal. Works offline.",
+        "lang": "Cypher",
+        "stars_total": 85,
+        "created": "2026-11-04",
+        "topics": [
+          "bhagavad-gita",
+          "byok",
+          "graphrag",
+          "knowledge-graph",
+          "llm",
+          "nextjs",
+          "offline-first",
+          "rag"
+        ],
+        "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa"
+      },
+      {
+        "repo": "liujiaqi2024/Free-ClaudeOpus-5.5",
+        "desc": "",
+        "lang": "",
+        "stars_total": 71,
+        "created": "2026-11-09",
+        "topics": [
+          "ai-assistants",
+          "ai-model",
+          "anthropic",
+          "anthropic-api",
+          "anthropic-claude",
+          "chatbot",
+          "claude-5-opus",
+          "claude-api"
+        ],
+        "url": "https://github.com/liujiaqi2024/Free-ClaudeOpus-5.5"
+      },
+      {
+        "repo": "munitkala/selfsemester",
+        "desc": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
+        "lang": "Rust",
+        "stars_total": 71,
+        "created": "2026-11-04",
+        "topics": [
+          "ai-education",
+          "ai-tutor",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "curriculum",
+          "desktop-app",
+          "edtech"
+        ],
+        "url": "https://github.com/munitkala/selfsemester"
+      },
+      {
+        "repo": "cacheMon/PrefixSim",
+        "desc": "A simulator for LLM Inference prefix cache",
+        "lang": "C++",
+        "stars_total": 68,
+        "created": "2026-11-04",
+        "topics": [
+          "cache",
+          "llm",
+          "llm-inference",
+          "llm-serving",
+          "prefix-cache"
+        ],
+        "url": "https://github.com/cacheMon/PrefixSim"
+      },
+      {
+        "repo": "bookleme/bookleme",
+        "desc": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+        "lang": "Python",
+        "stars_total": 67,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "book-to-skill",
+          "document-processing",
+          "knowledge-management",
+          "llm",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/bookleme/bookleme"
+      },
+      {
+        "repo": "Zenithopal/LooseEnds-resp",
+        "desc": "Tying up what The Sims 4 leaves dangling",
+        "lang": "HTML",
+        "stars_total": 57,
+        "created": "2026-11-05",
+        "topics": [
+          "activation-bypass",
+          "bypass-mod",
+          "chatbot",
+          "dlc-activator",
+          "dlc-enabler",
+          "dlc-manager",
+          "dlc-patch",
+          "entitlement-bypass"
+        ],
+        "url": "https://github.com/Zenithopal/LooseEnds-resp"
+      },
+      {
+        "repo": "quyetcao/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 56,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/quyetcao/ai-manus"
+      },
+      {
+        "repo": "Abdul-Rehman7826/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 55,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Abdul-Rehman7826/ai-manus"
+      },
+      {
+        "repo": "hussein1labtop-jpg/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/hussein1labtop-jpg/ai-manus"
+      },
+      {
+        "repo": "thecoderrrer/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/thecoderrrer/ai-manus"
+      },
+      {
+        "repo": "Gigachad-byte/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Gigachad-byte/ai-manus"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "points": 888,
+        "comments": 479,
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+        "points": 29,
+        "comments": 8,
+        "url": "https://github.com/sshah03/recalc",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "points": 623,
+        "comments": 422,
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Claude Code, but for SEO",
+        "points": 14,
+        "comments": 2,
+        "url": "https://twitter.com/brodieseo/status/2118299596292305356",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Claude Code sends your email address to websites",
+        "points": 1612,
+        "comments": 535,
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "date": "2026-11-05"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
