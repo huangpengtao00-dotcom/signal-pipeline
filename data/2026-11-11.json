@@ -1,0 +1,462 @@
+{
+  "date": "2026-11-11",
+  "trending_daily": [
+    {
+      "repo": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_period": "3108",
+      "stars_total": "23525",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "repo": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_period": "1679",
+      "stars_total": "192576",
+      "url": "https://github.com/anthropics/skills"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "465",
+      "stars_total": "115343",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "lang": "Python",
+      "stars_period": "531",
+      "stars_total": "20619",
+      "url": "https://github.com/anthropics/claude-quickstarts"
+    },
+    {
+      "repo": "google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "lang": "C++",
+      "stars_period": "456",
+      "stars_total": "17479",
+      "url": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "repo": "we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "lang": "Ruby",
+      "stars_period": "159",
+      "stars_total": "12205",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "lang": "Python",
+      "stars_period": "790",
+      "stars_total": "6806",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_period": "780",
+      "stars_total": "49418",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars_period": "2393",
+      "stars_total": "109368",
+      "url": "https://github.com/sherlock-project/sherlock"
+    },
+    {
+      "repo": "tokio-rs/topcoat",
+      "desc": "A batteries-included framework for building web apps",
+      "lang": "Rust",
+      "stars_period": "192",
+      "stars_total": "6940",
+      "url": "https://github.com/tokio-rs/topcoat"
+    },
+    {
+      "repo": "ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "stars_period": "375",
+      "stars_total": "6498",
+      "url": "https://github.com/ranxianglei/billion-context"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_period": "1225",
+      "stars_total": "321190",
+      "url": "https://github.com/mattpocock/skills"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "aa1143/NamiDSH",
+        "desc": "对照 DeepSeek Harness 的迷你学习项目：迷你版 Cordis + 迷你版 DSH + 网页端 Agent",
+        "lang": "TypeScript",
+        "stars_total": 198,
+        "created": "2026-11-05",
+        "topics": [
+          "agent",
+          "cordis",
+          "deepseek-harness",
+          "plugin-architecture",
+          "typescript"
+        ],
+        "url": "https://github.com/aa1143/NamiDSH"
+      },
+      {
+        "repo": "YT-Proteus-bot/MineAgent",
+        "desc": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
+        "lang": "Python",
+        "stars_total": 159,
+        "created": "2026-11-05",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "agentic-workflow",
+          "agents"
+        ],
+        "url": "https://github.com/YT-Proteus-bot/MineAgent"
+      },
+      {
+        "repo": "tommy0103/blackhole",
+        "desc": "A blackhole for your Claude Code. ",
+        "lang": "Shell",
+        "stars_total": 90,
+        "created": "2026-11-08",
+        "topics": [
+          "agent",
+          "claude-code",
+          "colima",
+          "container-isolation",
+          "macos",
+          "sandbox",
+          "virtio-fs"
+        ],
+        "url": "https://github.com/tommy0103/blackhole"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "Dodaios/ste80-humanizer",
+        "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+        "lang": "Python",
+        "stars_total": 330,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "asd-ste100",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "cursor",
+          "humanize-ai-text"
+        ],
+        "url": "https://github.com/Dodaios/ste80-humanizer"
+      },
+      {
+        "repo": "yucezerey/turkish-anti-ai-skill",
+        "desc": "Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi.",
+        "lang": "Python",
+        "stars_total": 302,
+        "created": "2026-11-05",
+        "topics": [
+          "agent-skills",
+          "ai-skills",
+          "ai-writing",
+          "claude-code",
+          "codex",
+          "cursor-rules",
+          "de-slop",
+          "gemini-cli"
+        ],
+        "url": "https://github.com/yucezerey/turkish-anti-ai-skill"
+      },
+      {
+        "repo": "bookleme/bookleme",
+        "desc": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+        "lang": "Python",
+        "stars_total": 108,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "book-to-skill",
+          "document-processing",
+          "knowledge-management",
+          "llm",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/bookleme/bookleme"
+      },
+      {
+        "repo": "RapidSailorFreeze/studsmith",
+        "desc": "Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. 免费的 Roblox Studio AI 智能体。",
+        "lang": "",
+        "stars_total": 95,
+        "created": "2026-11-08",
+        "topics": [
+          "ai-agent",
+          "ai-assistant",
+          "game-development",
+          "gamedev",
+          "llm",
+          "luau",
+          "ollama",
+          "roblox"
+        ],
+        "url": "https://github.com/RapidSailorFreeze/studsmith"
+      },
+      {
+        "repo": "Zenithopal/LooseEnds-resp",
+        "desc": "Tying up what The Sims 4 leaves dangling",
+        "lang": "HTML",
+        "stars_total": 57,
+        "created": "2026-11-05",
+        "topics": [
+          "activation-bypass",
+          "bypass-mod",
+          "chatbot",
+          "dlc-activator",
+          "dlc-enabler",
+          "dlc-manager",
+          "dlc-patch",
+          "entitlement-bypass"
+        ],
+        "url": "https://github.com/Zenithopal/LooseEnds-resp"
+      },
+      {
+        "repo": "onlyreadai/onlyread",
+        "desc": "Make AI browser agents read-only: a Chrome extension that refuses writes (send, post, edit, delete) before they leave the browser.",
+        "lang": "TypeScript",
+        "stars_total": 55,
+        "created": "2026-11-05",
+        "topics": [
+          "agent-security",
+          "agentic-browser",
+          "ai-agents",
+          "ai-safety",
+          "ai-security",
+          "browser-agents",
+          "browser-automation",
+          "chatgpt"
+        ],
+        "url": "https://github.com/onlyreadai/onlyread"
+      },
+      {
+        "repo": "quyetcao/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/quyetcao/ai-manus"
+      },
+      {
+        "repo": "Abdul-Rehman7826/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 53,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Abdul-Rehman7826/ai-manus"
+      },
+      {
+        "repo": "BountyForge-xyz/pwn-skill",
+        "desc": "Agent skill for binary exploitation and CTF pwn — stack, heap, format string, kernel, seccomp bypass.",
+        "lang": "",
+        "stars_total": 53,
+        "created": "2026-11-06",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-exploitation",
+          "ctf",
+          "exploit-development",
+          "heap-exploitation",
+          "kernel-pwn",
+          "llm"
+        ],
+        "url": "https://github.com/BountyForge-xyz/pwn-skill"
+      },
+      {
+        "repo": "inclusionAI/ASpec",
+        "desc": "A high-throughput training framework for Speculative decoding models.",
+        "lang": "Python",
+        "stars_total": 53,
+        "created": "2026-11-05",
+        "topics": [
+          "dflash",
+          "dflash2",
+          "dspark",
+          "eagle3",
+          "eagle4",
+          "ling-3",
+          "ling-3-flash",
+          "llm"
+        ],
+        "url": "https://github.com/inclusionAI/ASpec"
+      },
+      {
+        "repo": "Gigachad-byte/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Gigachad-byte/ai-manus"
+      },
+      {
+        "repo": "willsmanuel123-creator/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/willsmanuel123-creator/ai-manus"
+      },
+      {
+        "repo": "thecoderrrer/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/thecoderrrer/ai-manus"
+      },
+      {
+        "repo": "osarhiemenaiyevbosa-cloud/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/osarhiemenaiyevbosa-cloud/ai-manus"
+      },
+      {
+        "repo": "hussein1labtop-jpg/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/hussein1labtop-jpg/ai-manus"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "points": 899,
+        "comments": 492,
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+        "points": 36,
+        "comments": 15,
+        "url": "https://github.com/sshah03/recalc",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "points": 624,
+        "comments": 427,
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Claude Code, but for SEO",
+        "points": 14,
+        "comments": 2,
+        "url": "https://twitter.com/brodieseo/status/2118299596292305356",
+        "date": "2026-11-06"
+      },
+      {
+        "title": "Claude Code sends your email address to websites",
+        "points": 1614,
+        "comments": 535,
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "date": "2026-11-05"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
