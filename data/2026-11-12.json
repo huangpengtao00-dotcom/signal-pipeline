@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-12",
+  "trending_daily": [
+    {
+      "repo": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_period": "2776",
+      "stars_total": "25536",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_period": "278",
+      "stars_total": "70705",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+    },
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_period": "159",
+      "stars_total": "2005",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "repo": "shadcn/improve",
+      "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "lang": "",
+      "stars_period": "361",
+      "stars_total": "11168",
+      "url": "https://github.com/shadcn/improve"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "787",
+      "stars_total": "116163",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_period": "708",
+      "stars_total": "50047",
+      "url": "https://github.com/vercel-labs/agent-browser"
+    },
+    {
+      "repo": "we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "lang": "Ruby",
+      "stars_period": "1078",
+      "stars_total": "13209",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "lang": "Python",
+      "stars_period": "645",
+      "stars_total": "7541",
+      "url": "https://github.com/homeassistant-ai/ha-mcp"
+    },
+    {
+      "repo": "openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "lang": "TypeScript",
+      "stars_period": "52",
+      "stars_total": "11937",
+      "url": "https://github.com/openai/codex-security"
+    },
+    {
+      "repo": "TheAlgorithms/Java",
+      "desc": "All Algorithms implemented in Java",
+      "lang": "Java",
+      "stars_period": "51",
+      "stars_total": "67145",
+      "url": "https://github.com/TheAlgorithms/Java"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "tommy0103/blackhole",
+        "desc": "A blackhole for your Claude Code. ",
+        "lang": "Shell",
+        "stars_total": 103,
+        "created": "2026-11-08",
+        "topics": [
+          "agent",
+          "claude-code",
+          "colima",
+          "container-isolation",
+          "macos",
+          "sandbox",
+          "virtio-fs"
+        ],
+        "url": "https://github.com/tommy0103/blackhole"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "agentes-chat/agentes-chat",
+        "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGP",
+        "lang": "TypeScript",
+        "stars_total": 562,
+        "created": "2026-11-09",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-automation",
+          "chat",
+          "claude",
+          "claude-code",
+          "codex",
+          "collaboration"
+        ],
+        "url": "https://github.com/agentes-chat/agentes-chat"
+      },
+      {
+        "repo": "Dodaios/ste80-humanizer",
+        "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+        "lang": "Python",
+        "stars_total": 419,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "asd-ste100",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "cursor",
+          "humanize-ai-text"
+        ],
+        "url": "https://github.com/Dodaios/ste80-humanizer"
+      },
+      {
+        "repo": "SsKanDon/blender-ai-mcp-addon",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "lang": "",
+        "stars_total": 193,
+        "created": "2026-11-11",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "url": "https://github.com/SsKanDon/blender-ai-mcp-addon"
+      },
+      {
+        "repo": "bookleme/bookleme",
+        "desc": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+        "lang": "Python",
+        "stars_total": 143,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "book-to-skill",
+          "document-processing",
+          "knowledge-management",
+          "llm",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/bookleme/bookleme"
+      },
+      {
+        "repo": "huawei-csl/MACaQ",
+        "desc": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+        "lang": "C++",
+        "stars_total": 134,
+        "created": "2026-11-10",
+        "topics": [
+          "ascend",
+          "audio",
+          "audio-generation",
+          "diffusers",
+          "gguf",
+          "gguf-quantization",
+          "image-generation",
+          "llama-cpp"
+        ],
+        "url": "https://github.com/huawei-csl/MACaQ"
+      },
+      {
+        "repo": "RapidSailorFreeze/studsmith",
+        "desc": "Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. 免费的 Roblox Studio AI 智能体。",
+        "lang": "",
+        "stars_total": 95,
+        "created": "2026-11-08",
+        "topics": [
+          "ai-agent",
+          "ai-assistant",
+          "game-development",
+          "gamedev",
+          "llm",
+          "luau",
+          "ollama",
+          "roblox"
+        ],
+        "url": "https://github.com/RapidSailorFreeze/studsmith"
+      },
+      {
+        "repo": "Veloresearch/kinetic",
+        "desc": "The open engine for running AI on your own computer. Fast, exact, open source.",
+        "lang": "Rust",
+        "stars_total": 71,
+        "created": "2026-11-10",
+        "topics": [
+          "cuda",
+          "gguf",
+          "inference",
+          "llama-cpp",
+          "llm",
+          "local-ai",
+          "rust",
+          "vulkan"
+        ],
+        "url": "https://github.com/Veloresearch/kinetic"
+      },
+      {
+        "repo": "mintlify/agent-traffic",
+        "desc": "Tell agents, AI crawlers, search crawlers and bots apart from people",
+        "lang": "TypeScript",
+        "stars_total": 65,
+        "created": "2026-11-10",
+        "topics": [
+          "ai-agents",
+          "analytics",
+          "bot-detection",
+          "bots",
+          "claude-code",
+          "crawlers",
+          "gptbot",
+          "llm"
+        ],
+        "url": "https://github.com/mintlify/agent-traffic"
+      },
+      {
+        "repo": "shany9200/Three",
+        "desc": "A self-extending AI agent that runs anywhere Termux runs. Writes its own capabilities, remembers across sessions.",
+        "lang": "Python",
+        "stars_total": 65,
+        "created": "2026-11-06",
+        "topics": [
+          "ai-agent",
+          "android",
+          "autonomous-agent",
+          "llm",
+          "python",
+          "self-modifying",
+          "termux"
+        ],
+        "url": "https://github.com/shany9200/Three"
+      },
+      {
+        "repo": "kilolonion/agent-vscreen",
+        "desc": "A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。",
+        "lang": "Kotlin",
+        "stars_total": 57,
+        "created": "2026-11-07",
+        "topics": [
+          "ai-agent",
+          "android",
+          "android-automation",
+          "kotlin",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "no-root"
+        ],
+        "url": "https://github.com/kilolonion/agent-vscreen"
+      },
+      {
+        "repo": "weixijia/mas-office",
+        "desc": "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams.",
+        "lang": "JavaScript",
+        "stars_total": 56,
+        "created": "2026-11-06",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "claude",
+          "langgraph",
+          "llm",
+          "multi-agent-systems",
+          "observability",
+          "openai-agents"
+        ],
+        "url": "https://github.com/weixijia/mas-office"
+      },
+      {
+        "repo": "Abdul-Rehman7826/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Abdul-Rehman7826/ai-manus"
+      },
+      {
+        "repo": "quyetcao/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/quyetcao/ai-manus"
+      },
+      {
+        "repo": "BountyForge-xyz/pwn-skill",
+        "desc": "Agent skill for binary exploitation and CTF pwn — stack, heap, format string, kernel, seccomp bypass.",
+        "lang": "",
+        "stars_total": 53,
+        "created": "2026-11-06",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-exploitation",
+          "ctf",
+          "exploit-development",
+          "heap-exploitation",
+          "kernel-pwn",
+          "llm"
+        ],
+        "url": "https://github.com/BountyForge-xyz/pwn-skill"
+      },
+      {
+        "repo": "Gigachad-byte/ai-manus",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "Python",
+        "stars_total": 52,
+        "created": "2026-11-06",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Gigachad-byte/ai-manus"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Aq – an attention queue TUI for Claude Code",
+        "points": 18,
+        "comments": 1,
+        "url": "https://github.com/nodo-labs-uk/attention-queue",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "points": 902,
+        "comments": 496,
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+        "points": 37,
+        "comments": 15,
+        "url": "https://github.com/sshah03/recalc",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "points": 626,
+        "comments": 428,
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "date": "2026-11-07"
+      },
+      {
+        "title": "Claude Code, but for SEO",
+        "points": 14,
+        "comments": 2,
+        "url": "https://twitter.com/brodieseo/status/2118299596292305356",
+        "date": "2026-11-06"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
