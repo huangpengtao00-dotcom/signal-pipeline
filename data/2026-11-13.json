@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-13",
+  "trending_daily": [
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "desc": "Keep your coding agent up to date with the latest web best practices",
+      "lang": "TypeScript",
+      "stars_period": "739",
+      "stars_total": "3601",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "repo": "openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "lang": "TypeScript",
+      "stars_period": "643",
+      "stars_total": "12647",
+      "url": "https://github.com/openai/codex-security"
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "lang": "Shell",
+      "stars_period": "63",
+      "stars_total": "96057",
+      "url": "https://github.com/nvm-sh/nvm"
+    },
+    {
+      "repo": "pookjw/HermesEnabler",
+      "desc": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "lang": "Objective-C",
+      "stars_period": "218",
+      "stars_total": "1646",
+      "url": "https://github.com/pookjw/HermesEnabler"
+    },
+    {
+      "repo": "we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "lang": "Ruby",
+      "stars_period": "967",
+      "stars_total": "14162",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "desc": "An open-source AI coding agent that lives in your terminal.",
+      "lang": "TypeScript",
+      "stars_period": "151",
+      "stars_total": "29973",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "desc": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "lang": "Zig",
+      "stars_period": "54",
+      "stars_total": "2014",
+      "url": "https://github.com/ashhart/TensorFold"
+    },
+    {
+      "repo": "nodejs/node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "lang": "JavaScript",
+      "stars_period": "62",
+      "stars_total": "123649",
+      "url": "https://github.com/nodejs/node"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_period": "816",
+      "stars_total": "116840",
+      "url": "https://github.com/addyosmani/agent-skills"
+    },
+    {
+      "repo": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_period": "1830",
+      "stars_total": "26867",
+      "url": "https://github.com/meta/astryx"
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "lang": "TypeScript",
+      "stars_period": "298",
+      "stars_total": "11830",
+      "url": "https://github.com/CopilotKit/OpenBot"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_period": "415",
+      "stars_total": "69525",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
+    },
+    {
+      "repo": "ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "lang": "C++",
+      "stars_period": "176",
+      "stars_total": "134707",
+      "url": "https://github.com/ggml-org/llama.cpp"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "tommy0103/blackhole",
+        "desc": "A blackhole for your Claude Code. ",
+        "lang": "Shell",
+        "stars_total": 106,
+        "created": "2026-11-08",
+        "topics": [
+          "agent",
+          "claude-code",
+          "colima",
+          "container-isolation",
+          "macos",
+          "sandbox",
+          "virtio-fs"
+        ],
+        "url": "https://github.com/tommy0103/blackhole"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "agentes-chat/agentes-chat",
+        "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGP",
+        "lang": "TypeScript",
+        "stars_total": 1241,
+        "created": "2026-11-09",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-automation",
+          "chat",
+          "claude",
+          "claude-code",
+          "codex",
+          "collaboration"
+        ],
+        "url": "https://github.com/agentes-chat/agentes-chat"
+      },
+      {
+        "repo": "Dodaios/ste80-humanizer",
+        "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+        "lang": "Python",
+        "stars_total": 466,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "asd-ste100",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "cursor",
+          "humanize-ai-text"
+        ],
+        "url": "https://github.com/Dodaios/ste80-humanizer"
+      },
+      {
+        "repo": "huawei-csl/MACaQ",
+        "desc": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+        "lang": "C++",
+        "stars_total": 218,
+        "created": "2026-11-10",
+        "topics": [
+          "ascend",
+          "audio",
+          "audio-generation",
+          "diffusers",
+          "gguf",
+          "gguf-quantization",
+          "image-generation",
+          "llama-cpp"
+        ],
+        "url": "https://github.com/huawei-csl/MACaQ"
+      },
+      {
+        "repo": "bookleme/bookleme",
+        "desc": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+        "lang": "Python",
+        "stars_total": 182,
+        "created": "2026-11-09",
+        "topics": [
+          "agent-skills",
+          "book-to-skill",
+          "document-processing",
+          "knowledge-management",
+          "llm",
+          "prompt-engineering"
+        ],
+        "url": "https://github.com/bookleme/bookleme"
+      },
+      {
+        "repo": "RapidSailorFreeze/studsmith",
+        "desc": "Free AI agent for Roblox Studio: plans, writes Luau, shows a diff and playtests its own changes. Windows app. 免费的 Roblox Studio AI 智能体。",
+        "lang": "",
+        "stars_total": 95,
+        "created": "2026-11-08",
+        "topics": [
+          "ai-agent",
+          "ai-assistant",
+          "game-development",
+          "gamedev",
+          "llm",
+          "luau",
+          "ollama",
+          "roblox"
+        ],
+        "url": "https://github.com/RapidSailorFreeze/studsmith"
+      },
+      {
+        "repo": "8hjkkwikl8/ai-portfolio",
+        "desc": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+        "lang": "Python",
+        "stars_total": 95,
+        "created": "2026-11-11",
+        "topics": [
+          "ai",
+          "fastapi",
+          "llm",
+          "nl2sql",
+          "portfolio",
+          "prompt-engineering",
+          "rag",
+          "sqlite"
+        ],
+        "url": "https://github.com/8hjkkwikl8/ai-portfolio"
+      },
+      {
+        "repo": "Veloresearch/kinetic",
+        "desc": "The open engine for running AI on your own computer. Fast, exact, open source.",
+        "lang": "Rust",
+        "stars_total": 86,
+        "created": "2026-11-10",
+        "topics": [
+          "cuda",
+          "gguf",
+          "inference",
+          "llama-cpp",
+          "llm",
+          "local-ai",
+          "rust",
+          "vulkan"
+        ],
+        "url": "https://github.com/Veloresearch/kinetic"
+      },
+      {
+        "repo": "mintlify/agent-traffic",
+        "desc": "Tell agents, AI crawlers, search crawlers and bots apart from people",
+        "lang": "TypeScript",
+        "stars_total": 72,
+        "created": "2026-11-10",
+        "topics": [
+          "ai-agents",
+          "analytics",
+          "bot-detection",
+          "bots",
+          "claude-code",
+          "crawlers",
+          "gptbot",
+          "llm"
+        ],
+        "url": "https://github.com/mintlify/agent-traffic"
+      },
+      {
+        "repo": "hitkeeen/blender-ai-mcp-addon",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "lang": "",
+        "stars_total": 72,
+        "created": "2026-11-12",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "url": "https://github.com/hitkeeen/blender-ai-mcp-addon"
+      },
+      {
+        "repo": "molly554/whiteboard-ai-tutor",
+        "desc": "Open-source AI tutor that teaches on a whiteboard. Benchmark of 6 LLMs (Claude, Gemini, DeepSeek): 288 lessons drawn stroke by stroke, blind-reviewed. 白板 AI 导师 / AI 老师讲课评测",
+        "lang": "HTML",
+        "stars_total": 70,
+        "created": "2026-11-11",
+        "topics": [
+          "ai-teacher",
+          "ai-tutor",
+          "ai-tutoring",
+          "ai-whiteboard",
+          "claude",
+          "deepseek",
+          "edtech",
+          "education"
+        ],
+        "url": "https://github.com/molly554/whiteboard-ai-tutor"
+      },
+      {
+        "repo": "kilolonion/agent-vscreen",
+        "desc": "A background virtual screen for any Android AI agent: it operates apps on an invisible display while you keep using your phone. CLI / MCP / HTTP, Shizuku, no root. 给任何手机 agent 用的后台副屏。",
+        "lang": "Kotlin",
+        "stars_total": 63,
+        "created": "2026-11-07",
+        "topics": [
+          "ai-agent",
+          "android",
+          "android-automation",
+          "kotlin",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "no-root"
+        ],
+        "url": "https://github.com/kilolonion/agent-vscreen"
+      },
+      {
+        "repo": "geniusjia666/agent-system-design-cn",
+        "desc": "单 Agent / 多 Agent 系统设计 Skill：7 步设计流程、交接契约、21 种模式与 21 维自检，产出可评审的架构方案。完整中文版。",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-10",
+        "topics": [
+          "agent-architecture",
+          "agent-orchestration",
+          "agent-skills",
+          "agentic-ai",
+          "ai-agents",
+          "chinese",
+          "design-patterns",
+          "human-in-the-loop"
+        ],
+        "url": "https://github.com/geniusjia666/agent-system-design-cn"
+      },
+      {
+        "repo": "Muanyan-mjq/zotero-interlinear",
+        "desc": "Immersive bilingual paragraph-by-paragraph reading for Zotero. Original on top, translation right below. Bring your own translation provider.",
+        "lang": "TypeScript",
+        "stars_total": 54,
+        "created": "2026-11-10",
+        "topics": [
+          "llm",
+          "ollama",
+          "pdf",
+          "translation",
+          "zotero",
+          "zotero-plugin"
+        ],
+        "url": "https://github.com/Muanyan-mjq/zotero-interlinear"
+      },
+      {
+        "repo": "jackson-cmd/risk-aware-trading-agents",
+        "desc": "AI trading agents for US stocks with news backtesting that can't see the future: a point-in-time 2026 dataset (prices, VIX, news), a look-ahead check on every run, LLM agents over MCP, FOMC/CPI/VIX-aware regimes, and paper/live trading on 10 brokers. 风险感知美股交易智能体 · 新闻回测",
+        "lang": "Python",
+        "stars_total": 53,
+        "created": "2026-11-12",
+        "topics": [
+          "ai-trading",
+          "algorithmic-trading",
+          "alpaca",
+          "backtesting",
+          "financial-news",
+          "interactive-brokers",
+          "llm",
+          "llm-agents"
+        ],
+        "url": "https://github.com/jackson-cmd/risk-aware-trading-agents"
+      },
+      {
+        "repo": "joydle/borg",
+        "desc": "Supervised agent runtime for Rust: compose LLM calls into pipelines that cancel, isolate panics, retry, budget and resume.",
+        "lang": "Rust",
+        "stars_total": 52,
+        "created": "2026-11-07",
+        "topics": [
+          "agent-runtime",
+          "ai-agents",
+          "llm",
+          "mcp",
+          "rust",
+          "supervisor",
+          "tokio",
+          "tracing"
+        ],
+        "url": "https://github.com/joydle/borg"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Anthropic carelessly killed a Claude Code feature users built on, no warning",
+        "points": 20,
+        "comments": 5,
+        "url": "https://github.com/anthropics/claude-code/issues/109446",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+        "points": 11,
+        "comments": 4,
+        "url": "https://github.com/cerulion-inc/cerulion",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "Show HN: Aq – an attention queue TUI for Claude Code",
+        "points": 19,
+        "comments": 2,
+        "url": "https://github.com/nodo-labs-uk/attention-queue",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "points": 903,
+        "comments": 496,
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+        "points": 37,
+        "comments": 16,
+        "url": "https://github.com/sshah03/recalc",
+        "date": "2026-11-08"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
