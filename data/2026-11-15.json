@@ -1,0 +1,441 @@
+{
+  "date": "2026-11-15",
+  "trending_daily": [
+    {
+      "repo": "backnotprop/plannotator",
+      "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "lang": "TypeScript",
+      "stars_period": "408",
+      "stars_total": "11342",
+      "url": "https://github.com/backnotprop/plannotator"
+    },
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "desc": "Keep your coding agent up to date with the latest web best practices",
+      "lang": "TypeScript",
+      "stars_period": "1231",
+      "stars_total": "6281",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "repo": "tradermonty/claude-trading-skills",
+      "desc": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "lang": "Python",
+      "stars_period": "553",
+      "stars_total": "4983",
+      "url": "https://github.com/tradermonty/claude-trading-skills"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_period": "664",
+      "stars_total": "56456",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "lang": "Go",
+      "stars_period": "893",
+      "stars_total": "51566",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "desc": "An open-source AI coding agent that lives in your terminal.",
+      "lang": "TypeScript",
+      "stars_period": "64",
+      "stars_total": "30416",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "repo": "dream-num/univer",
+      "desc": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "lang": "TypeScript",
+      "stars_period": "495",
+      "stars_total": "25083",
+      "url": "https://github.com/dream-num/univer"
+    },
+    {
+      "repo": "ag-ui-protocol/ag-ui",
+      "desc": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "lang": "TypeScript",
+      "stars_period": "9",
+      "stars_total": "17455",
+      "url": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+      "repo": "ashhart/TensorFold",
+      "desc": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "lang": "Zig",
+      "stars_period": "37",
+      "stars_total": "2200",
+      "url": "https://github.com/ashhart/TensorFold"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "lang": "Go",
+      "stars_period": "227",
+      "stars_total": "120173",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "repo": "louislam/uptime-kuma",
+      "desc": "A fancy self-hosted monitoring tool",
+      "lang": "JavaScript",
+      "stars_period": "430",
+      "stars_total": "94317",
+      "url": "https://github.com/louislam/uptime-kuma"
+    },
+    {
+      "repo": "we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "lang": "Ruby",
+      "stars_period": "659",
+      "stars_total": "15420",
+      "url": "https://github.com/we-promise/sure"
+    },
+    {
+      "repo": "Tencent/LoopForge",
+      "desc": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "lang": "Go",
+      "stars_period": "33",
+      "stars_total": "1006",
+      "url": "https://github.com/Tencent/LoopForge"
+    },
+    {
+      "repo": "Likely7/Veyra-NRVideo",
+      "desc": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "lang": "C++",
+      "stars_period": "420",
+      "stars_total": "2403",
+      "url": "https://github.com/Likely7/Veyra-NRVideo"
+    },
+    {
+      "repo": "martin-olivier/airgorah",
+      "desc": "A WiFi security auditing software",
+      "lang": "Rust",
+      "stars_period": "270",
+      "stars_total": "6013",
+      "url": "https://github.com/martin-olivier/airgorah"
+    }
+  ],
+  "new_repos": {
+    "agent": [],
+    "llm": [
+      {
+        "repo": "agentes-chat/agentes-chat",
+        "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGP",
+        "lang": "TypeScript",
+        "stars_total": 1417,
+        "created": "2026-11-09",
+        "topics": [
+          "agentic-ai",
+          "ai-agents",
+          "browser-automation",
+          "chat",
+          "claude",
+          "claude-code",
+          "codex",
+          "collaboration"
+        ],
+        "url": "https://github.com/agentes-chat/agentes-chat"
+      },
+      {
+        "repo": "Topkiflare74/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 678,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Topkiflare74/ai--manus2.0"
+      },
+      {
+        "repo": "topapothecarycanal/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 666,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/topapothecarycanal/ai--manus2.0"
+      },
+      {
+        "repo": "toppatronweave/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 665,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/toppatronweave/ai--manus2.0"
+      },
+      {
+        "repo": "topconstableinlet67/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 663,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/topconstableinlet67/ai--manus2.0"
+      },
+      {
+        "repo": "tornadonovicewhirl40/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 659,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/tornadonovicewhirl40/ai--manus2.0"
+      },
+      {
+        "repo": "TitanShieldRavine/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 659,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/TitanShieldRavine/ai--manus2.0"
+      },
+      {
+        "repo": "trackersnailgrip/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 654,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/trackersnailgrip/ai--manus2.0"
+      },
+      {
+        "repo": "Ultimateakiln/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 654,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Ultimateakiln/ai--manus2.0"
+      },
+      {
+        "repo": "Torusdrasocket/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 653,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Torusdrasocket/ai--manus2.0"
+      },
+      {
+        "repo": "TrapBladesmith/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 653,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/TrapBladesmith/ai--manus2.0"
+      },
+      {
+        "repo": "TremorRatTackle/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 652,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/TremorRatTackle/ai--manus2.0"
+      },
+      {
+        "repo": "violetkomodolimit/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 651,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/violetkomodolimit/ai--manus2.0"
+      },
+      {
+        "repo": "taboospecialistblade/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 651,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/taboospecialistblade/ai--manus2.0"
+      },
+      {
+        "repo": "Tonephorepair/ai--manus2.0",
+        "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+        "lang": "",
+        "stars_total": 650,
+        "created": "2026-11-14",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-sdk",
+          "anthropic",
+          "chatbot",
+          "function-calling",
+          "gemeni",
+          "generative-ai"
+        ],
+        "url": "https://github.com/Tonephorepair/ai--manus2.0"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+        "points": 152,
+        "comments": 37,
+        "url": "https://gitlab.com/snipedbywifi/terminactory",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+        "points": 98,
+        "comments": 91,
+        "url": "https://claude.com/resources/articles/projects-redesigned",
+        "date": "2026-11-14"
+      },
+      {
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "points": 493,
+        "comments": 390,
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Tell HN: Claude Code Is Down",
+        "points": 37,
+        "comments": 21,
+        "url": "https://news.ycombinator.com/item?id=50480909",
+        "date": "2026-11-13"
+      },
+      {
+        "title": "Anthropic carelessly killed a Claude Code feature users built on, no warning",
+        "points": 26,
+        "comments": 7,
+        "url": "https://github.com/anthropics/claude-code/issues/109446",
+        "date": "2026-11-13"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
