@@ -1,0 +1,482 @@
+{
+  "date": "2026-11-20",
+  "trending_daily": [
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "lang": "Python",
+      "stars_period": "1349",
+      "stars_total": "12981",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "2028",
+      "stars_total": "322308",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_period": "898",
+      "stars_total": "60791",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "lang": "Python",
+      "stars_period": "238",
+      "stars_total": "67207",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "384",
+      "stars_total": "17642",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "lang": "TypeScript",
+      "stars_period": "825",
+      "stars_total": "204536",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "repo": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "lang": "C",
+      "stars_period": "73",
+      "stars_total": "32412",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "lang": "C++",
+      "stars_period": "246",
+      "stars_total": "11623",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "271",
+      "stars_total": "68844",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "954",
+      "stars_total": "71006",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_period": "302",
+      "stars_total": "10817",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "repo": "mjmirza/app-store-compliance",
+      "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "lang": "Shell",
+      "stars_period": "377",
+      "stars_total": "2134",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "desc": "The open-source agent for CI/CD reliability.",
+      "lang": "Python",
+      "stars_period": "38",
+      "stars_total": "13258",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "lang": "TypeScript",
+      "stars_period": "182",
+      "stars_total": "75336",
+      "url": "https://github.com/toeverything/AFFiNE"
+    },
+    {
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "desc": "The only downloader you need. 下载器的集大成者。",
+      "lang": "Python",
+      "stars_period": "341",
+      "stars_total": "13086",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+      "lang": "Python",
+      "stars_period": "126",
+      "stars_total": "11597",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "yzsind/mydb",
+        "desc": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
+        "lang": "Rust",
+        "stars_total": 76,
+        "created": "2026-11-16",
+        "topics": [
+          "agent",
+          "data",
+          "database",
+          "mysql",
+          "rag",
+          "rust"
+        ],
+        "url": "https://github.com/yzsind/mydb"
+      },
+      {
+        "repo": "YanNyeinHtet/EggLab",
+        "desc": "Local AI image generation and editing for Windows - a design agent for PhotoCraft powered by Qwen-Image-2.1 (no ComfyUI, no Python, no cloud).",
+        "lang": "JavaScript",
+        "stars_total": 57,
+        "created": "2026-11-15",
+        "topics": [
+          "agent",
+          "ai",
+          "electron",
+          "image-generation",
+          "local-first",
+          "mit",
+          "photocraft",
+          "qwen"
+        ],
+        "url": "https://github.com/YanNyeinHtet/EggLab"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "sybil-solutions/inference-optimisation-skill",
+        "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "lang": "Python",
+        "stars_total": 1276,
+        "created": "2026-11-16",
+        "topics": [
+          "agent-skill",
+          "benchmarking",
+          "claude-code",
+          "inference",
+          "llm",
+          "speculative-decoding"
+        ],
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+      },
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "lang": "",
+        "stars_total": 896,
+        "created": "2026-11-19",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+      },
+      {
+        "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 474,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "weightcashiercupola/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 473,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "WinnerSpecialist/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "VortexHostFeel/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "Violetnyudress/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Go",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "WingDataVacuum/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "TypeTyrantScheme/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "WindGatorRise37/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "WireProvostPucker/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "WharfBoulderColander/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Makefile",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-"
+      },
+      {
+        "repo": "wisemeadowlarkspike/Gemini-Config-Checker-",
+        "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+        "lang": "Go",
+        "stars_total": 472,
+        "created": "2026-11-15",
+        "topics": [
+          "ai",
+          "ai-search",
+          "aichecker",
+          "chatgpt",
+          "cli",
+          "config-checker",
+          "gemeni",
+          "gemeni-checker"
+        ],
+        "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "points": 111,
+        "comments": 75,
+        "url": "https://github.com/onlook-dev/onlook/",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+        "points": 15,
+        "comments": 0,
+        "url": "https://github.com/rxolve/zpup",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+        "points": 34,
+        "comments": 9,
+        "url": "https://springcraft-ai.github.io/springrep/",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "points": 144,
+        "comments": 42,
+        "url": "https://news.ycombinator.com/item?id=50548660",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "How the Claude Code team thinks about verification",
+        "points": 296,
+        "comments": 233,
+        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "date": "2026-11-17"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
