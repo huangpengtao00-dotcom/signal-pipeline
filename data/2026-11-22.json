@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-22",
+  "trending_daily": [
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "lang": "Python",
+      "stars_period": "1803",
+      "stars_total": "16425",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "883",
+      "stars_total": "323872",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_period": "769",
+      "stars_total": "62233",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "lang": "Python",
+      "stars_period": "488",
+      "stars_total": "68272",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "260",
+      "stars_total": "18180",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "lang": "TypeScript",
+      "stars_period": "1006",
+      "stars_total": "206402",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "repo": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "lang": "C",
+      "stars_period": "189",
+      "stars_total": "32776",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "lang": "C++",
+      "stars_period": "200",
+      "stars_total": "11978",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "583",
+      "stars_total": "69918",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "560",
+      "stars_total": "72171",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_period": "326",
+      "stars_total": "11577",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "repo": "mjmirza/app-store-compliance",
+      "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "lang": "Shell",
+      "stars_period": "720",
+      "stars_total": "3539",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "desc": "The open-source agent for CI/CD reliability.",
+      "lang": "Python",
+      "stars_period": "450",
+      "stars_total": "14085",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "lang": "TypeScript",
+      "stars_period": "574",
+      "stars_total": "76422",
+      "url": "https://github.com/toeverything/AFFiNE"
+    },
+    {
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "desc": "The only downloader you need. 下载器的集大成者。",
+      "lang": "Python",
+      "stars_period": "779",
+      "stars_total": "14620",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+      "lang": "Python",
+      "stars_period": "683",
+      "stars_total": "13003",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "w01fb0ss/PiBot",
+        "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "lang": "TypeScript",
+        "stars_total": 237,
+        "created": "2026-11-21",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "chatgpt",
+          "coding-agent"
+        ],
+        "url": "https://github.com/w01fb0ss/PiBot"
+      },
+      {
+        "repo": "oujingzhou/agent-interview-questions",
+        "desc": "AI Agent Developer Interview Questions",
+        "lang": "",
+        "stars_total": 120,
+        "created": "2026-11-16",
+        "topics": [
+          "agent",
+          "agent-interview"
+        ],
+        "url": "https://github.com/oujingzhou/agent-interview-questions"
+      },
+      {
+        "repo": "yzsind/mydb",
+        "desc": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
+        "lang": "Rust",
+        "stars_total": 91,
+        "created": "2026-11-16",
+        "topics": [
+          "agent",
+          "data",
+          "database",
+          "mysql",
+          "rag",
+          "rust"
+        ],
+        "url": "https://github.com/yzsind/mydb"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "lang": "",
+        "stars_total": 2687,
+        "created": "2026-11-19",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+      },
+      {
+        "repo": "sybil-solutions/inference-optimisation-skill",
+        "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+        "lang": "Python",
+        "stars_total": 1764,
+        "created": "2026-11-16",
+        "topics": [
+          "agent-skill",
+          "benchmarking",
+          "claude-code",
+          "inference",
+          "llm",
+          "speculative-decoding"
+        ],
+        "url": "https://github.com/sybil-solutions/inference-optimisation-skill"
+      },
+      {
+        "repo": "w01fb0ss/PiBot",
+        "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "lang": "TypeScript",
+        "stars_total": 237,
+        "created": "2026-11-21",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "chatgpt",
+          "coding-agent"
+        ],
+        "url": "https://github.com/w01fb0ss/PiBot"
+      },
+      {
+        "repo": "sous-labs/songe",
+        "desc": "A training engine for your local model, using your idle compute",
+        "lang": "Python",
+        "stars_total": 191,
+        "created": "2026-11-20",
+        "topics": [
+          "coding-agents",
+          "distillation",
+          "fine-tuning",
+          "llm",
+          "local-llm",
+          "lora",
+          "mlx"
+        ],
+        "url": "https://github.com/sous-labs/songe"
+      },
+      {
+        "repo": "han938/open-webui-private-ai-desk",
+        "desc": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+        "lang": "TypeScript",
+        "stars_total": 151,
+        "created": "2026-11-20",
+        "topics": [
+          "chat-interface",
+          "chatbot",
+          "knowledge-base",
+          "llm",
+          "local-ai",
+          "ollama",
+          "open-webui",
+          "rag"
+        ],
+        "url": "https://github.com/han938/open-webui-private-ai-desk"
+      },
+      {
+        "repo": "wozniakalan323-bit/opencode-project-workbench",
+        "desc": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
+        "lang": "HTML",
+        "stars_total": 151,
+        "created": "2026-11-20",
+        "topics": [
+          "agentic-ai",
+          "automation",
+          "code-generation",
+          "code-review",
+          "coding-agent",
+          "command-line",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/wozniakalan323-bit/opencode-project-workbench"
+      },
+      {
+        "repo": "zavi2997-droid/claude-code-agent-workspace",
+        "desc": "Orchestrates composable Claude Code agent workflows across isolated workspace contexts.",
+        "lang": "HTML",
+        "stars_total": 150,
+        "created": "2026-11-20",
+        "topics": [
+          "agentic-ai",
+          "anthropic",
+          "claude-code",
+          "code-generation",
+          "code-review",
+          "coding-agent",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/zavi2997-droid/claude-code-agent-workspace"
+      },
+      {
+        "repo": "senickimoro-art/pinokio-olvara-ai-workspace",
+        "desc": "A modular desktop workspace for configuring and running local AI models.",
+        "lang": "Dockerfile",
+        "stars_total": 150,
+        "created": "2026-11-18",
+        "topics": [
+          "automation",
+          "chat",
+          "chatbot",
+          "chatbots",
+          "generative-ai",
+          "gguf",
+          "inference",
+          "language-models"
+        ],
+        "url": "https://github.com/senickimoro-art/pinokio-olvara-ai-workspace"
+      },
+      {
+        "repo": "kenzz-devv/open-webui-talora-ai-workspace",
+        "desc": "Streamlined workspace for organizing and running AI workflows in one place.",
+        "lang": "TypeScript",
+        "stars_total": 150,
+        "created": "2026-11-18",
+        "topics": [
+          "chat",
+          "chatbot",
+          "generative-ai",
+          "gguf",
+          "inference",
+          "large-language-models",
+          "llm",
+          "llm-inference"
+        ],
+        "url": "https://github.com/kenzz-devv/open-webui-talora-ai-workspace"
+      },
+      {
+        "repo": "chase1225/anythingllm-verona-document-chat",
+        "desc": "Document-grounded chat for Verona - AnythingLLM workspace integration.",
+        "lang": "Python",
+        "stars_total": 149,
+        "created": "2026-11-19",
+        "topics": [
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-agents",
+          "chat",
+          "chatbot",
+          "generative-ai",
+          "gguf",
+          "inference"
+        ],
+        "url": "https://github.com/chase1225/anythingllm-verona-document-chat"
+      },
+      {
+        "repo": "marketzy/codex-cli-repo-workbench",
+        "desc": "Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI repository",
+        "lang": "HTML",
+        "stars_total": 148,
+        "created": "2026-11-20",
+        "topics": [
+          "agentic-ai",
+          "automation",
+          "code-generation",
+          "code-review",
+          "codex",
+          "coding-agent",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/marketzy/codex-cli-repo-workbench"
+      },
+      {
+        "repo": "debugdigital677/descript-pro-win",
+        "desc": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+        "lang": "",
+        "stars_total": 145,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "descript",
+          "descript-desktop",
+          "descript-free"
+        ],
+        "url": "https://github.com/debugdigital677/descript-pro-win"
+      },
+      {
+        "repo": "Morriswawan05/elevenlabs-pro-win",
+        "desc": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
+        "lang": "",
+        "stars_total": 141,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "elevenlabs",
+          "elevenlabs-2025",
+          "elevenlabs-2026"
+        ],
+        "url": "https://github.com/Morriswawan05/elevenlabs-pro-win"
+      },
+      {
+        "repo": "Cloudcode04/runway-ml-pro-win",
+        "desc": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+        "lang": "",
+        "stars_total": 141,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "generative-ai",
+          "image-generation",
+          "llm"
+        ],
+        "url": "https://github.com/Cloudcode04/runway-ml-pro-win"
+      },
+      {
+        "repo": "JieFedorov81/runway-ml-pro-win",
+        "desc": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+        "lang": "",
+        "stars_total": 141,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "generative-ai",
+          "image-generation",
+          "llm"
+        ],
+        "url": "https://github.com/JieFedorov81/runway-ml-pro-win"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+        "points": 15,
+        "comments": 0,
+        "url": "https://github.com/natsu0529/agent-mcts",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "points": 125,
+        "comments": 85,
+        "url": "https://github.com/onlook-dev/onlook/",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+        "points": 16,
+        "comments": 0,
+        "url": "https://github.com/rxolve/zpup",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+        "points": 34,
+        "comments": 9,
+        "url": "https://springcraft-ai.github.io/springrep/",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "points": 156,
+        "comments": 44,
+        "url": "https://news.ycombinator.com/item?id=50548660",
+        "date": "2026-11-18"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
