@@ -1,0 +1,467 @@
+{
+  "date": "2026-11-23",
+  "trending_daily": [
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "lang": "Python",
+      "stars_period": "1716",
+      "stars_total": "18424",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "788",
+      "stars_total": "324421",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_period": "699",
+      "stars_total": "63030",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "lang": "Python",
+      "stars_period": "473",
+      "stars_total": "69018",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "294",
+      "stars_total": "18576",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "lang": "TypeScript",
+      "stars_period": "915",
+      "stars_total": "207291",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "repo": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "lang": "C",
+      "stars_period": "163",
+      "stars_total": "32937",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "lang": "C++",
+      "stars_period": "158",
+      "stars_total": "12158",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "518",
+      "stars_total": "70509",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "668",
+      "stars_total": "72982",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_period": "494",
+      "stars_total": "12046",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "repo": "mjmirza/app-store-compliance",
+      "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "lang": "Shell",
+      "stars_period": "621",
+      "stars_total": "4252",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "desc": "The open-source agent for CI/CD reliability.",
+      "lang": "Python",
+      "stars_period": "399",
+      "stars_total": "14539",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "lang": "TypeScript",
+      "stars_period": "542",
+      "stars_total": "77001",
+      "url": "https://github.com/toeverything/AFFiNE"
+    },
+    {
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "desc": "The only downloader you need. 下载器的集大成者。",
+      "lang": "Python",
+      "stars_period": "701",
+      "stars_total": "15616",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+      "lang": "Python",
+      "stars_period": "641",
+      "stars_total": "13820",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "w01fb0ss/PiBot",
+        "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "lang": "TypeScript",
+        "stars_total": 445,
+        "created": "2026-11-21",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "chatgpt",
+          "coding-agent"
+        ],
+        "url": "https://github.com/w01fb0ss/PiBot"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+        "lang": "",
+        "stars_total": 2758,
+        "created": "2026-11-19",
+        "topics": [
+          "ai-agents",
+          "ai-assistant",
+          "blender",
+          "blender-addon",
+          "blender-ai",
+          "blender-automation",
+          "blender-mcp",
+          "blender-plugin"
+        ],
+        "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+      },
+      {
+        "repo": "w01fb0ss/PiBot",
+        "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "lang": "TypeScript",
+        "stars_total": 445,
+        "created": "2026-11-21",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "chatgpt",
+          "coding-agent"
+        ],
+        "url": "https://github.com/w01fb0ss/PiBot"
+      },
+      {
+        "repo": "Juanlabs1989/descript-pro-win",
+        "desc": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+        "lang": "",
+        "stars_total": 427,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "descript",
+          "descript-ai",
+          "descript-free"
+        ],
+        "url": "https://github.com/Juanlabs1989/descript-pro-win"
+      },
+      {
+        "repo": "Morriswawan05/elevenlabs-pro-win",
+        "desc": "ElevenLabs - AI voice synthesis platform for text-to-speech generation, voice cloning and multilingual dubbing on Windows 10/11",
+        "lang": "",
+        "stars_total": 425,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "elevenlabs",
+          "elevenlabs-2025",
+          "elevenlabs-2026"
+        ],
+        "url": "https://github.com/Morriswawan05/elevenlabs-pro-win"
+      },
+      {
+        "repo": "GuzmanJacqueline93/copy-ai-pro-win",
+        "desc": "Copy Ai Pro - AI copywriting assistant for content generation, tone rewriting and SEO text optimization on Windows 10/11",
+        "lang": "",
+        "stars_total": 419,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "copy",
+          "copy-detection",
+          "copy-files"
+        ],
+        "url": "https://github.com/GuzmanJacqueline93/copy-ai-pro-win"
+      },
+      {
+        "repo": "debugdigital677/descript-pro-win",
+        "desc": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+        "lang": "",
+        "stars_total": 419,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "descript",
+          "descript-desktop",
+          "descript-free"
+        ],
+        "url": "https://github.com/debugdigital677/descript-pro-win"
+      },
+      {
+        "repo": "Cloudcode04/runway-ml-pro-win",
+        "desc": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+        "lang": "",
+        "stars_total": 418,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "generative-ai",
+          "image-generation",
+          "llm"
+        ],
+        "url": "https://github.com/Cloudcode04/runway-ml-pro-win"
+      },
+      {
+        "repo": "JieFedorov81/runway-ml-pro-win",
+        "desc": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
+        "lang": "",
+        "stars_total": 414,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "generative-ai",
+          "image-generation",
+          "llm"
+        ],
+        "url": "https://github.com/JieFedorov81/runway-ml-pro-win"
+      },
+      {
+        "repo": "isanders5152/descript-pro-win",
+        "desc": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+        "lang": "",
+        "stars_total": 405,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "descript",
+          "descript-ai",
+          "descript-free"
+        ],
+        "url": "https://github.com/isanders5152/descript-pro-win"
+      },
+      {
+        "repo": "suryacode04/jasper-ai-win",
+        "desc": "Jasper AI - AI content generation platform for marketing copy creation, brand voice customization and long-form article drafting on Windows 10/11",
+        "lang": "",
+        "stars_total": 402,
+        "created": "2026-11-21",
+        "topics": [
+          "ai",
+          "ai-art",
+          "ai-tools",
+          "ai-writing",
+          "artificial-intelligence",
+          "dynamicjasper",
+          "generative-ai",
+          "image-generation"
+        ],
+        "url": "https://github.com/suryacode04/jasper-ai-win"
+      },
+      {
+        "repo": "sous-labs/songe",
+        "desc": "A training engine for your local model, using your idle compute",
+        "lang": "Python",
+        "stars_total": 224,
+        "created": "2026-11-20",
+        "topics": [
+          "coding-agents",
+          "distillation",
+          "fine-tuning",
+          "llm",
+          "local-llm",
+          "lora",
+          "mlx"
+        ],
+        "url": "https://github.com/sous-labs/songe"
+      },
+      {
+        "repo": "wozniakalan323-bit/opencode-project-workbench",
+        "desc": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
+        "lang": "HTML",
+        "stars_total": 148,
+        "created": "2026-11-20",
+        "topics": [
+          "agentic-ai",
+          "automation",
+          "code-generation",
+          "code-review",
+          "coding-agent",
+          "command-line",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/wozniakalan323-bit/opencode-project-workbench"
+      },
+      {
+        "repo": "han938/open-webui-private-ai-desk",
+        "desc": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
+        "lang": "TypeScript",
+        "stars_total": 148,
+        "created": "2026-11-20",
+        "topics": [
+          "chat-interface",
+          "chatbot",
+          "knowledge-base",
+          "llm",
+          "local-ai",
+          "ollama",
+          "open-webui",
+          "rag"
+        ],
+        "url": "https://github.com/han938/open-webui-private-ai-desk"
+      },
+      {
+        "repo": "kenzz-devv/open-webui-talora-ai-workspace",
+        "desc": "Streamlined workspace for organizing and running AI workflows in one place.",
+        "lang": "TypeScript",
+        "stars_total": 147,
+        "created": "2026-11-18",
+        "topics": [
+          "chat",
+          "chatbot",
+          "generative-ai",
+          "gguf",
+          "inference",
+          "large-language-models",
+          "llm",
+          "llm-inference"
+        ],
+        "url": "https://github.com/kenzz-devv/open-webui-talora-ai-workspace"
+      },
+      {
+        "repo": "zavi2997-droid/claude-code-agent-workspace",
+        "desc": "Orchestrates composable Claude Code agent workflows across isolated workspace contexts.",
+        "lang": "HTML",
+        "stars_total": 147,
+        "created": "2026-11-20",
+        "topics": [
+          "agentic-ai",
+          "anthropic",
+          "claude-code",
+          "code-generation",
+          "code-review",
+          "coding-agent",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/zavi2997-droid/claude-code-agent-workspace"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+        "points": 16,
+        "comments": 2,
+        "url": "https://github.com/natsu0529/agent-mcts",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "points": 125,
+        "comments": 87,
+        "url": "https://github.com/onlook-dev/onlook/",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+        "points": 16,
+        "comments": 0,
+        "url": "https://github.com/rxolve/zpup",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+        "points": 34,
+        "comments": 9,
+        "url": "https://springcraft-ai.github.io/springrep/",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "points": 158,
+        "comments": 45,
+        "url": "https://news.ycombinator.com/item?id=50548660",
+        "date": "2026-11-18"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
