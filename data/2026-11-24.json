@@ -1,0 +1,465 @@
+{
+  "date": "2026-11-24",
+  "trending_daily": [
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "lang": "Python",
+      "stars_period": "2029",
+      "stars_total": "20442",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "840",
+      "stars_total": "325468",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_period": "790",
+      "stars_total": "64140",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "lang": "Python",
+      "stars_period": "828",
+      "stars_total": "69844",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "397",
+      "stars_total": "18957",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "lang": "TypeScript",
+      "stars_period": "924",
+      "stars_total": "208316",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "repo": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "lang": "C",
+      "stars_period": "174",
+      "stars_total": "33111",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "lang": "C++",
+      "stars_period": "184",
+      "stars_total": "12359",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "620",
+      "stars_total": "71341",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "797",
+      "stars_total": "73735",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_period": "422",
+      "stars_total": "12468",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "repo": "mjmirza/app-store-compliance",
+      "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "lang": "Shell",
+      "stars_period": "761",
+      "stars_total": "5315",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "desc": "The open-source agent for CI/CD reliability.",
+      "lang": "Python",
+      "stars_period": "436",
+      "stars_total": "14971",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "lang": "TypeScript",
+      "stars_period": "595",
+      "stars_total": "77623",
+      "url": "https://github.com/toeverything/AFFiNE"
+    },
+    {
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "desc": "The only downloader you need. 下载器的集大成者。",
+      "lang": "Python",
+      "stars_period": "1087",
+      "stars_total": "16836",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+      "lang": "Python",
+      "stars_period": "907",
+      "stars_total": "14922",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    }
+  ],
+  "new_repos": {
+    "agent": [
+      {
+        "repo": "w01fb0ss/PiBot",
+        "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "lang": "TypeScript",
+        "stars_total": 531,
+        "created": "2026-11-21",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "chatgpt",
+          "coding-agent"
+        ],
+        "url": "https://github.com/w01fb0ss/PiBot"
+      }
+    ],
+    "llm": [
+      {
+        "repo": "w01fb0ss/PiBot",
+        "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+        "lang": "TypeScript",
+        "stars_total": 531,
+        "created": "2026-11-21",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-agents",
+          "ai-assistant",
+          "android",
+          "automation",
+          "chatgpt",
+          "coding-agent"
+        ],
+        "url": "https://github.com/w01fb0ss/PiBot"
+      },
+      {
+        "repo": "sous-labs/songe",
+        "desc": "A training engine for your local model, using your idle compute",
+        "lang": "Python",
+        "stars_total": 356,
+        "created": "2026-11-20",
+        "topics": [
+          "coding-agents",
+          "distillation",
+          "fine-tuning",
+          "llm",
+          "local-llm",
+          "lora",
+          "mlx"
+        ],
+        "url": "https://github.com/sous-labs/songe"
+      },
+      {
+        "repo": "LIUFelix2004/dsh-workbuddy",
+        "desc": "Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.",
+        "lang": "JavaScript",
+        "stars_total": 156,
+        "created": "2026-11-20",
+        "topics": [
+          "codebuddy",
+          "deepseek-harness",
+          "dsh-plugin",
+          "llm",
+          "provider",
+          "workbuddy"
+        ],
+        "url": "https://github.com/LIUFelix2004/dsh-workbuddy"
+      },
+      {
+        "repo": "w1ccc/sap-data-mcp",
+        "desc": "Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.",
+        "lang": "Python",
+        "stars_total": 98,
+        "created": "2026-11-20",
+        "topics": [
+          "ai-agents",
+          "bapi",
+          "erp",
+          "llm",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "odata"
+        ],
+        "url": "https://github.com/w1ccc/sap-data-mcp"
+      },
+      {
+        "repo": "kenzz-devv/open-webui-talora-ai-workspace",
+        "desc": "Streamlined workspace for organizing and running AI workflows in one place.",
+        "lang": "TypeScript",
+        "stars_total": 68,
+        "created": "2026-11-18",
+        "topics": [
+          "chat",
+          "chatbot",
+          "generative-ai",
+          "gguf",
+          "inference",
+          "large-language-models",
+          "llm",
+          "llm-inference"
+        ],
+        "url": "https://github.com/kenzz-devv/open-webui-talora-ai-workspace"
+      },
+      {
+        "repo": "senickimoro-art/pinokio-olvara-ai-workspace",
+        "desc": "A modular desktop workspace for configuring and running local AI models.",
+        "lang": "Dockerfile",
+        "stars_total": 68,
+        "created": "2026-11-18",
+        "topics": [
+          "automation",
+          "chat",
+          "chatbot",
+          "chatbots",
+          "generative-ai",
+          "gguf",
+          "inference",
+          "language-models"
+        ],
+        "url": "https://github.com/senickimoro-art/pinokio-olvara-ai-workspace"
+      },
+      {
+        "repo": "Echoxiawan/Astra",
+        "desc": "Astra: open-source AI mobile UI automation testing. Write natural-language test cases, run them with AI on real Android/iOS devices via Appium, and generate standalone pytest + Appium scripts. 用自然语言写移动端测试用例，AI 在 Android / iOS 真机上执行，跑通后生成可独立运行的 pytest + Appium 脚本。",
+        "lang": "Python",
+        "stars_total": 68,
+        "created": "2026-11-18",
+        "topics": [
+          "ai-agent",
+          "ai-testing",
+          "android",
+          "appium",
+          "astra",
+          "astra-ai",
+          "astra-testing",
+          "fastapi"
+        ],
+        "url": "https://github.com/Echoxiawan/Astra"
+      },
+      {
+        "repo": "SodovaFo7/claude-code-unlimited",
+        "desc": "Rotate Claude Code sessions automatically. Never hit the limit again.",
+        "lang": "C++",
+        "stars_total": 68,
+        "created": "2026-11-23",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "anthropic",
+          "automation",
+          "claude",
+          "claude-cli",
+          "claude-code"
+        ],
+        "url": "https://github.com/SodovaFo7/claude-code-unlimited"
+      },
+      {
+        "repo": "TekihiXac52/unfiltered-ai-chat",
+        "desc": "Local unfiltered AI chat — your machine, your rules.",
+        "lang": "C++",
+        "stars_total": 66,
+        "created": "2026-11-23",
+        "topics": [
+          "automation",
+          "chat",
+          "cli",
+          "cpp",
+          "developer-tools",
+          "llm",
+          "local",
+          "open-source"
+        ],
+        "url": "https://github.com/TekihiXac52/unfiltered-ai-chat"
+      },
+      {
+        "repo": "Karimk899/free-llm-router",
+        "desc": "Route every request to a free provider.",
+        "lang": "C++",
+        "stars_total": 65,
+        "created": "2026-11-23",
+        "topics": [
+          "automation",
+          "cli",
+          "cpp",
+          "developer-tools",
+          "fallback",
+          "free",
+          "llm",
+          "open-source"
+        ],
+        "url": "https://github.com/Karimk899/free-llm-router"
+      },
+      {
+        "repo": "ThaoYou30020/llm-router-free",
+        "desc": "One API key, 15+ free providers, automatic fallback.",
+        "lang": "C++",
+        "stars_total": 62,
+        "created": "2026-11-23",
+        "topics": [
+          "automation",
+          "cli",
+          "cpp",
+          "developer-tools",
+          "fallback",
+          "free",
+          "llm",
+          "open-source"
+        ],
+        "url": "https://github.com/ThaoYou30020/llm-router-free"
+      },
+      {
+        "repo": "TegevoXi39/ccu-tool",
+        "desc": "Sessions rotate, you keep working.",
+        "lang": "C++",
+        "stars_total": 57,
+        "created": "2026-11-24",
+        "topics": [
+          "ai-tools",
+          "anthropic",
+          "automation",
+          "claude",
+          "claude-code",
+          "cli",
+          "cpp",
+          "developer-tools"
+        ],
+        "url": "https://github.com/TegevoXi39/ccu-tool"
+      },
+      {
+        "repo": "mbzuai-oryx/LoopedWSP",
+        "desc": "Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
+        "lang": "Python",
+        "stars_total": 54,
+        "created": "2026-11-23",
+        "topics": [
+          "algorithmic-reasoning",
+          "claude",
+          "interpretability",
+          "llm",
+          "looped-transformer",
+          "maze-hard",
+          "mechanistic-interpretability",
+          "no-training"
+        ],
+        "url": "https://github.com/mbzuai-oryx/LoopedWSP"
+      },
+      {
+        "repo": "CajasiZep76/local-ai-chat-uncensored",
+        "desc": "Private offline AI chat without filters.",
+        "lang": "C++",
+        "stars_total": 52,
+        "created": "2026-11-24",
+        "topics": [
+          "automation",
+          "chat",
+          "cli",
+          "cpp",
+          "developer-tools",
+          "llm",
+          "local",
+          "open-source"
+        ],
+        "url": "https://github.com/CajasiZep76/local-ai-chat-uncensored"
+      },
+      {
+        "repo": "francoisokada/llm-key-pool",
+        "desc": "One endpoint, every free LLM key you own.",
+        "lang": "C++",
+        "stars_total": 51,
+        "created": "2026-11-24",
+        "topics": [
+          "anthropic",
+          "api",
+          "automation",
+          "cli",
+          "cpp",
+          "developer-tools",
+          "free-tier",
+          "gemini"
+        ],
+        "url": "https://github.com/francoisokada/llm-key-pool"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+        "points": 16,
+        "comments": 2,
+        "url": "https://github.com/natsu0529/agent-mcts",
+        "date": "2026-11-21"
+      },
+      {
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "points": 125,
+        "comments": 87,
+        "url": "https://github.com/onlook-dev/onlook/",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+        "points": 17,
+        "comments": 0,
+        "url": "https://github.com/rxolve/zpup",
+        "date": "2026-11-19"
+      },
+      {
+        "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+        "points": 34,
+        "comments": 9,
+        "url": "https://springcraft-ai.github.io/springrep/",
+        "date": "2026-11-18"
+      },
+      {
+        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+        "points": 159,
+        "comments": 45,
+        "url": "https://news.ycombinator.com/item?id=50548660",
+        "date": "2026-11-18"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
