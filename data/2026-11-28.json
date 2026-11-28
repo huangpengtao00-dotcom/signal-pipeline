@@ -1,0 +1,448 @@
+{
+  "date": "2026-11-28",
+  "trending_daily": [
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "lang": "Python",
+      "stars_period": "1608",
+      "stars_total": "26466",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter"
+    },
+    {
+      "repo": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "lang": "Shell",
+      "stars_period": "922",
+      "stars_total": "328541",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_period": "666",
+      "stars_total": "67138",
+      "url": "https://github.com/HKUDS/CLI-Anything"
+    },
+    {
+      "repo": "jingyaogong/minimind",
+      "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "lang": "Python",
+      "stars_period": "660",
+      "stars_total": "72332",
+      "url": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "repo": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_period": "243",
+      "stars_total": "20063",
+      "url": "https://github.com/cursor/plugins"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "lang": "TypeScript",
+      "stars_period": "822",
+      "stars_total": "211860",
+      "url": "https://github.com/firecrawl/firecrawl"
+    },
+    {
+      "repo": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "lang": "C",
+      "stars_period": "146",
+      "stars_total": "33700",
+      "url": "https://github.com/nginx/nginx"
+    },
+    {
+      "repo": "openvinotoolkit/openvino",
+      "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "lang": "C++",
+      "stars_period": "151",
+      "stars_total": "12978",
+      "url": "https://github.com/openvinotoolkit/openvino"
+    },
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_period": "725",
+      "stars_total": "74592",
+      "url": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_period": "675",
+      "stars_total": "76491",
+      "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_period": "311",
+      "stars_total": "13669",
+      "url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    {
+      "repo": "mjmirza/app-store-compliance",
+      "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "lang": "Shell",
+      "stars_period": "530",
+      "stars_total": "8077",
+      "url": "https://github.com/mjmirza/app-store-compliance"
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "desc": "The open-source agent for CI/CD reliability.",
+      "lang": "Python",
+      "stars_period": "328",
+      "stars_total": "16206",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+      "repo": "toeverything/AFFiNE",
+      "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "lang": "TypeScript",
+      "stars_period": "474",
+      "stars_total": "79578",
+      "url": "https://github.com/toeverything/AFFiNE"
+    },
+    {
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "desc": "The only downloader you need. 下载器的集大成者。",
+      "lang": "Python",
+      "stars_period": "836",
+      "stars_total": "20079",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3"
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "desc": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping &amp; MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+      "lang": "Python",
+      "stars_period": "718",
+      "stars_total": "17742",
+      "url": "https://github.com/zhouxiaoka/autoclip"
+    }
+  ],
+  "new_repos": {
+    "agent": [],
+    "llm": [
+      {
+        "repo": "alesha-pro/llm.asm",
+        "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "lang": "Assembly",
+        "stars_total": 2383,
+        "created": "2026-11-25",
+        "topics": [
+          "assembly",
+          "avx2",
+          "bare-metal",
+          "llm",
+          "machine-learning",
+          "nasm",
+          "osdev",
+          "qwen"
+        ],
+        "url": "https://github.com/alesha-pro/llm.asm"
+      },
+      {
+        "repo": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+        "desc": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+        "lang": "Python",
+        "stars_total": 217,
+        "created": "2026-11-24",
+        "topics": [
+          "biosignals",
+          "electrophysiology",
+          "godot",
+          "language-models",
+          "llm",
+          "llm-agents",
+          "microelectrode-arrays",
+          "neural-signals"
+        ],
+        "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning"
+      },
+      {
+        "repo": "duzhenxun/pop-agent",
+        "desc": "PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage models and tools. Works with pi, Codex, Claude Code, OpenCode and DSH. Sessions stay the engine's own files — no database, no account.",
+        "lang": "TypeScript",
+        "stars_total": 153,
+        "created": "2026-11-23",
+        "topics": [
+          "agent-ui",
+          "agentweb",
+          "agentwebui",
+          "codex",
+          "coding-agent",
+          "llm",
+          "local-first",
+          "opencode"
+        ],
+        "url": "https://github.com/duzhenxun/pop-agent"
+      },
+      {
+        "repo": "thebodytheory01-commits/final-round-ai-desktop",
+        "desc": "Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
+        "lang": "HTML",
+        "stars_total": 143,
+        "created": "2026-11-26",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "ai-tools",
+          "claude-code",
+          "claude-skills",
+          "cluely",
+          "cluely-alternative"
+        ],
+        "url": "https://github.com/thebodytheory01-commits/final-round-ai-desktop"
+      },
+      {
+        "repo": "titisseptian-SS/omniroute-explorer",
+        "desc": "OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+        "lang": "HTML",
+        "stars_total": 143,
+        "created": "2026-11-26",
+        "topics": [
+          "ai-gateway",
+          "generative-ai",
+          "llm",
+          "omniroute",
+          "openai",
+          "python",
+          "streamlit"
+        ],
+        "url": "https://github.com/titisseptian-SS/omniroute-explorer"
+      },
+      {
+        "repo": "Ndarrr07/pro-llm-api-hub",
+        "desc": "Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+        "lang": "HTML",
+        "stars_total": 140,
+        "created": "2026-11-26",
+        "topics": [
+          "ai-api",
+          "api-list",
+          "awesome-list",
+          "dataset",
+          "free-api",
+          "free-apis",
+          "free-llm",
+          "free-llm-api"
+        ],
+        "url": "https://github.com/Ndarrr07/pro-llm-api-hub"
+      },
+      {
+        "repo": "mbzuai-oryx/LoopedWSP",
+        "desc": "Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
+        "lang": "Python",
+        "stars_total": 128,
+        "created": "2026-11-23",
+        "topics": [
+          "algorithmic-reasoning",
+          "claude",
+          "interpretability",
+          "llm",
+          "looped-transformer",
+          "maze-hard",
+          "mechanistic-interpretability",
+          "no-training"
+        ],
+        "url": "https://github.com/mbzuai-oryx/LoopedWSP"
+      },
+      {
+        "repo": "enwove/flyx",
+        "desc": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+        "lang": "C++",
+        "stars_total": 118,
+        "created": "2026-11-23",
+        "topics": [
+          "anthropic-api",
+          "cpp",
+          "cuda",
+          "gguf",
+          "inference",
+          "llm",
+          "local-llm",
+          "long-context"
+        ],
+        "url": "https://github.com/enwove/flyx"
+      },
+      {
+        "repo": "SodovaFo7/claude-code-unlimited",
+        "desc": "Rotate Claude Code sessions automatically. Never hit the limit again. | claude claude-code anthropic llm ai-tools cli | Portable x64 prebuilt for Windows",
+        "lang": "C++",
+        "stars_total": 68,
+        "created": "2026-11-23",
+        "topics": [
+          "ai-tools",
+          "anthropic",
+          "claude",
+          "claude-code",
+          "claude-code-unlimited",
+          "cli",
+          "developer-tools",
+          "llm"
+        ],
+        "url": "https://github.com/SodovaFo7/claude-code-unlimited"
+      },
+      {
+        "repo": "tDupuis19341/claude-session-rotator",
+        "desc": "Claude Code Unlimited — claude-code and llm in one tool.",
+        "lang": "C++",
+        "stars_total": 65,
+        "created": "2026-11-25",
+        "topics": [
+          "ai-tools",
+          "anthropic",
+          "automation",
+          "claude",
+          "claude-code",
+          "cli",
+          "cpp",
+          "developer-tools"
+        ],
+        "url": "https://github.com/tDupuis19341/claude-session-rotator"
+      },
+      {
+        "repo": "TekihiXac52/unfiltered-ai-chat",
+        "desc": "Local, private, unfiltered AI chat. Runs on your machine — nothing phones home. | llm local uncensored privacy chat | Portable x64 prebuilt for Windows",
+        "lang": "C++",
+        "stars_total": 65,
+        "created": "2026-11-23",
+        "topics": [
+          "chat",
+          "llm",
+          "local",
+          "open-source",
+          "portable",
+          "prebuilt",
+          "privacy",
+          "productivity"
+        ],
+        "url": "https://github.com/TekihiXac52/unfiltered-ai-chat"
+      },
+      {
+        "repo": "Karimk899/free-llm-router",
+        "desc": "One API key, 15+ free providers, automatic fallback. The free-tier router for LLMs. | llm router free fallback proxy openai-compatible | Portable x64 prebuilt for Windows",
+        "lang": "C++",
+        "stars_total": 64,
+        "created": "2026-11-23",
+        "topics": [
+          "fallback",
+          "free",
+          "free-llm-router",
+          "llm",
+          "llm-router-free",
+          "open-source",
+          "openai-compatible",
+          "portable"
+        ],
+        "url": "https://github.com/Karimk899/free-llm-router"
+      },
+      {
+        "repo": "ThaoYou30020/llm-router-free",
+        "desc": "One API key, 15+ free providers, automatic fallback. The free-tier router for LLMs. | llm router free fallback proxy openai-compatible | Portable x64 prebuilt for Windows",
+        "lang": "C++",
+        "stars_total": 61,
+        "created": "2026-11-23",
+        "topics": [
+          "fallback",
+          "free",
+          "llm",
+          "llm-router-free",
+          "open-source",
+          "openai-compatible",
+          "portable",
+          "prebuilt"
+        ],
+        "url": "https://github.com/ThaoYou30020/llm-router-free"
+      },
+      {
+        "repo": "sqwishai/ippon",
+        "desc": "Run decision models on your Mac, down to 51 ms text (14 ms cached), 39 ms audio, 179 ms image, 828 ms video on M5 Pro. No PyTorch or cloud API.",
+        "lang": "Python",
+        "stars_total": 60,
+        "created": "2026-11-24",
+        "topics": [
+          "ai-agents",
+          "apple-silicon",
+          "classification",
+          "decision-models",
+          "gguf",
+          "inference",
+          "llm",
+          "local-ai"
+        ],
+        "url": "https://github.com/sqwishai/ippon"
+      },
+      {
+        "repo": "YukiCatalano8591/llm-fallback-router",
+        "desc": "llm-router-free — router and fallback in one tool.",
+        "lang": "C++",
+        "stars_total": 58,
+        "created": "2026-11-25",
+        "topics": [
+          "automation",
+          "cli",
+          "cpp",
+          "developer-tools",
+          "fallback",
+          "free",
+          "llm",
+          "open-source"
+        ],
+        "url": "https://github.com/YukiCatalano8591/llm-fallback-router"
+      }
+    ]
+  },
+  "sample_mentions": {
+    "Claude Code": [
+      {
+        "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+        "points": 18,
+        "comments": 2,
+        "url": "https://github.com/batanus/lip-dictation",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Back up your Claude Code sessions and use them on any machine",
+        "points": 29,
+        "comments": 7,
+        "url": "https://session-vault.dev/",
+        "date": "2026-11-26"
+      },
+      {
+        "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+        "points": 38,
+        "comments": 28,
+        "url": "https://news.ycombinator.com/item?id=50633601",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+        "points": 21,
+        "comments": 29,
+        "url": "https://joonoo.art/create-comic",
+        "date": "2026-11-24"
+      },
+      {
+        "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+        "points": 14,
+        "comments": 1,
+        "url": "https://github.com/GenesisAgentInfra/genesis",
+        "date": "2026-11-24"
+      }
+    ],
+    "Copilot Studio": [],
+    "MCP protocol": []
+  }
+}
